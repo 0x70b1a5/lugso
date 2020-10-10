@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/assets/style.css">
   </head>
   <body>
     <nav>
-        <a href="{{relative_url}}">Home</a>
-        {% for page in site.pages %}
+        <a href="/">Home</a>
+        {% for page in site.pages | where_exp:"item", "item.title != 'lugso'" %}
             {% if page.title %}
                 <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
             {% endif %}
