@@ -9,4 +9,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 collections:
-  - syntax
+  syntax:
+    output: true
+    permalink: /:collection/:name
