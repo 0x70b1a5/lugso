@@ -4,16 +4,21 @@ permalink: /phonology/
 ---
 # Phonology 
 
-## Consonants
+## Phonemic Inventory
 
 "ipa (latin) [letter]" means that latin sound (p) becomes ipa sound ɸ. no (latin) means no change.
 
-|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|velar|uvular
+Consonants|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|velar|uvular
 |-|-|-|-|-|-|-|-
 fricatives|ɸβ (p,b/m)|fv|θð (t/th*,n)|ʃʒ (sh/ch,zh)|s (s) z (z, d)||xɣ (k,g)|χ (h)
 approximant||||j (y)|ɻ (r)|ɮ (l)|
 
-### Importing names from English
+Vowels|front|central|back
+|-|-|-
+high|i||u
+mid||ʌ (a,e,o)
+
+### Importing names from English - rules for special sounds
 
 As a general rule, the English sound, if it is a fricative, remains a fricative. If the English sound is a stop, it becomes a fricative at the same location. There are several exceptions to this, however.
 
@@ -24,6 +29,7 @@ d|z|z
 t|θ|t (would normally be 's')
 θ|θx|tk
 tʃ|θʃ|tS
+dʒ|zʒ|zZ
 l|ɮ|l
 r|ɻ|r
 k|x|k
@@ -54,17 +60,6 @@ u|u
 ʌ|o
 
 Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitalize your S's and Z's to avoid confusing them with s's and z's.
-
-## Vowels
-
-|front|central|back
-|-|-|-
-high|i||u
-mid||ʌ (a,e,o)
-
-## Rules for special sounds
-
-When translating from English, th `/θ/` becomes tk `/θx/`.
 
 ## Phonotactics
 

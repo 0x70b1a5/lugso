@@ -9,10 +9,12 @@ Lugso is a language for eldritch cultists. Its full name is incapable of being w
 
 A [pidgin](https://en.wikipedia.org/wiki/Pidgin) is a language that evolves among two populations of people that cannot otherwise communicate with each other. Lugso is a pidgin that emerged among cultists who attempted to communicate with the Elder Gods. It is NOT a language-between-languages, however. Lugso is a language-between-worlds, because the Elder Gods not only do not speak in human tongues, but they do not _think_ in human concepts. Lugso represents not only eldritch _speech_, but eldritch _thought_ - or, as near as humans can manage, without giving themselves an internal hemorrhage.
 
-<ul>
+<ol>
   {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
+    {% if page.title %}
+      <li>
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
   {% endfor %}
-</ul>
+</ol>
