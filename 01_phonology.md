@@ -19,7 +19,7 @@ When translating from English, th `/θ/` becomes tk `/θx/`.
 ## Phonotactics
 No phonotactic changes. Pronounce exactly as written, even if impossible.
 
-Duplicated phonemes (e.g. pobb `/ɸʌββ/` "mortal") are each individually stressed, for comprehension. `/'ɸʌβ'β/`
+Duplicated phonemes (e.g. the "b"s in pobb `/ɸʌββ/` "mortal") are each individually stressed, for comprehension. `/'ɸʌβ'β/`
 
 ## Morphology
 `(c)(c)v(c)(c)`. No exceptions.
