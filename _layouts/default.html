@@ -7,10 +7,11 @@
   </head>
   <body>
     <nav>
+      <a href="{{ relative_url }}">Main</a>
       {% for page in site.pages %}
-          {% if page.title %}
-              <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-          {% endif %}
+        {% if page.title and page.hide != true %}
+          <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
     <h1>{{ page.title }}</h1>
@@ -18,7 +19,7 @@
       {{ content }}
     </section>
     <footer>
-      &copy; to me
+
     </footer>
   </body>
 </html>
