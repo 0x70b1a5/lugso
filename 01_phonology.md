@@ -1,3 +1,7 @@
+---
+title: Phonology
+permalink: /phonology/
+---
 # Phonology 
 "ipa (latin) [letter]" means that latin sound (p) becomes ipa sound ɸ and is written as [letter]. no (latin) means no change, no [letter] means it's written with the latin letter.
 
@@ -19,7 +23,7 @@ When translating from English, th `/θ/` becomes tk `/θx/`.
 ## Phonotactics
 No phonotactic changes. Pronounce exactly as written, even if impossible.
 
-Duplicated phonemes (e.g. the "b"s in pobb `/ɸʌββ/` "mortal") are each individually stressed, for comprehension. `/'ɸʌβ'β/`
+Duplicated phonemes (e.g. the second "b" in pobb `/ɸʌββ/` "mortal") are stressed, for comprehension. `/'ɸʌβ'β/`
 
 ## Morphology
 `(c)(c)v(c)(c)`. No exceptions.
