@@ -12,3 +12,11 @@ collections:
   syntax:
     output: true
     permalink: /:collection/:name
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

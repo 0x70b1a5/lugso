@@ -1,5 +1,5 @@
 ---
-title: lugso
+title: Home - lugso
 ---
 
 _... of the blood of the gods of the thoughts of the blood of the gods of the..._
