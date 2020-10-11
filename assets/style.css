@@ -10,13 +10,13 @@ nav {
 nav a {
     text-decoration: none;
     font-weight: bold;
-    padding: 2px 1em;
 }
 
 nav a:visited {
     color:blue;
 }
 
-nav a.current {
+nav li.active {
     background: lightblue;
+    padding: 2px 1em;
 }
