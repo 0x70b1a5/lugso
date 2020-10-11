@@ -1,0 +1,59 @@
+---
+---
+
+$prim: #ADFF2F;
+$seco: #556F44;
+$blak: #001524;
+$purp: #74526C;
+$turq: #70C1B3;
+
+html {
+    width: 900px;
+    margin: auto;
+
+
+    nav {
+        padding: 2em;
+        display: flex;
+        flex-flow: row wrap;
+
+        a {
+            color: $turq;
+            text-decoration: none;
+
+            &:visited {
+                color: $purp;
+            }
+        }
+
+        li {
+            padding: 2px 1em;
+            list-style-type: none;
+
+            &.active {
+                background: $prim;
+
+                a {
+                    color: $seco;
+                }
+            }
+
+            &:not(.active) {
+
+                &:hover{
+                    background: $turq;
+
+                    a {
+                        color: $blak;
+                    }
+                }
+            }
+        }
+    }
+
+    
+    img {   
+        width: 75%;
+        margin: auto;
+    }
+}
