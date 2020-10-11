@@ -1,4 +1,4 @@
 ---
-title: Compound Nounds
+title: Compound Nouns
 permalink: /compound-nouns/
 ---
