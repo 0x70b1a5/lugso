@@ -10,7 +10,7 @@ $turq: #70C1B3;
 html {
     width: 900px;
     margin: auto;
-
+    color: $blak;
 
     nav {
         padding: 2em;
@@ -22,7 +22,7 @@ html {
             text-decoration: none;
 
             &:visited {
-                color: $purp;
+                color: $turq;
             }
         }
 
@@ -35,6 +35,7 @@ html {
 
                 a {
                     color: $seco;
+                    font-weight: bold;
                 }
             }
 
@@ -51,6 +52,9 @@ html {
         }
     }
 
+    a {
+        color: $seco;
+    }
     
     img {   
         width: 75%;
