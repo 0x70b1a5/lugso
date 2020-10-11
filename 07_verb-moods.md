@@ -1,4 +1,4 @@
 ---
-title: Syntax - Verb Moods
+title: Verb Moods
 permalink: /verb-moods/
 ---

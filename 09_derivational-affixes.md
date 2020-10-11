@@ -1,4 +1,4 @@
 ---
-title: Syntax - Derivational Affixes
+title: Derivational Affixes
 permalink: /derivational-affixes/
 ---

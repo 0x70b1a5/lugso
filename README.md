@@ -14,7 +14,3 @@ Lugso is a language for eldritch cultists. Its full name is incapable of being w
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 
 ## Lessons
-
-{% for page in site.pages %}{% if page.title and page.hide != true %}
-1. [{{ page.title }}]({{ page.url | relative_url }})
-{% endif %}{% endfor %}

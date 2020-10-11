@@ -1,4 +1,4 @@
 ---
-title: Syntax - Copula
+title: Copula
 permalink: /copula/
 ---

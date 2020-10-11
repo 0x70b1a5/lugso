@@ -1,4 +1,4 @@
 ---
-title: Syntax - Word Order
+title: Word Order
 permalink: /word-order/
 ---

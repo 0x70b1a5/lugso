@@ -1,4 +1,4 @@
 ---
-title: Syntax - Noun Cases
+title: Noun Cases
 permalink: /noun-cases/
 ---
