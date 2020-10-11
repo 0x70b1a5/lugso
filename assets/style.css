@@ -16,7 +16,10 @@ nav a:visited {
     color:blue;
 }
 
+nav li {
+    padding: 2px 1em;
+}
+
 nav li.active {
     background: lightblue;
-    padding: 2px 1em;
 }
