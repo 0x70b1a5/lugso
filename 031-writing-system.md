@@ -7,13 +7,21 @@ permalink: /writing-system/
 Covered in [Phonology]({{ '/phonology/' | relative_url }}), but here is another example:
 
 **gi pobblzot kbitkplzot lukgu!**
+
 ɣi ɸʌβ'βɮzʌθ xβiθxɸɮzʌθ ɮuxɣu!
+
 `IMP mortal-NMLZ.DER.act consummate-NMLZ.DER 2SG-POSS`
+
 _Mortality be your doom!_
 
+---
+
 **sog yoyyibvsug pobb vo zuntkrig rvotn Sifso sinSsurlzit vo.**
+
 sʌɣ jʌj'jiβvsuɣ ɸʌβ'β vʌ zuðθxɻiɣ ɻvʌθð ʃifsʌ siðʃsuɻɮziθ vʌ.
+
 `depart human.organization-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX`
+
 _We depart from our mortal families in order to cleave to an undying lineage._
 
 ## Tentacular Abjad

@@ -10,7 +10,7 @@ nav {
 nav a {
     text-decoration: none;
     font-weight: bold;
-    padding: 1em 2px;
+    padding: 2px 1em;
 }
 
 nav a:visited {
