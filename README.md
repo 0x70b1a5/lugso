@@ -15,8 +15,6 @@ _That is not dead which can eternal lie, and with strange aeons even death may d
 
 ## Lessons
 
-{% for page in site.pages %}
-    {% if page.title and page.hide != true %}
-        1. [{{ page.title }}]({{ page.url | relative_url }})
-    {% endif %}
-{% endfor %}
+{% for page in site.pages %}{% if page.title and page.hide != true %}
+1. [{{ page.title }}]({{ page.url | relative_url }})
+{% endif %}{% endfor %}
