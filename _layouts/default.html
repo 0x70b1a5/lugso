@@ -6,30 +6,27 @@
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
   </head>
   <body>
-    <nav>
-      <li>
-        <a href="/lugso/README.html">Main</a>
-      </li>
-      {% for node in site.pages %}
-        {% if node.hide != true %}
-            {% if page.url == node.url %}
-              <li class="active"><a href="{{ node.url | relative_url }}" class="active">{{node.title}}</a></li>
-            {% else %}
-              <li><a href="{{ node.url | relative_url }}">{{node.title}}</a></li>
+    <header>
+      <nav>
+        <li>
+          <a href="/lugso/README.html">Main</a>
+        </li>
+        {% for node in site.pages %}
+          {% if node.hide != true %}
+              {% if page.url == node.url %}
+                <li class="active"><a href="{{ node.url | relative_url }}" class="active">{{node.title}}</a></li>
+              {% else %}
+                <li><a href="{{ node.url | relative_url }}">{{node.title}}</a></li>
+              {% endif %}
             {% endif %}
-          {% endif %}
-      {% endfor %}
-    </nav>
-    <h1>{{ page.title }}</h1>
+        {% endfor %}
+      </nav>
+      <h1>{{ page.title }}</h1>
+    </header>
     <section>
       {{ content }}
     </section>
     <footer>
-      <ol>{% for page in site.pages %}{% if page.title %}
-      <li>
-        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-      </li>
-      {% endif %}{% endfor %}</ol>
     </footer>
   </body>
 </html>

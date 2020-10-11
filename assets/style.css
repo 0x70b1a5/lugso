@@ -1,5 +1,5 @@
 html {
-    max-width: 800px;
+    width: 900px;
     margin: auto;
 }
 
@@ -25,4 +25,9 @@ nav li {
 
 nav li.active {
     background: lightblue;
+}
+
+img {
+    width: 75%;
+    margin: auto;
 }
