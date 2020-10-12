@@ -5,6 +5,7 @@ permalink: /syntax/
 ## Bite-Size Vocab
 
 English|Part of Speech|IPA|Lugso|Comments
+|-|-|-|-
 ACC|N suffix|iɻ|ir|accusative case
 consume|VB|χuf|huf|also "eat"
 i, me|1SG|xuɻ|kur|1sg: "1st person singular" pronoun

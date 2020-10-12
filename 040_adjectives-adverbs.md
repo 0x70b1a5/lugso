@@ -6,6 +6,7 @@ permalink: /adjectives-adverbs/
 ## Lesson Vocab
 
 English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 aeon, age, epoch|N|iθɣ|itg
 beautiful, weird, strange|ADJ|ʌɮðɻiʃ|olnriS|sounds like "eldritch"
 black|ADJ|ʒxiɣ|Zkig
