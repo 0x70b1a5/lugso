@@ -26,7 +26,7 @@ html {
             }
             
             &.active {
-                background: $prim;
+                background: $primtrans;
 
                 a {
                     color: $seco;
@@ -83,7 +83,7 @@ html {
         } 
 
         td, th {
-            padding: 1em;
+            padding: 8px;
         }
     }
 

@@ -6,6 +6,7 @@ permalink: /dictionary/
 Abbreviations (e.g. ADV, NEG) taken from [linguistic glossing abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations).
 
 English|Part of Speech|IPA|Lugso|Comments
+|-|-|-|-
 abide, remain, lie still|VB|ɻxi|rki
 ABL|N suffix|vsuɣ|vsug|ablative case
 ACC|N suffix|iɻ|ir|accusative case
