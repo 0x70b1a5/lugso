@@ -35,31 +35,6 @@ k|x|k
 g|ɣ|g
 h|χ|h
 
-### Writing lugso with the Latin alphabet
-
-ipa|latin
-ɸ|p
-β|b
-f|f
-v|v
-θ|t
-ð|n
-ʃ|S
-ʒ|Z
-s|s
-z|z
-x|k
-ɣ|g
-ɮ|l
-χ|h
-ɻ|r
-j|y
-i|i
-u|u
-ʌ|o
-
-Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitalize your S's and Z's to avoid confusing them with s's and z's.
-
 ## Phonotactics
 
 No phonotactic changes. Pronounce exactly as written, even if impossible.
@@ -68,4 +43,4 @@ Duplicated phonemes (e.g. the second "b" in pobb `/ɸʌββ/` "mortal") are stre
 
 ## Morphology
 
-`(c)(c)v(c)(c)`: Each syllable has a vowel, up to 2 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 4 consonants.
+`(c)(c)v(c)(c)`: Each syllable has a vowel, up to 2 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 4 consonants. Good luck!

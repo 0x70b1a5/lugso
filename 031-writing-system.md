@@ -4,25 +4,29 @@ permalink: /writing-system/
 ---
 ## Latin alphabet writing system
 
-Covered in [Phonology]({{ '/phonology/' | relative_url }}), but here is another example:
+ipa|latin
+|-
+ɸ|p
+β|b
+f|f
+v|v
+θ|t
+ð|n
+ʃ|S
+ʒ|Z
+s|s
+z|z
+x|k
+ɣ|g
+ɮ|l
+χ|h
+ɻ|r
+j|y
+i|i
+u|u
+ʌ|o
 
-**gi pobblzot kbitkplzot lukgu!**
-
-ɣi ɸʌβ'βɮzʌθ xβiθxɸɮzʌθ ɮuxɣu!
-
-`IMP mortal-NMLZ.DER.act consummate-NMLZ.DER 2SG-POSS`
-
-_Mortality be your doom!_
-
----
-
-**sog yoyyibvsug pobb vo zuntkrig rvotn Sifso sinSsurlzit vo.**
-
-sʌɣ jʌj'jiβvsuɣ ɸʌβ'β vʌ zuðθxɻiɣ ɻvʌθð ʃifsʌ siðʃsuɻɮziθ vʌ.
-
-`depart human.organization-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX`
-
-_We depart from our mortal families in order to cleave to an undying lineage._
+Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitalize your S's and Z's to avoid confusing them with s's and z's.
 
 ## Tentacular Abjad
 
@@ -35,6 +39,7 @@ Inverse of normal abjad - vowels are main body of writing; consonants are diacri
     XY: a tentacle composed of an X followed by a Y.
 
 ipa|latin|tentaculary
+|-|-
 ɸ|p|1
 β|b|1'
 f|f|11
