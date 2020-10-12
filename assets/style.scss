@@ -2,7 +2,7 @@
 ---
 
 $prim: #ADFF2F;
-$primtrans: #ADFF2F55;
+$primtrans: #e4ffba;
 $seco: #556F44;
 $blak: #001524;
 $purp: #74526C;
@@ -26,10 +26,10 @@ html {
             }
             
             &.active {
-                background: $seco;
+                background: $prim;
 
                 a {
-                    color: white;
+                    color: $blak;
                     font-weight: bold;
                 }
             }

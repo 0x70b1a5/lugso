@@ -32,8 +32,6 @@ Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitaliz
 
 Inverse of normal abjad - vowels are main body of writing; consonants are diacritics.
 
-![Tentacular Abjad](/assets/writingsystem.png)
-
 ### Vowels
 
 Vowels form the main body of each word. Words are represented by one connected group of tentacles.
@@ -48,7 +46,7 @@ i|i|up-leg
 u|u|down-leg
 ʌ|o|no-leg (flat)
 
-![vowels](/assets/uio.png)
+![vowels](/lugso/assets/uio.png)
 
 ### Consonants
 
@@ -56,7 +54,7 @@ Consonants are tentacles that branch off of their root vowels.
 
 A consonant on the left (u/i) or top (o) of its vowel comes prior to the vowel (the _onset_ of the syllable). A consonant on the right (u/i) or bottom (o) of its vowel comes after the vowel (the _coda_ of the syllable).
 
-![consonants](/assets/buf%20siy%20rog.png)
+![consonants on vowels](/lugso/assets/buf%20siy%20rog.png)
 
     1: a plain tentacle branching off the vowel.
     2: a tentacle that splits into two tentacles.
@@ -83,13 +81,15 @@ x|k|22
 ɻ|r|1L
 j|y|2L
 
+![consonants table](/lugso/assets/consonants-table.png)
+
 ### Examples
 
 The syllables have been hyphenated to assist you in seeing the breakdown.
 
 **lug-so guS-li-ib-so sot-so:**
 
-![lugso guSliibso sotso](/assets/lugso%20guSliibso%20sotso.png)
+![lugso guSliibso sotso](/lugso/assets/lugso%20guSliibso%20sotso.png)
 
 As you can see, loops in vowels can be ornamental, but loops in consonants are not.
 
@@ -97,7 +97,7 @@ As you can see, loops in vowels can be ornamental, but loops in consonants are n
 
 Where there are multiple consonants in the onset or the coda of a syllable, they are evaluated left-right, top-bottom.
 
-![tbufl hsiyk zrogs](/assets/tbufl%20hsiyk%20zrogs.png)
+![tbufl hsiyk zrogs](/lugso/assets/tbufl%20hsiyk%20zrogs.png)
 
 This example is nonsense (for now), and a bit cramped, but you can see how on u or i, the top consonant precedes the bottom, and on the o, the left precedes the right.
 
@@ -107,6 +107,6 @@ Sometimes lone "o" appears in words, example the name "huoxin" hu+o+xin.
 
 To disambiguate the bare "o", use two loops in the vowel line. below: huoxin vs. huxin.
 
-![Loops](/assets/loops.png)
+![Loops](/lugso/assets/loops.png)
 
 The small, straight lines here are a shorthand for drafting.
