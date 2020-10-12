@@ -12,7 +12,7 @@
           <a href="/lugso/README.html">Main</a>
         </li>
         {% for node in site.pages %}
-          {% if node.hide != true %}
+          {% if node.hide != true and node.title != nil %}
               {% if page.url == node.url %}
                 <li class="active"><a href="{{ node.url | relative_url }}" class="active">{{node.title}}</a></li>
               {% else %}

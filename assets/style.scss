@@ -26,22 +26,18 @@ html {
             }
             
             &.active {
-                background: $primtrans;
+                background: $seco;
 
                 a {
-                    color: $seco;
+                    color: white;
                     font-weight: bold;
-
-                    &:hover {
-                        color: $turq;
-                    }
                 }
             }
 
             &:not(.active) {
 
                 &:hover{
-                    background: $turq;
+                    background: $primtrans;
 
                     a {
                         color: $blak;
@@ -60,8 +56,12 @@ html {
         }
     }
     
-    b {
+    strong {
         color: $purp;
+    }
+
+    em {
+        color: $seco;
     }
 
     img {   
