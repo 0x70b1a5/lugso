@@ -2,3 +2,61 @@
 title: Syntax
 permalink: /syntax/
 ---
+## Bite-Size Vocab
+
+English|Part of Speech|IPA|Lugso|Comments
+ACC|N suffix|iɻ|ir|accusative case
+consume|VB|χuf|huf|also "eat"
+i, me|1SG|xuɻ|kur|1sg: "1st person singular" pronoun
+you|2SG|ɮux|luk|2sg: "2nd person singular" pronoun
+beast|N|θɮu|tlu
+travel through gas (glide/fly)|VB|sʌʒʃ|soZS
+travel through liquid (swim)|VB|vux|vuk
+
+## Word Order (Part I)
+
+In English, we say, "I fly". In Lugso, the cultist says, "fly I". Verb comes before subject.
+
+**soZS kur.**
+
+`fly 1SG`
+
+_I fly._
+
+---
+
+**vuk tlu.**
+
+`swim beast`
+
+_The/A beast swims._
+
+## Word Order (Part II)
+
+In English, we say, for example, but hopefully not too often, "You consume me." We know based on the fact that "You" comes before "consume" that it is you who are doing the consuming, and from the fact "me" comes after "consume" that it is I who am being consumed. In linguistic terms, you are the subject, consume is the verb, and I am the object. Order: S-V-O.
+
+Lugso has word order V-O-S: a cultist says, "consume me you".
+
+### Verb-Object-Subject
+
+But how does he know what's the subject and what's the object? In English, we change "I" to "me", or "he" to "him" when the speaker is an object - _I_ hit **him**, but _he_ hits **me** - in Lugso, the cultist appends **-ir**, which performs the same transformation of any given noun. This is known as the _accusative case_.
+
+### Accusative case
+
+A noun obtains the accusative case if the verb is _being done to_ it.
+
+**huf kurir luk.**
+
+`consume 1SG-ACC 2SG`
+
+_You consume me._
+
+---
+
+A noun also obtains accusative if it is the _destination of a movement._
+
+**soZS lukir tlu.**
+
+`fly 2SG-ACC beast`
+
+_The/A beast glides to you._

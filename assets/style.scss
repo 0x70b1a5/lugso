@@ -2,6 +2,7 @@
 ---
 
 $prim: #ADFF2F;
+$primtrans: #ADFF2F55;
 $seco: #556F44;
 $blak: #001524;
 $purp: #74526C;
@@ -9,7 +10,7 @@ $turq: #70C1B3;
 
 html {
     width: 900px;
-    margin: auto;
+    margin-left: 20vw;
     color: $blak;
 
     nav {
@@ -17,25 +18,23 @@ html {
         display: flex;
         flex-flow: row wrap;
 
-        a {
-            color: $turq;
-            text-decoration: none;
-
-            &:visited {
-                color: $turq;
-            }
-        }
-
         li {
-            padding: 2px 1em;
             list-style-type: none;
 
+            a {
+                padding: 0 1em;
+            }
+            
             &.active {
                 background: $prim;
 
                 a {
                     color: $seco;
                     font-weight: bold;
+
+                    &:hover {
+                        color: $turq;
+                    }
                 }
             }
 
@@ -53,11 +52,44 @@ html {
     }
 
     a {
-        color: $seco;
+        color: $turq;
+        text-decoration: none;
+
+        &:visited {
+            color: $turq;
+        }
     }
     
+    b {
+        color: $purp;
+    }
+
     img {   
         width: 75%;
         margin: auto;
+    }
+
+    table {
+        margin: 1em;
+        border-collapse: collapse;
+
+        tr:nth-child(even) {
+            background-color: $primtrans;
+        } 
+        
+        th {
+            background-color: $seco;
+            color: white;
+        } 
+
+        td, th {
+            padding: 1em;
+        }
+    }
+
+    code {
+        background: $primtrans;
+        padding: 2px;
+        border-radius: 5px;
     }
 }

@@ -1,4 +1,0 @@
----
-title: Vocab
-permalink: /vocab/
----
