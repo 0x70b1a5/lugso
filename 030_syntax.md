@@ -61,3 +61,7 @@ A noun also obtains accusative if it is the _destination of a movement._
 `fly 2SG-ACC beast`
 
 _The/A beast glides to you._
+
+---
+
+We will cover more **noun cases** in a future lesson.
