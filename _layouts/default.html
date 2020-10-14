@@ -15,7 +15,7 @@
               {% if page.url == node.url or page.title == 'Home' and node.title == 'Home' %}
                 <li class="active"><a href="{{ node.url | relative_url }}" class="active">{{node.title}} {{node.order}}</a></li>
               {% else %}
-                <li><a href="{{ node.url | relative_url }}">{{node.title}}</a></li>
+                <li><a href="{{ node.url | relative_url }}">{{node.title}} {{node.order}}</a></li>
               {% endif %}
             {% endif %}
         {% endfor %}
