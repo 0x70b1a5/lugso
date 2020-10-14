@@ -16,7 +16,8 @@ _That is not dead which can eternal lie, and with strange aeons even death may d
 
 ## Lessons
 
-<ol>{% for page in site.pages %}{% if page.title and page.hide != true %}
+{% assign rages = site.pages | sort: 'order' %}
+<ol>{% for page in rages %}{% if page.title and page.hide != true and page.title != 'Home' %}
 <li>
 <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
 </li>
