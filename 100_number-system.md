@@ -1,5 +1,5 @@
 ---
 title: Number System
 permalink: /number-system/
-order: 2
+order: 3
 ---

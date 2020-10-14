@@ -1,5 +1,5 @@
 ---
 title: Derivational Affixes
 permalink: /derivational-affixes/
-order: 2
+order: 3
 ---

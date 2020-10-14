@@ -1,7 +1,7 @@
 ---
 title: Phonology
 permalink: /phonology/
-order: 2
+order: 3
 ---
 
 ## Phonemic Inventory

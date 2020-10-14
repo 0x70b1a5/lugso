@@ -1,5 +1,5 @@
 ---
 title: Noun Cases
 permalink: /noun-cases/
-order: 2
+order: 3
 ---

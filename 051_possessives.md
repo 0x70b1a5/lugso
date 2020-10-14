@@ -1,7 +1,7 @@
 ---
 title: Possessives
 permalink: /possessives/
-order: 2
+order: 3
 ---
 
 ## Lesson Vocab

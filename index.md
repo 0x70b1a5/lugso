@@ -1,6 +1,7 @@
 ---
 title: Home
-order: 0
+order: 1
+permalink: /
 ---
 
 _... of the blood of the gods of the thoughts of the blood of the gods of the..._

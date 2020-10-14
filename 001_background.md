@@ -1,7 +1,7 @@
 ---
 title: Background
 permalink: /background/
-order: 1
+order: 2
 ---
 
 A [pidgin](https://en.wikipedia.org/wiki/Pidgin) is a language that evolves among two populations of people that cannot otherwise communicate with each other. **Lugso is a pidgin that emerged among cultists who regularly communicate with the Elder Gods.**

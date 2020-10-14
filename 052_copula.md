@@ -1,7 +1,7 @@
 ---
 title: Copula
 permalink: /copula/
-order: 2
+order: 3
 ---
 
 ## Lesson Vocab

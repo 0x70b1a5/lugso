@@ -1,7 +1,7 @@
 ---
 title: Writing System
 permalink: /writing-system/
-order: 2
+order: 3
 ---
 ## Latin alphabet writing system
 
