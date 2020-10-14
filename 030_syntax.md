@@ -1,6 +1,7 @@
 ---
 title: Syntax
 permalink: /syntax/
+order: 2
 ---
 ## Bite-Size Vocab
 

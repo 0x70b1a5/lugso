@@ -1,6 +1,7 @@
 ---
 title: Dictionary
 permalink: /dictionary/
+order: 2
 ---
 
 Abbreviations (e.g. ADV, NEG) taken from [linguistic glossing abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations).

@@ -1,6 +1,7 @@
 ---
 title: Adjectives, Adverbs, Plurals
 permalink: /adjectives-adverbs-plurals/
+order: 2
 ---
 
 ## Lesson Vocab
