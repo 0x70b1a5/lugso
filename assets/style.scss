@@ -20,17 +20,13 @@ html {
 
         li {
             list-style-type: none;
-
-            a {
-                padding: 0 1em;
-            }
+            padding: 1em;
             
             &.active {
                 background: $prim;
 
                 a {
                     color: $blak;
-                    font-weight: bold;
                 }
             }
 
@@ -91,5 +87,6 @@ html {
         background: $primtrans;
         padding: 2px;
         border-radius: 5px;
+        font-size: 1.1em;
     }
 }
