@@ -18,26 +18,22 @@ html {
         display: flex;
         flex-flow: row wrap;
 
+        a {
+            color: $blak;
+        }
+
         li {
             list-style-type: none;
             padding: 1em;
             
             &.active {
                 background: $prim;
-
-                a {
-                    color: $blak;
-                }
             }
 
             &:not(.active) {
 
                 &:hover{
                     background: $primtrans;
-
-                    a {
-                        color: $blak;
-                    }
                 }
             }
         }
