@@ -18,4 +18,3 @@ PROH|VB suffix|jʌzβ|yozb|prohibitive mood (don't ... !)
 PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
 
 ## Verb Moods
-

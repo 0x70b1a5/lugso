@@ -36,7 +36,7 @@ transgress|VB|θuɣ|tug
 
 ## Cases
 
-What is a _noun case_? In a metaphorical sense, it is the difference between "I" and "me". Unfortunately English does not have many exmaples of noun case. We typically use prepositions to communicate the things that noun cases communicate. "I go _to_ the store", versus "I go store`-ACC`" (accusative).
+What is a _noun case_? In a sense, it is the difference between "I" and "me". Unfortunately English does not have many exmaples of noun case. We typically use prepositions to communicate the things that noun cases communicate. "I go _to_ the store", versus "I go store`-ACC`" (accusative).
 
 In Lugso, various aspects of language are communicated with noun case.
 
@@ -56,7 +56,9 @@ Vocative|VOC|"Hey N! O N!"
 
 ## Examples
 
-Below, `NOM` is marked on the subjects of each sentence, but note that there _is no phoneme for marking the subject_, it is implicitly marked by an _un_-marked noun, and further denoted by the last noun phrase in the sentence - remember, Lugso is mostly Verb-Object-Subject.
+Below, `NOM` is marked on the subjects of each sentence, but note that there _is no phoneme for marking the subject_; it is implicitly marked by an _un_-marked noun, and further denoted by the last noun phrase in the sentence - remember, Lugso is mostly Verb-Object-Subject.
+
+### ACC accusative
 
 **tug vgovzit pusir toht!**
 
@@ -66,6 +68,8 @@ _The mind cannot penetrate transcendence!_
 
 ---
 
+### VOC vocative
+
 **tkutkzitgi lorgtut!**
 
 `move-NEG-IMP larva-VOC`
@@ -73,6 +77,8 @@ _The mind cannot penetrate transcendence!_
 _Don't move, maggot!_
 
 ---
+
+### LOC locative
 
 **zfoy SifSitk sot.**
 
@@ -82,6 +88,8 @@ _The thought comes in time._
 
 ---
 
+### BEN benefactive
+
 **hhuS kurluli kurir un.**
 
 `love 1SG-BEN 1SG-ACC 3SG-NOM`
@@ -89,6 +97,8 @@ _The thought comes in time._
 _It loves me, for me._
 
 ---
+
+### ABL ablative
 
 **zyuzh rlohsvsug lug.**
 
@@ -98,6 +108,8 @@ _The blood falls from the fire._
 
 ---
 
+### GEN genitive 
+
 **lug guSliibso sotso...**
 
 `blood god-GEN thought-GEN`
@@ -105,6 +117,8 @@ _The blood falls from the fire._
 _the blood of the thoughts of the gods..._
 
 ---
+
+### INS instrumental
 
 **piSn gustkohbi ipir snullso bvong hupzni pus-fbuSifbuyb.**
 
@@ -114,6 +128,8 @@ _The human crushes the head of the great serpent with their heel._
 
 ---
 
+### TEMP temporal
+
 **fhtogn vgov itg-ib-zki pobb-lzot.**
 
 `sleep can aeon-PL-TEMP death-NOM`
@@ -122,6 +138,8 @@ _In strange aeons, death may die._
 
 ---
 
+### COM comitative
+
 **lSof pusir lorgniy hups.**
 
 `exchange soul-ACC larva-COM human-NOM`
@@ -129,6 +147,8 @@ _In strange aeons, death may die._
 _The human exchanges souls with the maggot._
 
 ---
+
+### PROL prolative
 
 **lniin StkiibpzuvZ yols-yols-lihib olnriS.**
 
