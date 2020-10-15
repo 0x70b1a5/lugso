@@ -20,6 +20,10 @@ html {
 
         a, a:visited {
             color: $blak;
+
+            &:not(.active) {
+                color: $turq;
+            }
         }
 
         li {
