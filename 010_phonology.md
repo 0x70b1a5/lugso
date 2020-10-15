@@ -6,17 +6,15 @@ order: 3
 
 ## Phonemic Inventory
 
-"ipa (latin) [letter]" means that latin sound (p) becomes ipa sound ɸ. no (latin) means no change.
-
 Consonants|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|velar|uvular
 |-|-|-|-|-|-|-|-
-fricatives|ɸβ (p,b/m)|fv|θð (t/th*,n)|ʃʒ (sh/ch,zh)|s (s) z (z, d)||xɣ (k,g)|χ (h)
-approximant||||j (y)|ɻ (r)|ɮ (l)|
+fricatives|ɸβ|fv|θð|ʃʒ|sz||xɣ|χ
+approximant||||j|ɻ|ɮ|
 
 Vowels|front|central|back
 |-|-|-
 high|i||u
-mid||ʌ (a,e,o)
+mid||ʌ
 
 ### Importing names from English - rules for special sounds
 
@@ -40,7 +38,7 @@ h|χ|h
 
 No phonotactic changes. Pronounce exactly as written, even if impossible.
 
-Duplicated phonemes (e.g. the second "b" in pobb `/ɸʌββ/` "mortal") are stressed, for comprehension. `/'ɸʌβ'β/`
+Duplicated phonemes (e.g. the second "b" in pobb /ɸʌββ/ "mortal") are stressed, for comprehension. /'ɸʌβ'β/
 
 ## Morphology
 
