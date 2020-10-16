@@ -39,7 +39,7 @@ _Offer this sacrifice to Cthulhu!_
 
 #### IND indicative*
 
-While often unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't. 
+While often unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
 ##### Redundant indicative
 
@@ -63,9 +63,9 @@ _Song of my soul, my voice is dead._
 
 `song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS`
 
-_O Song of my dead soul, [you are] my voice._
+~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** ((fhtogni yun) (kurgu)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** (fhtogni (yun kurgu)).
 
 #### INT Interrogative
 

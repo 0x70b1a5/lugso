@@ -49,7 +49,7 @@ Comitative|COM|"together with N, alongside N"
 Genitive|GEN|"of N, N's"
 Instrumental|INS|"using N"
 Locative|LOC|"at N, in N"
-Nominative|NOM|(the subject/actor in a sentence) 
+Nominative|NOM|(the subject/actor in a sentence)
 Prolative|PROL|"by way of, via, through"
 Temporal|TEMP|"during N"
 Vocative|VOC|"Hey N! O N!"
@@ -57,6 +57,8 @@ Vocative|VOC|"Hey N! O N!"
 ## Examples
 
 Below, `NOM` is marked on the subjects of each sentence, but note that there _is no phoneme for marking the subject_; it is implicitly marked by an _un_-marked noun, and further denoted by the last noun phrase in the sentence - remember, Lugso is mostly Verb-Object-Subject.
+
+Notice also that the `NEG` suffix ("not") is used in a few places.
 
 ### ACC accusative
 
@@ -108,7 +110,7 @@ _The blood falls from the fire._
 
 ---
 
-### GEN genitive 
+### GEN genitive
 
 **lug guSliibso sotso...**
 
