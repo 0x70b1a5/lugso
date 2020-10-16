@@ -21,6 +21,7 @@ mid||ʌ
 As a general rule, the English sound, if it is a fricative, remains a fricative. If the English sound is a stop, it becomes a fricative at the same location. There are several exceptions to this, however.
 
 English sound (ipa) | Lugso sound (ipa) | Lugso letter (latin)
+|-|-
 m|β|b
 n|ð|n
 d|z|z

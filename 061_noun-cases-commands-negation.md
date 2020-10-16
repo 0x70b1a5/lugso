@@ -7,6 +7,7 @@ order: 3
 ## Lesson Vocab
 
 English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 ABL|N suffix|vsuɣ|vsug|ablative case
 ACC|N suffix|iɻ|ir|accusative case
 BEN|N suffix|ɮuɮi|luli|benefactive case

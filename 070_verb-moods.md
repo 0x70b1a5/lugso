@@ -7,6 +7,7 @@ order: 3
 ## Lesson Vocab
 
 English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 FORM|VB suffix|ɻɣiz|rgiz|formal mood
 FUT|VB suffix|θxu|tku|future tense
 IMP|VB suffix|ɣi|gi|imperative mood (a command)
