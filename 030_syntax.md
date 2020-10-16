@@ -3,7 +3,7 @@ title: Syntax
 permalink: /syntax/
 order: 3
 ---
-## Bite-Size Vocab
+## Lesson Vocab
 
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
