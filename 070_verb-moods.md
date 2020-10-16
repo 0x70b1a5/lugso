@@ -32,9 +32,13 @@ Lugso also marks verb tense with moods. "You will do this", "You have done this"
 
 #### FORM formal
 
+`Cthulhu-VOC IND flagellum-PL 2SG-POSS slimy eternity-LOC`
+
 _Thy tentacles are slimy forever, O Cthulhu!_
 
 #### IMP imperative
+
+`surrender-IMP sacrifice.victim DET.PROX Cthulhu-BEN`
 
 _Offer this sacrifice to Cthulhu!_
 
@@ -68,11 +72,17 @@ _Song of my soul, my voice is dead._
 
 The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** (fhtogni (yun kurgu)).
 
+You'll notice indicative is often needed where the _Vocative Noun Case_ is used. O English, when using you, we insert a comma to separate the addressee of the sentence, but Lugso does not have commas.
+
 #### INT Interrogative
+
+`sleep-INT Cthulhu`
 
 _Is Cthulhu dead/asleep?_
 
 #### MOD modal
+
+`gorge-MOD Cthulhu-ACC 1SG-PL`
 
 _We must satisfy Cthulhu!_
 
