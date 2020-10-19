@@ -29,12 +29,6 @@ Lugso also marks verb tense with moods. "You will do this", "You have done this"
 
 ### Non-tense moods
 
-#### FORM formal
-
-`Cthulhu-VOC IND flagellum-PL 2SG-POSS slimy eternity-LOC`
-
-_Thy tentacles are slimy forever, O Cthulhu!_
-
 #### IMP imperative
 
 `surrender-IMP sacrifice.victim DET.PROX Cthulhu-BEN`
@@ -53,17 +47,15 @@ _Cthulhu accepts this sacrifice._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtoS-lzof-tut pus-so kurgu toy fhtogni yun kurgu.**
+**vtoS-lzoftut pusso kurgu toy fhtogni yun kurgu.**
 
 `song-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS`
 
 _Song of my soul, my voice is dead._
 
----
-
 ##### WRONG
 
-**vtoS-lzof-tut pus-so kurgu fhtogni yun kurgu.**
+**vtoS-lzoftut pusso kurgu fhtogni yun kurgu.**
 
 `song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS`
 
@@ -72,6 +64,24 @@ _Song of my soul, my voice is dead._
 The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** (fhtogni (yun kurgu)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
+
+##### More about Vocative
+
+The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
+
+**fhtogni yun kurgu vtoS-lzoftut pusso kurgu.**
+
+`dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS`
+
+_My voice is dead, O song of my soul._
+
+#### FORM formal: rgiz
+
+**Kthulhutut pinrgiz supSitk blolgib lukgu.**
+
+`Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-POSS`
+
+_Thy tentacles writhe forever, O Cthulhu!_
 
 #### INT Interrogative: oh
 
@@ -91,13 +101,13 @@ _We must satisfy Cthulhu!_
 
 #### PREC precative: tknuz
 
-**Kthulhutut hufohtknuz tgus-tlu ivih!**
+**Kthulhutut huftknuz tgus-tlu ivih!**
 
-`Cthulhu-VOC consume-IMP-PREC sacrifice.victim DET.PROX`
+`Cthulhu-VOC consume-PREC sacrifice.victim DET.PROX`
 
-_O Cthulhu, please accept this sacrifice!_
+_O Cthulhu, (will you) please accept this sacrifice!_
 
-Note both **oh** and **tknuz** are used here - **tknuz** is not limited to only commands, but may be appended to any verb phrase to make it polite. Removing **oh** in this case would change the sentence's meaning to _O Cthulhu, thou acceptest this sacrifice._
+**tknuz** signifies the utterance is a request.
 
 #### PROH prohibitive: yozb
 
@@ -109,7 +119,7 @@ _Do not blaspheme the name of Cthulhu!_
 
 #### PROL prolative: pzuvZ
 
-**lni-in Stki-ib-pzuvZ yols-yols-lih-ib olnriS.**
+**lni StkiibpzuvZ yols-yols-lihib olnriS.**
 
 `revolve sky-PL-PROL moon-PL beautiful`
 
