@@ -1,5 +1,5 @@
 ---
-title: Verb Moods, Questions
+title: Verb Moods
 permalink: /verb-moods/
 order: 3
 ---
@@ -18,7 +18,6 @@ PREC|VB suffix|θxðuz|tknuz|precative mood (please ...)
 PRET|VB suffix|uɮð|uln|preterite mood ("simple past tense")
 PROH|VB suffix|jʌzβ|yozb|prohibitive mood (don't ... !)
 PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
-[question suffix]|VB suffix|ʃʌɣχ|Sogh|("Sogh X": what is X?)
 song|N|vθʌʃɮzʌf|vtoS-lzof|
 voice|N|θʌj|toy|
 
@@ -72,29 +71,43 @@ _Song of my soul, my voice is dead._
 
 The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** (fhtogni (yun kurgu)).
 
-You'll notice indicative is often needed where the _Vocative Noun Case_ is used. O English, when using you, we insert a comma to separate the addressee of the sentence, but Lugso does not have commas.
+You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
-#### INT Interrogative
+#### INT Interrogative: oh
+
+**fhtognoh Kthulhu?**
 
 `sleep-INT Cthulhu`
 
-_Is Cthulhu dead/asleep?_
+_Does Cthulhu sleep?_
 
-#### MOD modal
+#### MOD modal: zvoh
+
+**hZunbzvoh Kthulhuir kurib!**
 
 `gorge-MOD Cthulhu-ACC 1SG-PL`
 
 _We must satisfy Cthulhu!_
 
-#### PREC precative
+#### PREC precative: tknuz
+
+**Kthulhutut hufohtknuz tgus-tlu ivih!**
+
+`Cthulhu-VOC consume-IMP-PREC sacrifice.victim DET.PROX`
 
 _O Cthulhu, please accept this sacrifice!_
 
-#### PROH prohibitive
+Note both **oh** and **tknuz** are used here - **tknuz** is not limited to only commands, but may be appended to any verb phrase to make it polite. Removing **oh** in this case would change the sentence's meaning to _O Cthulhu, thou acceptest this sacrifice._
+
+#### PROH prohibitive: yozb
+
+**zbostyozb zuyn-pus Kthulhugu!**
+
+`blaspheme-PROH name Cthulhu-POSS`
 
 _Do not blaspheme the name of Cthulhu!_
 
-#### PROL prolative
+#### PROL prolative: pzuvZ
 
 **lni-in Stki-ib-pzuvZ yols-yols-lih-ib olnriS.**
 
@@ -102,22 +115,20 @@ _Do not blaspheme the name of Cthulhu!_
 
 _Strange moons circle through the skies._
 
-### Tense moods
+### Tense moods (simple)
 
-#### FUT future
+#### FUT simple future
+
+**huftku kuribir Kthulhu.**
+
+`consume-FUT 1SG-PL-ACC Cthulhu`
 
 _Cthulhu will eat us._
 
-#### PRET preterite
+#### PRET preterite (simple past)
 
-_Cthulhu died._
+**fhtognuln Kthulhu.**
 
-## Questions
+`sleep-PRET Cthulhu`
 
-### Simple questions
-
-_What is Cthulhu?_
-
-_Is Cthulhu dead?_
-
-_Is Cthulhu dreaming?_
+_Cthulhu died/slept._

@@ -12,7 +12,7 @@ eye|N|ujj|uyy
 human|N|χuɸz|hupz
 future|N|θxuj|tkuy
 heretic|N|isv|isv
-POSS |N suffix|ɣu|gu|possessive suffix
+POSS|N suffix|ɣu|gu|possessive suffix
 priest|N|vix|vik
 
 ## Possessive suffix
