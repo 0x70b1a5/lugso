@@ -13,13 +13,15 @@ AUG|ADJ suffix|θxuθx|tkutk|augmentative ("more ... than", "-er")
 DIM|ADJ suffix|ix|ik|diminutive ("less ... than")
 SUPER|ADJ suffix|ɮi|li|superlative suffix ("the most ...", "-est")
 deity (bestial)|N|θɮuɮi|tluli|(beast-SUPER)
-deity (intelligent)|N|ɣuʃɮi|guSli|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
+deity (intelligent)|N|ɣuʃɮi|guSli|(sentient-SUPER)
 NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing
 NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs
 NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
 ADJ.DER|suffix|fβujβ|fbuyb|adjectivizing suffix
 ADV.DER|suffix|ðʃuv|nSuv|"-ly"
 VB.DER|suffix|ʃsuɻ|Ssur|verb-izing suffix
+great (large)|ADJ|βvʌðɣ|bvong
+distant|ADJ|βʌθuθ|botut
 
 ### Part-of-speech affixes
 
@@ -33,7 +35,13 @@ Lugso has a special suffix for many types of derivation, and several additional 
 
 #### verb -> noun
 
-Lugso has three noun-ifying ("nominalizing") affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
+Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
+
+L|P|I|E|C
+|-|-|-|-
+NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing ("the verbinating")
+NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs ("the verber")
+NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed ("the verbee")
 
 #### non-verb -> noun
 
@@ -48,3 +56,15 @@ _deathly_ **fhtognfbuyb**.
 _blackly_ **ZkignSuv**.
 
 ### Comparative affixes
+
+#### tkutk: "more ... than, -er"
+
+_greater_ **bvongtkutk**.
+
+_prettier, weirder_ **olnriStkutk**.
+
+#### ix: "less ... than"
+
+_less dead_ **fhtognix**.
+
+_less far_ **botutix**.

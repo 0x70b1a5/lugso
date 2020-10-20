@@ -18,6 +18,9 @@ hidden|ADJ|xuθθ|kutt
 consummate|VB|xβiθxɸ|kbitkp
 DET.PROX|PART|iviχ|ivih|"this" (proximal determinant)
 seek|VB|ɻiɮs|rils
+come|VB|zfʌj|zfoy
+changing, mercurial|ADJ|fiχ|fih
+child|N|Yʌɮs|yols
 
 ## Simple questions
 
@@ -103,14 +106,24 @@ _How did you dehydrate the hidden heretics?_
 
 #### "whence/from where": Su + Ablative
 
-**rils-kbitkp Suvsug tlu ivih luk?**
+**zfoy Suvsug tlu ivih?**
 
-`seek-consummate Q-ABL victim DET.PROX 2SG`
+`come Q-ABL victim DET.PROX`
 
-_Where did you find this sacrifice?_
+_Where did this sacrifice come from?_
 
 #### "why": Su + Prolative
 
-.
+**fih SupzuvZ yols?**
+
+`mercurial Q-PROL child`
+
+_Why is the child changing?_
 
 #### "when": Su + Temporal
+
+**fihttgi Zuzki yols?**
+
+`change Q-TEMP child`
+
+_When does the child change?_
