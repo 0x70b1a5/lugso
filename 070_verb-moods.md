@@ -31,9 +31,9 @@ Lugso also marks verb tense with moods. "You will do this", "You have done this"
 
 #### IMP imperative
 
-`surrender-IMP sacrifice.victim DET.PROX Cthulhu-BEN`
+`surrender-IMP victim DET.PROX Cthulhu-BEN`
 
-_Offer this sacrifice to Cthulhu!_
+_Offer this victim to Cthulhu!_
 
 #### IND indicative*
 
@@ -41,7 +41,7 @@ While often unnecessary to mark indicative mood, there are cases where it is imp
 
 ##### Redundant indicative
 
-_Cthulhu accepts this sacrifice._
+_Cthulhu accepts this victim._
 
 ##### Necessary indicative
 
@@ -101,11 +101,11 @@ _We must satisfy Cthulhu!_
 
 #### PREC precative: tknuz
 
-**Kthulhutut huftknuz tgus-tlu ivih!**
+**Kthulhutut huftknuz tlu ivih!**
 
-`Cthulhu-VOC consume-PREC sacrifice.victim DET.PROX`
+`Cthulhu-VOC consume-PREC victim DET.PROX`
 
-_O Cthulhu, (will you) please accept this sacrifice!_
+_O Cthulhu, (will you) please accept this victim!_
 
 **tknuz** signifies the utterance is a request.
 
