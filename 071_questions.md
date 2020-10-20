@@ -9,15 +9,15 @@ English|Part of speech|IPA|Lugso|Comment
 INT|VB suffix|ʌχ|oh|interrogative mood (is ... ?, did X do ...?)
 Q|suffix|ʃu|Su|question suffix
 dream|VB|zʌðθx|zontk
-tremble	VB	ʌɸz	opz
-uncertain	ADJ	zvʌjɣ	zvoyg
-voice	VB	juð	yun
-dry out, dessicate	VB	θxɻʌθz	tkrotz
-heretic	N	isv	isv
-hidden	ADJ	xuθθ	kutt
-consummate	VB	xβiθxɸ	kbitkp
-DET.PROX	PART	iviχ	ivih	"this" (proximal determinant)
-seek	VB	ɻiɮs	rils
+tremble|VB|ʌɸz|opz
+uncertain|ADJ|zvʌjɣ|zvoyg
+voice|VB|juð|yun
+dry out, dessicate|VB|θxɻʌθz|tkrotz
+heretic|N|isv|isv
+hidden|ADJ|xuθθ|kutt
+consummate|VB|xβiθxɸ|kbitkp
+DET.PROX|PART|iviχ|ivih|"this" (proximal determinant)
+seek|VB|ɻiɮs|rils
 
 ## Simple questions
 
