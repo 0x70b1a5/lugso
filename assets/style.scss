@@ -58,6 +58,8 @@ html {
 
     .notices {
         text-align:center;
+        background-image: linear-gradient(90deg,transparent,$turq,$turq,$turq,transparent);
+        padding:1em;
     }
 
     a {
@@ -108,7 +110,6 @@ html {
 
     hr {
        width: 1em;
-       margin: 2em 0;
     }
 
     .content {

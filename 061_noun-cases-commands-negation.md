@@ -69,8 +69,6 @@ Notice also that the `NEG` suffix ("not") is used in a few places.
 
 _The mind cannot penetrate transcendence!_
 
----
-
 ### VOC vocative
 
 **tkutkzitgi lorgtut!**
@@ -78,8 +76,6 @@ _The mind cannot penetrate transcendence!_
 `move-NEG-IMP larva-VOC`
 
 _Don't move, maggot!_
-
----
 
 ### LOC locative
 
@@ -89,8 +85,6 @@ _Don't move, maggot!_
 
 _The thought comes in time._
 
----
-
 ### BEN benefactive
 
 **hhuS kurluli kurir un.**
@@ -98,8 +92,6 @@ _The thought comes in time._
 `love 1SG-BEN 1SG-ACC 3SG-NOM`
 
 _It loves me, for me._
-
----
 
 ### ABL ablative
 
@@ -109,8 +101,6 @@ _It loves me, for me._
 
 _The blood falls from the fire._
 
----
-
 ### GEN genitive
 
 **lug guSliibso sotso...**
@@ -118,8 +108,6 @@ _The blood falls from the fire._
 `blood god-GEN thought-GEN`
 
 _the blood of the thoughts of the gods..._
-
----
 
 ### INS instrumental
 
@@ -129,8 +117,6 @@ _the blood of the thoughts of the gods..._
 
 _The human crushes the head of the great serpent with their heel._
 
----
-
 ### TEMP temporal
 
 **fhtogn vgov itg-ib-zki pobb-lzot.**
@@ -139,8 +125,6 @@ _The human crushes the head of the great serpent with their heel._
 
 _In strange aeons, death may die._
 
----
-
 ### COM comitative
 
 **lSof pusir lorgniy hups.**
@@ -148,8 +132,6 @@ _In strange aeons, death may die._
 `exchange soul-ACC larva-COM human-NOM`
 
 _The human exchanges souls with the maggot._
-
----
 
 ### PROL prolative
 
