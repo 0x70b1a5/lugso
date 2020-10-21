@@ -115,7 +115,7 @@ html {
 
         h1, h2, h3, h4, h5, h6 {
             border: 2px solid;
-            border-image: linear-gradient($prim, transparent) 1;
+            border-image: linear-gradient(90deg, $prim, transparent) 1;
             border-top: none;
             border-bottom: none;
             border-radius: 5px;
@@ -123,20 +123,20 @@ html {
         }
     
         h2 {
-            padding-left: 21px;
+            margin-left: 21px;
         }
     
         h3 {
-            padding-left: 26px;
+            margin-left: 26px;
     
         }
     
         h4{
-            padding-left: 31px;
+            margin-left: 31px;
         }
     
         h5, h6{
-            padding-left: 36px;
+            margin-left: 36px;
         }
     }
 
