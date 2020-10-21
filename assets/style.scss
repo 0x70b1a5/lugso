@@ -119,7 +119,7 @@ html {
             border-top: none;
             padding: 5px 16px 10px 16px;
 
-            ::before {
+            &::before {
                 content:"";
                 border-bottom: 1px solid $prim;
             }
