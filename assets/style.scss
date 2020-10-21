@@ -111,7 +111,34 @@ html {
        margin: 2em 0;
     }
 
-    h1, h2, h3, h4, h5, h6 {
-        margin-left: -1em;
+    .content {
+
+        h1, h2, h3, h4, h5, h6 {
+            border: 2px solid;
+            border-image: linear-gradient($prim, transparent) 1;
+            border-top: none;
+            border-bottom: none;
+            border-radius: 5px;
+            padding: 5px 16px;
+        }
+    
+        h2 {
+            padding-left: 21px;
+        }
+    
+        h3 {
+            padding-left: 26px;
+    
+        }
+    
+        h4{
+            padding-left: 31px;
+        }
+    
+        h5, h6{
+            padding-left: 36px;
+        }
     }
+
+
 }
