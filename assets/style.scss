@@ -6,11 +6,12 @@ $primtrans: #e4ffba;
 $seco: #556F44;
 $blak: #001524;
 $purp: #74526C;
+$purpbryt: #730058;
 $turq: #70C1B3;
 
 html {
     width: 900px;
-    margin-left: 20vw;
+    margin: auto;
     color: $blak;
 
     nav {
@@ -41,6 +42,22 @@ html {
                 }
             }
         }
+    }
+
+    .big {
+        font-size: x-large;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+    
+    .red {
+        color: $purpbryt;
+    }
+
+    .notices {
+        text-align:center;
     }
 
     a {
