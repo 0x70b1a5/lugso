@@ -1,7 +1,7 @@
 ---
 title: More Writing Examples
 permalink: /more-writing/
-order: 4
+order: 3
 ---
 
 lugso|gloss|english

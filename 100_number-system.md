@@ -1,7 +1,7 @@
 ---
 title: Number System
 permalink: /number-system/
-order: 3
+order: 4
 ---
 
 Lugso uses a prime-based number system concerned only with the natural numbers. Decimals, imaginaries, and higher mathematics are expressed in terms we cannot comprehend.

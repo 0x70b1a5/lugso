@@ -10,7 +10,7 @@ Lugso is a language for eldritch cultists. Its full name is incapable of being w
 
 **fhtogni-zit ivol or rki sup-nSuv vgov fhtogn-in vgov itg-ib-zki sin yiy.**
 
-`dead-NEG DET REL abide eternity-ADV.DER can sleep-CONJ.and can aeon-PL-TEMP death EMPH`
+`dead-NEG DET.DIST REL abide eternity-ADV.DER can sleep-CONJ.and can aeon-PL-TEMP death EMPH`
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 
