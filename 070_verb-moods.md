@@ -21,6 +21,8 @@ PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
 song|N|vθʌʃɮzʌf|vtoS-lzof|
 voice|N|θʌj|toy|
 grant, allow, permit, accept|VB|fuð|fun|
+we (inclusive)|PRO|vi|vi
+we (exclusive)|PRO|vʌ|vo
 
 ## Verb Moods
 
@@ -100,9 +102,9 @@ _Does Cthulhu sleep?_
 
 #### MOD modal: zvoh
 
-**hZunbzvoh Kthulhuir kurib!**
+**hZunbzvoh Kthulhuir vi!**
 
-`gorge-MOD Cthulhu-ACC 1SG-PL`
+`gorge-MOD Cthulhu-ACC 1PL.INC`
 
 _We must satisfy Cthulhu!_
 
@@ -136,9 +138,9 @@ _Strange moons circle through the skies._
 
 #### FUT simple future
 
-**huftku kuribir Kthulhu.**
+**huftku viir Kthulhu.**
 
-`consume-FUT 1SG-PL-ACC Cthulhu`
+`consume-FUT 1PL.INC-ACC Cthulhu`
 
 _Cthulhu will eat us._
 
