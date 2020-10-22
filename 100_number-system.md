@@ -8,6 +8,8 @@ Lugso uses a prime-based number system concerned only with the natural numbers. 
 
 Not invented by me, Lugso uses the [Xenotation](http://hyperstition.abstractdynamics.org/archives/003538.html) system of representing numbers with dots and circles. A colon signifies 2. A circle signifies "the Nth prime", where N is the number inside it. Two adjacent numbers are multiplied.
 
+xenotation|numeral
+|-
 :|2
 (:)|the 2nd prime (3)
 ::|2*2 (4)
