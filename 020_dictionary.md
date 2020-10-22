@@ -128,7 +128,7 @@ GEN|N suffix|sʌ|so|genitive case
 go|VB|θɻʌ|tro|
 gold|N|βθiʃɻ|btiSr|
 gorge|VT|χʒuðβ|hZunb|
-grant, allow, permit|VB|fuð|fun|
+grant, allow, permit, accept|VB|fuð|fun|
 gravity|N|jziɸj|yzipy|
 great (large)|ADJ|βvʌðɣ|bvong|
 group|N|jʌz|yoz|

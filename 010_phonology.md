@@ -26,9 +26,9 @@ m|β|b
 n|ð|n
 d|z|z
 t|θ|t (would normally be 's')
-θ|θx|tk
-tʃ|θʃ|tS
-dʒ|zʒ|zZ
+θ ("th")|θx|tk
+tʃ ("ch")|θʃ|tS
+dʒ ("zh", as in _gara**ge**_)|zʒ|zZ
 l|ɮ|l
 r|ɻ|r
 k|x|k
@@ -43,4 +43,6 @@ Duplicated phonemes (e.g. the second "b" in pobb /ɸʌββ/ "mortal") are stress
 
 ## Morphology
 
-`(c)(c)v(c)(c)`: Each syllable has a vowel, up to 2 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 4 consonants. Good luck!
+`(c)(c)v(c)(c)`: Each syllable has a vowel, up to 2 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 4 consonants, and may possess any number of syllables. Good luck!
+
+Duplicate consonants are stressed as semi-syllables.

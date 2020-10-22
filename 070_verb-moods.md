@@ -20,6 +20,7 @@ PROH|VB suffix|jʌzβ|yozb|prohibitive mood (don't ... !)
 PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
 song|N|vθʌʃɮzʌf|vtoS-lzof|
 voice|N|θʌj|toy|
+grant, allow, permit, accept|VB|fuð|fun|
 
 ## Verb Moods
 
@@ -31,7 +32,9 @@ Lugso also marks verb tense with moods. "You will do this", "You have done this"
 
 #### IMP imperative
 
-`surrender-IMP victim DET.PROX Cthulhu-BEN`
+**guShgi tluir ivih Kthulhululi!**
+
+`surrender-IMP victim-ACC DET.PROX Cthulhu-BEN`
 
 _Offer this victim to Cthulhu!_
 
@@ -40,6 +43,10 @@ _Offer this victim to Cthulhu!_
 While often unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
 ##### Redundant indicative
+
+**funtoy tluir ivih Kthulhu.**
+
+`allow-IND victim-ACC DET.PROX Cthulhu`
 
 _Cthulhu accepts this victim._
 

@@ -5,27 +5,8 @@ order: 3
 ---
 ## Latin alphabet writing system
 
-ipa|latin
-|-
-ɸ|p
-β|b
-f|f
-v|v
-θ|t
-ð|n
-ʃ|S
-ʒ|Z
-s|s
-z|z
-x|k
-ɣ|g
-ɮ|l
-χ|h
-ɻ|r
-j|y
-i|i
-u|u
-ʌ|o
+**IPA**|ɸ|β|f|v|θ|ð|ʃ|ʒ|s|z|ɮ|x|ɣ|χ|j|ɻ|i|u|ʌ
+**Latin**|p|b|f|v|t|n|S|Z|s|z|l|k|g|h|y|r|i|u|o
 
 Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitalize your S's and Z's to avoid confusing them with s's and z's.
 
