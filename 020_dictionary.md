@@ -270,7 +270,7 @@ sky|N|ʃθxi|Stki|
 sleep, die|VB|fχθʌɣð|fhtogn|
 slice|VB|θθxʌθx|ttkotk|
 snake, limbless organism|N|sðuɮɮ|snull|
-soft|N|ʃiz|Siz|
+soft|ADJ|ʃiz|Siz|
 solid|N|βiðʃ|binS|
 sound-making organ|N|ziɮx|zilk|
 space (3D+)|N|χɸiʃ|hpiS|
@@ -299,7 +299,7 @@ travel through gas (glide)|VB|sʌʒʃ|soZS|
 travel through liquid (swim)|VB|vux|vuk|
 travel through solid (burrow)|VB|χʌθxθx|hotktk|
 tremble|VB|ʌɸz|opz|
-true |ADJ|θɮizf|tlizf|
+true|ADJ|θɮizf|tlizf|
 two|NUM|uɮ|ul|
 uncertain|ADJ|zvʌjɣ|zvoyg|
 unchanging, abiding|ADJ|ɻxiɻ|rkir|

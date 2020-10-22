@@ -22,6 +22,14 @@ ADV.DER|suffix|ðʃuv|nSuv|"-ly"
 VB.DER|suffix|ʃsuɻ|Ssur|verb-izing suffix
 great (large)|ADJ|βvʌðɣ|bvong
 distant|ADJ|βʌθuθ|botut
+gorge|VT|χʒuðβ|hZunb|
+parasite|N|zʌβθ|zobt|
+revolve, circle, encircle|VB|ɮði|lni|
+thought|N|sʌθ|sot|
+servant|N|fβuʃ|fbuS|
+snake, limbless organism|N|sðuɮɮ|snull|
+solid|N|βiðʃ|binS|
+way, path, road|N|zʌθ|zot|
 
 ### Part-of-speech affixes
 
@@ -37,34 +45,84 @@ Lugso has a special suffix for many types of derivation, and several additional 
 
 Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
 
-L|P|I|E|C
+E|P|I|L|C
 |-|-|-|-
 NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing ("the verbinating")
 NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs ("the verber")
 NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed ("the verbee")
 
+**pobblzot...**
+
+`mortal-NMLZ.DER.act`
+
+_mortal-ness, the act of being mortal, mortality..._
+
+---
+
+**tkur-lzof...**
+
+`birth-NMLZ.DER.patient`
+
+_that which is born, the birthed..._
+
+---
+
+**Zfiglzob zotso...**
+
+`open-NMLZ.DER.agent way-GEN`
+
+_Opener of the Way..._
+
+---
+
+**ffihh lnilzot...**
+
+`rise revolve-NMLZ.DER.act`
+
+_Revolution rises..._
+
+---
+
+**hZunblzot kurgu.**
+
+`satisfy-NMLZ.DER.act 1SG-POSS`
+
+_Satisfaction is mine._
+
 #### non-verb -> noun
 
-For nominalizing a non-verb, use **-lzot** - e.g. _blackness_ **Zkiglzot** (lit. "the act of black").
+For nominalizing a non-verb, you can also use **-lzot** - e.g. _blackness_ **Zkiglzot** (lit. "the act of black").
 
 #### non-adj -> adj
 
-_deathly_ **fhtognfbuyb**.
+_death-ly_* **fhtognfbuyb**
+
+_thought-ful_ **sotfbuyb**
+
+_serpent-ine_ **snullfbuyb**
+
+_servile (servant-ish)_ **fbuSfbuyb**
+
+\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns other words into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
 #### non-adv -> adv
 
-_blackly_ **ZkignSuv**.
+_solid-ly_  **binSnSuv**
+
+_black-ly_ **ZkignSuv**
+
+_parasitical-ly_ **zobtnSuv**
 
 ### Comparative affixes
 
 #### tkutk: "more ... than, -er"
 
-_greater_ **bvongtkutk**.
+_greater_ **bvongtkutk**
 
-_prettier, weirder_ **olnriStkutk**.
+_prettier, weirder_ **olnriStkutk**
 
 #### ix: "less ... than"
 
-_less dead_ **fhtognix**.
+_less dead_ **fhtognix**
 
-_less far_ **botutix**.
+_less far_ **botutix**
