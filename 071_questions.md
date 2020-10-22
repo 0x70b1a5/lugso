@@ -127,3 +127,11 @@ _Why is the child changing?_
 `change Q-TEMP child`
 
 _When does the child change?_
+
+#### "who": agent + Su
+
+**piSn vixir ozogSu?**
+
+`consume priest-ACC agent-Q`
+
+_Who (which agent/actor) crushed the priest?_
