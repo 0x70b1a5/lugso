@@ -18,17 +18,15 @@ Inverse of normal abjad - vowels are main body of writing; consonants are diacri
 
 Vowels form the main body of each word. Words are represented by one connected group of tentacles.
 
-    up-leg: a tentacle sweeping upward.
-    down-leg: a tentacle sweeping downward.
-    no-leg: a flat tentacle.
-
 ipa|latin|tentaculary
 |-|-
-i|i|up-leg
-u|u|down-leg
-ʌ|o|no-leg (flat)
+i|i|a tentacle sweeping upward
+u|u|a tentacle sweeping downward
+ʌ|o|a flat tentacle
 
 ![vowels](/assets/uio.png)
+
+Vowels are the thickest tentacles in a word. Loops in vowels are most often ornamental.
 
 ### Consonants
 
