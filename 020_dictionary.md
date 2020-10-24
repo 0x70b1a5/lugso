@@ -29,7 +29,7 @@ asleep, dead|ADJ||fhtogni|
 AUG|ADJ suffix|θxuθx|tkutk|augmentative (more - than)
 balance|VB|sɸiɸs|spips|
 beast|N|θɮu|tlu|
-beautiful, weird, strange|ADJ|ʌɮðɻiʃ|olnriS|"eldritch" 
+beautiful, weird, strange|ADJ|ʌɮðɻiʃ|olnriS|"eldritch"
 beckon, call|VB|ɣʌxs|goks|
 behold! hello!|INTERJ|jʌ|yo|
 BEN|N suffix|ɮuɮi|luli|benefactive case
@@ -118,7 +118,7 @@ flagellum, finger, tentacle|N|βɮʌɮɣ|blolg|
 flee|VB|θɻuθs|truts|
 flesh|N|ʃiɮʒ|SilZ|
 follower|N|ɸʌɮ|pol|
-FORM|VB suffix|ɻɣiz|rgiz|formal mood 
+FORM|VB suffix|ɻɣiz|rgiz|formal mood
 form (body)|N|ʒiɣz|Zigz|
 fuel|N|ɻɮʌχs|rlohs|
 FUT|VB suffix|θxu|tku|
@@ -244,7 +244,7 @@ Q|suffix|ʃu|Su|
 question|N|ʃʌɣχ|Sogh|
 REFL|N suffix|fif|fif|reflexive suffix
 reflect|VB|ɻuxθ|rukt|
-REL|PART|ʌɻ|or|introduces relative clause
+REL|VB Suffix|ʌɻ|or|introduces relative clause
 return|VB|is|is|
 revolve, circle, encircle|VB|ɮði|lni|
 rise|VB|ffiχχ|ffihh|

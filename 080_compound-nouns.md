@@ -32,7 +32,7 @@ Since Lugso employs _noun cases_, it is important to note that ***only the final
 
 Adjectives may also form compounds, like in "serial killer" or "last rites".
 
-Finally, compounds in Lugso are hyphenated: "jelly-bean", "bus-stop", "dog-house".
+Finally, _**you must hyphenate compound nouns in Lugso**_: "jelly-bean", "bus-stop", "dog-house".
 
 ## Noun compounds
 

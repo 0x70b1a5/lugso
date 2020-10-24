@@ -8,9 +8,9 @@ _... of the blood of the gods of the thoughts of the blood of the gods of the...
 
 Lugso is a language for eldritch cultists. Its full name is incapable of being written, since it is infinite - **lugso guSliibso sotso lugso guSliibso sotso lugso guSliibso sotso...** `blood-GEN sentient-SUPER-PL-GEN thought-PL-GEN` _of the blood of the gods of the thoughts of the blood of the gods of the thoughts..._ - but "lugso" (of the blood) will suffice for our purposes, since it is written almost exclusively _in_ blood - and you cannot exhaustively write an infinite series, anyway!
 
-**fhtogni-zit ivol or rki sup-nSuv vgov fhtogn-in vgov itg-ib-zki sin yiy.**
+**fhtognizit ivol rkior vgov supnSuv fhtognin vgov itgibzki olnriS sin yiy.**
 
-`dead-NEG DET.DIST REL abide eternity-ADV.DER can sleep-CONJ.and can aeon-PL-TEMP death EMPH`
+`dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful/strange death EMPH`
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 
