@@ -33,53 +33,53 @@ yogozit rugir konso lukgu luk!|know-NEG consequence-ACC act-GEN 2SG-POSS 2SG |Yo
 gorn hupzniso hZunbkub|organization.natural human-F-GEN gorge-PTCP.PAST.PASS|The Order of the Bloated Woman
 osgi kurir Zfiglzobtut zotso!|transmit-IMP 1SG-ACC open-NMLZ.DER.agent-VOC way-GEN |Opener of the Way, deliver me!
 
-**zkiyS yuk-Sitk rotk-ib ogS-lug-Stki
-zyuzh tkgihp-lug-Stki-Sitk nhokb lih-ugonoglib tkur-lzof-ul
-hsuy fvols-fir-ib
-Carcosa-Sitk.
-ZoZ olnriS ffihh-gsuSt ffihh lih-ib Zkig
-lni-in Stki-ib-pzuvZ yols-yols-lih-ib olnriS
-iS olnriS-tkutk-yiy
-Carcosa tyolzof.
-fhtogn-zvoh uZ-zit-fbuyb
-pin-gsuSt gfur-ib bgok-lzot-so
-vtoS-lzof-ib vtoS-tku-or Hyades
-Carcosa-Sitk Zkig.
-vtoS-lzof-tut pus-so kurgu toy fhtogni yun kurgu
-fhtogn-gi luk vtoS-fbuyb-zit tkrotz-riy
-fhtogn gir lug-uyy-ib ilz-fbuyb-zit
+**zkiyS yuk-Sitk rotk-ib ogS-lug-Stki  
+zyuzh tkgihp-lug-Stki-Sitk nhokb lih-ugonoglib tkur-lzof-ul  
+hsuy fvols-fir-ib  
+Carcosa-Sitk.  
+ZoZ olnriS ffihh-gsuSt ffihh lih-ib Zkig  
+lni-in Stki-ib-pzuvZ yols-yols-lih-ib olnriS  
+iS olnriS-tkutk-yiy  
+Carcosa tyolzof.  
+fhtogn-zvoh uZ-zit-fbuyb  
+pin-gsuSt gfur-ib bgok-lzot-so  
+vtoS-lzof-ib vtoS-tku-or Hyades  
+Carcosa-Sitk Zkig.  
+vtoS-lzof-tut pus-so kurgu toy fhtogni yun kurgu  
+fhtogn-gi luk vtoS-fbuyb-zit tkrotz-riy  
+fhtogn gir lug-uyy-ib ilz-fbuyb-zit  
 Carcosa-Sitk tyolzof.**
 
-`dissipate shore-LOC wave-PL gas-blood-sky
-descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two
-extrude orifice-light-PL
-Carcosa-LOC
-night beautiful rise-SUB.location rise star-PL black
-revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful
-CONJ.but beautiful-AUG-EMPH
-Carcosa lose-NMLZ.DER.patient
-die-MOD sense-NEG-ADJ.DER
-flail-SUB.where particle-PL lead-NMLZ.DER.agent-GEN
-sing-NMLZ.DER.patient-PL sing-FUT-REL Hyades
-Carcosa-LOC dark
-sing-NMLZ.DER.patient-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS
-sleep-IMP 2SG sing-ADJ.DER-NEG dessicate-SUB.cotemporal
-die also blood-eye-PL shed-ADJ.DER-NEG
+`dissipate shore-LOC wave-PL gas-blood-sky  
+descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two  
+extrude orifice-light-PL  
+Carcosa-LOC  
+night beautiful rise-SUB.location rise star-PL black  
+revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful  
+CONJ.but beautiful-AUG-EMPH  
+Carcosa lose-NMLZ.DER.patient  
+die-MOD sense-NEG-ADJ.DER  
+flail-SUB.where particle-PL lead-NMLZ.DER.agent-GEN  
+sing-NMLZ.DER.patient-PL sing-FUT-REL Hyades  
+Carcosa-LOC dark  
+sing-NMLZ.DER.patient-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS  
+sleep-IMP 2SG sing-ADJ.DER-NEG dessicate-SUB.cotemporal  
+die also blood-eye-PL shed-ADJ.DER-NEG  
 Carcosa-LOC lose-NMLZ.DER.patient`
 
-_Along the shore the cloud waves break,
-The twin suns sink beneath the lake,
-The shadows lengthen
-In Carcosa.
-Strange is the night where black stars rise,
-And strange moons circle through the skies
-But stranger still is
-Lost Carcosa.
-Songs that the Hyades shall sing,
-Where flap the tatters of the King,
-Must die unheard in
-Dim Carcosa.
-Song of my soul, my voice is dead;
-Die thou, unsung, as tears unshed
-Shall dry and die in
+_Along the shore the cloud waves break,  
+The twin suns sink beneath the lake,  
+The shadows lengthen  
+In Carcosa.  
+Strange is the night where black stars rise,  
+And strange moons circle through the skies  
+But stranger still is  
+Lost Carcosa.  
+Songs that the Hyades shall sing,  
+Where flap the tatters of the King,  
+Must die unheard in  
+Dim Carcosa.  
+Song of my soul, my voice is dead;  
+Die thou, unsung, as tears unshed  
+Shall dry and die in  
 Lost Carcosa._
