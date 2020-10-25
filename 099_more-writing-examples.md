@@ -50,7 +50,8 @@ fhtogn-gi luk vtoS-fbuyb-zit tkrotz-riy
 fhtogn gir lug-uyy-ib ilz-fbuyb-zit  
 Carcosa-Sitk tyolzof.**
 
-`dissipate shore-LOC wave-PL gas-blood-sky  
+```
+dissipate shore-LOC wave-PL gas-blood-sky  
 descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two  
 extrude orifice-light-PL  
 Carcosa-LOC  
@@ -65,7 +66,8 @@ Carcosa-LOC dark
 sing-NMLZ.DER.patient-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS  
 sleep-IMP 2SG sing-ADJ.DER-NEG dessicate-SUB.cotemporal  
 die also blood-eye-PL shed-ADJ.DER-NEG  
-Carcosa-LOC lose-NMLZ.DER.patient`
+Carcosa-LOC lose-NMLZ.DER.patient
+```
 
 _Along the shore the cloud waves break,  
 The twin suns sink beneath the lake,  

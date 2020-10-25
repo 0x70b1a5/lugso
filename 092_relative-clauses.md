@@ -24,7 +24,7 @@ In English, "that" does many things, and one of those things is _introduce relat
 
 _the house **that** had ten mice in each room_: "had ten mice..." modifies _house_.
 
-In Lugso, the relative-clause-introducer is another verb suffix. It succeeds any other suffixes on the verb, for example, future tense:
+In Lugso, the relative-clause-introducer is another verb suffix. It follows any other suffixes on the verb, for example, future tense:
 
 **hpiS yogso vuntkuor kur...**
 

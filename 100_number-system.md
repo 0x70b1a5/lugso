@@ -20,6 +20,6 @@ xenotation|numeral
 (.)(.)|3*3 (9)
 .((.))|two times the 3rd prime (10)
 
-When drawing rather than typing, you are encouraged to get creative with your numerical organization:
+When drawing rather than typing, inscribe them like so:
 
 ![number system](assets/numbersystem.png)
