@@ -7,12 +7,19 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
+CONJ.and|VB suffix|ið|in|
+CONJ.but|VB suffix|iʃ|iS|
+CONJ.N|N suffix|vɻʌ|vro|what is this supposed to do?
 REL|VB Suffix|ʌɻ|or|introduces relative clause
 FUT|VB suffix|θxu|tku|
 GEN|N suffix|sʌ|so|genitive case
 knowledge|N|jʌɣ|yog|
 penetrate|VB|vuð|vun|
 space (3D+)|N|χɸiʃ|hpiS|
+
+## Relative Clauses
+
+"the X that Yed / the A that B Ced"
 
 **tlu-pol nofor kur...**
 
@@ -31,3 +38,15 @@ In Lugso, the relative-clause-introducer is another verb suffix. It follows any 
 `space.3d.or.higher knowledge-GEN penetrate-FUT-REL 1SG`
 
 _the spaces of knowledge that I will penetrate..._
+
+## Conjunctions
+
+"A, **but** B"; "C, **and** D, **and** E"
+
+Note that A, B, C, D, and E are _complete sentences_.
+
+**ZoZ olnriS ffihhgsuSt lihib Zkig, lniin StkiibpzuvZ yols-yols-lihib olnriS.**
+
+`night beautiful rise-SUB.location star-PL black revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`
+
+_Strange is the night where black stars rise, and strange moons circle through the skies._
