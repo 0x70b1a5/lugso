@@ -44,7 +44,7 @@ _Songs that the Hyades shall sing,_<br>
 _Where flap the tatters of the King,_<br>
 `flail-SUB.where particle-PL lead-NMLZ.DER.agent-GEN`<br>
 <br>
-**vtoS-lzof-ib vtoS-tku-or Hyades**<br>
+**vtoS-lzof-ib vtoS-tku-or Hyodis**<br>
 _Must die unheard in_<br>
 `sing-NMLZ.DER.patient-PL sing-FUT-REL Hyades`<br>
 <br>
