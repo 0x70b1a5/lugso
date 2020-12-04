@@ -59,7 +59,7 @@ cause|VB|βiχð|bihn|
 change|VB|fiχθθɣi|fihttgi|
 changing, mercurial|ADJ|fiχ|fih|
 chasm|N|vʌɮx|volk|
-child|N|Yʌɮs|yols|
+child|N|jʌɮs|yols|
 clothing|N|uʒɸ|uZp|
 cohesion|N|ɸuχɻ|puhr|
 collection|N|zið|zin|
