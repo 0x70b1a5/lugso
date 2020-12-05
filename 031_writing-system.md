@@ -73,6 +73,8 @@ The syllables have been hyphenated to assist you in seeing the breakdown.
 
 As you can see, loops in vowels can be ornamental, but loops in consonants are not.
 
+Additionally, in compound nouns, loops serve as hyphens.
+
 ---
 
 Where there are multiple consonants in the onset or the coda of a syllable, they are evaluated left-right, top-bottom.
@@ -81,12 +83,14 @@ Where there are multiple consonants in the onset or the coda of a syllable, they
 
 This example is nonsense (for now), and a bit cramped, but you can see how on u or i, the top consonant precedes the bottom, and on the o, the left precedes the right.
 
+Note that special cluster **tk** has its own symbol.
+
 ### Non-ornamental Loops in Vowels
 
-Sometimes lone "o" appears in words, example the name "huoxin" hu+o+xin.
+Sometimes lone "o" appears in words, for example the name "huoxin" hu+o+xin.
 
 To disambiguate the bare "o", use two loops in the vowel line. below: huoxin vs. huxin.
 
 ![Loops](/assets/loops.png)
 
-The small, straight lines here are a shorthand for drafting.
+The small, straight lines here are a shorthand for drafting. 

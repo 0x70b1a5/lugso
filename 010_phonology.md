@@ -35,6 +35,8 @@ k|x|k
 g|ɣ|g
 h|χ|h
 
+Only "tk" exists natively in Lugso as a consonant cluster, however.
+
 ## Phonotactics
 
 No phonotactic changes. Pronounce exactly as written, even if impossible.

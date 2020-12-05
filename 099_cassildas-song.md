@@ -52,7 +52,7 @@ _The twin suns sink beneath the lake._<br>
 _The shadows lengthen_<br>
 `extrude orifice-light-PL`<br>
 
-**KorkosoSitk.**<br>
+**korkosoSitk.**<br>
 _In Carcosa._<br>
 `Carcosa-LOC`<br>
 
@@ -68,7 +68,7 @@ _And strange moons circle through the skies_<br>
 _But stranger still is_<br>
 `CONJ.but beautiful-AUG-EMPH`<br>
 
-**Korkoso tyolzof.**<br>
+**korkoso tyolzof.**<br>
 _Lost Carcosa._<br>
 `Carcosa lose-NMLZ.DER.patient`<br>
 
@@ -80,11 +80,11 @@ _Must die unheard_<br>
 _where flap the tatters of the King_<br>
 `flail-SUB.where shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN`<br>
 
-**vtoSlzofib vtoStkuor Hyodis**<br>
+**vtoSlzofib vtoStkuor hyodis**<br>
 _songs that the Hyades shall sing,_<br>
 `sing-NMLZ.DER.patient-PL sing-FUT-REL Hyades`<br>
 
-**KorkosoSitk Zkig**<br>
+**korkosoSitk Zkig**<br>
 _in dim Carcosa._<br>
 `Carcosa-LOC dark`<br>
 
@@ -100,6 +100,6 @@ _Die thou, unsung,_<br>
 _as tears unshed shall dry and die_<br>
 `dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
 
-**KorkosoSitk tyolzof**<br>
+**korkosoSitk tyolzof**<br>
 _In lost Carcosa._<br>
 `Carcosa-LOC lose-NMLZ.DER.patient`<br>
