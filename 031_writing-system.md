@@ -49,6 +49,7 @@ ipa|latin|tentaculary
 f|f|11
 v|v|1'1
 θ|t|2
+θx|tk|222
 ð|d, n|2'
 ʃ|S|12
 ʒ|Z|1'2
@@ -94,3 +95,15 @@ To disambiguate the bare "o", use two loops in the vowel line. below: huoxin vs.
 ![Loops](/assets/loops.png)
 
 The small, straight lines here are a shorthand for drafting. 
+
+In longer words, sometimes you observe many subsequent o's. In these cases, you can "stack" the horizontal segments:
+
+![Child of Nyarlathotep](/assets/yols-nyorlothotopso1.png)
+
+**yols nyorlothotopso**: _child of Nyarlathotep_. (not Nyarlathotep's child - subtle difference!)
+
+If your long word with many o's also has u's or i's, make sure they are vertical, to avoid confusion:
+
+![through infinity/infinities](assets/gololollzofpzuvZ-gololollzofib1.png)
+
+Note the lack of a loop on the last syllable of **gololollzofib** - a loop would make the bottom horizontal read as **lzofoib**.
