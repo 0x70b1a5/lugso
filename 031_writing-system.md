@@ -86,6 +86,12 @@ This example is nonsense (for now), and a bit cramped, but you can see how on u 
 
 Note that special cluster **tk** has its own symbol.
 
+### Optional exception: single-consonant initial/final
+
+When a word begins or ends with one consonant (or tk, the special cluster), the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
+
+![consonant caps](/assets/yols-ir1.png)
+
 ### Non-ornamental Loops in Vowels
 
 Sometimes lone "o" appears in words, for example the name "huoxin" hu+o+xin.
