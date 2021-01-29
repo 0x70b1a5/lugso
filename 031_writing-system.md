@@ -86,23 +86,33 @@ This example is nonsense (for now), and a bit cramped, but you can see how on u 
 
 Note that special cluster **tk** has its own symbol.
 
-### Optional exception: single-consonant initial/final
-
-When a word begins or ends with one consonant (or tk, the special cluster), the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
-
-![consonant caps](/assets/yols-ir1.png)
-
-### Non-ornamental Loops in Vowels
+### Mandatory: Loops for disambiguating vowel clusters
 
 Sometimes lone "o" appears in words, for example the name "huoxin" hu+o+xin.
 
 To disambiguate the bare "o", use two loops in the vowel line. below: huoxin vs. huxin.
 
+The small, straight lines here are a shorthand for drafting.
+
 ![Loops](/assets/loops.png)
 
-The small, straight lines here are a shorthand for drafting. 
+### Optional: Capping consonants
 
-In longer words, sometimes you observe many subsequent o's. In these cases, you can "stack" the horizontal segments:
+When a word begins or ends with one consonant (or tk, the special cluster), the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
+
+#### Style 1: Uncapped
+
+**gorn hupsniso hZunbkub:** _Order of the Bloated Woman_ (from _Masks of Nyarlathotep_, Shanghai chapter.)
+
+![Order of the Bloated Woman](/assets/gorn%20hupsniso%20hZunbkub.png)
+
+#### Style 2: Capped
+
+![consonant caps](/assets/yols-ir1.png)
+
+### Optional: Vowel stacking
+
+In longer words, sometimes you observe many subsequent o's. In these cases, you may "stack" the horizontal segments for aesthetic purposes:
 
 ![Child of Nyarlathotep](/assets/yols-nyorlothotopso1.png)
 
