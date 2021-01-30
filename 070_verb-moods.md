@@ -40,6 +40,8 @@ Lugso also marks verb tense with moods. "You will do this", "You have done this"
 
 _Offer this victim to Cthulhu!_
 
+IMP is the "command mood" used when giving orders.
+
 #### IND indicative*
 
 While often unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.

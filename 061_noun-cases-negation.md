@@ -1,6 +1,6 @@
 ---
-title: Noun Cases, Commands, Negation
-permalink: /noun-cases-commands-negation/
+title: Noun Cases, Negation
+permalink: /noun-cases-negation/
 order: 3
 ---
 
@@ -140,3 +140,21 @@ _The human exchanges souls with the maggot._
 `revolve sky-PL-PROL moon-PL-NOM strange`
 
 _Strange moons circle through the skies._
+
+## Negation
+
+**-zit** negates any non-verb.
+
+**uyy luSzit unub...**
+
+`eye liquid-NEG 3SG-POSS`
+
+_Its illiquid eye..._
+
+---
+
+**ovSozit...**
+
+`patient-NEG`
+
+_impatient..._

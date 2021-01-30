@@ -86,6 +86,16 @@ _Does Cthulhu dream?_
 
 _Is Cthulhu **eating** a human (or doing something else to it)?_
 
+#### Auxiliary verbs
+
+**oh** attaches to the auxiliary when forming a question.
+
+**huf-yuiS vgovoh sruZir ivol lugso luk?**
+
+`consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
+
+_Can you learn what that blood portends?_
+
 ### "Wh-" words, using Q + noun case
 
 #### "where": Su + Locative

@@ -106,6 +106,8 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 ![Order of the Bloated Woman](/assets/gorn%20hupsniso%20hZunbkub.png)
 
+Note the ornamental loops in each word. Technically, it is ambiguous with **ogorno hupsoniso hZunbokub**, but thankfully, that means nothing. Be advised that you may wish to double-check whether your ornamental loops create unintended - or intended - double meanings.
+
 #### Style 2: Capped
 
 ![consonant caps](/assets/yols-ir1.png)

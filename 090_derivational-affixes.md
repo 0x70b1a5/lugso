@@ -24,6 +24,8 @@ great (large)|ADJ|βvʌðɣ|bvong
 distant|ADJ|βʌθuθ|botut
 gorge|VT|χʒuðβ|hZunb|
 parasite|N|zʌβθ|zobt|
+priest|N|vix|vik
+PRV|N suffix|iðʃ|inS|privative case ("-less")
 revolve, circle, encircle|VB|ɮði|lni|
 thought|N|sʌθ|sot|
 servant|N|fβuʃ|fbuS|
@@ -102,6 +104,8 @@ _thought-ful_ **sotfbuyb**
 _serpent-ine_ **snullfbuyb**
 
 _servile (servant-ish)_ **fbuSfbuyb**
+
+_priestless_ **vikinS**
 
 \* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns other words into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
