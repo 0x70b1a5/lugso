@@ -59,7 +59,7 @@ html {
     }
    
     strong {
-        color: $purp;
+        color: $prim;
     }
 
     em {
@@ -81,8 +81,7 @@ html {
         }
        
         th {
-            background-color: $seco;
-            color: white;
+            background-color: $prim;
         }
 
         td, th {

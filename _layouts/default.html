@@ -19,15 +19,11 @@
           {% if node.hide != true and node.title != nil %}
               {% if page.url == node.url or page.title == 'Home' and node.title == 'Home' %}
               <li class="active pure-menu-item">
-                <a class="pure-menu-link" href="{{ node.url | relative_url }}" class="active">
-                  {{node.title}}
-                </a>
+                <a class="pure-menu-link" href="{{ node.url | relative_url }}" class="active">{{node.title}}</a>
               </li>
               {% else %}
               <li class="pure-menu-item">
-                <a class="pure-menu-link" href="{{ node.url | relative_url }}">
-                  {{node.title}}
-                </a> 
+                <a class="pure-menu-link" href="{{ node.url | relative_url }}">{{node.title}}</a> 
               </li>
               {% endif %}
             {% endif %}
