@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" data-react-helmet="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" 
           href="https://unpkg.com/purecss@2.0.5/build/pure-min.css" 
           integrity="sha384-LTIDeidl25h2dPxrB2Ekgc9c7sEC3CWGM6HeFmuDNUjX76Ert4Z4IY714dhZHPLd" 
@@ -13,18 +13,22 @@
   </head>
   <body>
     <header>
-      <nav>
+      <nav class="pure-menu pure-menu-horizontal">
         {% assign bages = site.pages | sort: 'order' %}
         {% for node in bages %}
           {% if node.hide != true and node.title != nil %}
               {% if page.url == node.url or page.title == 'Home' and node.title == 'Home' %}
-                <a href="{{ node.url | relative_url }}" class="active">
-                  <li class="active">{{node.title}}</li>
+              <li class="active pure-menu-item">
+                <a class="pure-menu-link" href="{{ node.url | relative_url }}" class="active">
+                  {{node.title}}
                 </a>
+              </li>
               {% else %}
-              <a href="{{ node.url | relative_url }}">
-                <li>{{node.title}}</li>
-              </a> 
+              <li class="pure-menu-item">
+                <a class="pure-menu-link" href="{{ node.url | relative_url }}">
+                  {{node.title}}
+                </a> 
+              </li>
               {% endif %}
             {% endif %}
         {% endfor %}
