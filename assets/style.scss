@@ -24,6 +24,7 @@ html {
 
                 a, a:visited {
                     color: $blak;
+                    text-decoration: none;
                 }
             }
 
@@ -51,7 +52,6 @@ html {
 
     a {
         color: $turq;
-        text-decoration: none;
 
         &:visited {
             color: $turq;
