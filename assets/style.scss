@@ -21,20 +21,15 @@ html {
         li {
             &.active {
                 background: $prim;
-            }
 
-            &:not(.active) {
-
-                &:hover{
-                    background: $primtrans;
+                a, a:visited {
+                    color: $blak;
                 }
             }
 
-            a, a:visited {
-                color: $blak;
-    
-                &:not(.active) {
-                    color: $turq;
+            &:not(.active) {
+                &:hover{
+                    background: $primtrans;
                 }
             }
         }
