@@ -60,7 +60,7 @@ Water: sky-**blood**.
 
 **zkiyS yukSitk ogS-lug-Stkiib.**
 
-`dissipate shore-LOC wave-PL gas-blood-sky`
+`dissipate shore-LOC gas-blood-sky`
 
 _Along the shore the clouds break._
 
