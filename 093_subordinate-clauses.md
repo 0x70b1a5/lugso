@@ -25,6 +25,8 @@ SUB.reason (because)|SUB VB suffix|ɻiɣ|rig|
 
 A _subordinate clause_ joins two complete sentences. The sub-clause marker attaches to the verb of the second sentence, which in all cases will be its first word.
 
+## Normal sub-clauses
+
 **rils luk gitrig luk.**
 
 `seek 1SG find-SUB.reason 1SG`
