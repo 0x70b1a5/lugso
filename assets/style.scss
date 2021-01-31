@@ -9,7 +9,6 @@ $purp: #74526C;
 $purpbryt: #730058;
 $turq: #70C1B3;
 
-
 html {
     margin: 1em;
     color: $blak;
@@ -18,18 +17,9 @@ html {
     nav {
         display: flex;
         flex-flow: row wrap;
-
-        a, a:visited {
-            color: $blak;
-
-            &:not(.active) {
-                color: $turq;
-            }
-        }
+        max-width: 100vw;
 
         li {
-           
-           
             &.active {
                 background: $prim;
             }
@@ -38,6 +28,14 @@ html {
 
                 &:hover{
                     background: $primtrans;
+                }
+            }
+
+            a, a:visited {
+                color: $blak;
+    
+                &:not(.active) {
+                    color: $turq;
                 }
             }
         }
