@@ -20,7 +20,7 @@ SUB.concession (despite that)|SUB VB suffix|ɣɮið|glin|
 SUB.conditional (if)|SUB VB suffix|dʌθ|not|
 SUB.cotemporal (at the same time as)|SUB VB suffix|ɻij|riy|
 SUB.location (where)|SUB VB suffix|ɣsuʃθ|gsuSt|
-SUB.purpose (in order that)|SUB VB suffix|uʒɣ|uZg|https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions, near footnote 10. **NOTE: NOT "in order to"**
+SUB.purpose (in order that)|SUB VB suffix|uʒɣ|uZg|h **NOT "in order to"**
 SUB.reason (because)|SUB VB suffix|ɻiɣ|rig|
 
 A _subordinate clause_ joins two complete sentences. The sub-clause marker attaches to the verb of the second sentence, which in all cases will be its first word.
