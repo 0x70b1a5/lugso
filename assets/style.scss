@@ -12,42 +12,41 @@ $turq: #70C1B3;
 @media (min-width: 900px) {
     html {
         width: 900px;
+        margin: auto;
     }
 }
 
 html {
-    margin: auto;
+    margin: 1em;
     color: $blak;
 
-    // nav {
-    //     padding: 2em;
-    //     display: flex;
-    //     flex-flow: row wrap;
+    nav {
+        display: flex;
+        flex-flow: row wrap;
 
-    //     a, a:visited {
-    //         color: $blak;
+        a, a:visited {
+            color: $blak;
 
-    //         &:not(.active) {
-    //             color: $turq;
-    //         }
-    //     }
+            &:not(.active) {
+                color: $turq;
+            }
+        }
 
-    //     li {
-    //         list-style-type: none;
-    //         padding: 1em;
+        li {
            
-    //         &.active {
-    //             background: $prim;
-    //         }
+           
+            &.active {
+                background: $prim;
+            }
 
-    //         &:not(.active) {
+            &:not(.active) {
 
-    //             &:hover{
-    //                 background: $primtrans;
-    //             }
-    //         }
-    //     }
-    // }
+                &:hover{
+                    background: $primtrans;
+                }
+            }
+        }
+    }
 
     .big {
         font-size: x-large;
