@@ -28,7 +28,7 @@ A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "
 
 In Lugso, these words would be "stop bus", "bean jelly", "housedog", etc. The _actual thing_ comes first (known as the _head_), followed by its modifying nouns.
 
-Since Lugso employs _noun cases_, it is important to note that ***only the final noun of a compound is "cased".***
+Since Lugso employs _noun cases_, it is important to note that _**only the final noun of a compound is "cased".**_
 
 Adjectives may also form compounds, like in "serial killer" or "last rites".
 

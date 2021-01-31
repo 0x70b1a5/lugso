@@ -1,13 +1,12 @@
 ---
 ---
 
-$prim: #ADFF2F;
-$primtrans: #e4ffba;
-$seco: #556F44;
 $blak: #001524;
-$purp: #74526C;
-$purpbryt: #730058;
-$turq: #70C1B3;
+$prim: #A5E6BA;
+$primtrans: #9AC6C5;
+$turq: #7785AC;
+$seco: #5B2A86;
+$purp: #360568;
 
 html {
     margin: 1em;
@@ -47,10 +46,6 @@ html {
 
     .bold {
         font-weight: bold;
-    }
-   
-    .red {
-        color: $purpbryt;
     }
 
     .notices {
