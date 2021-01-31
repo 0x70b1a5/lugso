@@ -42,6 +42,14 @@ In Lugso, the relative-clause-introducer is another verb suffix. It follows any 
 
 _the spaces of knowledge that I will penetrate..._
 
+---
+
+**fkoZgi tlizflzitir uZor vgovzit uyy!**
+
+`see.mental-IMP truth-ACC see.material-REL can-NEG eye`
+
+_Behold the truth that no eye can perceive!_
+
 ## Conjunctions
 
 "A, **but** B"; "C, **and** D, **and** E"

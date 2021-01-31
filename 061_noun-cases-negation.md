@@ -117,6 +117,14 @@ _the blood of the thoughts of the gods..._
 
 _The human crushes the head of the great serpent with their heel._
 
+Also used for things that are given:
+
+**fun gvifnluli guSzit bgoklzoblzotvir yoyyso.**
+
+`give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-GEN`
+
+_The unthinking body is given leadership of the organization._
+
 ### TEMP temporal
 
 **fhtogn vgov itg-ib-zki pobb-lzot.**
