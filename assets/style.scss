@@ -3,7 +3,7 @@
 
 $blak: #001524;
 $prim: #A5E6BA;
-$primdark: #9AC6C5;
+$midd: #9AC6C5;
 $turq: #7785AC;
 $seco: #5B2A86;
 $purp: #360568;
@@ -29,7 +29,7 @@ html {
 
             &:not(.active) {
                 &:hover{
-                    background: $primdark;
+                    background: $midd;
                 }
             }
         }
@@ -59,11 +59,11 @@ html {
     }
    
     strong {
-        color: $seco;
+        color: $midd;
     }
 
     em {
-        color: $primdark;
+        color: $seco;
     }
 
     img {  
@@ -81,7 +81,7 @@ html {
         }
        
         th {
-            background-color: $primdark;
+            background-color: $midd;
             color:white;
         }
 
@@ -91,7 +91,7 @@ html {
     }
 
     code {
-        background: $seco;
+        background: $prim;
         padding: 2px;
         border-radius: 5px;
     }
