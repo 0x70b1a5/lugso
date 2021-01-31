@@ -9,16 +9,11 @@ $purp: #74526C;
 $purpbryt: #730058;
 $turq: #70C1B3;
 
-@media (min-width: 900px) {
-    html {
-        width: 900px;
-        margin: auto;
-    }
-}
 
 html {
     margin: 1em;
     color: $blak;
+    max-width: 100%;
 
     nav {
         display: flex;
@@ -167,4 +162,11 @@ html {
     }
 
 
+}
+
+@media (min-width: 900px) {
+    html {
+        width: 900px;
+        margin: auto;
+    }
 }
