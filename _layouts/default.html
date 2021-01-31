@@ -17,8 +17,7 @@
         {% assign bages = site.pages | sort: 'order' %}
         {% for node in bages %}
           {% if node.hide != true and node.title != nil %}
-            {% assign samePage = page.url == node.url %}
-            {% if samePage or page.title == 'Home' and node.title == 'Home' %}
+              {% if page.url == node.url or page.title == 'Home' and node.title == 'Home' %}
               <li class="active pure-menu-item">
                 <a class="pure-menu-link" href="{{ node.url | relative_url }}" class="active">{{node.title}}</a>
               </li>
