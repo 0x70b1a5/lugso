@@ -8,7 +8,7 @@ order: 3
 
 Consonants|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|velar|uvular
 |-|-|-|-|-|-|-|-
-fricatives|ɸβ|fv|θð|ʃʒ|sz||xɣ|χ
+fricative|ɸβ|fv|θð|ʃʒ|sz||xɣ|χ
 approximant||||j|ɻ|ɮ|
 
 Vowels|front|central|back
