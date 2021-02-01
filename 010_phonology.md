@@ -25,7 +25,7 @@ English sound (ipa) | Lugso sound (ipa) | Lugso letter (latin)
 m|β|b
 n|ð|n
 d|z|z
-t|θ|t (would normally be 's')
+t|θ|t*
 θ ("th")|θx|tk
 tʃ ("ch")|θʃ|tS
 dʒ ("zh", as in _gara**ge**_)|zʒ|zZ
@@ -35,7 +35,9 @@ k|x|k
 g|ɣ|g
 h|χ|h
 
-Only "tk" exists natively in Lugso as a consonant cluster, however.
+\* "t" is a dental stop, so its conversion should be _s_, but _s_ already exists in Lugso.
+
+Only "tk" exists natively in Lugso as a consonant cluster.
 
 ## Phonotactics
 
@@ -43,8 +45,12 @@ No phonotactic changes. Pronounce exactly as written, even if impossible.
 
 Duplicated phonemes (e.g. the second "b" in pobb /ɸʌββ/ "mortal") are stressed, for comprehension. /'ɸʌβ'β/
 
+Brief pauses between words are encouraged.
+
 ## Morphology
 
 `(c)(c)v(c)(c)`: Each syllable has a vowel, up to 2 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 4 consonants, and may possess any number of syllables. Good luck!
+
+Fortunately, most words are only one or two syllables.
 
 Duplicate consonants are stressed as semi-syllables.
