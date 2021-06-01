@@ -57,7 +57,7 @@ Vocative|VOC|"Hey N! O N!"
 
 ## Examples
 
-Below, `NOM` is marked on the subjects of each sentence, but note that there _is no phoneme for marking the subject_; it is implicitly marked by an _un_-marked noun, and further denoted by the last noun phrase in the sentence - remember, Lugso is mostly Verb-Object-Subject.
+Below, `NOM` is marked on the subjects of each sentence, but note that there _is no phoneme for marking the subject_; it is implicitly marked by an _un_-marked noun, and further denoted by the last noun phrase in the sentence - remember, Lugso is mostly Verb-Object-Subject. Nowhere else will `NOM` be marked.
 
 Notice also that the `NEG` suffix ("not") is used in a few places.
 
@@ -79,11 +79,11 @@ _Don't move, maggot!_
 
 ### LOC locative
 
-**zfoy SifSitk sot.**
+**vsiki ovsSitk SoggoT.**
 
-`come time-LOC thought-NOM`
+`emerge pit-LOC shoggoth-NOM`
 
-_The thought comes in time._
+_The shoggoth emerges in the pit._
 
 ### BEN benefactive
 

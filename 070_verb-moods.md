@@ -30,9 +30,7 @@ Verb moods indicate the way in which a certain action is performed. Think of, "P
 
 Lugso also marks verb tense with moods. "You will do this", "You have done this", "You did this".
 
-### Non-tense moods
-
-#### IMP imperative
+### IMP imperative
 
 **guShgi tluir ivih Kthulhululi!**
 
@@ -42,11 +40,11 @@ _Offer this victim to Cthulhu!_
 
 IMP is the "command mood" used when giving orders.
 
-#### IND indicative*
+### IND indicative*
 
 While often unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
-##### Redundant indicative
+#### Redundant indicative
 
 **funtoy tluir ivih Kthulhu.**
 
@@ -54,7 +52,7 @@ While often unnecessary to mark indicative mood, there are cases where it is imp
 
 _Cthulhu accepts this victim._
 
-##### Necessary indicative
+#### Necessary indicative
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
@@ -64,7 +62,7 @@ The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
 _Song of my soul, my voice is dead._
 
-##### WRONG
+#### WRONG
 
 **vtoS-lzoftut pusso kurgu fhtogni yun kurgu.**
 
@@ -76,7 +74,7 @@ The fact that Lugso's copula is implicit means that the sentence is interpreted 
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
-##### More about Vocative
+#### More about Vocative
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
@@ -86,7 +84,7 @@ The above examples are ambiguous because of the implicit copula combined with an
 
 _My voice is dead, O song of my soul._
 
-#### FORM formal: rgiz
+### FORM formal: rgiz
 
 **Kthulhutut pinrgiz supSitk blolgib lukgu.**
 
@@ -94,7 +92,7 @@ _My voice is dead, O song of my soul._
 
 _Thy tentacles writhe forever, O Cthulhu!_
 
-#### INT Interrogative: oh
+### INT Interrogative: oh
 
 **fhtognoh Kthulhu?**
 
@@ -102,7 +100,7 @@ _Thy tentacles writhe forever, O Cthulhu!_
 
 _Does Cthulhu sleep?_
 
-#### MOD modal: zvoh
+### MOD modal: zvoh
 
 **hZunbzvoh Kthulhuir vi!**
 
@@ -110,7 +108,7 @@ _Does Cthulhu sleep?_
 
 _We must satisfy Cthulhu!_
 
-#### PREC precative: tknuz
+### PREC precative: tknuz
 
 **Kthulhutut huftknuz tlu ivih!**
 
@@ -120,7 +118,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 **tknuz** signifies the utterance is a request.
 
-#### PROH prohibitive: yozb
+### PROH prohibitive: yozb
 
 **zbostyozb zuyn-pus Kthulhugu!**
 
@@ -128,28 +126,10 @@ _O Cthulhu, (will you) please accept this victim!_
 
 _Do not blaspheme the name of Cthulhu!_
 
-#### PROL prolative: pzuvZ
+### PROL prolative: pzuvZ
 
 **lni StkiibpzuvZ yols-yols-lihib olnriS.**
 
 `revolve sky-PL-PROL moon-PL beautiful`
 
 _Strange moons circle through the skies._
-
-### Tense moods (simple)
-
-#### FUT simple future
-
-**huftku viir Kthulhu.**
-
-`consume-FUT 1PL.INC-ACC Cthulhu`
-
-_Cthulhu will eat us._
-
-#### PRET preterite (simple past)
-
-**fhtognuln Kthulhu.**
-
-`sleep-PRET Cthulhu`
-
-_Cthulhu died/slept._

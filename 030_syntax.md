@@ -66,3 +66,24 @@ _The/A beast glides to you._
 ---
 
 We will cover more **noun cases** in a future lesson.
+
+## Suffix Order
+
+Lugso leverages a great number of suffixes. The grammatical order is as follows:
+
+### Noun suffixes
+
+1. Root noun
+2. Plural suffix
+3. Case marker
+4. Negation
+
+### Verb suffixes
+
+1. Root verb
+2. Mood
+3. Tense
+4. Negation
+5. Subordinating suffix
+6. Question suffix
+7. Relative or Conjunction
