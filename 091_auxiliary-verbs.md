@@ -24,7 +24,7 @@ _I desire/want/yearn to harvest heads for the gods._
 
 `finish can DET.PROX-ACC 1SG. consume knowledge can blood-ACC deity-PL-GEN thought-PL-GEN 1SG.`
 
-_I can do this. I can learn lugso._
+_I can do this. I can learn the blood of the thoughts of the gods._
 
 ### Questions
 

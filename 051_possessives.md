@@ -50,3 +50,9 @@ _My human..._
 `future heretic-POSS`
 
 _The/A heretic's future..._
+
+## Possessive vs. Genitive
+
+Speakers of Latin will be confused at the inclusion of both the possessive suffix and the genitive case in Lugso. "What is the difference between _my blood_ and _the blood of me_?"
+
+In Lugso, Genitive is used to indicate origin and relation - hence **lugso** _of blood_. Possessive, by contrast, is strictly property/dominion/possession - **lugso guSliibso sotibso** _of blood of gods of thoughts_ - not "thoughts' gods' blood's".

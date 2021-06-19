@@ -28,8 +28,6 @@ we (exclusive)|PRO|vʌ|vo
 
 Verb moods indicate the way in which a certain action is performed. Think of, "Please would you do this?" versus "Do this!" versus "Are you doing this?" versus "You must do this."
 
-Lugso also marks verb tense with moods. "You will do this", "You have done this", "You did this".
-
 ### IMP imperative
 
 **guShgi tluir ivih Kthulhululi!**

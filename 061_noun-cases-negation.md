@@ -103,9 +103,9 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug guSliibso sotso...**
+**lug guSliibso sotibso...**
 
-`blood god-GEN thought-GEN`
+`blood god-GEN thought-PL-GEN`
 
 _the blood of the thoughts of the gods..._
 

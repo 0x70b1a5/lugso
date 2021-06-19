@@ -81,8 +81,8 @@ Lugso leverages a great number of suffixes. The grammatical order is as follows:
 ### Verb suffixes
 
 1. Root verb
-2. Mood
-3. Tense
+2. Tense
+3. Mood
 4. Negation
 5. Subordinating suffix
 6. Question suffix
