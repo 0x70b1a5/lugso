@@ -9,13 +9,11 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 FORM|VB suffix|ɻɣiz|rgiz|formal mood
-FUT|VB suffix|θxu|tku|future tense
 IMP|VB suffix|ɣi|gi|imperative mood (a command)
 IND|VB suffix|θʌj|toy|indicative mood (optional except where ambiguous)
 INT|VB suffix|ʌχ|oh|interrogative mood (is ... ?, did X do ...?)
 MOD|VB suffix|ʒvʌχ|zvoh|modal mood "must/have to"
 PREC|VB suffix|θxðuz|tknuz|precative mood (please ...)
-PRET|VB suffix|uɮð|uln|preterite mood ("simple past tense")
 PROH|VB suffix|jʌzβ|yozb|prohibitive mood (don't ... !)
 PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
 song|N|vθʌʃɮzʌf|vtoS-lzof|
@@ -40,7 +38,7 @@ IMP is the "command mood" used when giving orders.
 
 ### IND indicative*
 
-While often unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
+While usually unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
 #### Redundant indicative
 

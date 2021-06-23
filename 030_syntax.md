@@ -77,6 +77,7 @@ Lugso leverages a great number of suffixes. The grammatical order is as follows:
 2. Plural suffix
 3. Case marker
 4. Negation
+5. Question suffix
 
 ### Verb suffixes
 
