@@ -32,12 +32,12 @@ const latinate = str => {
 
 // turns gloss into lugso
 const getWord = (word, map) => {
-    const maybeWord = map[word] || word
-    if (maybeWord && maybeWord != '-') return maybeWord
+    const w = map[word] || word
+    if (w && w != '-') return w
     for (let key in map) {
-        if (key.contains(word)) return map[key]
+        if (key.includes(word)) return map[key]
     }
-    return 'NoWordFound:'+word
+    return 'NoWordFound:"'+word+'"'
 }
 
 const glossify = async gloss => {
@@ -52,11 +52,13 @@ const glossify = async gloss => {
         // this will overwrite duplicate parts of speech,
         // but preserve singletons (e.g. 1SG, 2SG)
         // so that glosses can use 'I' or '1SG'
-        glossMap[row.english.trim()] = 
-        glossMap[row.partOfSpeech.trim()] = 
-            row.lugso.trim()
+        const l = row.lugso.trim()
+        const e = row.english.trim()
+        const p = row.partOfSpeech.trim()
+        glossMap[e] = l
+        if (l != '-') glossMap[p] = l
     })
-    console.log(glossMap)
+    // console.log(glossMap)
 
     return gloss.split(/\s/)
         .map(word => word.split('-')
@@ -65,8 +67,12 @@ const glossify = async gloss => {
         ).join(' ');
 }
 // (async () => {
-//     const g = 'consume-IMP flesh-ACC body-BEN 2SG-POSS'
-//     const out = await glossify(g)
+//     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
+// death 2SG-POSS distant-NEG
+// strong-NMLZ.DER 2SG-POSS deity-PL
+// IMP bless-ADJ.DER
+// flesh 2SG-POSS weak CONJ.but weird-NMLZ.DER strong`
+//     const out = (await Promise.all(g.split('\n').map(async h => await glossify(h)))).join('\n')
 //     console.log(out) 
 // })()
 module.exports = {glossify, ipaify, latinate}
