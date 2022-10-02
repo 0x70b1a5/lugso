@@ -4,6 +4,7 @@
     "dotenv": "^16.0.3",
     "google-spreadsheet": "^3.3.0",
     "gulp": "^4.0.2",
-    "through2": "^4.0.2"
+    "through2": "^4.0.2",
+    "vinyl": "^3.0.0"
   }
 }

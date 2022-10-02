@@ -40,13 +40,17 @@ const getWord = (word, map) => {
     return 'NoWordFound:"'+word+'"'
 }
 
-const glossify = async gloss => {
+const getSheet = async () => {
     const spreadsheet_id = '1w5AXgGZ8VKgCwW03Gdz1VmijRRQw0fJRSU8y4XvD28E'
     const doc = new GoogleSpreadsheet(spreadsheet_id)
     doc.useApiKey(process.env.GOOGLE_API_KEY)
     await doc.loadInfo()
     const dictSheet = doc.sheetsByIndex[0]
     const rows = await dictSheet.getRows()
+    return rows
+}
+
+const glossToLugso = (gloss, rows) => {
     const glossMap = {}
     rows.forEach(row => {
         // this will overwrite duplicate parts of speech,
@@ -75,4 +79,4 @@ const glossify = async gloss => {
 //     const out = (await Promise.all(g.split('\n').map(async h => await glossify(h)))).join('\n')
 //     console.log(out) 
 // })()
-module.exports = {glossify, ipaify, latinate}
+module.exports = { glossToLugso, ipaify, latinate, getSheet }

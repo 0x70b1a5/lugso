@@ -7,23 +7,27 @@ order: 3
 
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
-${r: ACC}$
-${r: consume}$
-${r: 1SG}$
-${r: 2SG}$
-${r: beast}$
-${r: travel through gas}$
-${r: travel through liquid}$
+ACC|N suffix|ir|accusative case
+consume|VB|huf|
+i, me|1SG|kur|
+you|2SG|luk|
+beast|N|tlu|
+travel|VB|yutl|
+travel|VB|yutl|
 
 ## Word Order (Part I)
 
 In English, we say, "I fly". In Lugso, the cultist says, "fly I". Verb comes before subject.
 
-${g: fly 1SG}$
+**fly kur**
+        
+`fly 1SG`
 
 ---
 
-${g: swim beast}$
+**swim tlu**
+        
+`swim beast`
 
 _The/A beast swims._
 
@@ -35,13 +39,15 @@ Lugso has word order V-O-S: a cultist says, "consume me you".
 
 ### Verb-Object-Subject
 
-But how does he know what's the subject and what's the object? In English, we change "I" to "me", or "he" to "him" when the speaker is an object - _I_ hit **him**, but _he_ hits **me** - in Lugso, the cultist appends **-${ACC}$**, which performs the same transformation of any given noun. This is known as the _accusative case_.
+But how does he know what's the subject and what's the object? In English, we change "I" to "me", or "he" to "him" when the speaker is an object - _I_ hit **him**, but _he_ hits **me** - in Lugso, the cultist appends **-ir**, which performs the same transformation of any given noun. This is known as the _accusative case_.
 
 ### Accusative case
 
 A noun obtains the accusative case if the verb is _being done to_ it.
 
-${g: consume 1SG-ACC 2SG}$
+**huf kur-ir luk**
+        
+`consume 1SG-ACC 2SG`
 
 _You consume me._
 
@@ -49,7 +55,7 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-${fly 2SG-ACC beast}$
+fly luk-ir tlu
 
 _The/A beast glides to you._
 

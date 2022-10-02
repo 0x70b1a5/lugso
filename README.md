@@ -17,9 +17,20 @@ Glosses are surrounded by `${ }$` in markdown files. These glosses are transform
 
 Some prefixes exist to format the output differently.
 
-1. (no prefix) - (default) Outputs the lugso translation of the gloss.
-1. `r: ` - valid for a single gloss term. Outputs the entire row of the dictionary spreadsheet for that term interpolated with `|`, for Markdown tables.
-1. `g: ` - outputs the lugso text in `**bold**`, followed by two newlines, followed by the gloss in `\`code\``.
+```
+${consume 1SG}$ -> 
+    huf kur
+${g: consume 1SG}$ -> 
+    **g: huf kur-ir luk**
+          
+    `g: consume 1SG-ACC 2SG`
+${r: consume 1SG}$ ->  # note that '1SG' is ignored; r: only takes the first gloss
+    consume|V|kur|see 'eat'
+```
+
+1. (no prefix) - Intakes a list of glosses separated by spaces. Outputs lugso.
+1. `g: ` - Intakes a list of glosses separated by spaces. Outputs lugso in `**bold**`, followed by two newlines, followed by the gloss in `\`code\``.
+1. `r: ` - Intakes a single gloss. Outputs the entire row of the dictionary spreadsheet, interpolated with `|`, for Markdown tables.
 
 ## Usage
 
