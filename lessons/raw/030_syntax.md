@@ -20,14 +20,14 @@ travel|VB|yutl|
 In English, we say, "I fly". In Lugso, the cultist says, "fly I". Verb comes before subject.
 
 **fly kur**
-        
-`fly 1SG`
+
+  `fly 1SG`
 
 ---
 
 **swim tlu**
-        
-`swim beast`
+
+  `swim beast`
 
 _The/A beast swims._
 
@@ -46,8 +46,8 @@ But how does he know what's the subject and what's the object? In English, we ch
 A noun obtains the accusative case if the verb is _being done to_ it.
 
 **huf kur-ir luk**
-        
-`consume 1SG-ACC 2SG`
+
+  `consume 1SG-ACC 2SG`
 
 _You consume me._
 

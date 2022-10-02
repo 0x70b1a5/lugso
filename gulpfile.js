@@ -19,43 +19,44 @@ function copy () {
 
 async function lugsoifyAll(cb) {
   var rows = await getSheet()
-  return src(paths.lessons.dest + '/*')
+  return src(paths.lessons.src)
   .pipe(through2.obj(function(vinyl, _, cb) {
     let fileContents = vinyl.contents.toString()
     const matches = [...fileContents.matchAll(/\${(.*?)}/g)]
 
-    if (!matches.length) {
-      return cb(null, vinyl);
-    }
+    if (matches.length) {
+      for (const match of matches) {
+        let meat = match[1]
+        const sliced = meat.split(' ')
+        const slice0 = sliced[0]
+        const slice1 = sliced[1] 
+        let out = ''
+        if (slice0 == 'g:') { 
+          meat = meat.slice(3)
+          out = `**${glossToLugso(meat, rows)}**
 
-    for (const match of matches) {
-      let meat = match[1]
-      const sliced = meat.split(' ')
-      const slice0 = sliced[0]
-      const slice1 = sliced[1] 
-      let out = ''
-      if (slice0 == 'g:') { 
-        meat = meat.slice(3)
-        out = `**${glossToLugso(meat, rows)}**
-        
-\`${meat}\``
-      } else if (slice0 == 'r:') {
-        const row = rows.find(r => r.english == slice1 || r.partOfSpeech == slice1)
-        out = `${row.english}|${row.partOfSpeech}|${row.lugso}|${row.notes || ''}`
-      } else {
-        out = glossToLugso(meat, rows)
+  \`${meat}\``
+        } else if (slice0 == 'r:') {
+          const row = rows.find(r => r.english == slice1 || r.partOfSpeech == slice1)
+          out = `${row.english}|${row.partOfSpeech}|${row.lugso}|${row.notes || ''}`
+        } else {
+          out = glossToLugso(meat, rows)
+        }
+
+        fileContents = fileContents.replace(/\${(.*?)}\$/, out)
       }
-
-      fileContents = fileContents.replace(/\${(.*?)}\$/, out)
     }
 
-    const newV = new Vinyl({ ...vinyl, contents: Buffer.from(fileContents, 'utf8') })
+    const newV = new Vinyl({
+      ...vinyl, 
+      contents: Buffer.from(fileContents, 'utf8') 
+    })
 
     cb(null, newV);
   }))
-  .pipe(dest(paths.lessons.dest + '/..'))
+  .pipe(dest(paths.lessons.dest))
 } 
 
-const build = series(copy, lugsoifyAll)
+const build = series(lugsoifyAll)
 
 exports.default = build;
