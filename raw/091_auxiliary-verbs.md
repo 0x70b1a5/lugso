@@ -1,6 +1,7 @@
 ---
 title: Auxiliary Verbs
 permalink: /auxiliary-verbs/
+hide: true
 order: 3
 ---
 

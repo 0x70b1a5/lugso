@@ -1,6 +1,7 @@
 ---
 title: Cassilda's Song
 permalink: /cassildas-song/
+hide: true
 order: 3
 ---
 

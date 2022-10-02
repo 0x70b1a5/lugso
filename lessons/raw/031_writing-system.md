@@ -1,5 +1,6 @@
 ---
 title: Writing System
+
 permalink: /writing-system/
 order: 3
 ---

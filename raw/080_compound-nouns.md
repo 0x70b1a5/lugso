@@ -1,6 +1,7 @@
 ---
 title: Compound Nouns
 permalink: /compound-nouns/
+hide: true
 order: 3
 ---
 

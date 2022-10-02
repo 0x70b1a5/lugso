@@ -1,5 +1,6 @@
 ---
 title: Verb Tense
+hide: true
 permalink: /verb-tense/
 order: 3
 ---

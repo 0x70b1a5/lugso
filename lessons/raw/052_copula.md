@@ -1,4 +1,5 @@
 ---
+
 title: Copula
 permalink: /copula/
 order: 3

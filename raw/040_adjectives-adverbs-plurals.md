@@ -1,5 +1,6 @@
 ---
 title: Adjectives, Adverbs, Plurals
+hide: true
 permalink: /adjectives-adverbs-plurals/
 order: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: Verb Moods
+hide: true
 permalink: /verb-moods/
 order: 3
 ---

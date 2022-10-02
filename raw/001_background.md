@@ -1,4 +1,5 @@
 ---
+hide: true
 title: Background
 permalink: /background/
 order: 2

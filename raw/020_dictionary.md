@@ -1,4 +1,5 @@
 ---
+hide: true
 title: Dictionary
 permalink: /dictionary/
 order: 3

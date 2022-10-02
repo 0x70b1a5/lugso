@@ -1,6 +1,7 @@
 ---
 title: Questions
-permalink: /questions/
+perma
+ink: /questions/
 order: 3
 ---
 

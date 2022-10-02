@@ -1,5 +1,6 @@
 ---
 title: Subordinate Clauses
+hide: true
 permalink: /subordinate-clauses/
 order: 3
 ---

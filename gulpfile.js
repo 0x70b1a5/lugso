@@ -22,6 +22,7 @@ async function lugsoifyAll(cb) {
   return src(paths.lessons.src)
   .pipe(through2.obj(function(vinyl, _, cb) {
     let fileContents = vinyl.contents.toString()
+    fileContents = fileContents.replace(/hide: true/, '')
     const matches = [...fileContents.matchAll(/\${(.*?)}/g)]
 
     if (matches.length) {

@@ -1,5 +1,6 @@
 ---
 title: Noun Cases, Negation
+hide: true
 permalink: /noun-cases-negation/
 order: 3
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: Syntax
 permalink: /syntax/
 order: 3

@@ -1,4 +1,5 @@
 ---
+hide: true
 title: Phonology
 permalink: /phonology/
 order: 3
