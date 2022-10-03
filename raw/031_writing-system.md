@@ -52,14 +52,14 @@ v|v|1'1
 θ|t|2
 θx|tk|222
 ð|d, n|2'
-ʃ|S|12
-ʒ|Z|1'2
+ʃ|5|12
+ʒ|3|1'2
 s|s|21
 z|z|2'1
 x|k|22
 ɣ|g|2'2
 ɮ|l|L
-χ |h|L'
+χ|h|L'
 ɻ|r|1L
 j|y|2L
 
@@ -69,7 +69,7 @@ j|y|2L
 
 The syllables have been hyphenated to assist you in seeing the breakdown.
 
-**lug-so guS-li-ib-so sot-so:**
+${g: blood-GEN deity_intelligent-PL-GEN thought-GEN}$
 
 ![lugso guSliibso sotso](/assets/lugso%20guSliibso%20sotso.png)
 
@@ -103,13 +103,17 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 #### Style 1: Uncapped
 
-**gorn hupsniso hZunbkub:** _Order of the Bloated Woman_ (from _Masks of Nyarlathotep_, Shanghai chapter.)
+${g: order_natural human-female-GEN gorge-PTCP.PAST.PASS}$
+
+_Order of the Bloated Woman_ (from _Masks of Nyarlathotep_, Shanghai chapter.)
 
 ![Order of the Bloated Woman](/assets/gorn%20hupsniso%20hZunbkub.png)
 
 Note the ornamental loops in each word. Technically, it is ambiguous with **ogorno hupsoniso hZunbokub**, but thankfully, that means nothing. Be advised that you may wish to double-check whether your ornamental loops create unintended - or intended - double meanings.
 
 #### Style 2: Capped
+
+${g: child-ACC}$
 
 ![consonant caps](/assets/yols-ir1.png)
 
@@ -119,10 +123,14 @@ In longer words, sometimes you observe many subsequent o's. In these cases, you 
 
 ![Child of Nyarlathotep](/assets/yols-nyorlothotopso1.png)
 
-**yols nyorlothotopso**: _child of Nyarlathotep_. (not Nyarlathotep's child - subtle difference!)
+**${child Nyarlathotep-GEN}$**: 
+
+_child of Nyarlathotep_. (not Nyarlathotep's child - subtle difference!)
 
 If your long word with many o's also has u's or i's, make sure they are vertical, to avoid confusion:
 
 ![through infinity/infinities](assets/gololollzofpzuvZ-gololollzofib1.png)
+
+${g: infinity-PROL}$
 
 Note the lack of a loop on the last syllable of **gololollzofib** - a loop would make the bottom horizontal read as **lzofoib**.

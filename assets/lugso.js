@@ -34,9 +34,23 @@ const latinate = str => {
 const getWord = (word, map) => {
     const w = map[word] || word
     if (w && w != '-') return w
+
+    // words with notes of the pattern 'see X' should furnish X
+    const notes = map[word+'_notes']
+    if (notes) {
+        const redirect = notes.match(/^see (.*)/)
+        // -> ['see xyz', 'xyz', index: 4, input: 'see xyz', groups: undefined]
+        if (redirect && redirect[1]) {
+            const dest = map[redirect[1]]
+            if (dest) return dest
+        }
+    }
+
+    // otherwise, guess based on includes
     for (let key in map) {
         if (key.includes(word)) return map[key]
     }
+
     return 'NoWordFound:"'+word+'"'
 }
 
@@ -60,11 +74,12 @@ const glossToLugso = (gloss, rows) => {
         const e = row.english.trim()
         const p = row.partOfSpeech.trim()
         glossMap[e] = l
+        glossMap[e+'_notes'] = row.notes ? row.notes.trim() : undefined
         if (l != '-') glossMap[p] = l
     })
     // console.log(glossMap)
 
-    return gloss.split(/\s/)
+    return gloss.split(/\s+/)
         .map(word => word.split('-')
             .map(w => getWord(w, glossMap))
             .join('-')

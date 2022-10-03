@@ -36,7 +36,7 @@ async function lugsoifyAll(cb) {
           meat = meat.slice(3)
           out = `**${glossToLugso(meat, rows)}**
 
-  \`${meat}\``
+\`${meat}\``
         } else if (slice0 == 'r:') {
           const row = rows.find(r => r.english == slice1 || r.partOfSpeech == slice1)
           out = `${row.english}|${row.partOfSpeech}|${row.lugso}|${row.notes || ''}`
