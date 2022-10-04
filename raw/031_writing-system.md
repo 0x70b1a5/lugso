@@ -123,7 +123,7 @@ In longer words, sometimes you observe many subsequent o's. In these cases, you 
 
 ![Child of Nyarlathotep](/assets/yols-nyorlothotopso1.png)
 
-**${child Nyarlathotep-GEN}$**: 
+${g: child nyarlathotep-GEN}$
 
 _child of Nyarlathotep_. (not Nyarlathotep's child - subtle difference!)
 
@@ -131,6 +131,6 @@ If your long word with many o's also has u's or i's, make sure they are vertical
 
 ![through infinity/infinities](assets/gololollzofpzuvZ-gololollzofib1.png)
 
-${g: infinity-PROL}$
+${g: infinite-NMLZ.DER-PROL}$
 
-Note the lack of a loop on the last syllable of **gololollzofib** - a loop would make the bottom horizontal read as **lzofoib**.
+Note the lack of a loop on the last syllable of **${infinite-NMLZ.DER-PROL}$** - a loop would make the bottom horizontal read as **lzofoib**.

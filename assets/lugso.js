@@ -32,7 +32,7 @@ const latinate = str => {
 
 // turns gloss into lugso
 const getWord = (word, map) => {
-    const w = map[word] || word
+    const w = map[word]
     if (w && w != '-') return w
 
     // words with notes of the pattern 'see X' should furnish X
@@ -64,7 +64,7 @@ const getSheet = async () => {
     return rows
 }
 
-const glossToLugso = (gloss, rows) => {
+const rowsToMap = rows => {
     const glossMap = {}
     rows.forEach(row => {
         // this will overwrite duplicate parts of speech,
@@ -77,14 +77,14 @@ const glossToLugso = (gloss, rows) => {
         glossMap[e+'_notes'] = row.notes ? row.notes.trim() : undefined
         if (l != '-') glossMap[p] = l
     })
-    // console.log(glossMap)
-
-    return gloss.split(/\s+/)
-        .map(word => word.split('-')
-            .map(w => getWord(w, glossMap))
-            .join('-')
-        ).join(' ');
+    return glossMap
 }
+
+const glossToLugso = (gloss, map) => gloss.split(/\s+/)
+    .map(word => word.split('-')
+        .map(w => getWord(w, map))
+        .join('-')
+    ).join(' ');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
 // death 2SG-POSS distant-NEG
@@ -94,4 +94,4 @@ const glossToLugso = (gloss, rows) => {
 //     const out = (await Promise.all(g.split('\n').map(async h => await glossify(h)))).join('\n')
 //     console.log(out) 
 // })()
-module.exports = { glossToLugso, ipaify, latinate, getSheet }
+module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap }

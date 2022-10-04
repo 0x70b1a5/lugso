@@ -1,6 +1,6 @@
 const { series, src, dest } = require('gulp')
 const through2 = require('through2')
-const { glossToLugso, getSheet } = require('./assets/lugso')
+const { glossToLugso, getSheet, rowsToMap } = require('./assets/lugso')
 const Vinyl = require('vinyl')
 
 console.log(process.cwd())
@@ -26,6 +26,7 @@ async function lugsoifyAll(cb) {
     const matches = [...fileContents.matchAll(/\${(.*?)}/g)]
 
     if (matches.length) {
+      const map = rowsToMap(rows)
       for (const match of matches) {
         let meat = match[1]
         const sliced = meat.split(' ')
@@ -34,14 +35,18 @@ async function lugsoifyAll(cb) {
         let out = ''
         if (slice0 == 'g:') { 
           meat = meat.slice(3)
-          out = `**${glossToLugso(meat, rows)}**
+          out = `**${glossToLugso(meat, map)}**
 
 \`${meat}\``
         } else if (slice0 == 'r:') {
-          const row = rows.find(r => r.english == slice1 || r.partOfSpeech == slice1)
+          const row = rows.find(r => 
+            r.english == slice1 || 
+            r.partOfSpeech == slice1 || 
+            r.english.includes(slice1))
+          if (!row) throw `could not find row for meat: ${meat}`
           out = `${row.english}|${row.partOfSpeech}|${row.lugso}|${row.notes || ''}`
         } else {
-          out = glossToLugso(meat, rows)
+          out = glossToLugso(meat, map)
         }
 
         fileContents = fileContents.replace(/\${(.*?)}\$/, out)

@@ -20,13 +20,13 @@ travel|VB|yutl|
 
 In English, we say, "I fly". In Lugso, the cultist says, "fly I". Verb comes before subject.
 
-**fly kur**
+**NoWordFound:"fly" kur**
 
 `fly 1SG`
 
 ---
 
-**swim tlu**
+**vuk tlu**
 
 `swim beast`
 
@@ -56,7 +56,7 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-fly luk-ir tlu
+NoWordFound:"fly" luk-ir tlu
 
 _The/A beast glides to you._
 

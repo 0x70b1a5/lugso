@@ -105,7 +105,7 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 #### Style 1: Uncapped
 
-**order_natural hupz-buli-so h3unb-kub**
+**NoWordFound:"order_natural" hupz-buli-so h3unb-kub**
 
 `order_natural human-female-GEN gorge-PTCP.PAST.PASS`
 
@@ -117,7 +117,9 @@ Note the ornamental loops in each word. Technically, it is ambiguous with **ogor
 
 #### Style 2: Capped
 
-yols-ir
+**yols-ir**
+
+`child-ACC`
 
 ![consonant caps](/assets/yols-ir1.png)
 
@@ -127,7 +129,9 @@ In longer words, sometimes you observe many subsequent o's. In these cases, you 
 
 ![Child of Nyarlathotep](/assets/yols-nyorlothotopso1.png)
 
-**yols Nyarlathotep-so**: 
+**yols nyorloshotop-so**
+
+`child nyarlathotep-GEN`
 
 _child of Nyarlathotep_. (not Nyarlathotep's child - subtle difference!)
 
@@ -135,8 +139,8 @@ If your long word with many o's also has u's or i's, make sure they are vertical
 
 ![through infinity/infinities](assets/gololollzofpzuvZ-gololollzofib1.png)
 
-**infinity-pzuv3**
+**gololol-lzox-pzuv3**
 
-`infinity-PROL`
+`infinite-NMLZ.DER-PROL`
 
-Note the lack of a loop on the last syllable of **gololollzofib** - a loop would make the bottom horizontal read as **lzofoib**.
+Note the lack of a loop on the last syllable of **gololol-lzox-pzuv3** - a loop would make the bottom horizontal read as **lzofoib**.
