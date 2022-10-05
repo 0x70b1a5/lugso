@@ -41,19 +41,19 @@ What is a _noun case_? In a sense, it is the difference between "I" and "me". Un
 
 In Lugso, various aspects of language are communicated with noun case.
 
-Case|Abbreviation|Usage
-|-|-
-Ablative|ABL|"about N, from (location)"
-Accusative|ACC|"to N, towards N"
-Benefactive|BEN|"for N, for (the benefit of) N"
-Comitative|COM|"together with N, alongside N"
-Genitive|GEN|"of N, N's"
-Instrumental|INS|"using N"
-Locative|LOC|"at N, in N"
-Nominative|NOM|(the subject/actor in a sentence)
-Prolative|PROL|"by way of, via, through"
-Temporal|TEMP|"during N"
-Vocative|VOC|"Hey N! O N!"
+Case||Lugso|Notes
+|-|-|-|-
+${r: ABL}$
+${r: ACC}$
+${r: BEN}$
+${r: COM}$
+${r: GEN}$
+${r: INS}$
+${r: LOC}$
+${r: NOM}$
+${r: PROL}$
+${r: TEMP}$
+${r: VOC}$
 
 ## Examples
 
@@ -129,7 +129,7 @@ _Strange moons circle through the skies._
 
 ## Negation
 
-**-zit** negates any non-verb.
+**-${NEG}$** negates any non-verb.
 
 ${g: eye liquid-NEG 3SG-POSS}$
 

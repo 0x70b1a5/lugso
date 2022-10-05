@@ -41,19 +41,19 @@ What is a _noun case_? In a sense, it is the difference between "I" and "me". Un
 
 In Lugso, various aspects of language are communicated with noun case.
 
-Case|Abbreviation|Usage
-|-|-
-Ablative|ABL|"about N, from (location)"
-Accusative|ACC|"to N, towards N"
-Benefactive|BEN|"for N, for (the benefit of) N"
-Comitative|COM|"together with N, alongside N"
-Genitive|GEN|"of N, N's"
-Instrumental|INS|"using N"
-Locative|LOC|"at N, in N"
-Nominative|NOM|(the subject/actor in a sentence)
-Prolative|PROL|"by way of, via, through"
-Temporal|TEMP|"during N"
-Vocative|VOC|"Hey N! O N!"
+Case||Lugso|Notes
+|-|-|-|-
+ABL|N suffix|vsug|ablative case - about N, from location
+ACC|N suffix|ir|accusative case - to N, towards location
+BEN|N suffix|luli|benefactive case - for the sake of N
+COM|N suffix|niy|comitative case "together with N, alongside N"
+GEN|N suffix|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+INS|N suffix|iffo|instrumental case - using N
+LOC|N suffix|5itk|locative case - at N, in N
+NOM|N suffix|∅|nominative case - the subject/actor in a sentence
+PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
+TEMP|N suffix|zki|temporal case - during N
+VOC|N suffix|tut|vocative case - Hey N! O, N!
 
 ## Examples
 

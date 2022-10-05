@@ -56,4 +56,4 @@ _The/A heretic's future..._
 
 Speakers of Latin will be confused at the inclusion of both the possessive suffix and the genitive case in Lugso. "What is the difference between _my blood_ and _the blood of me_?"
 
-In Lugso, Genitive is used to indicate origin and relation - hence **lug-so** _of blood_. Possessive, by contrast, is strictly property/dominion/possession - **lug-so gu5li-so sot-ib-so** _of blood of gods of thoughts_ - not "thoughts' gods' blood's". Hence, the child that a mother gives birth to is both **yols rih-so** and **yols rih-gu** - his mother's child in origin, and (until he is an adult) his mother's child in dominion. 
+In Lugso, Genitive is used to indicate origin and relation - hence **lug-so** _of blood_. Possessive, by contrast, is strictly property/dominion/possession - **lug-so gu5li-ib-so sot-ib-so** _of blood of gods of thoughts_ - not "thoughts' gods' blood's". Hence, the child that a mother gives birth to is both **yols rih-so** and **yols rih-gu** - his mother's child in origin, and (until he is an adult) his mother's child in dominion. 

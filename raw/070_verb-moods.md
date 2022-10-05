@@ -9,25 +9,25 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-FORM|VB suffix|ɻɣiz|rgiz|formal mood
-IMP|VB suffix|ɣi|gi|imperative mood (a command)
-IND|VB suffix|θʌj|toy|indicative mood (optional except where ambiguous)
-INT|VB suffix|ʌχ|oh|interrogative mood (is ... ?, did X do ...?)
-MOD|VB suffix|ʒvʌχ|zvoh|modal mood "must/have to"
-PREC|VB suffix|θxðuz|tknuz|precative mood (please ...)
-PROH|VB suffix|jʌzβ|yozb|prohibitive mood (don't ... !)
-PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
-song|N|vθʌʃɮzʌf|vtoS-lzof|
-voice|N|θʌj|toy|
-grant, allow, permit, accept|VB|fuð|fun|
-we (inclusive)|PRO|vi|vi
-we (exclusive)|PRO|vʌ|vo
+${r: FORM}$
+${r: IMP}$
+${r: IND}$
+${r: INT}$
+${r: MOD}$
+${r: PREC}$
+${r: PROH}$
+${r: PROL}$
+${r: song}$
+${r: voice}$
+${r: grant}$
+${r: we_exc}$
+${r: we_inc}$
 
 ## Verb Moods
 
 Verb moods indicate the way in which a certain action is performed. Think of, "Please would you do this?" versus "Do this!" versus "Are you doing this?" versus "You must do this."
 
-### IMP imperative
+### IMP imperative ${IMP}$
 
 ${g: surrender-IMP victim-ACC DET.PROX Cthulhu-BEN}$
 
@@ -35,7 +35,7 @@ _Offer this victim to Cthulhu!_
 
 IMP is the "command mood" used when giving orders.
 
-### IND indicative*
+### IND indicative* ${IND}$
 
 While usually unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
@@ -59,7 +59,7 @@ ${g: song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS}$
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** (fhtogni (yun kurgu)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (${song-VOC soul-GEN 1SG-POSS dead}$) (${voice 1SG-POSS}$), since the adjective **${dead}$** follows the noun **${soul-GEN 1SG-POSS}$**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (${song-VOC soul-GEN 1SG-POSS}$) **${IND}$** (${dead}$ (${voice 1SG-POSS}$)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -71,25 +71,25 @@ ${g: dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS}$
 
 _My voice is dead, O song of my soul._
 
-### FORM formal: rgiz
+### FORM formal: ${FORM}$
 
 ${g: Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-POSS}$
 
 _Thy tentacles writhe forever, O Cthulhu!_
 
-### INT Interrogative: oh
+### INT Interrogative: ${INT}$
 
 ${g: sleep-INT Cthulhu}$
 
 _Does Cthulhu sleep?_
 
-### MOD modal: zvoh
+### MOD modal: ${zvoh}$
 
 ${g: gorge-MOD Cthulhu-ACC 1PL.INC}$
 
 _We must satisfy Cthulhu!_
 
-### PREC precative: tknuz
+### PREC precative: ${PREC}$
 
 ${g: Cthulhu-VOC consume-PREC victim DET.PROX}$
 
@@ -97,13 +97,13 @@ _O Cthulhu, (will you) please accept this victim!_
 
 **tknuz** signifies the utterance is a request.
 
-### PROH prohibitive: yozb
+### PROH prohibitive: ${PROH}$
 
 ${g: blaspheme-PROH name Cthulhu-POSS}$
 
 _Do not blaspheme the name of Cthulhu!_
 
-### PROL prolative: pzuvZ
+### PROL prolative: ${PROL}$
 
 ${g: revolve sky-PL-PROL moon-PL beautiful}$
 

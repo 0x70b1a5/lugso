@@ -9,21 +9,21 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-PRV|N suffix|iðʃ|inS|privative case ("-less")
-corpse|N compound|ɣvifð-fχθʌɣði|gvifn-fhtogni|body sleeping
-deity (intelligent)|N|ɣuʃɮi|guSli
-house, home|N|uɣʌðʌɣɮ|ugonogl|wgah'nagl
-learn|VB-N compound|χuf-ju|huf-yu|consume knowledge
-milk|N|θʒuχ|tZuh
-name|N|-|zuyn-pus|symbol-soul
-ocean|N compound|χɸiʃ-ɮuɣ-ʃθxi|hpiS-lug-Stki|space blood sky
-organ|N compound|vɣʌɮ-ʒiɣz|vgol-Zigz|(component body)
-pact|N compound|βuɮ-ɣuʃɮi|bul-guSli|contract-deity
-promise|N compound|βuɮ-ɸʌββ|bul-pobb|contract mortal
-speech|N compound|ɮɣuʒɣ-sʌθ|lguZg-sot|(noise thought)
-sun|N compound||lih-ugonogl|star home
-water|N compound|ɮuɣ-ʃθxi|lug-Stki|(blood sky)
-word|N compound|zujð-sʌθ|zuyn-sot|(symbol thought)
+${r: PRV}$
+${r: corpse}$
+${r: deity_intelligent}$
+${r: house}$
+${r: learn}$
+${r: milk}$
+${r: name}$
+${r: ocean}$
+${r: organ}$
+${r: pact}$
+${r: promise}$
+${r: speech}$
+${r: sun}$
+${r: water}$
+${r: word}$
 
 A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "fire truck".
 

@@ -9,25 +9,25 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-FORM|VB suffix|ɻɣiz|rgiz|formal mood
-IMP|VB suffix|ɣi|gi|imperative mood (a command)
-IND|VB suffix|θʌj|toy|indicative mood (optional except where ambiguous)
-INT|VB suffix|ʌχ|oh|interrogative mood (is ... ?, did X do ...?)
-MOD|VB suffix|ʒvʌχ|zvoh|modal mood "must/have to"
-PREC|VB suffix|θxðuz|tknuz|precative mood (please ...)
-PROH|VB suffix|jʌzβ|yozb|prohibitive mood (don't ... !)
-PROL|VB suffix|ɸzuvʒ|pzuvZ|prolative mood (by way of, via)
-song|N|vθʌʃɮzʌf|vtoS-lzof|
-voice|N|θʌj|toy|
-grant, allow, permit, accept|VB|fuð|fun|
-we (inclusive)|PRO|vi|vi
-we (exclusive)|PRO|vʌ|vo
+FORM|VB suffix|rgiz|formal mood 
+IMP|VB suffix|gi|imperative mood (a command)
+IND|VB suffix|toy|indicative mood - (optional except where ambiguous)
+INT|VB suffix|oh|interrogative mood  - is ...? did X ...?
+MOD|VB suffix|zvoh|modal mood "must/have to"
+PREC|VB suffix|tknuz|precative mood (please ...)
+PROH|VB suffix|yozb|prohibitive mood (do not ...)
+PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
+song|N|vtu3|
+voice|VB|yun|
+grant|VB|fun|allow, permit, accept
+we_exc|1PL.EX|vo|
+we_inc|1PL.INC|vi|
 
 ## Verb Moods
 
 Verb moods indicate the way in which a certain action is performed. Think of, "Please would you do this?" versus "Do this!" versus "Are you doing this?" versus "You must do this."
 
-### IMP imperative
+### IMP imperative gi
 
 **gu5h-gi tgus-tlu-ir ivih NoWordFound:"Cthulhu"-luli**
 
@@ -37,7 +37,7 @@ _Offer this victim to Cthulhu!_
 
 IMP is the "command mood" used when giving orders.
 
-### IND indicative*
+### IND indicative* toy
 
 While usually unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
@@ -53,7 +53,7 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**NoWordFound:"song"-tut pus-so kur-gu toy fhtogni yun kur-gu**
+**vtu3-tut pus-so kur-gu toy fhtogni yun kur-gu**
 
 `song-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS`
 
@@ -61,13 +61,13 @@ _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**NoWordFound:"song"-tut pus-so kur-gu fhtogni yun kur-gu**
+**vtu3-tut pus-so kur-gu fhtogni yun kur-gu**
 
 `song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS`
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtoS-lzof-tut pus-so kurgu fhtogni) (yun kurgu), since the adjective **fhtogni** follows the noun **pusso kurgu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtoS-lzof-tut pus-so kurgu) **toy** (fhtogni (yun kurgu)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3-tut pus-so kur-gu fhtogni) (yun kur-gu), since the adjective **fhtogni** follows the noun **pus-so kur-gu**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3-tut pus-so kur-gu) **toy** (fhtogni (yun kur-gu)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -75,7 +75,7 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogni yun kur-gu NoWordFound:"song"-tut pus-so kur-gu**
+**fhtogni yun kur-gu vtu3-tut pus-so kur-gu**
 
 `dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS`
 
@@ -97,7 +97,7 @@ _Thy tentacles writhe forever, O Cthulhu!_
 
 _Does Cthulhu sleep?_
 
-### MOD modal: zvoh
+### MOD modal: NoWordFound:"zvoh"
 
 **h3unb-zvoh NoWordFound:"Cthulhu"-ir vi**
 
@@ -123,7 +123,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 _Do not blaspheme the name of Cthulhu!_
 
-### PROL prolative: pzuvZ
+### PROL prolative: pzuv3
 
 **lni 5tki-ib-pzuv3 NoWordFound:"moon"-ib olnri5**
 

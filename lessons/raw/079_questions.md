@@ -7,33 +7,40 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-INT|VB suffix|ʌχ|oh|interrogative mood (is ... ?, did X do ...?)
-Q|suffix|ʃu|Su|question suffix
-dream|VB|zʌðθx|zontk
-tremble|VB|ʌɸz|opz
-uncertain|ADJ|zvʌjɣ|zvoyg
-voice|VB|juð|yun
-dry out, dessicate|VB|θxɻʌθz|tkrotz
-heretic|N|isv|isv
-hidden|ADJ|xuθθ|kutt
-consummate|VB|xβiθxɸ|kbitkp
-DET.PROX|PART|iviχ|ivih|"this" (proximal determinant)
-seek|VB|ɻiɮs|rils
-come|VB|zfʌj|zfoy
-changing, mercurial|ADJ|fiχ|fih
-child|N|Yʌɮs|yols
+INT|VB suffix|oh|interrogative mood  - is ...? did X ...?
+${r: Q}|s$
+how|Q|lkuz5u|INS-Q
+dream|VB|zontk|
+tremble|VB|opz|
+uncertain|ADJ|zvoyg|
+voice|VB|yun|
+dry out, dessicate|VB|tkrotz|
+heretic|N|isv|
+hidden|ADJ|kutt|
+consummate|VB|kbitkp|
+DET.PROX|PART|ivih|proximal determinant (this)
+DET.DIST|PART|ivol|distal determinant (that)
+seek|VB|rils|
+come|VB|zfoy|
+changing|ADJ|fih|mercurial, capricious
 
 ## Simple questions
 
-### Su: questions about things [noun suffix or standalone]
+### child|N|yols|: questions about things [noun suffix or standalone]
 
-**Su** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
+**5ol5u** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
+
+5ol5u
+
+_Which human is Cthulhu eating?_
+
+---
 
 **huf hupz-5ol5u NoWordFound:"Cthulhu"**
 
 `consume human-Q Cthulhu`
 
-_Which human is Cthulhu eating?_
+_What is Cthulhu eating?_
 
 ---
 
@@ -41,7 +48,9 @@ _Which human is Cthulhu eating?_
 
 `consume Q Cthulhu`
 
-_What is Cthulhu eating?_
+_What is Cthulhu?_
+
+Note here again the invisible copula.
 
 ---
 
@@ -49,27 +58,25 @@ _What is Cthulhu eating?_
 
 `Q Cthulhu`
 
-_What is Cthulhu?_
-
-Note here again the invisible copula.
-
----
-
-**huf hupz NoWordFound:"Cthulhu"-5ol5u**
-
-`consume human Cthulhu-Q`
-
 _Is **Cthulhu** eating a human (or is something else eating it)?_
 
-### oh: questions about actions and states [verb suffix - interrogative mood]
+### **huf hupz NoWordFound:"Cthulhu"-5ol5u**
+
+`consume human Cthulhu-Q`: questions about actions and states [verb suffix - interrogative mood]
 
 **oh** is a verb suffix, and is used for questioning _whether_ the action is occurring.
+
+oh
+
+_Does Cthulhu sleep/die?_
+
+---
 
 **fhtogni-oh NoWordFound:"Cthulhu"**
 
 `sleep-INT Cthulhu`
 
-_Does Cthulhu sleep/die?_
+_Does Cthulhu dream?_
 
 ---
 
@@ -77,72 +84,64 @@ _Does Cthulhu sleep/die?_
 
 `dream-INT Cthulhu`
 
-_Does Cthulhu dream?_
-
----
-
-**huf-oh hupz NoWordFound:"Cthulhu"**
-
-`consume-INT human Cthulhu`
-
 _Is Cthulhu **eating** a human (or doing something else to it)?_
 
 #### Auxiliary verbs
 
-**oh** attaches to the auxiliary when forming a question.
+****huf-oh hupz NoWordFound:"Cthulhu"**
 
-**huf-yog vgov-oh sru3-ir ivol lug-so luk**
+`consume-INT human Cthulhu`** attaches to the auxiliary when forming a question.
 
-`consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
+oh
 
 _Can you learn what that blood portends?_
 
-### "Wh-" words, using Q + noun case
+### "Wh-" words, using noun case + **huf-yog vgov-oh sru3-ir ivol lug-so luk**
 
-#### "where": Su + Locative
+`consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
 
-**opz 5ol5u-5itk yun-ib zvoyg**
+#### "where": Locative + Q
 
-`tremble Q-LOC voice-PL uncertain`
+5ol5u
 
 _Where do the uncertain voices tremble?_
 
-#### "how": Su + Instrumental
+#### "how": Instrumental + Q
 
-**tkrotz 5ol5u-iffo isv-ib kutt luk**
+**opz 5itk-5ol5u yun-ib zvoyg**
 
-`dessicate Q-INS heretic-PL hidden 2SG`
+`tremble LOC-Q voice-PL uncertain`
 
 _How did you dehydrate the hidden heretics?_
 
-#### "whence/from where": Su + Ablative
+#### "whence/from where": Ablative + Q
 
-**zfoy 5ol5u-vsug tgus-tlu ivih**
+**tkrotz iffo-5ol5u isv-ib kutt luk**
 
-`come Q-ABL victim DET.PROX`
+`dessicate INS-Q heretic-PL hidden 2SG`
 
 _Where did this sacrifice come from?_
 
-#### "why": Su + Prolative
+#### "why": Prolative + Q
 
-**fih 5ol5u-pzuv3 yols**
+**zfoy vsug-5ol5u tgus-tlu ivih**
 
-`mercurial Q-PROL child`
+`come ABL-Q victim DET.PROX`
 
 _Why is the child changing?_
 
-#### "when": Su + Temporal
+#### "when": Temporal + Q
 
-**fihttgi 5ol5u-zki yols**
+**NoWordFound:"mercurial" pzuv3-5ol5u yols**
 
-`change Q-TEMP child`
+`mercurial PROL-Q child`
 
 _When does the child change?_
 
-#### "who": agent + Su
+#### "who": agent + **fihttgi zki-5ol5u yols**
 
-**huf tu5o-ir ozog-5ol5u**
+`change TEMP-Q child`
 
-`consume priest-ACC agent-Q`
+5ol5u
 
 _Who (which agent/actor) crushed the priest?_
