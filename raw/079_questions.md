@@ -11,7 +11,7 @@ ${r: INT}$
 ${r: Q}|s$
 ${r: dream}$
 ${r: tremble}$
-${r: uncertain}$
+${r: certain}$
 ${r: voice}$
 ${r: dry}$
 ${r: heretic}$
@@ -86,7 +86,7 @@ _Can you learn what that blood portends?_
 
 #### "where": Locative + Q
 
-${g: tremble LOC-Q voice-PL uncertain}$
+${g: tremble LOC-Q voice-PL certain-NEG}$
 
 _Where do the uncertain voices tremble?_
 
@@ -114,7 +114,7 @@ ${g: change TEMP-Q child}$
 
 _When does the child change?_
 
-#### "who": agent + ${Q}$
+#### "who": agent + ${Q}$ **(not a noun case)*
 
 ${g: crush priest-ACC agent-Q}$
 

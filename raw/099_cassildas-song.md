@@ -41,66 +41,52 @@ Lost Carcosa.
 
 ## Translation
 
-**zkiyS yukSitk rotkib ogS-lug-Stki.**<br>
+# TODO: line breaks only on sentence endings for grammar sake
+
 _Along the shore the cloud waves break._<br>
-`dissipate shore-LOC wave-PL gas-blood-sky`<br>
+${g: dissipate shore-LOC wave-PL gas-blood-sky}$<br>
 
-**zyuzh tkgihp-lug-StkiSitk nhokb lih-ugonoglib tkurlzoful.**<br>
 _The twin suns sink beneath the lake._<br>
-`descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`<br>
+${g: descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two}$<br>
 
-**hsuy fvols-firib**<br>
 _The shadows lengthen_<br>
-`extrude orifice-light-PL`<br>
+${g: extrude orifice-light-PL}$<br>
 
-**korkosoSitk.**<br>
 _In Carcosa._<br>
-`Carcosa-LOC`<br>
+${g: Carcosa-LOC}$<br>
 
-**ZoZ olnriS ffihhgsuSt lihib Zkig,**<br>
 _Strange is the night where black stars rise,_<br>
-`night beautiful rise-SUB.location star-PL black`<br>
+${g: night beautiful rise-SUB.location star-PL black}$<br>
 
-**lniin StkiibpzuvZ yols-yols-lihib olnriS,**<br>
 _And strange moons circle through the skies_<br>
-`revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`<br>
+${g: revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful}$<br>
 
-**iS olnriStkutkyiy**<br>
 _But stranger still is_<br>
-`CONJ.but beautiful-AUG-EMPH`<br>
+${g: CONJ.but beautiful-AUG-EMPH}$<br>
 
-**korkoso tyolzof.**<br>
 _Lost Carcosa._<br>
-`Carcosa lose-NMLZ.DER.patient`<br>
+${g: Carcosa lose-NMLZ.DER.patient}$<br>
 
-**fhtognzvoh uZzitfbuyb**<br>
 _Must die unheard_<br>
-`die-MOD sense-NEG-ADJ.DER`<br>
+${g: die-MOD sense-NEG-ADJ.DER}$<br>
 
-**pingsuSt ilzlzofib bgoklzotso**<br>
 _where flap the tatters of the King_<br>
-`flail-SUB.where shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN`<br>
+${g: flail-SUB.where shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN}$<br>
 
-**vtoSlzofib vtoStkuor hyodis**<br>
 _songs that the Hyades shall sing,_<br>
-`sing-NMLZ.DER.patient-PL sing-FUT-REL Hyades`<br>
+${g: song-PL sing-FUT-REL Hyades}$<br>
 
-**korkosoSitk Zkig**<br>
 _in dim Carcosa._<br>
-`Carcosa-LOC dark`<br>
+${g: Carcosa-LOC dark}$<br>
 
-**vtoSlzoftut pusso kurgu toy fhtogni yun kurgu**<br>
 _Song of my soul, my voice is dead;_<br>
-`sing-NMLZ.DER.patient-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS`<br>
+${g: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$<br>
 
-**fhtogngi luk vtoSfbuybzit**<br>
 _Die thou, unsung,_<br>
-`sleep-IMP 2SG sing-ADJ.DER-NEG`<br>
+${g: sleep-IMP 2SG sing-ADJ.DER-NEG}$<br>
 
-**tkrotzriy fhtogn gir lug-uyyib ilzfbuybzit**<br>
 _as tears unshed shall dry and die_<br>
-`dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
+${g: dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG}$<br>
 
-**korkosoSitk tyolzof**<br>
 _In lost Carcosa._<br>
-`Carcosa-LOC lose-NMLZ.DER.patient`<br>
+${g: Carcosa-LOC lose-NMLZ.DER.patient}$<br>

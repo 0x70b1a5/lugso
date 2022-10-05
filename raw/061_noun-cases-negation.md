@@ -131,7 +131,7 @@ _Strange moons circle through the skies._
 
 **-${NEG}$** negates any non-verb.
 
-${g: eye liquid-NEG 3SG-POSS}$
+${g: eye liquid-NEG 3SG-GEN}$
 
 _Its illiquid eye..._
 

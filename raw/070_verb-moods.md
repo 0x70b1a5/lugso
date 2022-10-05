@@ -49,17 +49,17 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-${g: song-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS}$
+${g: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$
 
 _Song of my soul, my voice is dead._
 
 #### WRONG
 
-${g: song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS}$
+${g: song-VOC soul-GEN 1SG-GEN dead voice 1SG-GEN}$
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (${song-VOC soul-GEN 1SG-POSS dead}$) (${voice 1SG-POSS}$), since the adjective **${dead}$** follows the noun **${soul-GEN 1SG-POSS}$**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (${song-VOC soul-GEN 1SG-POSS}$) **${IND}$** (${dead}$ (${voice 1SG-POSS}$)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (${song-VOC soul-GEN 1SG-GEN dead}$) (${voice 1SG-GEN}$), since the adjective **${dead}$** follows the noun **${soul-GEN 1SG-GEN}$**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (${song-VOC soul-GEN 1SG-GEN}$) **${IND}$** (${dead}$ (${voice 1SG-GEN}$)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -67,13 +67,13 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-${g: dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS}$
+${g: dead voice 1SG-GEN song-VOC soul-GEN 1SG-GEN}$
 
 _My voice is dead, O song of my soul._
 
 ### FORM formal: ${FORM}$
 
-${g: Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-POSS}$
+${g: Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-GEN}$
 
 _Thy tentacles writhe forever, O Cthulhu!_
 
@@ -99,7 +99,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 ### PROH prohibitive: ${PROH}$
 
-${g: blaspheme-PROH name Cthulhu-POSS}$
+${g: blaspheme-PROH name Cthulhu-GEN}$
 
 _Do not blaspheme the name of Cthulhu!_
 

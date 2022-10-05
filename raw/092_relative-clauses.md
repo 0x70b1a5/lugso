@@ -57,8 +57,8 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **iS**:
 
-${g: learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-POSS}$
+${g: learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN}$
 
 _I wish to learn the language of gods, but my mind is small and feeble._
 
-Notice also that "my mind IS feeble" (**vuSz kku toht kurgu**) is written `small feeble mind 1SG-POSS`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **toht vuSz kku kurgu** `mind small feeble 1SG-POSS`.
+Notice also that "my mind IS feeble" (**${small feeble mind 1SG-GEN}$**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **${mind small feeble 1SG-GEN}$** `mind small feeble 1SG-GEN`.
