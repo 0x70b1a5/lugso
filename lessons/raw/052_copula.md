@@ -9,17 +9,17 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-master|N|ɣiʃ|giS
-music|N|fɻʌɣ|frog
-servant|N|fβuʃ|fbuS
-secret|N|ɮij|liy
-star|N|ɮiχ|lih
+master|N|gi5|
+music|N|frog|
+servant|N|fbu5|
+secret|N|liy|
+star|N|lih|
 
 In English, we say "the star is a sacrifice", or "I am the secret." Using the verb _to be_ we describe equality between two things. This verb is called the _copula_.
 
 In Lugso, the verb _to be_ does not exist. To describe equality, you would say "sacrifice star" or "secret I".
 
-**liy kur.**
+**liy kur**
 
 `secret 1SG`
 
@@ -27,7 +27,7 @@ _I am the secret._
 
 ---
 
-**lihib fbuSib ungu.**
+**lih-ib fbu5-ib un-gu**
 
 `star-PL servant-PL 3SG-POSS`
 
@@ -35,7 +35,7 @@ _The stars are its servants._
 
 ---
 
-**frog giS kurgu.**
+**frog gi5 kur-gu**
 
 `music master 1SG-POSS`
 

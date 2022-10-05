@@ -25,7 +25,7 @@ moon|N|jʌɮsjʌɮsɮiχ|yols-yols-lih|child of child of star
 
 "the X that Yed / the A that B Ced"
 
-**tlu-pol nofor kur...**
+**tlu-pol nof-or kur**
 
 `beast-follower possess-REL 1SG`
 
@@ -37,7 +37,7 @@ _the house **that** had ten mice in each room_: "had ten mice..." modifies _hous
 
 In Lugso, the relative-clause-introducer is another verb suffix. It follows any other suffixes on the verb, for example, future tense:
 
-**hpiS yogso vuntkuor kur...**
+**NoWordFound:"space.3d.or.higher" yog-so vun-tku-or kur**
 
 `space.3d.or.higher knowledge-GEN penetrate-FUT-REL 1SG`
 
@@ -45,7 +45,7 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-**fkoZgi tlizflzitir uZor vgovzit uyy!**
+**NoWordFound:"see.mental"-gi NoWordFound:"truth"-ir NoWordFound:"see.material"-or vgov-zit vig-u3-fir**
 
 `see.mental-IMP truth-ACC see.material-REL can-NEG eye`
 
@@ -57,7 +57,7 @@ _Behold the truth that no eye can perceive!_
 
 Lugso uses commas in the same way as English. Note that A, B, C, D, and E are _complete sentences_.
 
-**ZoZ olnriS, lniin StkiibpzuvZ yols-yols-lihib olnriS.**
+**3o3 olnri5 lni-in 5tki-ib-pzuv3 yols-yols-lih-ib olnri5**
 
 `night beautiful revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`
 
@@ -65,7 +65,7 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **iS**:
 
-**huf-yu zontk lu-sot guSliibso, iS vuSz kku toht kurgu.**
+**huf-yu zontk lu-sot NoWordFound:"god"-ib-so i5 hi NoWordFound:"feeble" toht kur-gu**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-POSS`
 

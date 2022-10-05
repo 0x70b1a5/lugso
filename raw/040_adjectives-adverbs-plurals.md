@@ -67,6 +67,6 @@ _The/A beast bites invisibly._
 
 Any number of adverbs may be appended in this fashion.
 
-${r: bite invisible-ADV.DER black-ADV.DER infinite-ADV.DER beast}$
+${g: bite invisible-ADV.DER black-ADV.DER infinite-ADV.DER beast}$
 
 _The/A beast bites invisibly, blackly, infinitely._

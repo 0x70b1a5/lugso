@@ -17,7 +17,7 @@ black|ADJ|3kig|
 blood|N|lug|
 infinite|ADJ|gololol|
 invisible|ADJ|zutk|
-it|3SG|un|
+it|3SG|un|he, she, it
 PL|N suffix|ib|plural suffix
 
 ## Adjectives
@@ -44,7 +44,9 @@ _infinite strange aeon..._
 
 To pluralize something, affix **-ib**.
 
-itg-ib olnri5 gololol
+**itg-ib olnri5 gololol**
+
+`aeon-PL weird infinite`
 
 _infinite strange aeons..._
 
@@ -55,7 +57,7 @@ Pluralization is how "we" and "y'all" and "they" are constructed:
 Pronouns|1st Person|2nd Person|3rd Person
 |-|-|-
 Singular|kur _I_|luk _you_|un _it_
-Plural|vo _we_|NoWordFound:"2PL" _y'all_|sigf _they_
+Plural|vo _we_|tu _y'all_|sigf _they_
 
 ## Adverbs
 
@@ -73,6 +75,8 @@ _The/A beast bites invisibly._
 
 Any number of adverbs may be appended in this fashion.
 
-ih5 zutk-n5uv 3kig-n5uv gololol-n5uv tlu
+**ih5 zutk-n5uv 3kig-n5uv gololol-n5uv tlu**
+
+`bite invisible-ADV.DER black-ADV.DER infinite-ADV.DER beast`
 
 _The/A beast bites invisibly, blackly, infinitely._

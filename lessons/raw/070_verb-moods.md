@@ -29,7 +29,7 @@ Verb moods indicate the way in which a certain action is performed. Think of, "P
 
 ### IMP imperative
 
-**guShgi tluir ivih Kthulhululi!**
+**gu5h-gi tgus-tlu-ir ivih NoWordFound:"Cthulhu"-luli**
 
 `surrender-IMP victim-ACC DET.PROX Cthulhu-BEN`
 
@@ -43,7 +43,7 @@ While usually unnecessary to mark indicative mood, there are cases where it is i
 
 #### Redundant indicative
 
-**funtoy tluir ivih Kthulhu.**
+**fun-toy tgus-tlu-ir ivih NoWordFound:"Cthulhu"**
 
 `allow-IND victim-ACC DET.PROX Cthulhu`
 
@@ -53,7 +53,7 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtoS-lzoftut pusso kurgu toy fhtogni yun kurgu.**
+**NoWordFound:"song"-tut pus-so kur-gu toy fhtogni yun kur-gu**
 
 `song-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS`
 
@@ -61,7 +61,7 @@ _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**vtoS-lzoftut pusso kurgu fhtogni yun kurgu.**
+**NoWordFound:"song"-tut pus-so kur-gu fhtogni yun kur-gu**
 
 `song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS`
 
@@ -75,7 +75,7 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogni yun kurgu vtoS-lzoftut pusso kurgu.**
+**fhtogni yun kur-gu NoWordFound:"song"-tut pus-so kur-gu**
 
 `dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS`
 
@@ -83,7 +83,7 @@ _My voice is dead, O song of my soul._
 
 ### FORM formal: rgiz
 
-**Kthulhutut pinrgiz supSitk blolgib lukgu.**
+**NoWordFound:"Cthulhu"-tut pin-rgiz sup-5itk blolg-ib luk-gu**
 
 `Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-POSS`
 
@@ -91,7 +91,7 @@ _Thy tentacles writhe forever, O Cthulhu!_
 
 ### INT Interrogative: oh
 
-**fhtognoh Kthulhu?**
+**fhtogni-oh NoWordFound:"Cthulhu"**
 
 `sleep-INT Cthulhu`
 
@@ -99,7 +99,7 @@ _Does Cthulhu sleep?_
 
 ### MOD modal: zvoh
 
-**hZunbzvoh Kthulhuir vi!**
+**h3unb-zvoh NoWordFound:"Cthulhu"-ir vi**
 
 `gorge-MOD Cthulhu-ACC 1PL.INC`
 
@@ -107,7 +107,7 @@ _We must satisfy Cthulhu!_
 
 ### PREC precative: tknuz
 
-**Kthulhutut huftknuz tlu ivih!**
+**NoWordFound:"Cthulhu"-tut huf-tknuz tgus-tlu ivih**
 
 `Cthulhu-VOC consume-PREC victim DET.PROX`
 
@@ -117,7 +117,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 ### PROH prohibitive: yozb
 
-**zbostyozb zuyn-pus Kthulhugu!**
+**zbost-yozb zuyn-pus NoWordFound:"Cthulhu"-gu**
 
 `blaspheme-PROH name Cthulhu-POSS`
 
@@ -125,7 +125,7 @@ _Do not blaspheme the name of Cthulhu!_
 
 ### PROL prolative: pzuvZ
 
-**lni StkiibpzuvZ yols-yols-lihib olnriS.**
+**lni 5tki-ib-pzuv3 NoWordFound:"moon"-ib olnri5**
 
 `revolve sky-PL-PROL moon-PL beautiful`
 

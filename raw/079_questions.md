@@ -29,25 +29,19 @@ child|N|Yʌɮs|yols
 
 **Su** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
 
-**huf hupsSu Kthulhu?**
-
-`consume human-Q Cthulhu`
+${g: consume human-Q Cthulhu}$
 
 _Which human is Cthulhu eating?_
 
 ---
 
-**huf Su Kthulhu?**
-
-`consume Q Cthulhu`
+${g: consume Q Cthulhu}$
 
 _What is Cthulhu eating?_
 
 ---
 
-**Su Kthulhu?**
-
-`Q Cthulhu`
+${g: Q Cthulhu}$
 
 _What is Cthulhu?_
 
@@ -55,9 +49,7 @@ Note here again the invisible copula.
 
 ---
 
-**huf hups KthulhuSu?**
-
-`consume human Cthulhu-Q`
+${g: consume human Cthulhu-Q}$
 
 _Is **Cthulhu** eating a human (or is something else eating it)?_
 
@@ -65,25 +57,19 @@ _Is **Cthulhu** eating a human (or is something else eating it)?_
 
 **oh** is a verb suffix, and is used for questioning _whether_ the action is occurring.
 
-**fthognoh Kthulhu?**
-
-`sleep-INT Cthulhu`
+${g: sleep-INT Cthulhu}$
 
 _Does Cthulhu sleep/die?_
 
 ---
 
-**zontkoh Kthulhu?**
-
-`dream-INT Cthulhu`
+${g: dream-INT Cthulhu}$
 
 _Does Cthulhu dream?_
 
 ---
 
-**hufoh hups Kthulhu?**
-
-`consume-INT human Cthulhu`
+${g: consume-INT human Cthulhu}$
 
 _Is Cthulhu **eating** a human (or doing something else to it)?_
 
@@ -91,9 +77,7 @@ _Is Cthulhu **eating** a human (or doing something else to it)?_
 
 **oh** attaches to the auxiliary when forming a question.
 
-**huf-yuiS vgovoh sruZir ivol lugso luk?**
-
-`consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
+${g: consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG}$
 
 _Can you learn what that blood portends?_
 
@@ -101,48 +85,36 @@ _Can you learn what that blood portends?_
 
 #### "where": Su + Locative
 
-**opz SuSitk yunib zvoyg?**
-
-`tremble Q-LOC voice-PL uncertain`
+${g: tremble Q-LOC voice-PL uncertain}$
 
 _Where do the uncertain voices tremble?_
 
 #### "how": Su + Instrumental
 
-**tkrotz Suvir isvib kutt?**
-
-`dessicate Q-INS heretic-PL hidden 2SG`
+${g: dessicate Q-INS heretic-PL hidden 2SG}$
 
 _How did you dehydrate the hidden heretics?_
 
 #### "whence/from where": Su + Ablative
 
-**zfoy Suvsug tlu ivih?**
-
-`come Q-ABL victim DET.PROX`
+${g: come Q-ABL victim DET.PROX}$
 
 _Where did this sacrifice come from?_
 
 #### "why": Su + Prolative
 
-**fih SupzuvZ yols?**
-
-`mercurial Q-PROL child`
+${g: mercurial Q-PROL child}$
 
 _Why is the child changing?_
 
 #### "when": Su + Temporal
 
-**fihttgi Zuzki yols?**
-
-`change Q-TEMP child`
+${g: change Q-TEMP child}$
 
 _When does the child change?_
 
 #### "who": agent + Su
 
-**piSn vixir ozogSu?**
-
-`consume priest-ACC agent-Q`
+${g: consume priest-ACC agent-Q}$
 
 _Who (which agent/actor) crushed the priest?_

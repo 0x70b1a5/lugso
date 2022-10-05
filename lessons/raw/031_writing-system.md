@@ -105,13 +105,13 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 #### Style 1: Uncapped
 
-**NoWordFound:"order_natural" hupz-buli-so h3unb-kub**
+**gorn hupz-buli-so h3unb-kub**
 
-`order_natural human-female-GEN gorge-PTCP.PAST.PASS`
+`organization_natural human-female-GEN gorge-PTCP.PAST.PASS`
 
 _Order of the Bloated Woman_ (from _Masks of Nyarlathotep_, Shanghai chapter.)
 
-![Order of the Bloated Woman](/assets/gorn%20hupsniso%20hZunbkub.png)
+[ IMAGE PENDING REDRAW ]
 
 Note the ornamental loops in each word. Technically, it is ambiguous with **ogorno hupsoniso hZunbokub**, but thankfully, that means nothing. Be advised that you may wish to double-check whether your ornamental loops create unintended - or intended - double meanings.
 
@@ -137,7 +137,7 @@ _child of Nyarlathotep_. (not Nyarlathotep's child - subtle difference!)
 
 If your long word with many o's also has u's or i's, make sure they are vertical, to avoid confusion:
 
-![through infinity/infinities](assets/gololollzofpzuvZ-gololollzofib1.png)
+[ IMAGE PENDING REDRAW ]
 
 **gololol-lzox-pzuv3**
 

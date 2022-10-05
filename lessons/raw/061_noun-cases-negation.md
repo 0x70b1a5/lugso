@@ -9,32 +9,31 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ABL|N suffix|vsuɣ|vsug|ablative case
-ACC|N suffix|iɻ|ir|accusative case
-BEN|N suffix|ɮuɮi|luli|benefactive case
-can|VB|vɣʌv|vgov
-COM|N suffix|ðij|niy|comitative case
-essence, soul|N|ɸus|pus
-exchange|VT|ɮʃʌf|lSof
-GEN|N suffix|sʌ|so|genitive case
-hunger (love)|VB|χχuʃ|hhuS
-INS|N suffix|viɻ|vir|instrumental case
-LOC|N suffix|ʃiθx|Sitk|locative case
-NOM|N suffix|∅|∅|nominative case - not marked (null phoneme)
-TEMP|N suffix|zxi|zki|temporal case
-VOC|N suffix|θuθ|tut|vocative case
-IMP|VB suffix|ɣi|gi|imperative mood (a command)
-larva|N|ɮʌɻɣ|lorg|
-mind|N|θʌχθ|toht
-move|VB|θxuθx|tkutk|
-moon|N|jʌɮsjʌɮsɮiχ|yols-yols-lih
-NEG|suffix|ziθ|zit|negation suffix ("not")
-PROL|N suffix|ɸzuvʒ|pzuvZ|prolative case
-revolve|VB|ɮðiið|lniin
-sky|N|ʃθxi|Stki
-thought|N|sʌθ|sot|
-time|N|ʃif|Sif|
-transgress|VB|θuɣ|tug
+ABL|N suffix|vsug|ablative case - about N, from location
+ACC|N suffix|ir|accusative case - to N, towards location
+BEN|N suffix|luli|benefactive case - for the sake of N
+can|AUX|vgov|
+COM|N suffix|niy|comitative case "together with N, alongside N"
+essence|N|pus|
+exchange, transact, speak|VB|zi|
+GEN|N suffix|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+hunger_love|VB|hhu5|
+INS|N suffix|iffo|instrumental case - using N
+LOC|N suffix|5itk|locative case - at N, in N
+NOM|N suffix|∅|nominative case - the subject/actor in a sentence
+TEMP|N suffix|zki|temporal case - during N
+VOC|N suffix|tut|vocative case - Hey N! O, N!
+IMP|VB suffix|gi|imperative mood (a command)
+larva|N|lorg|
+mind|N|toht|
+move|VB|tkzutk|
+NEG|suffix|zit|negation suffix
+PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
+revolve, circle, encircle|VB|lni|
+sky|N|5tki|
+thought|N|sot|
+SUB.cotemporal_at the same time as|SUB VB suffix|riy|
+transgress|VB|tug|
 
 ## Cases
 
@@ -64,7 +63,7 @@ Notice also that the `NEG` suffix ("not") is used in a few places.
 
 ### ACC accusative
 
-**tug vgovzit pusir toht!**
+**tug vgov-zit pus-ir toht-∅**
 
 `transgress can-NEG essence-ACC mind-NOM`
 
@@ -72,7 +71,7 @@ _The mind cannot penetrate transcendence!_
 
 ### VOC vocative
 
-**tkutkzitgi lorgtut!**
+**tkzutk-zit-gi lorg-tut**
 
 `move-NEG-IMP larva-VOC`
 
@@ -80,7 +79,7 @@ _Don't move, maggot!_
 
 ### LOC locative
 
-**vsiki ovsSitk SoggoT.**
+**vsiki ovs-5itk 5oggoT-∅**
 
 `emerge pit-LOC shoggoth-NOM`
 
@@ -88,7 +87,7 @@ _The shoggoth emerges in the pit._
 
 ### BEN benefactive
 
-**hhuS kurluli kurir un.**
+**hhu5 kur-luli kur-ir un-∅**
 
 `love 1SG-BEN 1SG-ACC 3SG-NOM`
 
@@ -96,7 +95,7 @@ _It loves me, for me._
 
 ### ABL ablative
 
-**zyuzh rlohsvsug lug.**
+**zyuzh 3uz-vsug lug-∅**
 
 `descend fire-ABL blood-NOM`
 
@@ -104,7 +103,7 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug guSliibso sotibso...**
+**lug NoWordFound:"god"-so sot-ib-so**
 
 `blood god-GEN thought-PL-GEN`
 
@@ -112,7 +111,7 @@ _the blood of the thoughts of the gods..._
 
 ### INS instrumental
 
-**piSn gustkohbi ipir snullso bvong hupzni pus-fbuSifbuyb.**
+**pi5n gustk-iffo ip-ir snull-so bvong hupz-∅**
 
 `crush heel-INS head-ACC snake-GEN great human-NOM`
 
@@ -120,7 +119,7 @@ _The human crushes the head of the great serpent with their heel._
 
 Also used for things that are given:
 
-**fun gvifnluli guSzit bgoklzoblzotvir yoyyso.**
+**yurg gvifn-luli gu5-zit bgok-lzob-lzot-iffo NoWordFound:"organization.human"-so**
 
 `give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-GEN`
 
@@ -128,7 +127,7 @@ _The unthinking body is given leadership of the organization._
 
 ### TEMP temporal
 
-**fhtogn vgov itg-ib-zki pobb-lzot.**
+**fhtogni vgov itg-ib-zki fhtog-∅**
 
 `sleep can aeon-PL-TEMP death-NOM`
 
@@ -136,7 +135,7 @@ _In strange aeons, death may die._
 
 ### COM comitative
 
-**lSof pusir lorgniy hups.**
+**zi pus-ir lorg-niy hupz-∅**
 
 `exchange soul-ACC larva-COM human-NOM`
 
@@ -144,7 +143,7 @@ _The human exchanges souls with the maggot._
 
 ### PROL prolative
 
-**lniin StkiibpzuvZ yols-yols-lihib olnriS.**
+**lni 5tki-ib-pzuv3 NoWordFound:"moon"-ib-∅ olnri5**
 
 `revolve sky-PL-PROL moon-PL-NOM strange`
 
@@ -154,7 +153,7 @@ _Strange moons circle through the skies._
 
 **-zit** negates any non-verb.
 
-**uyy luSzit unub...**
+**vig-u3-fir lu5-zit un-gu**
 
 `eye liquid-NEG 3SG-POSS`
 
@@ -162,7 +161,7 @@ _Its illiquid eye..._
 
 ---
 
-**ovSozit...**
+**ov5o-zit**
 
 `patient-NEG`
 

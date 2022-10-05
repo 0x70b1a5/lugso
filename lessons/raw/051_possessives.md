@@ -9,12 +9,12 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-eye|N|ujj|uyy
-human|N|χuɸz|hupz
-future|N|θxuj|tkuy
-heretic|N|isv|isv
-POSS|N suffix|ɣu|gu|possessive suffix
-priest|N|vix|vik
+eye|N|vig-u3-fir|organ-sense-light
+human|N|hupz|
+future|N|tkuy|
+heretic|N|isv|
+POSS |N suffix|gu|possessive suffix - N's (ownership)
+priest|N|tu5o|
 
 ## Possessive suffix
 
@@ -22,7 +22,7 @@ In English, when something belongs to someone, it is _someone's_ something. We a
 
 In Lugso, similarly, the cultist adds **-gu**.
 
-**vik ungu...**
+**tu5o un-gu**
 
 `priest 3SG-POSS`
 
@@ -30,7 +30,7 @@ _Its priest..._
 
 ---
 
-**uyyib lukgu...**
+**vig-u3-fir-ib luk-gu**
 
 `eye-PL 2SG-POSS`
 
@@ -38,7 +38,7 @@ _Your eyes..._
 
 ---
 
-**hupz kurgu...**
+**hupz kur-gu**
 
 `human 1SG-POSS`
 
@@ -46,7 +46,7 @@ _My human..._
 
 ---
 
-**tkuy isvgu...**
+**tkuy isv-gu**
 
 `future heretic-POSS`
 
@@ -56,4 +56,4 @@ _The/A heretic's future..._
 
 Speakers of Latin will be confused at the inclusion of both the possessive suffix and the genitive case in Lugso. "What is the difference between _my blood_ and _the blood of me_?"
 
-In Lugso, Genitive is used to indicate origin and relation - hence **lugso** _of blood_. Possessive, by contrast, is strictly property/dominion/possession - **lugso guSliibso sotibso** _of blood of gods of thoughts_ - not "thoughts' gods' blood's".
+In Lugso, Genitive is used to indicate origin and relation - hence **lug-so** _of blood_. Possessive, by contrast, is strictly property/dominion/possession - **lug-so gu5li-so sot-ib-so** _of blood of gods of thoughts_ - not "thoughts' gods' blood's". Hence, the child that a mother gives birth to is both **yols rih-so** and **yols rih-gu** - his mother's child in origin, and (until he is an adult) his mother's child in dominion. 

@@ -8,7 +8,7 @@ order: 3
 
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
-ACC|N suffix|ir|accusative case
+ACC|N suffix|ir|accusative case - to N, towards location
 consume|VB|huf|
 i, me|1SG|kur|
 you|2SG|luk|
@@ -20,7 +20,7 @@ travel|VB|yutl|
 
 In English, we say, "I fly". In Lugso, the cultist says, "fly I". Verb comes before subject.
 
-**NoWordFound:"fly" kur**
+**so35 kur**
 
 `fly 1SG`
 
@@ -56,7 +56,7 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-NoWordFound:"fly" luk-ir tlu
+so35 luk-ir tlu
 
 _The/A beast glides to you._
 

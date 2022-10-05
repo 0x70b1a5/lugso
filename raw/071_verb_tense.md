@@ -23,17 +23,13 @@ In lugso, distinction is made between the **far** past and the generic past, and
 
 #### FPRET far past tense
 
-**zyuzhsuTr Kthulhu.**
-
-`descend-FPRET Cthulhu`
+${g: descend-FPRET Cthulhu}$
 
 _Cthulhu descended [long ago]._
 
 #### PRET preterite (simple past)
 
-**fhtognuln Kthulhu.**
-
-`sleep-PRET Cthulhu`
+${g: sleep-PRET Cthulhu}$
 
 _Cthulhu died/slept._
 
@@ -43,16 +39,12 @@ Unmarked.
 
 #### FUT simple future
 
-**huftku viir Kthulhu.**
-
-`consume-FUT 1PL.INC-ACC Cthulhu`
+${g: consume-FUT 1PL.INC-ACC Cthulhu}$
 
 _Cthulhu will eat us._
 
 #### FFUT far future
 
-**fhtognsuTr vgov itgibzki olnriS sin yiy.**
-
-`sleep-FFUT can aeon-PL-TEMP strange death EMPH`
+${g: sleep-FFUT can aeon-PL-TEMP strange death EMPH}$
 
 _With strange aeons even death may die._

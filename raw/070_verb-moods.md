@@ -29,9 +29,7 @@ Verb moods indicate the way in which a certain action is performed. Think of, "P
 
 ### IMP imperative
 
-**guShgi tluir ivih Kthulhululi!**
-
-`surrender-IMP victim-ACC DET.PROX Cthulhu-BEN`
+${g: surrender-IMP victim-ACC DET.PROX Cthulhu-BEN}$
 
 _Offer this victim to Cthulhu!_
 
@@ -43,9 +41,7 @@ While usually unnecessary to mark indicative mood, there are cases where it is i
 
 #### Redundant indicative
 
-**funtoy tluir ivih Kthulhu.**
-
-`allow-IND victim-ACC DET.PROX Cthulhu`
+${g: allow-IND victim-ACC DET.PROX Cthulhu}$
 
 _Cthulhu accepts this victim._
 
@@ -53,17 +49,13 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtoS-lzoftut pusso kurgu toy fhtogni yun kurgu.**
-
-`song-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS`
+${g: song-VOC soul-GEN 1SG-POSS IND dead voice 1SG-POSS}$
 
 _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**vtoS-lzoftut pusso kurgu fhtogni yun kurgu.**
-
-`song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS`
+${g: song-VOC soul-GEN 1SG-POSS dead voice 1SG-POSS}$
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
@@ -75,41 +67,31 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogni yun kurgu vtoS-lzoftut pusso kurgu.**
-
-`dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS`
+${g: dead voice 1SG-POSS song-VOC soul-GEN 1SG-POSS}$
 
 _My voice is dead, O song of my soul._
 
 ### FORM formal: rgiz
 
-**Kthulhutut pinrgiz supSitk blolgib lukgu.**
-
-`Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-POSS`
+${g: Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-POSS}$
 
 _Thy tentacles writhe forever, O Cthulhu!_
 
 ### INT Interrogative: oh
 
-**fhtognoh Kthulhu?**
-
-`sleep-INT Cthulhu`
+${g: sleep-INT Cthulhu}$
 
 _Does Cthulhu sleep?_
 
 ### MOD modal: zvoh
 
-**hZunbzvoh Kthulhuir vi!**
-
-`gorge-MOD Cthulhu-ACC 1PL.INC`
+${g: gorge-MOD Cthulhu-ACC 1PL.INC}$
 
 _We must satisfy Cthulhu!_
 
 ### PREC precative: tknuz
 
-**Kthulhutut huftknuz tlu ivih!**
-
-`Cthulhu-VOC consume-PREC victim DET.PROX`
+${g: Cthulhu-VOC consume-PREC victim DET.PROX}$
 
 _O Cthulhu, (will you) please accept this victim!_
 
@@ -117,16 +99,12 @@ _O Cthulhu, (will you) please accept this victim!_
 
 ### PROH prohibitive: yozb
 
-**zbostyozb zuyn-pus Kthulhugu!**
-
-`blaspheme-PROH name Cthulhu-POSS`
+${g: blaspheme-PROH name Cthulhu-POSS}$
 
 _Do not blaspheme the name of Cthulhu!_
 
 ### PROL prolative: pzuvZ
 
-**lni StkiibpzuvZ yols-yols-lihib olnriS.**
-
-`revolve sky-PL-PROL moon-PL beautiful`
+${g: revolve sky-PL-PROL moon-PL beautiful}$
 
 _Strange moons circle through the skies._

@@ -54,41 +54,31 @@ NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing ("the verbinating")
 NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs ("the verber")
 NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed ("the verbee")
 
-**pobblzot...**
-
-`mortal-NMLZ.DER.act`
+${g: mortal-NMLZ.DER.act}$
 
 _mortal-ness, the act of being mortal, mortality..._
 
 ---
 
-**tkur-lzof...**
-
-`birth-NMLZ.DER.patient`
+${g: birth-NMLZ.DER.patient}$
 
 _that which is born, the birthed..._
 
 ---
 
-**Zfiglzob zotso...**
-
-`open-NMLZ.DER.agent way-GEN`
+${g: open-NMLZ.DER.agent way-GEN}$
 
 _Opener of the Way..._
 
 ---
 
-**ffihh lnilzot...**
-
-`rise revolve-NMLZ.DER.act`
+${g: rise revolve-NMLZ.DER.act}$
 
 _Revolution rises..._
 
 ---
 
-**hZunblzot kurgu.**
-
-`satisfy-NMLZ.DER.act 1SG-POSS`
+${g: satisfy-NMLZ.DER.act 1SG-POSS}$
 
 _Satisfaction is mine._
 

@@ -37,7 +37,7 @@ Finally, _**you must hyphenate compound nouns in Lugso**_: "jelly-bean", "bus-st
 
 ## Noun compounds
 
-**zyuzh Zuz-rlohs-nzivSvsug lug.**
+**zyuzh rlohs-3uz-nziv5-vsug lug**
 
 `descend fuel-fire-upright-ABL blood`
 
@@ -51,7 +51,7 @@ Note that although "upright" is an adjective, it is treated as part of the compo
 
 Below, in the English translations, the "head" of the compound is **bolded**. Remember the _head_ is the _actual thing_, and the other parts of the compound are _modifiers on that thing_. Remember also the English translations are backwards. the `glosses` have the correct Lugso word order.
 
-**lug-Stki ugonogl kurgu.**
+**lug-5tki ugonogl kur-gu**
 
 `blood-sky home 1SG-POSS`
 
@@ -59,7 +59,7 @@ _Water is my home._
 
 Water: sky-**blood**.
 
-**zkiyS yukSitk ogS-lug-Stkiib.**
+**zkiy5 yuk-5itk og5-lug-5tki**
 
 `dissipate shore-LOC gas-blood-sky`
 
@@ -67,7 +67,7 @@ _Along the shore the clouds break._
 
 Cloud: sky-blood **gas**.
 
-**zyuzh tkgihp-lug-StkiSitk lih-ugonoglib.**
+**zyuzh tkgihp-lug-5tki-5itk lih-ugonogl-ib**
 
 `descend bowl-blood-sky-LOC star-home-PL`
 
