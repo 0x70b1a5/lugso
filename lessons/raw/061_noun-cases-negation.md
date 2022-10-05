@@ -153,9 +153,9 @@ _Strange moons circle through the skies._
 
 **-zit** negates any non-verb.
 
-**vig-u3-fir lu5-zit un-gu**
+**vig-u3-fir lu5-zit un-so**
 
-`eye liquid-NEG 3SG-POSS`
+`eye liquid-NEG 3SG-GEN`
 
 _Its illiquid eye..._
 

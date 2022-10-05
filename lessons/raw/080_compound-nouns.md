@@ -37,15 +37,13 @@ Finally, _**you must hyphenate compound nouns in Lugso**_: "jelly-bean", "bus-st
 
 ## Noun compounds
 
-**zyuzh rlohs-3uz-nziv5-vsug lug**
+**zyuzh rlohs-3uz-vsug nziv5 lug**
 
-`descend fuel-fire-upright-ABL blood`
+`descend fuel-fire-ABL upright blood`
 
-_Blood falls from the tree._
+_Blood falls from the upright tree._
 
-Tree: "upright fire fuel". Grim.
-
-Note that although "upright" is an adjective, it is treated as part of the compound for purposes of the case affix. This would not be the case if a non-semantic adjective were to modify "tree": **Zuz-rlohs-nzivS liy**, the secret tree - **Zuz-rlohs-nzivSvsug liy**, _from_ the secret tree.
+Tree: "fire fuel". Grim.
 
 ### Examples: Variations on "water"
 

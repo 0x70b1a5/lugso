@@ -12,7 +12,7 @@ ${r: Q}|s$
 how|Q|lkuz5u|INS-Q
 dream|VB|zontk|
 tremble|VB|opz|
-uncertain|ADJ|zvoyg|
+certain|ADJ|zvoyg|
 voice|VB|yun|
 dry out, dessicate|VB|tkrotz|
 heretic|N|isv|
@@ -108,9 +108,9 @@ _Where do the uncertain voices tremble?_
 
 #### "how": Instrumental + Q
 
-**opz 5itk-5ol5u yun-ib zvoyg**
+**opz 5itk-5ol5u yun-ib zvoyg-zit**
 
-`tremble LOC-Q voice-PL uncertain`
+`tremble LOC-Q voice-PL certain-NEG`
 
 _How did you dehydrate the hidden heretics?_
 
@@ -140,7 +140,7 @@ _When does the child change?_
 
 #### "who": agent + **fihttgi zki-5ol5u yols**
 
-`change TEMP-Q child`
+`change TEMP-Q child` **(not a noun case)*
 
 5ol5u
 
