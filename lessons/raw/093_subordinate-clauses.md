@@ -28,7 +28,7 @@ A _subordinate clause_ joins two complete sentences. The sub-clause marker attac
 
 ## Normal sub-clauses
 
-**rils kur NoWordFound:"find"rig kur**
+**rils kur <span style="color:red">NoWordFound:"find"</span>rig kur**
 
 `seek 1SG find-SUB.reason 1SG`
 
@@ -44,7 +44,7 @@ _I strike because he surrenders._
 
 The sub-clause marker appears bare, as with verb moods.
 
-**yurguln gvifnluli gu5zit bgoklzoblzotiffo NoWordFound:"organization.human"fuso ulnglin 5o5l kuttzit polib ungu**
+**yurguln gvifnluli gu5zit bgoklzoblzotiffo <span style="color:red">NoWordFound:"organization.human"</span>fuso ulnglin 5o5l kuttzit polib ungu**
 
 `give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS`
 

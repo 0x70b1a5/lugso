@@ -25,7 +25,7 @@ In lugso, distinction is made between the **far** past and the generic past, and
 
 ${g: descend-FPRET Cthulhu}$
 
-_Cthulhu descended [long ago]._
+_Cthulhu descended of old._
 
 #### PRET preterite (simple past)
 
@@ -41,7 +41,7 @@ Unmarked.
 
 ${g: consume-FUT 1PL.INC-ACC Cthulhu}$
 
-_Cthulhu will eat us._
+_Cthulhu shall eat us._
 
 #### FFUT far future
 

@@ -8,7 +8,7 @@ order: 3
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 can|AUX|vɣʌv|vgov|
-hunger_love|VB|χχuʃ|hhu5|
+hunger|VB|χχuʃ|hhu5|
 dream|VB|zʌnθx|zontk|
 
 An _auxiliary verb_ is like English "can", "might". In English they are effectively intransitive verbs that modify an infinitive. Other intransitives that work similarly are "want", "wish".

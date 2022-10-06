@@ -9,7 +9,7 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-FORM|VB suffix|ɻɣiz|rgiz|formal mood 
+FORM|VB suffix|ɻɣiz|rgiz|formal mood
 IMP|VB suffix|ɣi|gi|imperative mood (a command)
 IND|VB suffix|θʌj|toy|indicative mood - (optional except where ambiguous)
 INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
@@ -113,15 +113,15 @@ _We must satisfy Cthulhu!_
 
 _O Cthulhu, (will you) please accept this victim!_
 
-**tknuz** signifies the utterance is a request.
+**-tknuz** signifies the utterance is a request.
 
 ### PROH prohibitive: -yozb
 
-**zbostyozb zuyn-pus ktkulhuso**
+**zbostyozb zuyn-pus ktkulhuso bvong**
 
-`blaspheme-PROH name Cthulhu-GEN`
+`blaspheme-PROH name Cthulhu-GEN great`
 
-_Do not blaspheme the name of Cthulhu!_
+_Do not blaspheme the name of Great Cthulhu!_
 
 ### PROL prolative: -pzuv3
 

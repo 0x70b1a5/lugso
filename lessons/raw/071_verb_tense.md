@@ -10,8 +10,8 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 FPRET|VB suffix|suθɻ|sutr|far past
-FPRET|VB suffix|suθɻ|sutr|far past
-FFUT|VB suffix|ɮʃi|l5i|far future
+PRET|VB suffix|uɮn|uln|preterite mood (simple past) "i VBed"
+FUT|VB suffix|θxu|tku|
 FFUT|VB suffix|ɮʃi|l5i|far future
 
 Verb tense is the difference between _I was_, _I am_, and _I will be_, commonly called _past_, _present_, and _future_. 
@@ -27,7 +27,7 @@ In lugso, distinction is made between the **far** past and the generic past, and
 
 `descend-FPRET Cthulhu`
 
-_Cthulhu descended [long ago]._
+_Cthulhu descended of old._
 
 #### PRET preterite (simple past)
 
@@ -47,7 +47,7 @@ Unmarked.
 
 `consume-FUT 1PL.INC-ACC Cthulhu`
 
-_Cthulhu will eat us._
+_Cthulhu shall eat us._
 
 #### FFUT far future
 

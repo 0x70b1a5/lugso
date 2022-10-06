@@ -15,9 +15,9 @@ BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
 can|AUX|vɣʌv|vgov|
 COM|N suffix|nij|niy|comitative case "together with N, alongside N"
 essence|N|ɸus|pus|
-exchange, transact, speak|VB|zi|zi|
+exchange|VB|zi|zi|
 GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-hunger_love|VB|χχuʃ|hhu5|
+hunger|VB|χχuʃ|hhu5|
 INS|N suffix|iffʌ|iffo|instrumental case - using N
 LOC|N suffix|ʃiθx|5itk|locative case - at N, in N
 NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence

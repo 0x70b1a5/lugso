@@ -1,7 +1,7 @@
 ---
 title: Questions
-perma
-ink: /questions/
+permalink: /questions/
+
 order: 3
 ---
 
@@ -9,12 +9,12 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
 ${r: Q}|s$
-how|Q|ɮxuzʃu|lkuz5u|INS-Q
+Q|suffix|ʃʌɮʃu|5ol5u|turns a word into a question
 dream|VB|zʌnθx|zontk|
 tremble|VB|ʌɸz|opz|
 certain|ADJ|zvʌjɣ|zvoyg|
 voice|VB|jun|yun|
-dry out, dessicate|VB|θxɻʌθz|tkrotz|
+dry|VB|θxɻʌθz|tkrotz|
 heretic|N|isv|isv|
 hidden|ADJ|xuθθ|kutt|
 consummate|VB|xβiθxɸ|kbitkp|
@@ -132,7 +132,7 @@ _Why is the child changing?_
 
 #### "when": Temporal + Q
 
-**NoWordFound:"mercurial" pzuv35ol5u yols**
+**<span style="color:red">NoWordFound:"mercurial"</span> pzuv35ol5u yols**
 
 `mercurial PROL-Q child`
 

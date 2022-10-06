@@ -21,10 +21,10 @@ NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
 ADJ.DER|suffix|ujβ|uyb|adjectivizing suffix
 ADV.DER|suffix|nʃuv|n5uv|-ly
 VB.DER|suffix|ʃsuɻ|5sur|verb-izing suffix
-large|ADJ|-|-|see great
+great|ADJ|βvʌnɣ|bvong|
 distant|ADJ|βʌθuθ|botut|
 gorge|VT|χʒunβ|h3unb|
-parasite|N compound|||follower-food
+parasite|N compound|-|-|follower-food
 priest|N|θuʃʌ|tu5o|
 PRV|N suffix|inʃ|in5|privative case ("N-less", without N)
 revolve|VB|ɮni|lni|circle, encircle

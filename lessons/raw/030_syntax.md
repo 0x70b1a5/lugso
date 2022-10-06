@@ -10,8 +10,8 @@ English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 ACC|N suffix|iɻ|ir|accusative case - to N, towards location
 consume|VB|χuf|huf|
-i, me|1SG|xuɻ|kur|
-you|2SG|ɮux|luk|
+1SG|undefined|xuɻ|kur|
+2SG|undefined|ɮux|luk|
 beast|N|θɮu|tlu|
 fly|VB|sʌʒʃ|so35|travel through gas
 swim|VB|vux|vuk|travel through liqud

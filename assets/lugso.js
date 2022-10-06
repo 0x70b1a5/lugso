@@ -31,11 +31,16 @@ const latinate = str => {
 
 
 // turns gloss into lugso
-const getWord = (word, map) => {
+const getWord = (word, map, wholeRow) => {
     if (!word) return '-'
 
     const w = map[word]
-    if (w && w != '-') return w
+    if (w && w != '-') return wholeRow ? {
+        english: word,
+        lugso: w,
+        partOfSpeech: map[word+'_pos'],
+        notes: map[word+'_notes'] || ''
+    } : w
 
     // words with notes of the pattern 'see X' should furnish X
     const notes = map[word+'_notes']
@@ -43,17 +48,28 @@ const getWord = (word, map) => {
         const redirect = notes.match(/^see (.*)/)
         // -> ['see xyz', 'xyz', index: 4, input: 'see xyz', groups: undefined]
         if (redirect && redirect[1]) {
-            const dest = map[redirect[1]]
-            if (dest) return dest
+            const eng = redirect[1]
+            const dest = map[eng]
+            if (dest) return wholeRow ? {
+                english: eng,
+                lugso: dest,
+                partOfSpeech: map[eng+'_pos'],
+                notes: map[eng+'_notes'] || ''
+            } : dest
         }
     }
 
     // otherwise, guess based on includes
     for (let key in map) {
-        if (key.includes(word)) return map[key]
+        if (key.includes(word)) return wholeRow ? {
+            english: word,
+            lugso: map[key],
+            partOfSpeech: map[key+'_pos'],
+            notes: map[key+'_notes'] || ''
+        } : map[key]
     }
 
-    return 'NoWordFound:"'+word+'"'
+    return '<span style="color:red">NoWordFound:"'+word+'"</span>'
 }
 
 const getSheet = async () => {
@@ -75,8 +91,11 @@ const rowsToMap = rows => {
         const l = row.lugso.trim()
         const e = row.english.trim()
         const p = row.partOfSpeech.trim()
+        const i = ipaify(row.lugso)
         glossMap[e] = l
         glossMap[e+'_notes'] = row.notes ? row.notes.trim() : undefined
+        glossMap[e+'_pos'] = p
+        glossMap[e+'_ipa'] = i
         if (l != '-') glossMap[p] = l
     })
     return glossMap
@@ -96,4 +115,4 @@ const glossToLugso = (gloss, map) => gloss.split(/\s+/)
 //     const out = (await Promise.all(g.split('\n').map(async h => await glossify(h)))).join('\n')
 //     console.log(out) 
 // })()
-module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap }
+module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap, getWord }

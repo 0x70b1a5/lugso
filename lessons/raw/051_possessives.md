@@ -13,7 +13,7 @@ eye|N|ʌxʌ|oko|
 human|N|χuɸz|hupz|
 future|N|θxuj|tkuy|
 heretic|N|isv|isv|
-POSS |N suffix|ɣu|gu|possessive suffix - N's (ownership)
+POSS|N suffix|ɣu|gu|possessive suffix - N's (ownership)
 priest|N|θuʃʌ|tu5o|
 
 ## Possessive suffix

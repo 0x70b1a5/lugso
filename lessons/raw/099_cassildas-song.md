@@ -59,7 +59,7 @@ _The shadows lengthen_<br>
 `extrude orifice-light-PL`<br>
 
 _In Carcosa._<br>
-**NoWordFound:"Carcosa"5itk**
+**<span style="color:red">NoWordFound:"Carcosa"</span>5itk**
 
 `Carcosa-LOC`<br>
 
@@ -79,7 +79,7 @@ _But stranger still is_<br>
 `CONJ.but beautiful-AUG-EMPH`<br>
 
 _Lost Carcosa._<br>
-**NoWordFound:"Carcosa" tsollzof**
+**<span style="color:red">NoWordFound:"Carcosa"</span> tsollzof**
 
 `Carcosa lose-NMLZ.DER.patient`<br>
 
@@ -89,17 +89,17 @@ _Must die unheard_<br>
 `die-MOD sense-NEG-ADJ.DER`<br>
 
 _where flap the tatters of the King_<br>
-**pinNoWordFound:"SUB.where" ilzlzofib bgoklzobso**
+**pin<span style="color:red">NoWordFound:"SUB.where"</span> ilzlzofib bgoklzobso**
 
 `flail-SUB.where shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN`<br>
 
 _songs that the Hyades shall sing,_<br>
-**vtu3ib vto5tkuor NoWordFound:"Hyades"**
+**vtu3ib vto5tkuor <span style="color:red">NoWordFound:"Hyades"</span>**
 
 `song-PL sing-FUT-REL Hyades`<br>
 
 _in dim Carcosa._<br>
-**NoWordFound:"Carcosa"5itk 3kign**
+**<span style="color:red">NoWordFound:"Carcosa"</span>5itk 3kign**
 
 `Carcosa-LOC dark`<br>
 
@@ -119,6 +119,6 @@ _as tears unshed shall dry and die_<br>
 `dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
 
 _In lost Carcosa._<br>
-**NoWordFound:"Carcosa"5itk tsollzof**
+**<span style="color:red">NoWordFound:"Carcosa"</span>5itk tsollzof**
 
 `Carcosa-LOC lose-NMLZ.DER.patient`<br>

@@ -10,14 +10,14 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ADV.DER|suffix|nʃuv|n5uv|-ly
-aeon, age, epoch|N|iθɣ|itg|
-beautiful, weird, strange|ADJ|ʌɮnɻiʃ|olnri5|"eldritch" 
+aeon|N|iθɣ|itg|
+beautiful,|ADJ|ʌɮnɻiʃ|olnri5|"eldritch"
 bite|VB|iχʃ|ih5|
 black|ADJ|ʒxiɣ|3kig|
 blood|N|ɮuɣ|lug|
 infinite|ADJ|ɣʌɮʌɮʌɮ|gololol|
 invisible|ADJ|zuθx|zutk|
-it|3SG|un|un|he, she, it
+3SG|undefined|un|un|
 PL|N suffix|iβ|ib|plural suffix
 
 ## Adjectives

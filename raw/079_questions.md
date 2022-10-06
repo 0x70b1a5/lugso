@@ -1,7 +1,7 @@
 ---
 title: Questions
-permahide: true
-ink: /questions/
+permalink: /questions/
+hide: true
 order: 3
 ---
 

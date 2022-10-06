@@ -18,7 +18,7 @@ vun
 hpi5
 lih
 yols
-NoWordFound:"planet"
+<span style="color:red">NoWordFound:"planet"</span>
 moon|N|yols-yols-lih|child of child of star
 
 ## Relative Clauses
@@ -45,7 +45,7 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-**NoWordFound:"see.mental"gi NoWordFound:"truth"ir NoWordFound:"see.material"or vgovzit oko**
+**<span style="color:red">NoWordFound:"see.mental"</span>gi <span style="color:red">NoWordFound:"truth"</span>ir <span style="color:red">NoWordFound:"see.material"</span>or vgovzit oko**
 
 `see.mental-IMP truth-ACC see.material-REL can-NEG eye`
 
@@ -65,10 +65,10 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **i5**:
 
-**huf-yu zontk lusot gu5liibso i5 hi NoWordFound:"feeble" toht kurso**
+**huf-yu zontk lusot gu5liibso i5 hi <span style="color:red">NoWordFound:"feeble"</span> toht kurso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
 
 _I wish to learn the language of gods, but my mind is small and feeble._
 
-Notice also that "my mind IS feeble" (**hi NoWordFound:"feeble" toht kurso**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **toht hi NoWordFound:"feeble" kurso** `mind small feeble 1SG-GEN`.
+Notice also that "my mind IS feeble" (**hi <span style="color:red">NoWordFound:"feeble"</span> toht kurso**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **toht hi <span style="color:red">NoWordFound:"feeble"</span> kurso** `mind small feeble 1SG-GEN`.

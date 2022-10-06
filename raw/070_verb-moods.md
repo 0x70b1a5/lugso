@@ -95,13 +95,13 @@ ${g: Cthulhu-VOC consume-PREC victim DET.PROX}$
 
 _O Cthulhu, (will you) please accept this victim!_
 
-**tknuz** signifies the utterance is a request.
+**-${PREC}$** signifies the utterance is a request.
 
 ### PROH prohibitive: -${PROH}$
 
-${g: blaspheme-PROH name Cthulhu-GEN}$
+${g: blaspheme-PROH name Cthulhu-GEN great}$
 
-_Do not blaspheme the name of Cthulhu!_
+_Do not blaspheme the name of Great Cthulhu!_
 
 ### PROL prolative: -${PROL}$
 
