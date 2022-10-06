@@ -9,12 +9,12 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-eye|N|viɣ-u3-fiɻ|vig-u3-fir|organ-sense-light
+eye|N|ʌxʌ|oko|
 human|N|χuɸz|hupz|
 future|N|θxuj|tkuy|
 heretic|N|isv|isv|
 POSS |N suffix|ɣu|gu|possessive suffix - N's (ownership)
-priest|N|θu5ʌ|tu5o|
+priest|N|θuʃʌ|tu5o|
 
 ## Possessive suffix
 
@@ -30,7 +30,7 @@ _Its priest..._
 
 ---
 
-**vig-u3-firib lukgu**
+**okoib lukgu**
 
 `eye-PL 2SG-POSS`
 

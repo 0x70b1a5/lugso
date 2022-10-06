@@ -114,7 +114,7 @@ _Die thou, unsung,_<br>
 `sleep-IMP 2SG sing-ADJ.DER-NEG`<br>
 
 _as tears unshed shall dry and die_<br>
-**tkrotzriy - gir lugvig-u3-firib ilzuybzit**
+**tkrotzriy - gir lugokoib ilzuybzit**
 
 `dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
 

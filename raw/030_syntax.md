@@ -6,15 +6,15 @@ order: 3
 ---
 ## Lesson Vocab
 
-English|Part of Speech|Lugso|Comments
+English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 ${r: ACC}$
 ${r: consume}$
 ${r: 1SG}$
 ${r: 2SG}$
 ${r: beast}$
-${r: travel through gas}$
-${r: travel through liquid}$
+${r: fly}$
+${r: swim}$
 
 ## Word Order (Part I)
 
@@ -50,7 +50,7 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-${fly 2SG-ACC beast}$
+${g: fly 2SG-ACC beast}$
 
 _The/A beast glides to you._
 

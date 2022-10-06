@@ -9,7 +9,7 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
 ${r: Q}|s$
-how|Q|ɮxuz5u|lkuz5u|INS-Q
+how|Q|ɮxuzʃu|lkuz5u|INS-Q
 dream|VB|zʌnθx|zontk|
 tremble|VB|ʌɸz|opz|
 certain|ADJ|zvʌjɣ|zvoyg|

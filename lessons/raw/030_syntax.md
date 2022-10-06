@@ -6,15 +6,15 @@ order: 3
 ---
 ## Lesson Vocab
 
-English|Part of Speech|Lugso|Comments
+English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 ACC|N suffix|iɻ|ir|accusative case - to N, towards location
 consume|VB|χuf|huf|
 i, me|1SG|xuɻ|kur|
 you|2SG|ɮux|luk|
 beast|N|θɮu|tlu|
-travel|VB|juθɮ|yutl|
-travel|VB|juθɮ|yutl|
+fly|VB|sʌʒʃ|so35|travel through gas
+swim|VB|vux|vuk|travel through liqud
 
 ## Word Order (Part I)
 
@@ -56,7 +56,9 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-so35 lukir tlu
+**so35 lukir tlu**
+
+`fly 2SG-ACC beast`
 
 _The/A beast glides to you._
 

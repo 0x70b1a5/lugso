@@ -45,7 +45,7 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-**NoWordFound:"see.mental"gi NoWordFound:"truth"ir NoWordFound:"see.material"or vgovzit vig-u3-fir**
+**NoWordFound:"see.mental"gi NoWordFound:"truth"ir NoWordFound:"see.material"or vgovzit oko**
 
 `see.mental-IMP truth-ACC see.material-REL can-NEG eye`
 

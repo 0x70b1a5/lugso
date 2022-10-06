@@ -9,9 +9,9 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-master|N|ɣi5|gi5|
+master|N|ɣiʃ|gi5|
 music|N|fɻʌɣ|frog|
-servant|N|fβu5|fbu5|
+servant|N|fβuʃ|fbu5|
 secret|N|ɮij|liy|
 star|N|ɮiχ|lih|
 

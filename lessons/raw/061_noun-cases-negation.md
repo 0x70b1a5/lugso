@@ -17,9 +17,9 @@ COM|N suffix|nij|niy|comitative case "together with N, alongside N"
 essence|N|ɸus|pus|
 exchange, transact, speak|VB|zi|zi|
 GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-hunger_love|VB|χχu5|hhu5|
+hunger_love|VB|χχuʃ|hhu5|
 INS|N suffix|iffʌ|iffo|instrumental case - using N
-LOC|N suffix|5iθx|5itk|locative case - at N, in N
+LOC|N suffix|ʃiθx|5itk|locative case - at N, in N
 NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence
 TEMP|N suffix|zxi|zki|temporal case - during N
 VOC|N suffix|θuθ|tut|vocative case - Hey N! O, N!
@@ -28,11 +28,11 @@ larva|N|ɮʌɻɣ|lorg|
 mind|N|θʌχθ|toht|
 move|VB|θxzuθx|tkzutk|
 NEG|suffix|ziθ|zit|negation suffix
-PROL|N suffix|ɸzuv3|pzuv3|prolative case (by way of N, via N, through N)
+PROL|N suffix|ɸzuvʒ|pzuv3|prolative case (by way of N, via N, through N)
 revolve|VB|ɮni|lni|circle, encircle
-sky|N|5θxi|5tki|
+sky|N|ʃθxi|5tki|
 thought|N|sʌθ|sot|
-time|N|5if|5if|
+time|N|ʃif|5if|
 transgress|VB|θuɣ|tug|
 
 ## Cases
@@ -41,7 +41,7 @@ What is a _noun case_? In a sense, it is the difference between "I" and "me". Un
 
 In Lugso, various aspects of language are communicated with noun case.
 
-Case||Lugso|Notes
+Case|Part of speech|IPA|Lugso|Notes
 |-|-|-|-
 ABL|N suffix|vsuɣ|vsug|ablative case - about N, from location
 ACC|N suffix|iɻ|ir|accusative case - to N, towards location
@@ -49,9 +49,9 @@ BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
 COM|N suffix|nij|niy|comitative case "together with N, alongside N"
 GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
 INS|N suffix|iffʌ|iffo|instrumental case - using N
-LOC|N suffix|5iθx|5itk|locative case - at N, in N
+LOC|N suffix|ʃiθx|5itk|locative case - at N, in N
 NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence
-PROL|N suffix|ɸzuv3|pzuv3|prolative case (by way of N, via N, through N)
+PROL|N suffix|ɸzuvʒ|pzuv3|prolative case (by way of N, via N, through N)
 TEMP|N suffix|zxi|zki|temporal case - during N
 VOC|N suffix|θuθ|tut|vocative case - Hey N! O, N!
 
@@ -103,9 +103,9 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug gu5liso sotibso**
+**lug gu5liibso sotibso**
 
-`blood god-GEN thought-PL-GEN`
+`blood deity_intelligent-PL-GEN thought-PL-GEN`
 
 _the blood of the thoughts of the gods..._
 
@@ -117,11 +117,13 @@ _the blood of the thoughts of the gods..._
 
 _The woman crushes the head of the great serpent with (her) heel._
 
+---
+
 Also used for things that are given:
 
-**yurg gvifnluli gu5zit bgoklzoblzotiffo NoWordFound:"organization.human"so**
+**yurg gvifnluli gu5zit bgoklzoblzotiffo yoyyso**
 
-`give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-GEN`
+`give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN`
 
 _The unthinking body is given leadership of the organization._
 
@@ -153,7 +155,7 @@ _Strange moons circle through the skies._
 
 **-zit** negates any non-verb.
 
-**vig-u3-fir lu5zit unso**
+**oko lu5zit unso**
 
 `eye liquid-NEG 3SG-GEN`
 

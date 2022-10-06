@@ -41,7 +41,7 @@ What is a _noun case_? In a sense, it is the difference between "I" and "me". Un
 
 In Lugso, various aspects of language are communicated with noun case.
 
-Case||Lugso|Notes
+Case|Part of speech|IPA|Lugso|Notes
 |-|-|-|-
 ${r: ABL}$
 ${r: ACC}$
@@ -93,7 +93,7 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-${g: blood god-GEN thought-PL-GEN}$
+${g: blood deity_intelligent-PL-GEN thought-PL-GEN}$
 
 _the blood of the thoughts of the gods..._
 
@@ -103,9 +103,11 @@ ${g: crush heel-INS head-ACC snake-GEN great human-F-NOM}$
 
 _The woman crushes the head of the great serpent with (her) heel._
 
+---
+
 Also used for things that are given:
 
-${g: give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-GEN}$
+${g: give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN}$
 
 _The unthinking body is given leadership of the organization._
 

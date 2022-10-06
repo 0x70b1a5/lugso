@@ -8,7 +8,7 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 body|N|ɣvifn|gvifn|
-false|ADJ|5ʌ5ɮ|5o5l|
+false|ADJ|ʃʌʃɮ|5o5l|
 follower|N|ɸʌɮ|pol|
 grant|VB|fun|fun|allow, permit, accept
 hidden|ADJ|xuθθ|kutt|
@@ -16,12 +16,12 @@ organization_human|N|jʌjj|yoyy|e.g. government, family(!)
 organization_natural|N|ɣʌɻn|gorn|
 organize|VB|jʌθuθ|yotut|
 lead|VB|βɣʌx|bgok|
-sentient|ADJ|ɣu5|gu5|
+sentient|ADJ|ɣuʃ|gu5|
 SUB.concession|SUB VB suffix|ɣɮin|glin|despite X
 SUB.conditional|SUB VB suffix|nʌθ|not|if X
 SUB.cotemporal|SUB VB suffix|ɻij|riy|at the same time as X
-SUB.location|SUB VB suffix|ɣsu5θ|gsu5t|where X
-SUB.purpose|SUB VB suffix|u3ɣ|u3g|because X
+SUB.location|SUB VB suffix|ɣsuʃθ|gsu5t|where X
+SUB.purpose|SUB VB suffix|uʒɣ|u3g|because X
 SUB.reason|SUB VB suffix|ɻiɣ|rig|in order that X
 
 A _subordinate clause_ joins two complete sentences. The sub-clause marker attaches to the verb of the second sentence, which in all cases will be its first word.

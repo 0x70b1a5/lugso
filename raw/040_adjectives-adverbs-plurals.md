@@ -38,7 +38,7 @@ _infinite strange aeon..._
 
 ## Plurals
 
-To pluralize something, affix **-ib**.
+To pluralize something, affix **-${PL}$**.
 
 ${g: aeon-PL weird infinite}$
 
@@ -53,7 +53,7 @@ Pronouns|1st Person|2nd Person|3rd Person
 Singular|${1SG}$ _I_|${2SG}$ _you_|${3SG}$ _it_
 Plural|${1PL}$ _we_|${2PL}$ _y'all_|${3PL}$ _they_
 
-## Adverbs
+## Adverbs with ${ADV.DER}$
 
 In English, we append -ly to an adjective, in order to form an adverb that describes the way in which a verb is performed. "The beast bites invisibly": "invisible" becomes "invisibly".
 

@@ -9,11 +9,11 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ADV.DER|suffix|n5uv|n5uv|-ly
+ADV.DER|suffix|nʃuv|n5uv|-ly
 aeon, age, epoch|N|iθɣ|itg|
-beautiful, weird, strange|ADJ|ʌɮnɻi5|olnri5|"eldritch" 
-bite|VB|iχ5|ih5|
-black|ADJ|3xiɣ|3kig|
+beautiful, weird, strange|ADJ|ʌɮnɻiʃ|olnri5|"eldritch" 
+bite|VB|iχʃ|ih5|
+black|ADJ|ʒxiɣ|3kig|
 blood|N|ɮuɣ|lug|
 infinite|ADJ|ɣʌɮʌɮʌɮ|gololol|
 invisible|ADJ|zuθx|zutk|
@@ -59,7 +59,7 @@ Pronouns|1st Person|2nd Person|3rd Person
 Singular|kur _I_|luk _you_|un _it_
 Plural|vo _we_|tu _y'all_|sigf _they_
 
-## Adverbs
+## Adverbs with n5uv
 
 In English, we append -ly to an adjective, in order to form an adverb that describes the way in which a verb is performed. "The beast bites invisibly": "invisible" becomes "invisibly".
 

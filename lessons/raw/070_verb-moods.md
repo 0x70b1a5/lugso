@@ -16,8 +16,8 @@ INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
 MOD|VB suffix|zvʌχ|zvoh|modal mood "must/have to"
 PREC|VB suffix|θxnuz|tknuz|precative mood (please ...)
 PROH|VB suffix|jʌzβ|yozb|prohibitive mood (do not ...)
-PROL|N suffix|ɸzuv3|pzuv3|prolative case (by way of N, via N, through N)
-song|N|vθu3|vtu3|
+PROL|N suffix|ɸzuvʒ|pzuv3|prolative case (by way of N, via N, through N)
+song|N|vθuʒ|vtu3|
 voice|VB|jun|yun|
 grant|VB|fun|fun|allow, permit, accept
 we_exc|1PL.EX|vʌ|vo|
@@ -27,7 +27,7 @@ we_inc|1PL.INC|vi|vi|
 
 Verb moods indicate the way in which a certain action is performed. Think of, "Please would you do this?" versus "Do this!" versus "Are you doing this?" versus "You must do this."
 
-### IMP imperative gi
+### IMP imperative -gi
 
 **gu5hgi tgus-tluir ivih ktkulhululi**
 
@@ -37,7 +37,7 @@ _Offer this victim to Cthulhu!_
 
 IMP is the "command mood" used when giving orders.
 
-### IND indicative* toy
+### IND indicative* -toy
 
 While usually unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
@@ -81,7 +81,7 @@ The above examples are ambiguous because of the implicit copula combined with an
 
 _My voice is dead, O song of my soul._
 
-### FORM formal: rgiz
+### FORM formal: -rgiz
 
 **ktkulhutut pinrgiz sup5itk blolgib lukso**
 
@@ -89,7 +89,7 @@ _My voice is dead, O song of my soul._
 
 _Thy tentacles writhe forever, O Cthulhu!_
 
-### INT Interrogative: oh
+### INT Interrogative: -oh
 
 **fhtognioh ktkulhu**
 
@@ -97,7 +97,7 @@ _Thy tentacles writhe forever, O Cthulhu!_
 
 _Does Cthulhu sleep?_
 
-### MOD modal: NoWordFound:"zvoh"
+### MOD modal: -zvoh
 
 **h3unbzvoh ktkulhuir vi**
 
@@ -105,7 +105,7 @@ _Does Cthulhu sleep?_
 
 _We must satisfy Cthulhu!_
 
-### PREC precative: tknuz
+### PREC precative: -tknuz
 
 **ktkulhutut huftknuz tgus-tlu ivih**
 
@@ -115,7 +115,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 **tknuz** signifies the utterance is a request.
 
-### PROH prohibitive: yozb
+### PROH prohibitive: -yozb
 
 **zbostyozb zuyn-pus ktkulhuso**
 
@@ -123,7 +123,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 _Do not blaspheme the name of Cthulhu!_
 
-### PROL prolative: pzuv3
+### PROL prolative: -pzuv3
 
 **lni 5tkiibpzuv3 yols-yols-lihib olnri5**
 
