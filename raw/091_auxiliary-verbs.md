@@ -7,7 +7,9 @@ order: 3
 
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
-can|AUX|vɣʌv|vgov
+${r: can}$
+${r: hunger}$
+${r: dream}$
 
 An _auxiliary verb_ is like English "can", "might". In English they are effectively intransitive verbs that modify an infinitive. Other intransitives that work similarly are "want", "wish".
 
@@ -19,14 +21,20 @@ _I desire/want/yearn to harvest heads for the gods._
 
 ---
 
-${g: finish can DET.PROX-ACC 1SG. consume knowledge can blood-ACC deity-PL-GEN thought-PL-GEN 1SG.}$
+${g: finish can DET.PROX-ACC 1SG}$ 
 
-_I can do this. I can learn the blood of the thoughts of the gods._
+_I can do this._ 
+
+---
+
+${g: consume knowledge can blood-ACC deity_intelligent-PL-GEN thought-PL-GEN 1SG}$
+
+_I can learn the blood of the thoughts of the gods._
 
 ### Questions
 
-**oh** attaches to the auxiliary when forming a question.
+**${Q}$** attaches to the auxiliary when forming a question.
 
-${g: consume knowledge-CONJ.but can-INT referent-ACC DET.DIST blood-GEN 2SG}$
+${g: consume knowledge-CONJ.but can-INT referent-ACC EMPH blood-GEN DET.DIST 2SG}$
 
-_But can you learn what that blood portends?_
+_But can you learn what that blood truly means?_

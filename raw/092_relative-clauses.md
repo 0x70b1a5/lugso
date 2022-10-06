@@ -5,21 +5,21 @@ hide: true
 order: 3
 ---
 
-English|Part of speech|IPA|Lugso|Comment
-|-|-|-|-
-CONJ.and|VB suffix|ið|in|
-CONJ.but|VB suffix|iʃ|iS|
-CONJ.N|N suffix|vɻʌ|vro|what is this supposed to do?
-REL|VB Suffix|ʌɻ|or|introduces relative clause
-FUT|VB suffix|θxu|tku|
-GEN|N suffix|sʌ|so|genitive case
-knowledge|N|jʌɣ|yog|
-penetrate|VB|vuð|vun|
-space (3D+)|N|χɸiʃ|hpiS|
-star|N|ɮiχ|lih|
-child|N|jʌɮs|yols|
-planet|N|jʌɮsɮiχ|yols-lih|child of star
-moon|N|jʌɮsjʌɮsɮiχ|yols-yols-lih|child of child of star
+English|Part of speech|Lugso|Comment
+|-|-|-
+${CONJ.and}$
+${CONJ.but}$
+${CONJ.N}$
+${REL}$
+${FUT}$
+${GEN}$
+${knowledge}$
+${penetrate}$
+${space}$
+${star}$
+${child}$
+${planet}$
+moon|N|${child--child--star}$|child of child of star
 
 ## Relative Clauses
 
@@ -35,7 +35,7 @@ _the house **that** had ten mice in each room_: "had ten mice..." modifies _hous
 
 In Lugso, the relative-clause-introducer is another verb suffix. It follows any other suffixes on the verb, for example, future tense:
 
-${g: space.3d.or.higher knowledge-GEN penetrate-FUT-REL 1SG}$
+${g: space knowledge-GEN penetrate-FUT-REL 1SG}$
 
 _the spaces of knowledge that I will penetrate..._
 
@@ -51,11 +51,11 @@ _Behold the truth that no eye can perceive!_
 
 Lugso uses commas in the same way as English. Note that A, B, C, D, and E are _complete sentences_.
 
-${g: night beautiful revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful}$
+${g: night beautiful revolve-CONJ.and sky-PL-PROL child--child--star-PL beautiful}$
 
 _Strange is the night, and strange moons circle through the skies._
 
-Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **iS**:
+Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **${CONJ.but}$**:
 
 ${g: learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN}$
 

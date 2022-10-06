@@ -103,7 +103,7 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug NoWordFound:"god"so sotibso**
+**lug gu5liso sotibso**
 
 `blood god-GEN thought-PL-GEN`
 
