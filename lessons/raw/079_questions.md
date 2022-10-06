@@ -7,26 +7,26 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-INT|VB suffix|oh|interrogative mood  - is ...? did X ...?
+INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
 ${r: Q}|s$
-how|Q|lkuz5u|INS-Q
-dream|VB|zontk|
-tremble|VB|opz|
-certain|ADJ|zvoyg|
-voice|VB|yun|
-dry out, dessicate|VB|tkrotz|
-heretic|N|isv|
-hidden|ADJ|kutt|
-consummate|VB|kbitkp|
-DET.PROX|PART|ivih|proximal determinant (this)
-DET.DIST|PART|ivol|distal determinant (that)
-seek|VB|rils|
-come|VB|zfoy|
-changing|ADJ|fih|mercurial, capricious
+how|Q|ɮxuz5u|lkuz5u|INS-Q
+dream|VB|zʌnθx|zontk|
+tremble|VB|ʌɸz|opz|
+certain|ADJ|zvʌjɣ|zvoyg|
+voice|VB|jun|yun|
+dry out, dessicate|VB|θxɻʌθz|tkrotz|
+heretic|N|isv|isv|
+hidden|ADJ|xuθθ|kutt|
+consummate|VB|xβiθxɸ|kbitkp|
+DET.PROX|PART|iviχ|ivih|proximal determinant (this)
+DET.DIST|PART|ivʌɮ|ivol|distal determinant (that)
+seek|VB|ɻiɮs|rils|
+come|VB|zfʌj|zfoy|
+changing|ADJ|fiχ|fih|mercurial, capricious
 
 ## Simple questions
 
-### child|N|yols|: questions about things [noun suffix or standalone]
+### child|N|jʌɮs|yols|: questions about things [noun suffix or standalone]
 
 **5ol5u** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
 

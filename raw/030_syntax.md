@@ -6,7 +6,7 @@ order: 3
 ---
 ## Lesson Vocab
 
-English|Part of Speech|IPA|Lugso|Comments
+English|Part of Speech|Lugso|Comments
 |-|-|-|-
 ${r: ACC}$
 ${r: consume}$

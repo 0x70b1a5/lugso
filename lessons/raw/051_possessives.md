@@ -9,12 +9,12 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-eye|N|vig-u3-fir|organ-sense-light
-human|N|hupz|
-future|N|tkuy|
-heretic|N|isv|
-POSS |N suffix|gu|possessive suffix - N's (ownership)
-priest|N|tu5o|
+eye|N|viɣ-u3-fiɻ|vig-u3-fir|organ-sense-light
+human|N|χuɸz|hupz|
+future|N|θxuj|tkuy|
+heretic|N|isv|isv|
+POSS |N suffix|ɣu|gu|possessive suffix - N's (ownership)
+priest|N|θu5ʌ|tu5o|
 
 ## Possessive suffix
 

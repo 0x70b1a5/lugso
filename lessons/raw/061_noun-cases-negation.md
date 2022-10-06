@@ -9,31 +9,31 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ABL|N suffix|vsug|ablative case - about N, from location
-ACC|N suffix|ir|accusative case - to N, towards location
-BEN|N suffix|luli|benefactive case - for the sake of N
-can|AUX|vgov|
-COM|N suffix|niy|comitative case "together with N, alongside N"
-essence|N|pus|
-exchange, transact, speak|VB|zi|
-GEN|N suffix|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-hunger_love|VB|hhu5|
-INS|N suffix|iffo|instrumental case - using N
-LOC|N suffix|5itk|locative case - at N, in N
-NOM|N suffix|∅|nominative case - the subject/actor in a sentence
-TEMP|N suffix|zki|temporal case - during N
-VOC|N suffix|tut|vocative case - Hey N! O, N!
-IMP|VB suffix|gi|imperative mood (a command)
-larva|N|lorg|
-mind|N|toht|
-move|VB|tkzutk|
-NEG|suffix|zit|negation suffix
-PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
-revolve|VB|lni|circle, encircle
-sky|N|5tki|
-thought|N|sot|
-time|N|5if|
-transgress|VB|tug|
+ABL|N suffix|vsuɣ|vsug|ablative case - about N, from location
+ACC|N suffix|iɻ|ir|accusative case - to N, towards location
+BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
+can|AUX|vɣʌv|vgov|
+COM|N suffix|nij|niy|comitative case "together with N, alongside N"
+essence|N|ɸus|pus|
+exchange, transact, speak|VB|zi|zi|
+GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+hunger_love|VB|χχu5|hhu5|
+INS|N suffix|iffʌ|iffo|instrumental case - using N
+LOC|N suffix|5iθx|5itk|locative case - at N, in N
+NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence
+TEMP|N suffix|zxi|zki|temporal case - during N
+VOC|N suffix|θuθ|tut|vocative case - Hey N! O, N!
+IMP|VB suffix|ɣi|gi|imperative mood (a command)
+larva|N|ɮʌɻɣ|lorg|
+mind|N|θʌχθ|toht|
+move|VB|θxzuθx|tkzutk|
+NEG|suffix|ziθ|zit|negation suffix
+PROL|N suffix|ɸzuv3|pzuv3|prolative case (by way of N, via N, through N)
+revolve|VB|ɮni|lni|circle, encircle
+sky|N|5θxi|5tki|
+thought|N|sʌθ|sot|
+time|N|5if|5if|
+transgress|VB|θuɣ|tug|
 
 ## Cases
 
@@ -43,17 +43,17 @@ In Lugso, various aspects of language are communicated with noun case.
 
 Case||Lugso|Notes
 |-|-|-|-
-ABL|N suffix|vsug|ablative case - about N, from location
-ACC|N suffix|ir|accusative case - to N, towards location
-BEN|N suffix|luli|benefactive case - for the sake of N
-COM|N suffix|niy|comitative case "together with N, alongside N"
-GEN|N suffix|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-INS|N suffix|iffo|instrumental case - using N
-LOC|N suffix|5itk|locative case - at N, in N
-NOM|N suffix|∅|nominative case - the subject/actor in a sentence
-PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
-TEMP|N suffix|zki|temporal case - during N
-VOC|N suffix|tut|vocative case - Hey N! O, N!
+ABL|N suffix|vsuɣ|vsug|ablative case - about N, from location
+ACC|N suffix|iɻ|ir|accusative case - to N, towards location
+BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
+COM|N suffix|nij|niy|comitative case "together with N, alongside N"
+GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+INS|N suffix|iffʌ|iffo|instrumental case - using N
+LOC|N suffix|5iθx|5itk|locative case - at N, in N
+NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence
+PROL|N suffix|ɸzuv3|pzuv3|prolative case (by way of N, via N, through N)
+TEMP|N suffix|zxi|zki|temporal case - during N
+VOC|N suffix|θuθ|tut|vocative case - Hey N! O, N!
 
 ## Examples
 

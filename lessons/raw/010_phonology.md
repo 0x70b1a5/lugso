@@ -28,8 +28,8 @@ n|ð|n
 d|z|z
 t|θ|t*
 θ ("th")|θx|tk
-tʃ ("ch")|θʃ|tS
-dʒ ("zh", as in _gara**ge**_)|zʒ|zZ
+tʃ ("ch")|θʃ|t5
+dʒ ("zh", as in _gara**ge**_)|zʒ|z3
 l|ɮ|l
 r|ɻ|r
 k|x|k

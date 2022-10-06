@@ -9,10 +9,10 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-FPRET|VB suffix|suTr|far past
-FPRET|VB suffix|suTr|far past
-FFUT|VB suffix|l5i|far future
-FFUT|VB suffix|l5i|far future
+FPRET|VB suffix|suTɻ|suTr|far past
+FPRET|VB suffix|suTɻ|suTr|far past
+FFUT|VB suffix|ɮ5i|l5i|far future
+FFUT|VB suffix|ɮ5i|l5i|far future
 
 Verb tense is the difference between _I was_, _I am_, and _I will be_, commonly called _past_, _present_, and _future_. 
 Lugso marks verb tense with suffixes similar to moods.

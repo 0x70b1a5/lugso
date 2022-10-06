@@ -9,21 +9,21 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-PRV|N suffix|in5|privative case ("N-less", without N)
-corpse|N compound|gvifn-fhtogni|body sleeping
-deity_intelligent|N|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
-house, home|N|ugonogl|wgah'nagl
-learn|VB-N compound|huf-yu |consume knowledge
-milk|N|t3uh|
-name|N|zuyn-pus|symbol-soul
-ocean|N compound|hpi5-lug-5tki|space blood sky
-organ |N|vig|
-pact|N compound|bul-gu5li|contract-deity
-promise|N compound|bul-pobb|contract mortal
-speech |N compound|lgu3g-sot|(noise thought)
-sun|N|-|see star
-water |N compound|lug-5tki|(blood sky)
-word |N compound|zuyn-sot|(symbol thought)
+PRV|N suffix|in5|in5|privative case ("N-less", without N)
+corpse|N compound|ɣvifn-fχθʌɣni|gvifn-fhtogni|body sleeping
+deity_intelligent|N|ɣu5ɮi|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
+house, home|N|uɣʌnʌɣɮ|ugonogl|wgah'nagl
+learn|VB-N compound|χuf-ju |huf-yu |consume knowledge
+milk|N|θ3uχ|t3uh|
+name|N|zujn-ɸus|zuyn-pus|symbol-soul
+ocean|N compound|χɸi5-ɮuɣ-5θxi|hpi5-lug-5tki|space blood sky
+organ |N|viɣ|vig|
+pact|N compound|βuɮ-ɣu5ɮi|bul-gu5li|contract-deity
+promise|N compound|βuɮ-ɸʌββ|bul-pobb|contract mortal
+speech |N compound|ɮɣu3ɣ-sʌθ|lgu3g-sot|(noise thought)
+sun|N|-|-|see star
+water |N compound|ɮuɣ-5θxi|lug-5tki|(blood sky)
+word |N compound|zujn-sʌθ|zuyn-sot|(symbol thought)
 
 A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "fire truck".
 

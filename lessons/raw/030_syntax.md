@@ -6,15 +6,15 @@ order: 3
 ---
 ## Lesson Vocab
 
-English|Part of Speech|IPA|Lugso|Comments
+English|Part of Speech|Lugso|Comments
 |-|-|-|-
-ACC|N suffix|ir|accusative case - to N, towards location
-consume|VB|huf|
-i, me|1SG|kur|
-you|2SG|luk|
-beast|N|tlu|
-travel|VB|yutl|
-travel|VB|yutl|
+ACC|N suffix|iɻ|ir|accusative case - to N, towards location
+consume|VB|χuf|huf|
+i, me|1SG|xuɻ|kur|
+you|2SG|ɮux|luk|
+beast|N|θɮu|tlu|
+travel|VB|juθɮ|yutl|
+travel|VB|juθɮ|yutl|
 
 ## Word Order (Part I)
 

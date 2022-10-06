@@ -9,19 +9,19 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-FORM|VB suffix|rgiz|formal mood 
-IMP|VB suffix|gi|imperative mood (a command)
-IND|VB suffix|toy|indicative mood - (optional except where ambiguous)
-INT|VB suffix|oh|interrogative mood  - is ...? did X ...?
-MOD|VB suffix|zvoh|modal mood "must/have to"
-PREC|VB suffix|tknuz|precative mood (please ...)
-PROH|VB suffix|yozb|prohibitive mood (do not ...)
-PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
-song|N|vtu3|
-voice|VB|yun|
-grant|VB|fun|allow, permit, accept
-we_exc|1PL.EX|vo|
-we_inc|1PL.INC|vi|
+FORM|VB suffix|ɻɣiz|rgiz|formal mood 
+IMP|VB suffix|ɣi|gi|imperative mood (a command)
+IND|VB suffix|θʌj|toy|indicative mood - (optional except where ambiguous)
+INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
+MOD|VB suffix|zvʌχ|zvoh|modal mood "must/have to"
+PREC|VB suffix|θxnuz|tknuz|precative mood (please ...)
+PROH|VB suffix|jʌzβ|yozb|prohibitive mood (do not ...)
+PROL|N suffix|ɸzuv3|pzuv3|prolative case (by way of N, via N, through N)
+song|N|vθu3|vtu3|
+voice|VB|jun|yun|
+grant|VB|fun|fun|allow, permit, accept
+we_exc|1PL.EX|vʌ|vo|
+we_inc|1PL.INC|vi|vi|
 
 ## Verb Moods
 

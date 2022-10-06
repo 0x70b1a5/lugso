@@ -9,16 +9,16 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ADV.DER|suffix|n5uv|-ly
-aeon, age, epoch|N|itg|
-beautiful, weird, strange|ADJ|olnri5|"eldritch" 
-bite|VB|ih5|
-black|ADJ|3kig|
-blood|N|lug|
-infinite|ADJ|gololol|
-invisible|ADJ|zutk|
-it|3SG|un|he, she, it
-PL|N suffix|ib|plural suffix
+ADV.DER|suffix|n5uv|n5uv|-ly
+aeon, age, epoch|N|iθɣ|itg|
+beautiful, weird, strange|ADJ|ʌɮnɻi5|olnri5|"eldritch" 
+bite|VB|iχ5|ih5|
+black|ADJ|3xiɣ|3kig|
+blood|N|ɮuɣ|lug|
+infinite|ADJ|ɣʌɮʌɮʌɮ|gololol|
+invisible|ADJ|zuθx|zutk|
+it|3SG|un|un|he, she, it
+PL|N suffix|iβ|ib|plural suffix
 
 ## Adjectives
 

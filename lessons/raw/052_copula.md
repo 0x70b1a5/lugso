@@ -9,11 +9,11 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-master|N|gi5|
-music|N|frog|
-servant|N|fbu5|
-secret|N|liy|
-star|N|lih|
+master|N|ɣi5|gi5|
+music|N|fɻʌɣ|frog|
+servant|N|fβu5|fbu5|
+secret|N|ɮij|liy|
+star|N|ɮiχ|lih|
 
 In English, we say "the star is a sacrifice", or "I am the secret." Using the verb _to be_ we describe equality between two things. This verb is called the _copula_.
 
