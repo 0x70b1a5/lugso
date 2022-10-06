@@ -46,7 +46,7 @@ But how does he know what's the subject and what's the object? In English, we ch
 
 A noun obtains the accusative case if the verb is _being done to_ it.
 
-**huf kur-ir luk**
+**huf kurir luk**
 
 `consume 1SG-ACC 2SG`
 
@@ -56,7 +56,7 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-so35 luk-ir tlu
+so35 lukir tlu
 
 _The/A beast glides to you._
 

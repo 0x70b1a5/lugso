@@ -29,10 +29,10 @@ mind|N|toht|
 move|VB|tkzutk|
 NEG|suffix|zit|negation suffix
 PROL|N suffix|pzuv3|prolative case (by way of N, via N, through N)
-revolve, circle, encircle|VB|lni|
+revolve|VB|lni|circle, encircle
 sky|N|5tki|
 thought|N|sot|
-SUB.cotemporal_at the same time as|SUB VB suffix|riy|
+time|N|5if|
 transgress|VB|tug|
 
 ## Cases
@@ -63,7 +63,7 @@ Notice also that the `NEG` suffix ("not") is used in a few places.
 
 ### ACC accusative
 
-**tug vgov-zit pus-ir toht-∅**
+**tug vgovzit pusir toht∅**
 
 `transgress can-NEG essence-ACC mind-NOM`
 
@@ -71,7 +71,7 @@ _The mind cannot penetrate transcendence!_
 
 ### VOC vocative
 
-**tkzutk-zit-gi lorg-tut**
+**tkzutkzitgi lorgtut**
 
 `move-NEG-IMP larva-VOC`
 
@@ -79,7 +79,7 @@ _Don't move, maggot!_
 
 ### LOC locative
 
-**vsiki ovs-5itk 5oggoT-∅**
+**vsiki ovs5itk 5oggoT∅**
 
 `emerge pit-LOC shoggoth-NOM`
 
@@ -87,7 +87,7 @@ _The shoggoth emerges in the pit._
 
 ### BEN benefactive
 
-**hhu5 kur-luli kur-ir un-∅**
+**hhu5 kurluli kurir un∅**
 
 `love 1SG-BEN 1SG-ACC 3SG-NOM`
 
@@ -95,7 +95,7 @@ _It loves me, for me._
 
 ### ABL ablative
 
-**zyuzh 3uz-vsug lug-∅**
+**zyuzh 3uzvsug lug∅**
 
 `descend fire-ABL blood-NOM`
 
@@ -103,7 +103,7 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug NoWordFound:"god"-so sot-ib-so**
+**lug NoWordFound:"god"so sotibso**
 
 `blood god-GEN thought-PL-GEN`
 
@@ -111,15 +111,15 @@ _the blood of the thoughts of the gods..._
 
 ### INS instrumental
 
-**pi5n gustk-iffo ip-ir snull-so bvong hupz-∅**
+**pi5n gustkiffo ipir snullso bvong hupzni∅**
 
-`crush heel-INS head-ACC snake-GEN great human-NOM`
+`crush heel-INS head-ACC snake-GEN great human-F-NOM`
 
-_The human crushes the head of the great serpent with their heel._
+_The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
-**yurg gvifn-luli gu5-zit bgok-lzob-lzot-iffo NoWordFound:"organization.human"-so**
+**yurg gvifnluli gu5zit bgoklzoblzotiffo NoWordFound:"organization.human"so**
 
 `give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-GEN`
 
@@ -127,7 +127,7 @@ _The unthinking body is given leadership of the organization._
 
 ### TEMP temporal
 
-**fhtogni vgov itg-ib-zki fhtog-∅**
+**fhtogni vgov itgibzki fhtog∅**
 
 `sleep can aeon-PL-TEMP death-NOM`
 
@@ -135,7 +135,7 @@ _In strange aeons, death may die._
 
 ### COM comitative
 
-**zi pus-ir lorg-niy hupz-∅**
+**zi pusir lorgniy hupz∅**
 
 `exchange soul-ACC larva-COM human-NOM`
 
@@ -143,9 +143,9 @@ _The human exchanges souls with the maggot._
 
 ### PROL prolative
 
-**lni 5tki-ib-pzuv3 NoWordFound:"moon"-ib-∅ olnri5**
+**lni 5tkiibpzuv3 yols-yols-lihib∅ olnri5**
 
-`revolve sky-PL-PROL moon-PL-NOM strange`
+`revolve sky-PL-PROL child--child--star-PL-NOM strange`
 
 _Strange moons circle through the skies._
 
@@ -153,7 +153,7 @@ _Strange moons circle through the skies._
 
 **-zit** negates any non-verb.
 
-**vig-u3-fir lu5-zit un-so**
+**vig-u3-fir lu5zit unso**
 
 `eye liquid-NEG 3SG-GEN`
 
@@ -161,7 +161,7 @@ _Its illiquid eye..._
 
 ---
 
-**ov5o-zit**
+**ov5ozit**
 
 `patient-NEG`
 

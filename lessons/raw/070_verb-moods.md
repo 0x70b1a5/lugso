@@ -29,7 +29,7 @@ Verb moods indicate the way in which a certain action is performed. Think of, "P
 
 ### IMP imperative gi
 
-**gu5h-gi tgus-tlu-ir ivih NoWordFound:"Cthulhu"-luli**
+**gu5hgi tgus-tluir ivih ktkulhululi**
 
 `surrender-IMP victim-ACC DET.PROX Cthulhu-BEN`
 
@@ -43,7 +43,7 @@ While usually unnecessary to mark indicative mood, there are cases where it is i
 
 #### Redundant indicative
 
-**fun-toy tgus-tlu-ir ivih NoWordFound:"Cthulhu"**
+**funtoy tgus-tluir ivih ktkulhu**
 
 `allow-IND victim-ACC DET.PROX Cthulhu`
 
@@ -53,7 +53,7 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtu3-tut pus-so kur-so toy fhtogni yun kur-so**
+**vtu3tut pusso kurso toy fhtogni yun kurso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
 
@@ -61,13 +61,13 @@ _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**vtu3-tut pus-so kur-so fhtogni yun kur-so**
+**vtu3tut pusso kurso fhtogni yun kurso**
 
 `song-VOC soul-GEN 1SG-GEN dead voice 1SG-GEN`
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3-tut pus-so kur-so fhtogni) (yun kur-so), since the adjective **fhtogni** follows the noun **pus-so kur-so**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3-tut pus-so kur-so) **toy** (fhtogni (yun kur-so)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3tut pusso kurso fhtogni) (yun kurso), since the adjective **fhtogni** follows the noun **pusso kurso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3tut pusso kurso) **toy** (fhtogni (yun kurso)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -75,7 +75,7 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogni yun kur-so vtu3-tut pus-so kur-so**
+**fhtogni yun kurso vtu3tut pusso kurso**
 
 `dead voice 1SG-GEN song-VOC soul-GEN 1SG-GEN`
 
@@ -83,7 +83,7 @@ _My voice is dead, O song of my soul._
 
 ### FORM formal: rgiz
 
-**NoWordFound:"Cthulhu"-tut pin-rgiz sup-5itk blolg-ib luk-so**
+**ktkulhutut pinrgiz sup5itk blolgib lukso**
 
 `Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-GEN`
 
@@ -91,7 +91,7 @@ _Thy tentacles writhe forever, O Cthulhu!_
 
 ### INT Interrogative: oh
 
-**fhtogni-oh NoWordFound:"Cthulhu"**
+**fhtognioh ktkulhu**
 
 `sleep-INT Cthulhu`
 
@@ -99,7 +99,7 @@ _Does Cthulhu sleep?_
 
 ### MOD modal: NoWordFound:"zvoh"
 
-**h3unb-zvoh NoWordFound:"Cthulhu"-ir vi**
+**h3unbzvoh ktkulhuir vi**
 
 `gorge-MOD Cthulhu-ACC 1PL.INC`
 
@@ -107,7 +107,7 @@ _We must satisfy Cthulhu!_
 
 ### PREC precative: tknuz
 
-**NoWordFound:"Cthulhu"-tut huf-tknuz tgus-tlu ivih**
+**ktkulhutut huftknuz tgus-tlu ivih**
 
 `Cthulhu-VOC consume-PREC victim DET.PROX`
 
@@ -117,7 +117,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 ### PROH prohibitive: yozb
 
-**zbost-yozb zuyn-pus NoWordFound:"Cthulhu"-so**
+**zbostyozb zuyn-pus ktkulhuso**
 
 `blaspheme-PROH name Cthulhu-GEN`
 
@@ -125,8 +125,8 @@ _Do not blaspheme the name of Cthulhu!_
 
 ### PROL prolative: pzuv3
 
-**lni 5tki-ib-pzuv3 NoWordFound:"moon"-ib olnri5**
+**lni 5tkiibpzuv3 yols-yols-lihib olnri5**
 
-`revolve sky-PL-PROL moon-PL beautiful`
+`revolve sky-PL-PROL child--child--star-PL beautiful`
 
 _Strange moons circle through the skies._

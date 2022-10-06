@@ -78,7 +78,7 @@ _Is Cthulhu **eating** a human (or doing something else to it)?_
 
 **${INT}$** attaches to the auxiliary when forming a question.
 
-${g: consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG}$
+${g: consume--knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG}$
 
 _Can you learn what that blood portends?_
 

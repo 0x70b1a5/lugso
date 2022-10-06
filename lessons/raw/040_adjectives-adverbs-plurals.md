@@ -44,7 +44,7 @@ _infinite strange aeon..._
 
 To pluralize something, affix **-ib**.
 
-**itg-ib olnri5 gololol**
+**itgib olnri5 gololol**
 
 `aeon-PL weird infinite`
 
@@ -65,7 +65,7 @@ In English, we append -ly to an adjective, in order to form an adverb that descr
 
 In Lugso, adverbs follow the verb that they modify. This is similar to English. However, unlike English, you cannot place an adverb before the verb it modifies: we think it's fine to say "the beast invisibly bites", but for your own safety, don't talk like that when speaking to a cultist.
 
-**ih5 zutk-n5uv tlu**
+**ih5 zutkn5uv tlu**
 
 `bite invisible-ADV.DER beast`
 
@@ -75,7 +75,7 @@ _The/A beast bites invisibly._
 
 Any number of adverbs may be appended in this fashion.
 
-**ih5 zutk-n5uv 3kig-n5uv gololol-n5uv tlu**
+**ih5 zutkn5uv 3kign5uv golololn5uv tlu**
 
 `bite invisible-ADV.DER black-ADV.DER infinite-ADV.DER beast`
 

@@ -105,6 +105,6 @@ _Do not blaspheme the name of Cthulhu!_
 
 ### PROL prolative: ${PROL}$
 
-${g: revolve sky-PL-PROL moon-PL beautiful}$
+${g: revolve sky-PL-PROL child--child--star-PL beautiful}$
 
 _Strange moons circle through the skies._

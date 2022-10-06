@@ -7,32 +7,32 @@ order: 3
 
 ## Lesson Vocab
 
-English|Part of speech|IPA|Lugso|Comment
-|-|-|-|-
-idiot|N|ɣuʃixɮzʌθ|guSiklzot|(sentient-DIM-NMLZDER)
-AUG|ADJ suffix|θxuθx|tkutk|augmentative ("more ... than", "-er")
-DIM|ADJ suffix|ix|ik|diminutive ("less ... than")
-SUPER|ADJ suffix|ɮi|li|superlative suffix ("the most ...", "-est")
-deity (bestial)|N|θɮuɮi|tluli|(beast-SUPER)
-deity (intelligent)|N|ɣuʃɮi|guSli|(sentient-SUPER)
-NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing
-NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs
-NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
-ADJ.DER|suffix|fβujβ|fbuyb|adjectivizing suffix
-ADV.DER|suffix|ðʃuv|nSuv|"-ly"
-VB.DER|suffix|ʃsuɻ|Ssur|verb-izing suffix
-great (large)|ADJ|βvʌðɣ|bvong
-distant|ADJ|βʌθuθ|botut
-gorge|VT|χʒuðβ|hZunb|
-parasite|N|zʌβθ|zobt|
-priest|N|vix|vik
-PRV|N suffix|iðʃ|inS|privative case ("-less")
-revolve, circle, encircle|VB|ɮði|lni|
-thought|N|sʌθ|sot|
-servant|N|fβuʃ|fbuS|
-snake, limbless organism|N|sðuɮɮ|snull|
-solid|N|βiðʃ|binS|
-way, path, road|N|zʌθ|zot|
+English|Part of speech|Lugso|Comment
+|-|-|-
+${r: idiot}$
+${r: AUG}$
+${r: DIM}$
+${r: SUPER}$
+${r: deity_bestial}$
+${r: deity_intelligent}$
+${r: NMLZ.DER.act}$
+${r: NMLZ.DER.agent}$
+${r: NMLZ.DER.patient}$
+${r: ADJ.DER}$
+${r: ADV.DER}$
+${r: VB.DER}$
+${r: large}$
+${r: distant}$
+${r: gorge}$
+${r: parasite}$
+${r: priest}$
+${r: PRV}$
+${r: revolve}$
+${r: thought}$
+${r: servant}$
+${r: snake}$
+${r: solid}$
+${r: way}$
 
 ### Part-of-speech affixes
 
@@ -48,11 +48,11 @@ Lugso has a special suffix for many types of derivation, and several additional 
 
 Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
 
-E|P|I|L|C
-|-|-|-|-
-NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing ("the verbinating")
-NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs ("the verber")
-NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed ("the verbee")
+E|P|L|C
+|-|-|-
+${r: NMLZ.DER.act}$
+${r: NMLZ.DER.agent}$
+${r: NMLZ.DER.patient}$
 
 ${g: mortal-NMLZ.DER.act}$
 
@@ -84,40 +84,40 @@ _Satisfaction is mine._
 
 #### non-verb -> noun
 
-For nominalizing a non-verb, you can also use **-lzot** - e.g. _blackness_ **Zkiglzot** (lit. "the act of black").
+For nominalizing a non-verb, you can also use **-${NMLZ.DER.act}$** - e.g. _blackness_ **${black-NMLZ.DER.act}$** (lit. "the act of black").
 
 #### non-adj -> adj
 
-_death-ly_* **fhtognfbuyb**
+_death-ly_* **${death-ADJ.DER}$**
 
-_thought-ful_ **sotfbuyb**
+_thought-ful_ **${thought-ADJ.DER}$**
 
-_serpent-ine_ **snullfbuyb**
+_serpent-ine_ **${snake-ADJ.DER}$**
 
-_servile (servant-ish)_ **fbuSfbuyb**
+_servile (servant-ish)_ **${servant-ADJ.DER}$**
 
-_priestless_ **vikinS**
+_unpriestlike_ **${priest-ADJ.DER-NEG}$**
 
 \* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns other words into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
 #### non-adv -> adv
 
-_solid-ly_  **binSnSuv**
+_solid-ly_  **${solid-ADV.DER}$**
 
-_black-ly_ **ZkignSuv**
+_black-ly_ **${black-ADV.DER}$**
 
-_parasitical-ly_ **zobtnSuv**
+_parasitical-ly_ **${follower--food-ADV.DER}$**
 
-### Comparative affixes
+### Comparative affixes - Augmentative and Diminutive
 
-#### tkutk: "more ... than, -er"
+#### ${AUG}$: "more ... than, -er"
 
-_greater_ **bvongtkutk**
+_greater_ **${great-AUG}$**
 
-_prettier, weirder_ **olnriStkutk**
+_prettier, weirder_ **${weird-AUG}$**
 
-#### ix: "less ... than"
+#### ${DIM}$: "less ... than"
 
-_less dead_ **fhtognix**
+_less dead_ **${dead-DIM}$**
 
-_less far_ **botutix**
+_less far_ **${far-DIM}$**

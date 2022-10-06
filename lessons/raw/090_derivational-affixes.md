@@ -7,32 +7,32 @@ order: 3
 
 ## Lesson Vocab
 
-English|Part of speech|IPA|Lugso|Comment
-|-|-|-|-
-idiot|N|ɣuʃixɮzʌθ|guSiklzot|(sentient-DIM-NMLZDER)
-AUG|ADJ suffix|θxuθx|tkutk|augmentative ("more ... than", "-er")
-DIM|ADJ suffix|ix|ik|diminutive ("less ... than")
-SUPER|ADJ suffix|ɮi|li|superlative suffix ("the most ...", "-est")
-deity (bestial)|N|θɮuɮi|tluli|(beast-SUPER)
-deity (intelligent)|N|ɣuʃɮi|guSli|(sentient-SUPER)
-NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing
-NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs
-NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
-ADJ.DER|suffix|fβujβ|fbuyb|adjectivizing suffix
-ADV.DER|suffix|ðʃuv|nSuv|"-ly"
-VB.DER|suffix|ʃsuɻ|Ssur|verb-izing suffix
-great (large)|ADJ|βvʌðɣ|bvong
-distant|ADJ|βʌθuθ|botut
-gorge|VT|χʒuðβ|hZunb|
-parasite|N|zʌβθ|zobt|
-priest|N|vix|vik
-PRV|N suffix|iðʃ|inS|privative case ("-less")
-revolve, circle, encircle|VB|ɮði|lni|
-thought|N|sʌθ|sot|
-servant|N|fβuʃ|fbuS|
-snake, limbless organism|N|sðuɮɮ|snull|
-solid|N|βiðʃ|binS|
-way, path, road|N|zʌθ|zot|
+English|Part of speech|Lugso|Comment
+|-|-|-
+idiot|N|gu5iklzot|(sentient-DIM-NMLZDER)
+AUG|ADJ suffix|tkutk|augmentative (more - than)
+DIM|ADJ suffix|ik|diminutive (less - than)
+SUPER|ADJ suffix|li|superlative suffix
+deity_bestial|N|tluli|(beast-SUPER)
+deity_intelligent|N|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
+NMLZ.DER.act|suffix|lzot|the act of verbing
+NMLZ.DER.agent|VB suffix|lzob|the one who verbs
+NMLZ.DER.patient|VB suffix|lzof|the one who is verbed
+ADJ.DER|suffix|uyb|adjectivizing suffix
+ADV.DER|suffix|n5uv|-ly
+VB.DER|suffix|5sur|verb-izing suffix
+large|ADJ|-|see great
+distant|ADJ|botut|
+gorge|VT|h3unb|
+parasite|N compound||follower-food
+priest|N|tu5o|
+PRV|N suffix|in5|privative case ("N-less", without N)
+revolve|VB|lni|circle, encircle
+thought|N|sot|
+servant|N|fbu5|
+snake|N|snull|limbless organism
+solid|N|bin5|
+way|N|zot|path, road
 
 ### Part-of-speech affixes
 
@@ -48,13 +48,13 @@ Lugso has a special suffix for many types of derivation, and several additional 
 
 Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
 
-E|P|I|L|C
-|-|-|-|-
-NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing ("the verbinating")
-NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs ("the verber")
-NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed ("the verbee")
+E|P|L|C
+|-|-|-
+NMLZ.DER.act|suffix|lzot|the act of verbing
+NMLZ.DER.agent|VB suffix|lzob|the one who verbs
+NMLZ.DER.patient|VB suffix|lzof|the one who is verbed
 
-**pobb-lzot**
+**pobblzot**
 
 `mortal-NMLZ.DER.act`
 
@@ -62,7 +62,7 @@ _mortal-ness, the act of being mortal, mortality..._
 
 ---
 
-**tkur-lzof**
+**tkurlzof**
 
 `birth-NMLZ.DER.patient`
 
@@ -70,7 +70,7 @@ _that which is born, the birthed..._
 
 ---
 
-**3fig-lzob zot-so**
+**3figlzob zotso**
 
 `open-NMLZ.DER.agent way-GEN`
 
@@ -78,7 +78,7 @@ _Opener of the Way..._
 
 ---
 
-**ffihh lni-lzot**
+**ffihh lnilzot**
 
 `rise revolve-NMLZ.DER.act`
 
@@ -86,7 +86,7 @@ _Revolution rises..._
 
 ---
 
-**h3unb-lzot kur-gu**
+**h3unblzot kurgu**
 
 `satisfy-NMLZ.DER.act 1SG-POSS`
 
@@ -94,40 +94,40 @@ _Satisfaction is mine._
 
 #### non-verb -> noun
 
-For nominalizing a non-verb, you can also use **-lzot** - e.g. _blackness_ **Zkiglzot** (lit. "the act of black").
+For nominalizing a non-verb, you can also use **-lzot** - e.g. _blackness_ **3kiglzot** (lit. "the act of black").
 
 #### non-adj -> adj
 
-_death-ly_* **fhtognfbuyb**
+_death-ly_* **fhtoguyb**
 
-_thought-ful_ **sotfbuyb**
+_thought-ful_ **sotuyb**
 
-_serpent-ine_ **snullfbuyb**
+_serpent-ine_ **snulluyb**
 
-_servile (servant-ish)_ **fbuSfbuyb**
+_servile (servant-ish)_ **fbu5uyb**
 
-_priestless_ **vikinS**
+_unpriestlike_ **tu5ouybzit**
 
 \* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns other words into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
 #### non-adv -> adv
 
-_solid-ly_  **binSnSuv**
+_solid-ly_  **bin5n5uv**
 
-_black-ly_ **ZkignSuv**
+_black-ly_ **3kign5uv**
 
-_parasitical-ly_ **zobtnSuv**
+_parasitical-ly_ **pol-kukn5uv**
 
-### Comparative affixes
+### Comparative affixes - Augmentative and Diminutive
 
 #### tkutk: "more ... than, -er"
 
 _greater_ **bvongtkutk**
 
-_prettier, weirder_ **olnriStkutk**
+_prettier, weirder_ **olnri5tkutk**
 
-#### ix: "less ... than"
+#### ik: "less ... than"
 
-_less dead_ **fhtognix**
+_less dead_ **fhtogniik**
 
-_less far_ **botutix**
+_less far_ **botutik**

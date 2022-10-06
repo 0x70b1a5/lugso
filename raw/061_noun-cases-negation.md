@@ -99,9 +99,9 @@ _the blood of the thoughts of the gods..._
 
 ### INS instrumental
 
-${g: crush heel-INS head-ACC snake-GEN great human-NOM}$
+${g: crush heel-INS head-ACC snake-GEN great human-F-NOM}$
 
-_The human crushes the head of the great serpent with their heel._
+_The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
@@ -123,7 +123,7 @@ _The human exchanges souls with the maggot._
 
 ### PROL prolative
 
-${g: revolve sky-PL-PROL moon-PL-NOM strange}$
+${g: revolve sky-PL-PROL child--child--star-PL-NOM strange}$
 
 _Strange moons circle through the skies._
 

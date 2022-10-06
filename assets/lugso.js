@@ -32,6 +32,8 @@ const latinate = str => {
 
 // turns gloss into lugso
 const getWord = (word, map) => {
+    if (!word) return '-'
+
     const w = map[word]
     if (w && w != '-') return w
 
@@ -83,7 +85,7 @@ const rowsToMap = rows => {
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
         .map(w => getWord(w, map))
-        .join('-')
+        .join('')
     ).join(' ');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG

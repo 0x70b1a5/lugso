@@ -36,7 +36,7 @@ _Which human is Cthulhu eating?_
 
 ---
 
-**huf hupz-5ol5u NoWordFound:"Cthulhu"**
+**huf hupz5ol5u ktkulhu**
 
 `consume human-Q Cthulhu`
 
@@ -44,7 +44,7 @@ _What is Cthulhu eating?_
 
 ---
 
-**huf 5ol5u NoWordFound:"Cthulhu"**
+**huf 5ol5u ktkulhu**
 
 `consume Q Cthulhu`
 
@@ -54,13 +54,13 @@ Note here again the invisible copula.
 
 ---
 
-**5ol5u NoWordFound:"Cthulhu"**
+**5ol5u ktkulhu**
 
 `Q Cthulhu`
 
 _Is **Cthulhu** eating a human (or is something else eating it)?_
 
-### **huf hupz NoWordFound:"Cthulhu"-5ol5u**
+### **huf hupz ktkulhu5ol5u**
 
 `consume human Cthulhu-Q`: questions about actions and states [verb suffix - interrogative mood]
 
@@ -72,7 +72,7 @@ _Does Cthulhu sleep/die?_
 
 ---
 
-**fhtogni-oh NoWordFound:"Cthulhu"**
+**fhtognioh ktkulhu**
 
 `sleep-INT Cthulhu`
 
@@ -80,7 +80,7 @@ _Does Cthulhu dream?_
 
 ---
 
-**zontk-oh NoWordFound:"Cthulhu"**
+**zontkoh ktkulhu**
 
 `dream-INT Cthulhu`
 
@@ -88,7 +88,7 @@ _Is Cthulhu **eating** a human (or doing something else to it)?_
 
 #### Auxiliary verbs
 
-****huf-oh hupz NoWordFound:"Cthulhu"**
+****hufoh hupz ktkulhu**
 
 `consume-INT human Cthulhu`** attaches to the auxiliary when forming a question.
 
@@ -96,9 +96,9 @@ oh
 
 _Can you learn what that blood portends?_
 
-### "Wh-" words, using noun case + **huf-yog vgov-oh sru3-ir ivol lug-so luk**
+### "Wh-" words, using noun case + **huf-yog vgovoh sru3ir ivol lugso luk**
 
-`consume-knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
+`consume--knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
 
 #### "where": Locative + Q
 
@@ -108,7 +108,7 @@ _Where do the uncertain voices tremble?_
 
 #### "how": Instrumental + Q
 
-**opz 5itk-5ol5u yun-ib zvoyg-zit**
+**opz 5itk5ol5u yunib zvoygzit**
 
 `tremble LOC-Q voice-PL certain-NEG`
 
@@ -116,7 +116,7 @@ _How did you dehydrate the hidden heretics?_
 
 #### "whence/from where": Ablative + Q
 
-**tkrotz iffo-5ol5u isv-ib kutt luk**
+**tkrotz iffo5ol5u isvib kutt luk**
 
 `dessicate INS-Q heretic-PL hidden 2SG`
 
@@ -124,7 +124,7 @@ _Where did this sacrifice come from?_
 
 #### "why": Prolative + Q
 
-**zfoy vsug-5ol5u tgus-tlu ivih**
+**zfoy vsug5ol5u tgus-tlu ivih**
 
 `come ABL-Q victim DET.PROX`
 
@@ -132,13 +132,13 @@ _Why is the child changing?_
 
 #### "when": Temporal + Q
 
-**NoWordFound:"mercurial" pzuv3-5ol5u yols**
+**NoWordFound:"mercurial" pzuv35ol5u yols**
 
 `mercurial PROL-Q child`
 
 _When does the child change?_
 
-#### "who": agent + **fihttgi zki-5ol5u yols**
+#### "who": agent + **fihttgi zki5ol5u yols**
 
 `change TEMP-Q child` **(not a noun case)*
 

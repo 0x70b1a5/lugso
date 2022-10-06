@@ -27,7 +27,7 @@ _I am the secret._
 
 ---
 
-**lih-ib fbu5-ib un-gu**
+**lihib fbu5ib ungu**
 
 `star-PL servant-PL 3SG-POSS`
 
@@ -35,7 +35,7 @@ _The stars are its servants._
 
 ---
 
-**frog gi5 kur-gu**
+**frog gi5 kurgu**
 
 `music master 1SG-POSS`
 

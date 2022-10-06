@@ -69,7 +69,7 @@ j|y|2L
 
 The syllables have been hyphenated to assist you in seeing the breakdown.
 
-**lug-so gu5li-ib-so sot-so**
+**lugso gu5liibso sotso**
 
 `blood-GEN deity_intelligent-PL-GEN thought-GEN`
 
@@ -105,7 +105,7 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 #### Style 1: Uncapped
 
-**gorn hupz-buli-so h3unb-kub**
+**gorn hupzbuliso h3unbkub**
 
 `organization_natural human-female-GEN gorge-PTCP.PAST.PASS`
 
@@ -117,7 +117,7 @@ Note the ornamental loops in each word. Technically, it is ambiguous with **ogor
 
 #### Style 2: Capped
 
-**yols-ir**
+**yolsir**
 
 `child-ACC`
 
@@ -129,7 +129,7 @@ In longer words, sometimes you observe many subsequent o's. In these cases, you 
 
 ![Child of Nyarlathotep](/assets/yols-nyorlothotopso1.png)
 
-**yols nyorloshotop-so**
+**yols nyorloshotopso**
 
 `child nyarlathotep-GEN`
 
@@ -139,8 +139,8 @@ If your long word with many o's also has u's or i's, make sure they are vertical
 
 [ IMAGE PENDING REDRAW ]
 
-**gololol-lzox-pzuv3**
+**gololollzotpzuv3**
 
 `infinite-NMLZ.DER-PROL`
 
-Note the lack of a loop on the last syllable of **gololol-lzox-pzuv3** - a loop would make the bottom horizontal read as **lzofoib**.
+Note the lack of a loop on the last syllable of **gololollzotpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.
