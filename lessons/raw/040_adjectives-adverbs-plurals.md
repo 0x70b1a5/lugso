@@ -17,7 +17,7 @@ black|ADJ|ʒxiɣ|3kig|
 blood|N|ɮuɣ|lug|
 infinite|ADJ|ɣʌɮʌɮʌɮ|gololol|
 invisible|ADJ|zuθx|zutk|
-3SG|undefined|un|un|
+3SG|3SG|un|un|
 PL|N suffix|iβ|ib|plural suffix
 
 ## Adjectives

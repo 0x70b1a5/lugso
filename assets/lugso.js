@@ -38,7 +38,7 @@ const getWord = (word, map, wholeRow) => {
     if (w && w != '-') return wholeRow ? {
         english: word,
         lugso: w,
-        partOfSpeech: map[word+'_pos'],
+        partOfSpeech: map[word+'_pos'] || word,
         notes: map[word+'_notes'] || ''
     } : w
 
@@ -53,7 +53,7 @@ const getWord = (word, map, wholeRow) => {
             if (dest) return wholeRow ? {
                 english: eng,
                 lugso: dest,
-                partOfSpeech: map[eng+'_pos'],
+                partOfSpeech: map[eng+'_pos'] || eng,
                 notes: map[eng+'_notes'] || ''
             } : dest
         }
@@ -64,7 +64,7 @@ const getWord = (word, map, wholeRow) => {
         if (key.includes(word)) return wholeRow ? {
             english: word,
             lugso: map[key],
-            partOfSpeech: map[key+'_pos'],
+            partOfSpeech: map[key+'_pos'] || word,
             notes: map[key+'_notes'] || ''
         } : map[key]
     }
