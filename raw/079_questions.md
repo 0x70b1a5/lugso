@@ -8,7 +8,7 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ${r: INT}$
-${r: Q}|s$
+${r: Q}$
 ${r: dream}$
 ${r: tremble}$
 ${r: certain}$
@@ -26,9 +26,9 @@ ${r: child}$
 
 ## Simple questions
 
-### ${Q}$: questions about things [noun suffix or standalone]
+### -${Q}$: questions about things [noun suffix or standalone]
 
-**${Q}$** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
+**-${Q}$** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
 
 ${g: consume human-Q Cthulhu}$
 

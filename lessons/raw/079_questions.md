@@ -8,8 +8,7 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
-${r: Q}|s$
-Q|suffix|ʃʌɮʃu|5ol5u|turns a word into a question
+Q|suffix|ʃu|5u|turns a word into a question
 dream|VB|zʌnθx|zontk|
 tremble|VB|ʌɸz|opz|
 certain|ADJ|zvʌjɣ|zvoyg|
@@ -23,30 +22,33 @@ DET.DIST|PART|ivʌɮ|ivol|distal determinant (that)
 seek|VB|ɻiɮs|rils|
 come|VB|zfʌj|zfoy|
 changing|ADJ|fiχ|fih|mercurial, capricious
+child|N|jʌɮs|yols|
 
 ## Simple questions
 
-### child|N|jʌɮs|yols|: questions about things [noun suffix or standalone]
+### 5u: questions about things [noun suffix or standalone]
 
-**5ol5u** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
+**5u** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
 
-5ol5u
+**huf hupz5u ktkulhu**
+
+`consume human-Q Cthulhu`
 
 _Which human is Cthulhu eating?_
 
 ---
 
-**huf hupz5ol5u ktkulhu**
+**huf 5u ktkulhu**
 
-`consume human-Q Cthulhu`
+`consume Q Cthulhu`
 
 _What is Cthulhu eating?_
 
 ---
 
-**huf 5ol5u ktkulhu**
+**5u ktkulhu**
 
-`consume Q Cthulhu`
+`Q Cthulhu`
 
 _What is Cthulhu?_
 
@@ -54,29 +56,21 @@ Note here again the invisible copula.
 
 ---
 
-**5ol5u ktkulhu**
+**huf hupz ktkulhu5u**
 
-`Q Cthulhu`
+`consume human Cthulhu-Q`
 
 _Is **Cthulhu** eating a human (or is something else eating it)?_
 
-### **huf hupz ktkulhu5ol5u**
-
-`consume human Cthulhu-Q`: questions about actions and states [verb suffix - interrogative mood]
+### oh: questions about actions and states [verb suffix - interrogative mood]
 
 **oh** is a verb suffix, and is used for questioning _whether_ the action is occurring.
-
-oh
-
-_Does Cthulhu sleep/die?_
-
----
 
 **fhtognioh ktkulhu**
 
 `sleep-INT Cthulhu`
 
-_Does Cthulhu dream?_
+_Does Cthulhu sleep/die?_
 
 ---
 
@@ -84,64 +78,72 @@ _Does Cthulhu dream?_
 
 `dream-INT Cthulhu`
 
+_Does Cthulhu dream?_
+
+---
+
+**hufoh hupz ktkulhu**
+
+`consume-INT human Cthulhu`
+
 _Is Cthulhu **eating** a human (or doing something else to it)?_
 
 #### Auxiliary verbs
 
-****hufoh hupz ktkulhu**
+**oh** attaches to the auxiliary when forming a question.
 
-`consume-INT human Cthulhu`** attaches to the auxiliary when forming a question.
-
-oh
-
-_Can you learn what that blood portends?_
-
-### "Wh-" words, using noun case + **huf-yog vgovoh sru3ir ivol lugso luk**
+**huf-yog vgovoh sru3ir ivol lugso luk**
 
 `consume--knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
 
+_Can you learn what that blood portends?_
+
+### "Wh-" words, using noun case + 5u
+
 #### "where": Locative + Q
 
-5ol5u
+**opz 5itk5u yunib zvoygzit**
+
+`tremble LOC-Q voice-PL certain-NEG`
 
 _Where do the uncertain voices tremble?_
 
 #### "how": Instrumental + Q
 
-**opz 5itk5ol5u yunib zvoygzit**
+**tkrotz iffo5u isvib kutt luk**
 
-`tremble LOC-Q voice-PL certain-NEG`
+`dessicate INS-Q heretic-PL hidden 2SG`
 
 _How did you dehydrate the hidden heretics?_
 
 #### "whence/from where": Ablative + Q
 
-**tkrotz iffo5ol5u isvib kutt luk**
+**zfoy vsug5u tgus-tlu ivih**
 
-`dessicate INS-Q heretic-PL hidden 2SG`
+`come ABL-Q victim DET.PROX`
 
 _Where did this sacrifice come from?_
 
 #### "why": Prolative + Q
 
-**zfoy vsug5ol5u tgus-tlu ivih**
+**<span style="color:red">NoWordFound:"mercurial"</span> pzuv35u yols**
 
-`come ABL-Q victim DET.PROX`
+`mercurial PROL-Q child`
 
 _Why is the child changing?_
 
 #### "when": Temporal + Q
 
-**<span style="color:red">NoWordFound:"mercurial"</span> pzuv35ol5u yols**
+**fihttgi zki5u yols**
 
-`mercurial PROL-Q child`
+`change TEMP-Q child`
 
 _When does the child change?_
 
-#### "who": agent + **fihttgi zki5ol5u yols**
+#### "who": agent + 5u **(not a noun case)*
 
-`change TEMP-Q child` **(not a noun case)*
+**pi5n tu5oir ozog5u**
 
-5ol5u
+`crush priest-ACC agent-Q`
 
 _Who (which agent/actor) crushed the priest?_

@@ -39,7 +39,7 @@ _I can learn the blood of the thoughts of the gods._
 
 ### Questions
 
-**5ol5u** attaches to the auxiliary when forming a question.
+**5u** attaches to the auxiliary when forming a question.
 
 **huf yogi5 vgovoh sru3ir yiy lugso ivol luk**
 
