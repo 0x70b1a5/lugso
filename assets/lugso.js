@@ -20,7 +20,7 @@ const ipamap = {
     'r':'ɻ'
 };
 const ipaify = str => {
-    return str.split('').map(char => ipamap[char] || char).join('');
+    return str ? str.split('').map(char => ipamap[char] || char).join('') : ''
 }
 const latinate = str => {
     return str.split('').map(char => Object.keys(ipamap).find(key => ipamap[key] == char)).join('');

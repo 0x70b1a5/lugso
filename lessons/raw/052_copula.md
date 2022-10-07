@@ -19,7 +19,7 @@ In English, we say "the star is a sacrifice", or "I am the secret." Using the ve
 
 In Lugso, the verb _to be_ does not exist. To describe equality, you would say "sacrifice star" or "secret I".
 
-**liy kur**
+**liy no**
 
 `secret 1SG`
 
@@ -35,7 +35,7 @@ _The stars are its servants._
 
 ---
 
-**frog gi5 kurgu**
+**frog gi5 nogu**
 
 `music master 1SG-POSS`
 

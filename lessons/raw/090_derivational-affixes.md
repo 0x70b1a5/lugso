@@ -86,7 +86,7 @@ _Revolution rises..._
 
 ---
 
-**h3unblzon kurgu**
+**h3unblzon nogu**
 
 `satisfy-NMLZ.DER.act 1SG-POSS`
 
@@ -106,7 +106,7 @@ _serpent-ine_ **snulluyb**
 
 _servile (servant-ish)_ **fbu5uyb**
 
-_unpriestlike_ **tu5ouybzit**
+_unpriestlike_ **tu5ouybzi**
 
 \* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
@@ -118,7 +118,7 @@ _black-ly_ **3kign5uv**
 
 _parasitical-ly_ **pol-kukn5uv***
 
-\* Note that, unlike English, which must go from *parasite* to *praasitical* to *parasitically*, lugso just goes from *pol-kuk* to *pol-kukn5uv* "parasitely".
+\* Note that, unlike English, which must go from *parasite* to *parasit-ical* to *parasit-ical-ly*, lugso just goes from *pol-kuk* to *pol-kukn5uv* "parasitely".
 
 ### Comparative affixes - Augmentative and Diminutive
 
@@ -126,7 +126,7 @@ _parasitical-ly_ **pol-kukn5uv***
 
 _greater_ **yugtkutk**
 
-_prettier, weirder_ **olnri5tkutk**
+_prettier, weirder_ **oldri5tkutk**
 
 #### ik: "less ... than"
 

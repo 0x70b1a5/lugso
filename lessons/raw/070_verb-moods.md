@@ -21,7 +21,7 @@ song|N|vθuʒ|vtu3|
 voice|VB|jun|yun|
 grant|VB|fun|fun|allow, permit, accept
 we_exc|1PL.EX|vʌ|vo|
-we_inc|1PL.INC|vi|vi|
+we_inc|1PL.INC|vu|vu|
 
 ## Verb Moods
 
@@ -53,7 +53,7 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtu3tut pusso kurso toy fhtogni yun kurso**
+**vtu3tut pusso noso toy fhtogni yun noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
 
@@ -61,13 +61,13 @@ _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**vtu3tut pusso kurso fhtogni yun kurso**
+**vtu3tut pusso noso fhtogni yun noso**
 
 `song-VOC soul-GEN 1SG-GEN dead voice 1SG-GEN`
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3tut pusso kurso fhtogni) (yun kurso), since the adjective **fhtogni** follows the noun **pusso kurso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3tut pusso kurso) **toy** (fhtogni (yun kurso)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3tut pusso noso fhtogni) (yun noso), since the adjective **fhtogni** follows the noun **pusso noso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3tut pusso noso) **toy** (fhtogni (yun noso)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -75,7 +75,7 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogni yun kurso vtu3tut pusso kurso**
+**fhtogni yun noso vtu3tut pusso noso**
 
 `dead voice 1SG-GEN song-VOC soul-GEN 1SG-GEN`
 
@@ -83,7 +83,7 @@ _My voice is dead, O song of my soul._
 
 ### FORM formal: -rgiz
 
-**ktkulhutut pinrgiz sup5itk blolgib lukso**
+**ktkulhutut pinrgiz sup5itk blolgib doso**
 
 `Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-GEN`
 
@@ -99,7 +99,7 @@ _Does Cthulhu sleep?_
 
 ### MOD modal: -zvoh
 
-**h3unbzvoh ktkulhuir vi**
+**h3unbzvoh ktkulhuir vu**
 
 `gorge-MOD Cthulhu-ACC 1PL.INC`
 
@@ -125,7 +125,7 @@ _Do not blaspheme the name of Great Cthulhu!_
 
 ### PROL prolative: -pzuv3
 
-**lni 5tkiibpzuv3 yols-yols-lihib olnri5**
+**lni 5tkiibpzuv3 yols-yols-lihib oldri5**
 
 `revolve sky-PL-PROL child--child--star-PL beautiful`
 

@@ -10,8 +10,8 @@ English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 ACC|N suffix|iɻ|ir|accusative case - to N, towards location
 consume|VB|χuf|huf|
-1SG|undefined|xuɻ|kur|
-2SG|undefined|ɮux|luk|
+1SG|undefined|nʌ|no|
+2SG|undefined|ðʌ|do|
 beast|N|θɮu|tlu|
 fly|VB|sʌʒʃ|so35|travel through gas
 swim|VB|vux|vuk|travel through liqud
@@ -20,7 +20,7 @@ swim|VB|vux|vuk|travel through liqud
 
 In English, we say, "I fly". In Lugso, the cultist says, "fly I". Verb comes before subject.
 
-**so35 kur**
+**so35 no**
 
 `fly 1SG`
 
@@ -46,7 +46,7 @@ But how does he know what's the subject and what's the object? In English, we ch
 
 A noun obtains the accusative case if the verb is _being done to_ it.
 
-**huf kurir luk**
+**huf noir do**
 
 `consume 1SG-ACC 2SG`
 
@@ -56,7 +56,7 @@ _You consume me._
 
 A noun also obtains accusative if it is the _destination of a movement._
 
-**so35 lukir tlu**
+**so35 doir tlu**
 
 `fly 2SG-ACC beast`
 

@@ -108,7 +108,7 @@ _black-ly_ **${black-ADV.DER}$**
 
 _parasitical-ly_ **${follower--food-ADV.DER}$***
 
-\* Note that, unlike English, which must go from *parasite* to *praasitical* to *parasitically*, lugso just goes from *${follower--food}$* to *${follower--food-ADV.DER}$* "parasitely".
+\* Note that, unlike English, which must go from *parasite* to *parasit-ical* to *parasit-ical-ly*, lugso just goes from *${follower--food}$* to *${follower--food-ADV.DER}$* "parasitely".
 
 ### Comparative affixes - Augmentative and Diminutive
 

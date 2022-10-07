@@ -43,7 +43,7 @@ Unmarked.
 
 #### FUT simple future
 
-**huftku viir ktkulhu**
+**huftku vuir ktkulhu**
 
 `consume-FUT 1PL.INC-ACC Cthulhu`
 
@@ -51,7 +51,7 @@ _Cthulhu shall eat us._
 
 #### FFUT far future
 
-**fhtognil5i vgov itgibzki olnri5 fhtog yiy**
+**fhtognil5i vgov itgibzki oldri5 fhtog yiy**
 
 `sleep-FFUT can aeon-PL-TEMP strange death EMPH`
 

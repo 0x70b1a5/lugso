@@ -9,7 +9,7 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
 Q|suffix|ʃu|5u|turns a word into a question
-dream|VB|zʌnθx|zontk|
+dream|VB|zʌðθx|zodtk|
 tremble|VB|ʌɸz|opz|
 certain|ADJ|zvʌjɣ|zvoyg|
 voice|VB|jun|yun|
@@ -74,7 +74,7 @@ _Does Cthulhu sleep/die?_
 
 ---
 
-**zontkoh ktkulhu**
+**zodtkoh ktkulhu**
 
 `dream-INT Cthulhu`
 
@@ -92,7 +92,7 @@ _Is Cthulhu **eating** a human (or doing something else to it)?_
 
 **oh** attaches to the auxiliary when forming a question.
 
-**huf-yog vgovoh sru3ir ivol lugso luk**
+**huf-yog vgovoh sru3ir ivol lugso do**
 
 `consume--knowledge can-INT referent-ACC DET.DIST blood-GEN 2SG`
 
@@ -102,7 +102,7 @@ _Can you learn what that blood portends?_
 
 #### "where": Locative + Q
 
-**opz 5itk5u yunib zvoygzit**
+**opz 5itk5u yunib zvoygzi**
 
 `tremble LOC-Q voice-PL certain-NEG`
 
@@ -110,7 +110,7 @@ _Where do the uncertain voices tremble?_
 
 #### "how": Instrumental + Q
 
-**tkrotz iffo5u isvib kutt luk**
+**tkrotz iffo5u isvib kutt do**
 
 `dessicate INS-Q heretic-PL hidden 2SG`
 

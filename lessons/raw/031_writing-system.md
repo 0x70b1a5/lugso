@@ -105,7 +105,7 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 #### Style 1: Uncapped
 
-**gorn hupzbuliso h3unbkub**
+**gorn hupznuso h3unbkub**
 
 `organization_natural human-female-GEN gorge-PTCP.PAST.PASS`
 

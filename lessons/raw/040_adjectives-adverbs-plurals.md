@@ -11,7 +11,7 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ADV.DER|suffix|nʃuv|n5uv|-ly
 aeon|N|iθɣ|itg|
-beautiful,|ADJ|ʌɮnɻiʃ|olnri5|"eldritch"
+undefined|undefined||undefined|
 bite|VB|iχʃ|ih5|
 black|ADJ|ʒxiɣ|3kig|
 blood|N|ɮuɣ|lug|
@@ -34,7 +34,7 @@ _black blood..._
 
 More than one adjective can be applied in this manner.
 
-**itg olnri5 gololol**
+**itg oldri5 gololol**
 
 `aeon weird infinite`
 
@@ -44,7 +44,7 @@ _infinite strange aeon..._
 
 To pluralize something, affix **-ib**.
 
-**itgib olnri5 gololol**
+**itgib oldri5 gololol**
 
 `aeon-PL weird infinite`
 
@@ -56,8 +56,8 @@ Pluralization is how "we" and "y'all" and "they" are constructed:
 
 Pronouns|1st Person|2nd Person|3rd Person
 |-|-|-
-Singular|kur _I_|luk _you_|un _it_
-Plural|vo _we_|tu _y'all_|sigf _they_
+Singular|no _I_|do _you_|un _it_
+Plural|vo _we_|du _y'all_|sigf _they_
 
 ## Adverbs with n5uv
 

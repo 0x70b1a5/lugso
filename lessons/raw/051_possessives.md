@@ -30,7 +30,7 @@ _Its priest..._
 
 ---
 
-**okoib lukgu**
+**okoib dogu**
 
 `eye-PL 2SG-POSS`
 
@@ -38,7 +38,7 @@ _Your eyes..._
 
 ---
 
-**hupz kurgu**
+**hupz nogu**
 
 `human 1SG-POSS`
 

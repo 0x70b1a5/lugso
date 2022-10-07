@@ -15,9 +15,9 @@ BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
 can|AUX|vɣʌv|vgov|
 COM|N suffix|nij|niy|comitative case "together with N, alongside N"
 essence|N|ɸus|pus|
-exchange|VB|zi|zi|
+exchange|VB|ziɮx|zilx|transact, converse
 GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-hunger|VB|χχuʃ|hhu5|
+hunger|VB|χuʃ|hu5|
 INS|N suffix|iffʌ|iffo|instrumental case - using N
 LOC|N suffix|ʃiθx|5itk|locative case - at N, in N
 NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence
@@ -27,7 +27,7 @@ IMP|VB suffix|ɣi|gi|imperative mood (a command)
 larva|N|ɮʌɻɣ|lorg|
 mind|N|θʌχθ|toht|
 move|VB|θxzuθx|tkzutk|
-NEG|suffix|ziθ|zit|negation suffix
+NEG|suffix|zi|zi|negation suffix
 PROL|N suffix|ɸzuvʒ|pzuv3|prolative case (by way of N, via N, through N)
 revolve|VB|ɮni|lni|circle, encircle
 sky|N|ʃθxi|5tki|
@@ -63,7 +63,7 @@ Notice also that the `NEG` suffix ("not") is used in a few places.
 
 ### ACC accusative
 
-**tug vgovzit pusir toht∅**
+**tug vgovzi pusir toht∅**
 
 `transgress can-NEG essence-ACC mind-NOM`
 
@@ -71,7 +71,7 @@ _The mind cannot penetrate transcendence!_
 
 ### VOC vocative
 
-**tkzutkzitgi lorgtut**
+**tkzutkzigi lorgtut**
 
 `move-NEG-IMP larva-VOC`
 
@@ -87,7 +87,7 @@ _The shoggoth emerges in the pit._
 
 ### BEN benefactive
 
-**hhu5 kurluli kurir un∅**
+**hu5 noluli noir un∅**
 
 `love 1SG-BEN 1SG-ACC 3SG-NOM`
 
@@ -111,7 +111,7 @@ _the blood of the thoughts of the gods..._
 
 ### INS instrumental
 
-**pi5n gustkiffo ipir snullso yug hupzni∅**
+**pi5n gustkiffo ipir snullso yug hupznu∅**
 
 `crush heel-INS head-ACC snake-GEN great human-F-NOM`
 
@@ -121,7 +121,7 @@ _The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
-**yurg gvifnluli gu5zit bgoklzoblzoniffo yoyyso**
+**yurg gvifnluli gu5zi bgoklzoblzoniffo yoyyso**
 
 `give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN`
 
@@ -137,7 +137,7 @@ _In strange aeons, death may die._
 
 ### COM comitative
 
-**zi pusir lorgniy hupz∅**
+**zilx pusir lorgniy hupz∅**
 
 `exchange soul-ACC larva-COM human-NOM`
 
@@ -145,7 +145,7 @@ _The human exchanges souls with the maggot._
 
 ### PROL prolative
 
-**lni 5tkiibpzuv3 yols-yols-lihib∅ olnri5**
+**lni 5tkiibpzuv3 yols-yols-lihib∅ oldri5**
 
 `revolve sky-PL-PROL child--child--star-PL-NOM strange`
 
@@ -153,9 +153,9 @@ _Strange moons circle through the skies._
 
 ## Negation
 
-**-zit** negates any non-verb.
+**-zi** negates any non-verb.
 
-**oko lu5zit unso**
+**oko lu5zi unso**
 
 `eye liquid-NEG 3SG-GEN`
 
@@ -163,7 +163,7 @@ _Its illiquid eye..._
 
 ---
 
-**ov5ozit**
+**ov5ozi**
 
 `patient-NEG`
 

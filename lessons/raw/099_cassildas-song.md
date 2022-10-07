@@ -49,7 +49,7 @@ _Along the shore the cloud waves break._<br>
 `dissipate shore-LOC wave-PL gas-blood-sky`<br>
 
 _The twin suns sink beneath the lake._<br>
-**zyuzh tkgihplug5tki5itk nhokb lihugonoglib tkurlzoful**
+**zyuzh tkgihplug5tki5itk nhokb lih<span style="color:red">NoWordFound:"home"</span>ib tkurlzoful**
 
 `descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`<br>
 
@@ -64,17 +64,17 @@ _In Carcosa._<br>
 `Carcosa-LOC`<br>
 
 _Strange is the night where black stars rise,_<br>
-**3o3 olnri5 ffihhgsu5t lihib 3kig**
+**3o3 oldri5 ffihhgsu5t lihib 3kig**
 
 `night beautiful rise-SUB.location star-PL black`<br>
 
 _And strange moons circle through the skies_<br>
-**lniin 5tkiibpzuv3 yolsyolslihib olnri5**
+**lniin 5tkiibpzuv3 yolsyolslihib oldri5**
 
 `revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`<br>
 
 _But stranger still is_<br>
-**i5 olnri5tkutkyiy**
+**i5 oldri5tkutkyiy**
 
 `CONJ.but beautiful-AUG-EMPH`<br>
 
@@ -84,7 +84,7 @@ _Lost Carcosa._<br>
 `Carcosa lose-NMLZ.DER.patient`<br>
 
 _Must die unheard_<br>
-**-zvoh u3zituyb**
+**-zvoh u3ziuyb**
 
 `die-MOD sense-NEG-ADJ.DER`<br>
 
@@ -104,17 +104,17 @@ _in dim Carcosa._<br>
 `Carcosa-LOC dark`<br>
 
 _Song of my soul, my voice is dead;_<br>
-**vtu3tut pusso kurso toy fhtogni yun kurso**
+**vtu3tut pusso noso toy fhtogni yun noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`<br>
 
 _Die thou, unsung,_<br>
-**fhtognigi luk vto5uybzit**
+**fhtognigi do vto5uybzi**
 
 `sleep-IMP 2SG sing-ADJ.DER-NEG`<br>
 
 _as tears unshed shall dry and die_<br>
-**tkrotzriy - gir lugokoib ilzuybzit**
+**tkrotzriy - gir lugokoib ilzuybzi**
 
 `dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
 
