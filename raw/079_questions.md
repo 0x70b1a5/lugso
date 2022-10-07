@@ -21,7 +21,7 @@ ${r: DET.PROX}$
 ${r: DET.DIST}$
 ${r: seek}$
 ${r: come}$
-${r: changing}$
+${r: mercurial}$
 ${r: child}$
 
 ## Simple questions
@@ -106,7 +106,7 @@ _Where did this sacrifice come from?_
 
 ${g: mercurial PROL-Q child}$
 
-_Why is the child changing?_
+_Why is the child mercurial?_
 
 #### "when": Temporal + Q
 
@@ -114,8 +114,8 @@ ${g: change TEMP-Q child}$
 
 _When does the child change?_
 
-#### "who": agent + ${Q}$ **(not a noun case)*
+#### "who": Reflexive + ${Q}$ (literally "whatself")
 
-${g: crush priest-ACC agent-Q}$
+${g: crush priest-ACC REFL-Q}$
 
-_Who (which agent/actor) crushed the priest?_
+_Who (which 'self') crushed the priest?_

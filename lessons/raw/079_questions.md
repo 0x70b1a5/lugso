@@ -21,14 +21,14 @@ DET.PROX|PART|iviχ|ivih|proximal determinant (this)
 DET.DIST|PART|ivʌɮ|ivol|distal determinant (that)
 seek|VB|ɻiɮs|rils|
 come|VB|zfʌj|zfoy|
-changing|ADJ|fiχ|fih|mercurial, capricious
+mercurial|ADJ|fiχ|fih|
 child|N|jʌɮs|yols|
 
 ## Simple questions
 
-### 5u: questions about things [noun suffix or standalone]
+### -5u: questions about things [noun suffix or standalone]
 
-**5u** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
+**-5u** is a noun suffix, and is used either _in place of_ a word to form a question, or _at the end of_ a word to make that word the subject of the question.
 
 **huf hupz5u ktkulhu**
 
@@ -126,11 +126,11 @@ _Where did this sacrifice come from?_
 
 #### "why": Prolative + Q
 
-**<span style="color:red">NoWordFound:"mercurial"</span> pzuv35u yols**
+**fih pzuv35u yols**
 
 `mercurial PROL-Q child`
 
-_Why is the child changing?_
+_Why is the child mercurial?_
 
 #### "when": Temporal + Q
 
@@ -140,10 +140,10 @@ _Why is the child changing?_
 
 _When does the child change?_
 
-#### "who": agent + 5u **(not a noun case)*
+#### "who": Reflexive + 5u (literally "whatself")
 
-**pi5n tu5oir ozog5u**
+**pi5n tu5oir fif5u**
 
-`crush priest-ACC agent-Q`
+`crush priest-ACC REFL-Q`
 
-_Who (which agent/actor) crushed the priest?_
+_Who (which 'self') crushed the priest?_

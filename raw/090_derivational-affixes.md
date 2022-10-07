@@ -7,8 +7,8 @@ order: 3
 
 ## Lesson Vocab
 
-English|Part of speech|Lugso|Comment
-|-|-|-
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 ${r: idiot}$
 ${r: AUG}$
 ${r: DIM}$
@@ -48,8 +48,8 @@ Lugso has a special suffix for many types of derivation, and several additional 
 
 Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
 
-E|P|L|C
-|-|-|-
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 ${r: NMLZ.DER.act}$
 ${r: NMLZ.DER.agent}$
 ${r: NMLZ.DER.patient}$
@@ -98,7 +98,7 @@ _servile (servant-ish)_ **${servant-ADJ.DER}$**
 
 _unpriestlike_ **${priest-ADJ.DER-NEG}$**
 
-\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns other words into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
+\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
 #### non-adv -> adv
 
@@ -106,7 +106,9 @@ _solid-ly_  **${solid-ADV.DER}$**
 
 _black-ly_ **${black-ADV.DER}$**
 
-_parasitical-ly_ **${follower--food-ADV.DER}$**
+_parasitical-ly_ **${follower--food-ADV.DER}$***
+
+\* Note that, unlike English, which must go from *parasite* to *praasitical* to *parasitically*, lugso just goes from *${follower--food}$* to *${follower--food-ADV.DER}$* "parasitely".
 
 ### Comparative affixes - Augmentative and Diminutive
 

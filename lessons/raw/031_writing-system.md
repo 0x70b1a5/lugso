@@ -139,8 +139,8 @@ If your long word with many o's also has u's or i's, make sure they are vertical
 
 [ IMAGE PENDING REDRAW ]
 
-**gololollzotpzuv3**
+**gololollzonpzuv3**
 
 `infinite-NMLZ.DER-PROL`
 
-Note the lack of a loop on the last syllable of **gololollzotpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.
+Note the lack of a loop on the last syllable of **gololollzonpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.

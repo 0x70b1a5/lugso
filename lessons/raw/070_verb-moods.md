@@ -117,7 +117,7 @@ _O Cthulhu, (will you) please accept this victim!_
 
 ### PROH prohibitive: -yozb
 
-**zbostyozb zuyn-pus ktkulhuso bvong**
+**zbostyozb zuyn-pus ktkulhuso yug**
 
 `blaspheme-PROH name Cthulhu-GEN great`
 

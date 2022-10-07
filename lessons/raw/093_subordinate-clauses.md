@@ -44,7 +44,7 @@ _I strike because he surrenders._
 
 The sub-clause marker appears bare, as with verb moods.
 
-**yurguln gvifnluli gu5zit bgoklzoblzotiffo <span style="color:red">NoWordFound:"organization.human"</span>fuso ulnglin 5o5l kuttzit polib ungu**
+**yurguln gvifnluli gu5zit bgoklzoblzoniffo <span style="color:red">NoWordFound:"organization.human"</span>fuso ulnglin 5o5l kuttzit polib ungu**
 
 `give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS`
 

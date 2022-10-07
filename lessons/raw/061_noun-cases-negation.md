@@ -111,7 +111,7 @@ _the blood of the thoughts of the gods..._
 
 ### INS instrumental
 
-**pi5n gustkiffo ipir snullso bvong hupzni∅**
+**pi5n gustkiffo ipir snullso yug hupzni∅**
 
 `crush heel-INS head-ACC snake-GEN great human-F-NOM`
 
@@ -121,7 +121,7 @@ _The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
-**yurg gvifnluli gu5zit bgoklzoblzotiffo yoyyso**
+**yurg gvifnluli gu5zit bgoklzoblzoniffo yoyyso**
 
 `give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN`
 

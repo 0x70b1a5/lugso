@@ -7,21 +7,21 @@ order: 3
 
 ## Lesson Vocab
 
-English|Part of speech|Lugso|Comment
-|-|-|-
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 idiot|N|ɣuʃixɮzʌθ|gu5iklzot|(sentient-DIM-NMLZDER)
 AUG|ADJ suffix|θxuθx|tkutk|augmentative (more - than)
 DIM|ADJ suffix|ix|ik|diminutive (less - than)
 SUPER|ADJ suffix|ɮi|li|superlative suffix
 deity_bestial|N|θɮuɮi|tluli|(beast-SUPER)
 deity_intelligent|N|ɣuʃɮi|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
-NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing
+NMLZ.DER.act|suffix|ɮzʌn|lzon|the act of verbing
 NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs
 NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
 ADJ.DER|suffix|ujβ|uyb|adjectivizing suffix
 ADV.DER|suffix|nʃuv|n5uv|-ly
 VB.DER|suffix|ʃsuɻ|5sur|verb-izing suffix
-great|ADJ|βvʌnɣ|bvong|
+great|ADJ|juɣ|yug|
 distant|ADJ|βʌθuθ|botut|
 gorge|VT|χʒunβ|h3unb|
 parasite|N compound|-|-|follower-food
@@ -48,13 +48,13 @@ Lugso has a special suffix for many types of derivation, and several additional 
 
 Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _act_ of verbing, one for _the one who verbs_, and one for _the one who is verbed_.
 
-E|P|L|C
-|-|-|-
-NMLZ.DER.act|suffix|ɮzʌθ|lzot|the act of verbing
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
+NMLZ.DER.act|suffix|ɮzʌn|lzon|the act of verbing
 NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs
 NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
 
-**pobblzot**
+**pobblzon**
 
 `mortal-NMLZ.DER.act`
 
@@ -78,7 +78,7 @@ _Opener of the Way..._
 
 ---
 
-**ffihh lnilzot**
+**ffihh lnilzon**
 
 `rise revolve-NMLZ.DER.act`
 
@@ -86,7 +86,7 @@ _Revolution rises..._
 
 ---
 
-**h3unblzot kurgu**
+**h3unblzon kurgu**
 
 `satisfy-NMLZ.DER.act 1SG-POSS`
 
@@ -94,7 +94,7 @@ _Satisfaction is mine._
 
 #### non-verb -> noun
 
-For nominalizing a non-verb, you can also use **-lzot** - e.g. _blackness_ **3kiglzot** (lit. "the act of black").
+For nominalizing a non-verb, you can also use **-lzon** - e.g. _blackness_ **3kiglzon** (lit. "the act of black").
 
 #### non-adj -> adj
 
@@ -108,7 +108,7 @@ _servile (servant-ish)_ **fbu5uyb**
 
 _unpriestlike_ **tu5ouybzit**
 
-\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns other words into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
+\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
 #### non-adv -> adv
 
@@ -116,13 +116,15 @@ _solid-ly_  **bin5n5uv**
 
 _black-ly_ **3kign5uv**
 
-_parasitical-ly_ **pol-kukn5uv**
+_parasitical-ly_ **pol-kukn5uv***
+
+\* Note that, unlike English, which must go from *parasite* to *praasitical* to *parasitically*, lugso just goes from *pol-kuk* to *pol-kukn5uv* "parasitely".
 
 ### Comparative affixes - Augmentative and Diminutive
 
 #### tkutk: "more ... than, -er"
 
-_greater_ **bvongtkutk**
+_greater_ **yugtkutk**
 
 _prettier, weirder_ **olnri5tkutk**
 
