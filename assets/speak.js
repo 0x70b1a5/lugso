@@ -71,12 +71,11 @@ function sendToPolly(text, voice) {
     };
 
     if (data.text == '') {
-        $('.error').text('Please enter IPA notation to be read.').show();
+        alert('Error: no IPA to speak.')
         return;
     }
 
-    // prevent multiple submissions
-    $('#submit').prop('disabled', 'disabled');
+    $('.ipa').prop('disabled', 'disabled');
 
     // submit request
     $.ajax({
@@ -94,9 +93,6 @@ function readResponse(response) {
     var audio = '<audio autoplay="true" controls>' + source + '</audio>';
     $('.audio').prepend(audio);
 
-    setShareUrl();
-    $('#share').show();
-
     reset();
 }
 
@@ -107,5 +103,5 @@ function errorResponse(response) {
 }
 
 function reset() {
-    $('#submit').prop('disabled', false);
+    $('.ipa').prop('disabled', false);
 }

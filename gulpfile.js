@@ -41,7 +41,7 @@ async function lugsoifyAll(cb) {
         } else if (slice0 == 'r:') {
           const row = getWord(slice1, map, true)
           if (!row) throw `could not find row for meat: ${meat}`
-          out = `${row.english}|${row.partOfSpeech}|${ipaify(row.lugso)}|${row.lugso}|${row.notes || ''}`
+          out = `${row.english}|${row.partOfSpeech}|${ ipaify(row.lugso, true) }|${row.lugso}|${row.notes || ''}`
         } else {
           out = glossToLugso(meat, map)
         }

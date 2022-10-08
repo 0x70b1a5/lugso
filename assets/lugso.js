@@ -23,10 +23,7 @@ const ipaify = (str, asHtml) => {
     const s = str ? str.split('').map(char => ipamap[char] || char).join('') : ''
     if (!s) return ''
     return asHtml ? 
-        `<span class='spoken'>
-            <span class='ipa'>${s}</span> 
-            <button class='speak' type='button' data-ipa='${s}'>🔈</button>
-        </span>`
+        `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span> </span>`
     : s
 }
 const latinate = str => {

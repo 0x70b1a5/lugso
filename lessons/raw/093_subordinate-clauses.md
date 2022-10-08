@@ -7,22 +7,22 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-body|N|ɣvifn|gvifn|
-false|ADJ|ðʌʃɮ|do5l|
-follower|N|ɸʌɮ|pol|
-grant|VB|fun|fun|allow, permit, accept
-hidden|ADJ|xuθθ|kutt|
-organization_human|N|jʌjj|yoyy|e.g. government, family(!)
-organization_natural|N|ɣʌɻn|gorn|
-organize|VB|jʌθuθ|yotut|
-lead|VB|βɣʌx|bgok|
-sentient|ADJ|ɣuʃ|gu5|
-SUB.concession|SUB VB suffix|ɣɮin|glin|despite X
-SUB.conditional|SUB VB suffix|nʌθ|not|if X
-SUB.cotemporal|SUB VB suffix|ɻij|riy|at the same time as X
-SUB.location|SUB VB suffix|ɣsuʃθ|gsu5t|where X
-SUB.purpose|SUB VB suffix|uʒɣ|u3g|because X
-SUB.reason|SUB VB suffix|ɻiɣ|rig|in order that X
+body|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣvifn'>🔈</button> <span class='ipa'>ɣvifn</span> </span>|gvifn|
+false|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ðʌʃɮ'>🔈</button> <span class='ipa'>ðʌʃɮ</span> </span>|do5l|
+follower|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ'>🔈</button> <span class='ipa'>ɸʌɮ</span> </span>|pol|
+grant|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='fun'>🔈</button> <span class='ipa'>fun</span> </span>|fun|allow, permit, accept
+hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθθ'>🔈</button> <span class='ipa'>xuθθ</span> </span>|kutt|
+organization_human|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌjj'>🔈</button> <span class='ipa'>jʌjj</span> </span>|yoyy|e.g. government, family(!)
+organization_natural|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣʌɻn'>🔈</button> <span class='ipa'>ɣʌɻn</span> </span>|gorn|
+organize|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌθuθ'>🔈</button> <span class='ipa'>jʌθuθ</span> </span>|yotut|
+lead|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='βɣʌx'>🔈</button> <span class='ipa'>βɣʌx</span> </span>|bgok|
+sentient|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ'>🔈</button> <span class='ipa'>ɣuʃ</span> </span>|gu5|
+SUB.concession|SUB VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣɮin'>🔈</button> <span class='ipa'>ɣɮin</span> </span>|glin|despite X
+SUB.conditional|SUB VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='nʌθ'>🔈</button> <span class='ipa'>nʌθ</span> </span>|not|if X
+SUB.cotemporal|SUB VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɻij'>🔈</button> <span class='ipa'>ɻij</span> </span>|riy|at the same time as X
+SUB.location|SUB VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣsuʃθ'>🔈</button> <span class='ipa'>ɣsuʃθ</span> </span>|gsu5t|where X
+SUB.purpose|SUB VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uʒɣ'>🔈</button> <span class='ipa'>uʒɣ</span> </span>|u3g|because X
+SUB.reason|SUB VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɻiɣ'>🔈</button> <span class='ipa'>ɻiɣ</span> </span>|rig|in order that X
 
 A _subordinate clause_ joins two complete sentences. The sub-clause marker attaches to the verb of the second sentence, which in all cases will be its first word.
 

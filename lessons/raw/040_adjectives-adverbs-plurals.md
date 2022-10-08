@@ -9,16 +9,16 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ADV.DER|suffix|uv|uv|-ly
-aeon|N|iθɣ|itg|
-beautiful|ADJ|ʌɮðɻiʃ|oldri5|"eldritch"
-bite|VB|iχʃ|ih5|
-black|ADJ|ʒxiɣ|3kig|
-blood|N|ɮuɣ|lug|
-infinite|ADJ|ɣʌɮʌɮʌɮ|gololol|
-invisible|ADJ|zuθx|zutk|
-it|3SG|un|un|he, she, it
-PL|N suffix|iβ|ib|plural suffix
+ADV.DER|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uv'>🔈</button> <span class='ipa'>uv</span> </span>|uv|-ly
+aeon|N|<span class='spoken'> <button class='speak' type='button' data-ipa='iθɣ'>🔈</button> <span class='ipa'>iθɣ</span> </span>|itg|
+beautiful|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌɮðɻiʃ'>🔈</button> <span class='ipa'>ʌɮðɻiʃ</span> </span>|oldri5|"eldritch"
+bite|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='iχʃ'>🔈</button> <span class='ipa'>iχʃ</span> </span>|ih5|
+black|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ʒxiɣ'>🔈</button> <span class='ipa'>ʒxiɣ</span> </span>|3kig|
+blood|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ'>🔈</button> <span class='ipa'>ɮuɣ</span> </span>|lug|
+infinite|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣʌɮʌɮʌɮ'>🔈</button> <span class='ipa'>ɣʌɮʌɮʌɮ</span> </span>|gololol|
+invisible|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='zuθx'>🔈</button> <span class='ipa'>zuθx</span> </span>|zutk|
+it|3SG|<span class='spoken'> <button class='speak' type='button' data-ipa='un'>🔈</button> <span class='ipa'>un</span> </span>|un|he, she, it
+PL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iβ'>🔈</button> <span class='ipa'>iβ</span> </span>|ib|plural suffix
 
 ## Adjectives
 
