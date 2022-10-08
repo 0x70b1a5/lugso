@@ -84,7 +84,7 @@ _Lost Carcosa._<br>
 `Carcosa lose-NMLZ.DER.patient`<br>
 
 _Must die unheard_<br>
-**-zvoh u3ziuyb**
+**-zvoh u3zii**
 
 `die-MOD sense-NEG-ADJ.DER`<br>
 
@@ -109,12 +109,12 @@ _Song of my soul, my voice is dead;_<br>
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`<br>
 
 _Die thou, unsung,_<br>
-**fhtogngi do vto5uybzi**
+**fhtogngi do vto5izi**
 
 `sleep-IMP 2SG sing-ADJ.DER-NEG`<br>
 
 _as tears unshed shall dry and die_<br>
-**tkrotzriy - gir lugokoib ilzuybzi**
+**tkrotzriy - gir lugokoib ilzizi**
 
 `dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
 

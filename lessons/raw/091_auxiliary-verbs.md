@@ -33,7 +33,7 @@ _I can do this._
 
 ---
 
-**- 3gur <span style="color:red">NoWordFound:"u3on"</span>n5uv no**
+**- 3gur <span style="color:red">NoWordFound:"u3on"</span>uv no**
 
 `die begin u3on-ADV.DER 1SG`
 

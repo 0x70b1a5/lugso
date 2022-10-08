@@ -9,7 +9,7 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ADV.DER|suffix|nʃuv|n5uv|-ly
+ADV.DER|suffix|uv|uv|-ly
 aeon|N|iθɣ|itg|
 beautiful|ADJ|ʌɮðɻiʃ|oldri5|"eldritch"
 bite|VB|iχʃ|ih5|
@@ -59,13 +59,13 @@ Pronouns|1st Person|2nd Person|3rd Person
 Singular|no _I_|do _you_|un _it_
 Plural|vo _we_|du _y'all_|sigf _they_
 
-## Adverbs with n5uv
+## Adverbs with uv
 
 In English, we append -ly to an adjective, in order to form an adverb that describes the way in which a verb is performed. "The beast bites invisibly": "invisible" becomes "invisibly".
 
 In Lugso, adverbs follow the verb that they modify. This is similar to English. However, unlike English, you cannot place an adverb before the verb it modifies: we think it's fine to say "the beast invisibly bites", but for your own safety, don't talk like that when speaking to a cultist.
 
-**ih5 zutkn5uv tlu**
+**ih5 zutkuv tlu**
 
 `bite invisible-ADV.DER beast`
 
@@ -75,7 +75,7 @@ _The/A beast bites invisibly._
 
 Any number of adverbs may be appended in this fashion.
 
-**ih5 zutkn5uv 3kign5uv golololn5uv tlu**
+**ih5 zutkuv 3kiguv golololuv tlu**
 
 `bite invisible-ADV.DER black-ADV.DER infinite-ADV.DER beast`
 

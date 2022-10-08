@@ -19,8 +19,15 @@ const ipamap = {
     'y':'j',
     'r':'ɻ'
 };
-const ipaify = str => {
-    return str ? str.split('').map(char => ipamap[char] || char).join('') : ''
+const ipaify = (str, asHtml) => {
+    const s = str ? str.split('').map(char => ipamap[char] || char).join('') : ''
+    if (!s) return ''
+    return asHtml ? 
+        `<span class='spoken'>
+            <span class='ipa'>${s}</span> 
+            <button class='speak' type='button' data-ipa='${s}'>🔈</button>
+        </span>`
+    : s
 }
 const latinate = str => {
     return str.split('').map(char => Object.keys(ipamap).find(key => ipamap[key] == char)).join('');

@@ -18,9 +18,9 @@ deity_intelligent|N|ɣuʃɮi|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM r
 NMLZ.DER.act|suffix|ɮzʌn|lzon|the act of verbing
 NMLZ.DER.agent|VB suffix|ɮzʌβ|lzob|the one who verbs
 NMLZ.DER.patient|VB suffix|ɮzʌf|lzof|the one who is verbed
-ADJ.DER|suffix|ujβ|uyb|adjectivizing suffix
-ADV.DER|suffix|nʃuv|n5uv|-ly
-VB.DER|suffix|ʃsuɻ|5sur|verb-izing suffix
+ADJ.DER|suffix|i|i|adjectivizing suffix
+ADV.DER|suffix|uv|uv|-ly
+VB.DER|suffix|n|n|verb-izing suffix
 great|ADJ|juɣ|yug|
 distant|ADJ|βʌθuθ|botut|
 gorge|VT|χʒunβ|h3unb|
@@ -100,27 +100,27 @@ For nominalizing a non-verb, you can also use **-lzon** - e.g. _blackness_ **3ki
 
 #### non-adj -> adj
 
-_death-ly_* **fhtoguyb**
+_death-ly_* **fhtogi**
 
-_thought-ful_ **sotuyb**
+_thought-ful_ **soti**
 
-_serpent-ine_ **snulluyb**
+_serpent-ine_ **snulli**
 
-_servile (servant-ish)_ **fbu5uyb**
+_servile (servant-ish)_ **fbu5i**
 
-_unpriestlike_ **tu5ouybzi**
+_unpriestlike_ **tu5oizi**
 
 \* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
 #### non-adv -> adv
 
-_solid-ly_  **bin5n5uv**
+_solid-ly_  **bin5uv**
 
-_black-ly_ **3kign5uv**
+_black-ly_ **3kiguv**
 
-_parasitical-ly_ **pol-kukn5uv***
+_parasitical-ly_ **pol-kukuv***
 
-\* Note that, unlike English, which must go from *parasite* to *parasit-ical* to *parasit-ical-ly*, lugso just goes from *pol-kuk* to *pol-kukn5uv* "parasitely".
+\* Note that, unlike English, which must go from *parasite* to *parasit-ical* to *parasit-ical-ly*, lugso just goes from *pol-kuk* to *pol-kukuv* "parasitely".
 
 ### Comparative affixes - Augmentative and Diminutive
 

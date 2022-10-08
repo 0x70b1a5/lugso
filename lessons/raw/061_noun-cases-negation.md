@@ -32,7 +32,7 @@ In Lugso, various aspects of language are communicated with noun case.
 
 Case|Part of speech|IPA|Lugso|Notes
 |-|-|-|-
-ABL|N suffix|vsuɣ|vsug|ablative case - about N, from location
+ABL|N suffix|uɣ|ug|ablative case - about N, from location
 ACC|N suffix|iɻ|ir|accusative case - to N, towards location
 BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
 COM|N suffix|nij|niy|comitative case "together with N, alongside N"
@@ -84,7 +84,7 @@ _It loves me, for me._
 
 ### ABL ablative
 
-**zyuzh 3uzvsug lug∅**
+**zyuzh 3uzug lug∅**
 
 `descend fire-ABL blood-NOM`
 

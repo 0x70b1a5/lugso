@@ -37,7 +37,7 @@ Finally, _**you must hyphenate compound nouns in Lugso**_: "jelly-bean", "bus-st
 
 ## Noun compounds
 
-**zyuzh rlohs-3uzvsug nziv5 lug**
+**zyuzh rlohs-3uzug nziv5 lug**
 
 `descend fuel--fire-ABL upright blood`
 

@@ -120,7 +120,7 @@ _How did you dehydrate the hidden heretics?_
 
 #### "whence/from where": Ablative + Q
 
-**zfoy vsug5u tgus-tlu ivih**
+**zfoy ug5u tgus-tlu ivih**
 
 `come ABL-Q sacrifice--beast DET.PROX`
 
