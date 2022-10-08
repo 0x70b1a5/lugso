@@ -104,5 +104,5 @@ function errorResponse(response) {
 }
 
 function reset() {
-    $('.ipa').prop('disabled', false).text('🔈');
+    $('.speak').prop('disabled', false).text('🔈');
 }
