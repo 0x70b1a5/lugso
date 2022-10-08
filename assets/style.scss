@@ -76,8 +76,15 @@ html {
         margin: 1em;
         border-collapse: collapse;
 
-        .speak {
-            margin-right: 8px;
+        .spoken {
+            white-space: nowrap;
+
+            .speak {
+                padding: 0;
+                background: none;
+                border: none;
+                margin: 0 8px 0 0;
+            }
         }
 
         tr:nth-child(even) {

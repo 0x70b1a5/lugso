@@ -21,7 +21,7 @@ const ipamap = {
 };
 const ipaify = (str, asHtml) => {
     const s = str ? str.split('').map(char => ipamap[char] || char).join('') : ''
-    if (!s) return ''
+    if (!s || s == '-') return ''
     return asHtml ? 
         `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span> </span>`
     : s
