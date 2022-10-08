@@ -51,6 +51,7 @@ var DEFAULT_VOICE = 'Brian';
 $(document).ready(function() {
     $('.speak').on('click', function(e) {
         e.preventDefault();
+        e.target.text('🎵')
 
         var text = $(e.target).attr('data-ipa');
         var voice = DEFAULT_VOICE;
