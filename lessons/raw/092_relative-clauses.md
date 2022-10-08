@@ -45,9 +45,9 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-**<span style="color:red">NoWordFound:"see.mental"</span>gi sru3ir u3or vgovzi oko**
+**fko3gi sru3ir u3or vgovzi oko**
 
-`see.mental-IMP truth-ACC sense-REL can-NEG eye`
+`see_mental-IMP truth-ACC sense-REL can-NEG eye`
 
 _Behold the truth that no eye can perceive!_
 

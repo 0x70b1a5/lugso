@@ -41,7 +41,7 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-${g: see.mental-IMP truth-ACC sense-REL can-NEG eye}$
+${g: see_mental-IMP truth-ACC sense-REL can-NEG eye}$
 
 _Behold the truth that no eye can perceive!_
 
