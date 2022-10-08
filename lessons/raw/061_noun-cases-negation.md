@@ -9,26 +9,15 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-ABL|N suffix|vsuɣ|vsug|ablative case - about N, from location
-ACC|N suffix|iɻ|ir|accusative case - to N, towards location
-BEN|N suffix|ɮuɮi|luli|benefactive case - for the sake of N
 can|AUX|vɣʌv|vgov|
-COM|N suffix|nij|niy|comitative case "together with N, alongside N"
 essence|N|ɸus|pus|
 exchange|VB|ziɮx|zilx|transact, converse
-GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-hunger|VB|χuʃ|hu5|
-INS|N suffix|iffʌ|iffo|instrumental case - using N
-LOC|N suffix|ʃiθx|5itk|locative case - at N, in N
-NOM|N suffix|∅|∅|nominative case - the subject/actor in a sentence
-TEMP|N suffix|zxi|zki|temporal case - during N
-VOC|N suffix|θuθ|tut|vocative case - Hey N! O, N!
+hunger|VB|χuʃ|hu5|also "love", "want to"
 IMP|VB suffix|ɣi|gi|imperative mood (a command)
 larva|N|ɮʌɻɣ|lorg|
 mind|N|θʌχθ|toht|
 move|VB|θxzuθx|tkzutk|
 NEG|suffix|zi|zi|negation suffix
-PROL|N suffix|ɸzuvʒ|pzuv3|prolative case (by way of N, via N, through N)
 revolve|VB|ɮni|lni|circle, encircle
 sky|N|ʃθxi|5tki|
 thought|N|sʌθ|sot|
@@ -129,7 +118,7 @@ _The unthinking body is given leadership of the organization._
 
 ### TEMP temporal
 
-**fhtogni vgov itgibzki fhtog∅**
+**fhtogn vgov itgibzki fhtog∅**
 
 `sleep can aeon-PL-TEMP death-NOM`
 

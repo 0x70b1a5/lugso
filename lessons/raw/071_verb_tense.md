@@ -31,7 +31,7 @@ _Cthulhu descended of old._
 
 #### PRET preterite (simple past)
 
-**fhtogniuln ktkulhu**
+**fhtognuln ktkulhu**
 
 `sleep-PRET Cthulhu`
 
@@ -51,7 +51,7 @@ _Cthulhu shall eat us._
 
 #### FFUT far future
 
-**fhtognil5i vgov itgibzki oldri5 fhtog yiy**
+**fhtognl5i vgov itgibzki oldri5 fhtog yiy**
 
 `sleep-FFUT can aeon-PL-TEMP strange death EMPH`
 

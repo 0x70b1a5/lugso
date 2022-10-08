@@ -11,13 +11,13 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ADV.DER|suffix|nʃuv|n5uv|-ly
 aeon|N|iθɣ|itg|
-undefined|undefined||undefined|
+beautiful|ADJ|ʌɮðɻiʃ|oldri5|"eldritch"
 bite|VB|iχʃ|ih5|
 black|ADJ|ʒxiɣ|3kig|
 blood|N|ɮuɣ|lug|
 infinite|ADJ|ɣʌɮʌɮʌɮ|gololol|
 invisible|ADJ|zuθx|zutk|
-3SG|3SG|un|un|
+it|3SG|un|un|he, she, it
 PL|N suffix|iβ|ib|plural suffix
 
 ## Adjectives

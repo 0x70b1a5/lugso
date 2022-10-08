@@ -49,7 +49,7 @@ _Along the shore the cloud waves break._<br>
 `dissipate shore-LOC wave-PL gas-blood-sky`<br>
 
 _The twin suns sink beneath the lake._<br>
-**zyuzh tkgihplug5tki5itk nhokb lih<span style="color:red">NoWordFound:"home"</span>ib tkurlzoful**
+**zyuzh tkgihplug5tki5itk nhokb lihugonoglib tkurlzoful**
 
 `descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`<br>
 
@@ -104,12 +104,12 @@ _in dim Carcosa._<br>
 `Carcosa-LOC dark`<br>
 
 _Song of my soul, my voice is dead;_<br>
-**vtu3tut pusso noso toy fhtogni yun noso**
+**vtu3tut pusso noso toy fhtogni yud noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`<br>
 
 _Die thou, unsung,_<br>
-**fhtognigi do vto5uybzi**
+**fhtogngi do vto5uybzi**
 
 `sleep-IMP 2SG sing-ADJ.DER-NEG`<br>
 

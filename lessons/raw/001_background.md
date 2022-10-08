@@ -5,7 +5,7 @@ permalink: /background/
 order: 2
 ---
 
-**fhtognizi ivol rkior vgov supn5uv fhtognil5iin vgov itgibzki oldri5 fhtog yiy**
+**fhtognizi ivol rkior vgov supn5uv fhtognl5iin vgov itgibzki oldri5 fhtog yiy**
 
 `dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH`
 

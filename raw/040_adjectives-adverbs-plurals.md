@@ -11,13 +11,13 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ${r: ADV.DER}$
 ${r: aeon}$
-${r: beautiful, weird, strange}$
+${r: beautiful}$
 ${r: bite}$
 ${r: black}$
 ${r: blood}$
 ${r: infinite}$
 ${r: invisible}$
-${r: 3SG}$
+${r: it}$
 ${r: PL}$
 
 ## Adjectives

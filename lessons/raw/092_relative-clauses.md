@@ -5,20 +5,20 @@ permalink: /relatives-conjunctions/
 order: 3
 ---
 
-English|Part of speech|Lugso|Comment
-|-|-|-
-in
-i5
-vro
-or
-tku
-so
-yog
-vun
-hpi5
-lih
-yols
-<span style="color:red">NoWordFound:"planet"</span>
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
+CONJ.and|VB suffix|in|in|
+CONJ.but|VB suffix|iʃ|i5|
+CONJ.N|N suffix|vɻʌ|vro|what is this supposed to do?
+REL|VB suffix|ʌɻ|or|introduces relative clause
+FUT|VB suffix|θxu|tku|
+GEN|N suffix|sʌ|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+knowledge|N|jʌɣ|yog|
+penetrate|VB|vun|vun|
+space|N|χɸiʃ|hpi5|
+star|N|ɮiχ|lih|
+child|N|jʌɮs|yols|
+planet|N|yols-lih|child of star
 moon|N|yols-yols-lih|child of child of star
 
 ## Relative Clauses
@@ -45,9 +45,9 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-**<span style="color:red">NoWordFound:"see.mental"</span>gi <span style="color:red">NoWordFound:"truth"</span>ir <span style="color:red">NoWordFound:"see.material"</span>or vgovzi oko**
+**<span style="color:red">NoWordFound:"see.mental"</span>gi sru3ir u3or vgovzi oko**
 
-`see.mental-IMP truth-ACC see.material-REL can-NEG eye`
+`see.mental-IMP truth-ACC sense-REL can-NEG eye`
 
 _Behold the truth that no eye can perceive!_
 
@@ -65,10 +65,10 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **i5**:
 
-**huf-yu zodtk lusot gu5liibso i5 hi <span style="color:red">NoWordFound:"feeble"</span> toht noso**
+**huf-yu zodtk lusot gu5liibso i5 hi lodi toht noso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
 
 _I wish to learn the language of gods, but my mind is small and feeble._
 
-Notice also that "my mind IS feeble" (**hi <span style="color:red">NoWordFound:"feeble"</span> toht noso**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **toht hi <span style="color:red">NoWordFound:"feeble"</span> noso** `mind small feeble 1SG-GEN`.
+Notice also that "my mind IS feeble" (**hi lodi toht noso**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **toht hi lodi noso** `mind small feeble 1SG-GEN`.

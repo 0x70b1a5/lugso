@@ -25,6 +25,8 @@ ${r: large}$
 ${r: distant}$
 ${r: gorge}$
 ${r: parasite}$
+${r: food}$
+${r: follower}$
 ${r: priest}$
 ${r: PRV}$
 ${r: revolve}$

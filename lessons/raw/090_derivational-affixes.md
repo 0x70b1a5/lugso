@@ -25,6 +25,8 @@ great|ADJ|juɣ|yug|
 distant|ADJ|βʌθuθ|botut|
 gorge|VT|χʒunβ|h3unb|
 parasite|N compound|-|-|follower-food
+food|N|xux|kuk|
+follower|N|ɸʌɮ|pol|
 priest|N|θuʃʌ|tu5o|
 PRV|N suffix|inʃ|in5|privative case ("N-less", without N)
 revolve|VB|ɮni|lni|circle, encircle

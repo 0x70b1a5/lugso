@@ -9,10 +9,10 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 INT|VB suffix|ʌχ|oh|interrogative mood  - is ...? did X ...?
 Q|suffix|ʃu|5u|turns a word into a question
-dream|VB|zʌðθx|zodtk|
+dream|VB|zʌðθx|zodtk|also "wish to"
 tremble|VB|ʌɸz|opz|
 certain|ADJ|zvʌjɣ|zvoyg|
-voice|VB|jun|yun|
+voice|VB|juð|yud|
 dry|VB|θxɻʌθz|tkrotz|
 heretic|N|isv|isv|
 hidden|ADJ|xuθθ|kutt|
@@ -62,11 +62,13 @@ Note here again the invisible copula.
 
 _Is **Cthulhu** eating a human (or is something else eating it)?_
 
-### oh: questions about actions and states [verb suffix - interrogative mood]
+### -oh: questions about actions and states [verb suffix - interrogative mood]
 
-**oh** is a verb suffix, and is used for questioning _whether_ the action is occurring.
+**-oh** is a verb suffix, and is used for questioning _whether_ the action is occurring.
 
-**fhtognioh ktkulhu**
+This is different from -5u (which operates solely on nouns) in order to disambiguate between "`verb Q noun`?" and "`verb-Q noun`?" When INT and Q were the same - that is to say, when all cultists had was `Q`, and the question of _whether_ you were eating (`eat-Q you?`) was identical to the question of _what_ you were eating (`eat Q you?`), cultists never got anything done. So, in practice, `INT` emerged.
+
+**fhtognoh ktkulhu**
 
 `sleep-INT Cthulhu`
 
@@ -102,7 +104,7 @@ _Can you learn what that blood portends?_
 
 #### "where": Locative + Q
 
-**opz 5itk5u yunib zvoygzi**
+**opz 5itk5u yudib zvoygzi**
 
 `tremble LOC-Q voice-PL certain-NEG`
 
@@ -120,9 +122,9 @@ _How did you dehydrate the hidden heretics?_
 
 **zfoy vsug5u tgus-tlu ivih**
 
-`come ABL-Q victim DET.PROX`
+`come ABL-Q sacrifice--beast DET.PROX`
 
-_Where did this sacrifice come from?_
+_Where did this unwilling xsacrifice come from?_
 
 #### "why": Prolative + Q
 

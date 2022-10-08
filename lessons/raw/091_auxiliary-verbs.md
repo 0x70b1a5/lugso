@@ -8,12 +8,14 @@ order: 3
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 can|AUX|vɣʌv|vgov|
-hunger|VB|χuʃ|hu5|
-dream|VB|zʌðθx|zodtk|
+hunger|VB|χuʃ|hu5|also "love", "want to"
+begin|VB|ʒɣuɻ|3gur|
+dream|VB|zʌðθx|zodtk|also "wish to"
+last|ADJ|uʒʌn|u3on|
 
 An _auxiliary verb_ is like English "can", "might". In English they are effectively intransitive verbs that modify an infinitive. Other intransitives that work similarly are "want", "wish".
 
-In Lugso, to **wish** to do something, you _dream_ for it. To **want** to do something, you _hunger_ for it. Since Lugso is as always head-initial, the structure is [main verb] [auxiliary verb]. (The difference is partly of degree and partly of kind - dreaming is more intellectual and less intense than hungering, which is visceral and strong.)
+In Lugso, to **wish** to do something, you _dream_ for it. To **want** to do something, you _hunger_ for it. Since Lugso is as always head-initial, the structure is [main verb] [auxiliary verb]. (The difference is partly of degree and partly of kind - dreaming is velleity: intellectual and often milder; hungering is sub-cognitive, visceral, strong.) _To begin to_ do something uses _begin_ as English does.
 
 **fok hu5 ipibir gu5liibluli**
 
@@ -28,6 +30,14 @@ _I desire/want/yearn to harvest heads for the gods._
 `finish can DET.PROX-ACC 1SG` 
 
 _I can do this._ 
+
+---
+
+**- 3gur <span style="color:red">NoWordFound:"u3on"</span>n5uv no**
+
+`die begin u3on-ADV.DER 1SG`
+
+_Finally, I begin to die._
 
 ---
 

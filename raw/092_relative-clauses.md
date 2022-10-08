@@ -5,20 +5,20 @@ hide: true
 order: 3
 ---
 
-English|Part of speech|Lugso|Comment
-|-|-|-
-${CONJ.and}$
-${CONJ.but}$
-${CONJ.N}$
-${REL}$
-${FUT}$
-${GEN}$
-${knowledge}$
-${penetrate}$
-${space}$
-${star}$
-${child}$
-${planet}$
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
+${r: CONJ.and}$
+${r: CONJ.but}$
+${r: CONJ.N}$
+${r: REL}$
+${r: FUT}$
+${r: GEN}$
+${r: knowledge}$
+${r: penetrate}$
+${r: space}$
+${r: star}$
+${r: child}$
+planet|N|${child--star}$|child of star
 moon|N|${child--child--star}$|child of child of star
 
 ## Relative Clauses
@@ -41,7 +41,7 @@ _the spaces of knowledge that I will penetrate..._
 
 ---
 
-${g: see.mental-IMP truth-ACC see.material-REL can-NEG eye}$
+${g: see.mental-IMP truth-ACC sense-REL can-NEG eye}$
 
 _Behold the truth that no eye can perceive!_
 

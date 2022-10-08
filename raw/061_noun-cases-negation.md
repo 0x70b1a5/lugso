@@ -9,26 +9,15 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-${r: ABL}$
-${r: ACC}$
-${r: BEN}$
 ${r: can}$
-${r: COM}$
 ${r: essence}$
 ${r: exchange}$
-${r: GEN}$
 ${r: hunger}$
-${r: INS}$
-${r: LOC}$
-${r: NOM}$
-${r: TEMP}$
-${r: VOC}$
 ${r: IMP}$
 ${r: larva}$
 ${r: mind}$
 ${r: move}$
 ${r: NEG}$
-${r: PROL}$
 ${r: revolve}$
 ${r: sky}$
 ${r: thought}$

@@ -28,11 +28,13 @@ A _subordinate clause_ joins two complete sentences. The sub-clause marker attac
 
 ## Normal sub-clauses
 
-**rils no <span style="color:red">NoWordFound:"find"</span>rig no**
+**rils no rokrig no**
 
 `seek 1SG find-SUB.reason 1SG`
 
 _I seek_ + `SUB.reason` + _I find_ = _I seek in order that I find._
+
+---
 
 **hit no gu5hu3g un**
 
@@ -44,9 +46,9 @@ _I strike because he surrenders._
 
 The sub-clause marker appears bare, as with verb moods.
 
-**yurguln gvifnluli gu5zi bgoklzoblzoniffo <span style="color:red">NoWordFound:"organization.human"</span>fuso ulnglin do5l kuttzi polib ungu**
+**yurguln gvifnluli gu5zi bgoklzoblzoniffo yoyyfuso ulnglin do5l kuttzi polib ungu**
 
-`give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS`
+`give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS`
 
 _The unthinking body was given leadership of the organization_ + `SUB.concession` + _his followers were plainly false_ =
 

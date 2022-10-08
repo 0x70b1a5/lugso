@@ -9,6 +9,16 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
+${r: song}$
+${r: voice}$
+${r: grant}$
+${r: we_exc}$
+${r: we_inc}$
+
+## Verb Moods
+
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
 ${r: FORM}$
 ${r: IMP}$
 ${r: IND}$
@@ -17,13 +27,6 @@ ${r: MOD}$
 ${r: PREC}$
 ${r: PROH}$
 ${r: PROL}$
-${r: song}$
-${r: voice}$
-${r: grant}$
-${r: we_exc}$
-${r: we_inc}$
-
-## Verb Moods
 
 Verb moods indicate the way in which a certain action is performed. Think of, "Please would you do this?" versus "Do this!" versus "Are you doing this?" versus "You must do this."
 

@@ -32,6 +32,8 @@ ${g: seek 1SG find-SUB.reason 1SG}$
 
 _I seek_ + `SUB.reason` + _I find_ = _I seek in order that I find._
 
+---
+
 ${g: strike 1SG surrender-SUB.purpose 3SG}$
 
 _I strike because he surrenders._
@@ -40,7 +42,7 @@ _I strike because he surrenders._
 
 The sub-clause marker appears bare, as with verb moods.
 
-${g: give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization.human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS}$
+${g: give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS}$
 
 _The unthinking body was given leadership of the organization_ + `SUB.concession` + _his followers were plainly false_ =
 

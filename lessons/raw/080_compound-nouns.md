@@ -49,7 +49,7 @@ Tree: "fire fuel". Grim.
 
 Below, in the English translations, the "head" of the compound is **bolded**. Remember the _head_ is the _actual thing_, and the other parts of the compound are _modifiers on that thing_. Remember also the English translations are backwards. the `glosses` have the correct Lugso word order.
 
-**lug-5tki <span style="color:red">NoWordFound:"home"</span> nogu**
+**lug-5tki ugonogl nogu**
 
 `blood--sky home 1SG-POSS`
 
@@ -65,7 +65,7 @@ _Along the shore the clouds break._
 
 Cloud: sky-blood **gas**.
 
-**zyuzh tkgihp-lug-5tki5itk lih-<span style="color:red">NoWordFound:"home"</span>ib**
+**zyuzh tkgihp-lug-5tki5itk lih-ugonoglib**
 
 `descend bowl--blood--sky-LOC star--home-PL`
 

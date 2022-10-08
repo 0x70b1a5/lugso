@@ -54,9 +54,11 @@ ${g: consume human Cthulhu-Q}$
 
 _Is **Cthulhu** eating a human (or is something else eating it)?_
 
-### ${INT}$: questions about actions and states [verb suffix - interrogative mood]
+### -${INT}$: questions about actions and states [verb suffix - interrogative mood]
 
-**${INT}$** is a verb suffix, and is used for questioning _whether_ the action is occurring.
+**-${INT}$** is a verb suffix, and is used for questioning _whether_ the action is occurring.
+
+This is different from -${Q}$ (which operates solely on nouns) in order to disambiguate between "`verb Q noun`?" and "`verb-Q noun`?" When INT and Q were the same - that is to say, when all cultists had was `Q`, and the question of _whether_ you were eating (`eat-Q you?`) was identical to the question of _what_ you were eating (`eat Q you?`), cultists never got anything done. So, in practice, `INT` emerged.
 
 ${g: sleep-INT Cthulhu}$
 
@@ -98,9 +100,9 @@ _How did you dehydrate the hidden heretics?_
 
 #### "whence/from where": Ablative + Q
 
-${g: come ABL-Q victim DET.PROX}$
+${g: come ABL-Q sacrifice--beast DET.PROX}$
 
-_Where did this sacrifice come from?_
+_Where did this unwilling xsacrifice come from?_
 
 #### "why": Prolative + Q
 

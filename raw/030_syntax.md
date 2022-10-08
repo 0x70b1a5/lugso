@@ -10,8 +10,8 @@ English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
 ${r: ACC}$
 ${r: consume}$
-${r: 1SG}$
-${r: 2SG}$
+${r: i}$
+${r: you}$
 ${r: beast}$
 ${r: fly}$
 ${r: swim}$
