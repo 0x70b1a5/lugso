@@ -51,7 +51,7 @@ var DEFAULT_VOICE = 'Brian';
 $(document).ready(function() {
     $('.speak').on('click', function(e) {
         e.preventDefault();
-        e.target.text('🎵')
+        $(e.target).text('🎵')
 
         var text = $(e.target).attr('data-ipa');
         var voice = DEFAULT_VOICE;
@@ -104,5 +104,5 @@ function errorResponse(response) {
 }
 
 function reset() {
-    $('.ipa').prop('disabled', false);
+    $('.ipa').prop('disabled', false).text('🔈');
 }
