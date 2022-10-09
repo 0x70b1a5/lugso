@@ -53,11 +53,11 @@ _Along the shore the cloud waves break._
 
 _The twin suns sink beneath the lake._
 
-**zyuzh tkgihplug5tki5itk nhokb lihugonoglib tkurlzoful**
+**zyuzh gil'lid5itk nhokb lihugonoglib tkurlzoful**
 
-`descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`
+`descend lake-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ θxɣiχɸɮuɣʃθxiʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ θxɣiχɸɮuɣʃθxiʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ</span> </span>
 
 ---
 
@@ -123,8 +123,8 @@ _Song of my soul, my voice is dead;_
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-**fhtogngi dotut vto5kubzi tkrotzriy fhtogn gir lugoko'ib ilzkubzi korkoso5itk tsol'lzof**
+**fhtogngi dotut vto5kubzi tkrotzriy fhtogn lugoko'ib ilzkubzi korkoso5itk tsol'lzof**
 
-`sleep-IMP 2SG-VOC sing-PTCP.PAST.PASS-NEG dessicate-SUB.cotemporal die also blood-eye-PL shed-PTCP.PAST.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient`
+`sleep-IMP 2SG-VOC sing-PTCP.PAST.PASS-NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.PAST.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij fχθʌɣn ɣiɻ ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij fχθʌɣn ɣiɻ ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf</span> </span>
