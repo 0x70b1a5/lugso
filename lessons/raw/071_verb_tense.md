@@ -9,14 +9,10 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-FPRET|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='suθɻ'>🔈</button> <span class='ipa'>suθɻ</span>
-</span>|sutr|far past
-PRET|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uɮn'>🔈</button> <span class='ipa'>uɮn</span>
-</span>|uln|preterite mood (simple past) "i VBed"
-FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxu'>🔈</button> <span class='ipa'>θxu</span>
-</span>|tku|
-FFUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʃi'>🔈</button> <span class='ipa'>ɮʃi</span>
-</span>|l5i|far future
+FPRET|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='suθɻ'>🔈</button> <span class='ipa'>suθɻ</span> </span>|sutr|far past
+PRET|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uɮn'>🔈</button> <span class='ipa'>uɮn</span> </span>|uln|preterite mood (simple past) "i VBed"
+FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxu'>🔈</button> <span class='ipa'>θxu</span> </span>|tku|
+FFUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʃi'>🔈</button> <span class='ipa'>ɮʃi</span> </span>|l5i|far future
 
 Verb tense is the difference between _I was_, _I am_, and _I will be_, commonly called _past_, _present_, and _future_. 
 Lugso marks verb tense with suffixes similar to moods.

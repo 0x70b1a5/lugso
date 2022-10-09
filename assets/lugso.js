@@ -20,8 +20,7 @@ const ipamap = {
     'r':'ɻ'
 };
 
-const speak = s => `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span>
-</span>`
+const speak = s => `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span> </span>`
 
 const ipaify = (str, html) => {
     const s = str ? str.split('').map(char => ipamap[char] || char).join('') : ''

@@ -9,34 +9,20 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-can|AUX|<span class='spoken'> <button class='speak' type='button' data-ipa='vɣʌv'>🔈</button> <span class='ipa'>vɣʌv</span>
-</span>|vgov|
-essence|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸus'>🔈</button> <span class='ipa'>ɸus</span>
-</span>|pus|
-exchange|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ziɮx'>🔈</button> <span class='ipa'>ziɮx</span>
-</span>|zilx|transact, converse
-hunger|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='χuʃ'>🔈</button> <span class='ipa'>χuʃ</span>
-</span>|hu5|also "love", "want to"
-IMP|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣi'>🔈</button> <span class='ipa'>ɣi</span>
-</span>|gi|imperative mood (a command)
-larva|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʌɻɣ'>🔈</button> <span class='ipa'>ɮʌɻɣ</span>
-</span>|lorg|
-mind|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θʌχθ'>🔈</button> <span class='ipa'>θʌχθ</span>
-</span>|toht|
-move|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='θxzuθx'>🔈</button> <span class='ipa'>θxzuθx</span>
-</span>|tkzutk|
-NEG|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zi'>🔈</button> <span class='ipa'>zi</span>
-</span>|zi|negation suffix
-revolve|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮni'>🔈</button> <span class='ipa'>ɮni</span>
-</span>|lni|circle, encircle
-sky|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃθxi'>🔈</button> <span class='ipa'>ʃθxi</span>
-</span>|5tki|
-thought|N|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌθ'>🔈</button> <span class='ipa'>sʌθ</span>
-</span>|sot|
-time|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃif'>🔈</button> <span class='ipa'>ʃif</span>
-</span>|5if|
-transgress|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='θuɣ'>🔈</button> <span class='ipa'>θuɣ</span>
-</span>|tug|
+can|AUX|<span class='spoken'> <button class='speak' type='button' data-ipa='vɣʌv'>🔈</button> <span class='ipa'>vɣʌv</span> </span>|vgov|
+essence|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸus'>🔈</button> <span class='ipa'>ɸus</span> </span>|pus|
+exchange|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ziɮx'>🔈</button> <span class='ipa'>ziɮx</span> </span>|zilx|transact, converse
+hunger|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='χuʃ'>🔈</button> <span class='ipa'>χuʃ</span> </span>|hu5|also "love", "want to"
+IMP|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣi'>🔈</button> <span class='ipa'>ɣi</span> </span>|gi|imperative mood (a command)
+larva|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʌɻɣ'>🔈</button> <span class='ipa'>ɮʌɻɣ</span> </span>|lorg|
+mind|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θʌχθ'>🔈</button> <span class='ipa'>θʌχθ</span> </span>|toht|
+move|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='θxzuθx'>🔈</button> <span class='ipa'>θxzuθx</span> </span>|tkzutk|
+NEG|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zi'>🔈</button> <span class='ipa'>zi</span> </span>|zi|negation suffix
+revolve|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮni'>🔈</button> <span class='ipa'>ɮni</span> </span>|lni|circle, encircle
+sky|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃθxi'>🔈</button> <span class='ipa'>ʃθxi</span> </span>|5tki|
+thought|N|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌθ'>🔈</button> <span class='ipa'>sʌθ</span> </span>|sot|
+time|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃif'>🔈</button> <span class='ipa'>ʃif</span> </span>|5if|
+transgress|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='θuɣ'>🔈</button> <span class='ipa'>θuɣ</span> </span>|tug|
 
 ## Cases
 
@@ -46,28 +32,17 @@ In Lugso, various aspects of language are communicated with noun case.
 
 Case|Part of speech|IPA|Lugso|Notes
 |-|-|-|-
-ABL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uɣ'>🔈</button> <span class='ipa'>uɣ</span>
-</span>|ug|ablative case - about N, from location
-ACC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iɻ'>🔈</button> <span class='ipa'>iɻ</span>
-</span>|ir|accusative case - to N, towards location
-BEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɮi'>🔈</button> <span class='ipa'>ɮuɮi</span>
-</span>|luli|benefactive case - for the sake of N
-COM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='nij'>🔈</button> <span class='ipa'>nij</span>
-</span>|niy|comitative case "together with N, alongside N"
-GEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌ'>🔈</button> <span class='ipa'>sʌ</span>
-</span>|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-INS|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iffʌ'>🔈</button> <span class='ipa'>iffʌ</span>
-</span>|iffo|instrumental case - using N
-LOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃiθx'>🔈</button> <span class='ipa'>ʃiθx</span>
-</span>|5itk|locative case - at N, in N
-NOM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='∅'>🔈</button> <span class='ipa'>∅</span>
-</span>|∅|nominative case - the subject/actor in a sentence
-PROL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸzuvʒ'>🔈</button> <span class='ipa'>ɸzuvʒ</span>
-</span>|pzuv3|prolative case (by way of N, via N, through N)
-TEMP|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zxi'>🔈</button> <span class='ipa'>zxi</span>
-</span>|zki|temporal case - during N
-VOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θuθ'>🔈</button> <span class='ipa'>θuθ</span>
-</span>|tut|vocative case - Hey N! O, N!
+ABL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uɣ'>🔈</button> <span class='ipa'>uɣ</span> </span>|ug|ablative case - about N, from location
+ACC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iɻ'>🔈</button> <span class='ipa'>iɻ</span> </span>|ir|accusative case - to N, towards location
+BEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɮi'>🔈</button> <span class='ipa'>ɮuɮi</span> </span>|luli|benefactive case - for the sake of N
+COM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='nij'>🔈</button> <span class='ipa'>nij</span> </span>|niy|comitative case "together with N, alongside N"
+GEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌ'>🔈</button> <span class='ipa'>sʌ</span> </span>|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+INS|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iffʌ'>🔈</button> <span class='ipa'>iffʌ</span> </span>|iffo|instrumental case - using N
+LOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃiθx'>🔈</button> <span class='ipa'>ʃiθx</span> </span>|5itk|locative case - at N, in N
+NOM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='∅'>🔈</button> <span class='ipa'>∅</span> </span>|∅|nominative case - the subject/actor in a sentence
+PROL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸzuvʒ'>🔈</button> <span class='ipa'>ɸzuvʒ</span> </span>|pzuv3|prolative case (by way of N, via N, through N)
+TEMP|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zxi'>🔈</button> <span class='ipa'>zxi</span> </span>|zki|temporal case - during N
+VOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θuθ'>🔈</button> <span class='ipa'>θuθ</span> </span>|tut|vocative case - Hey N! O, N!
 
 ## Examples
 

@@ -7,28 +7,17 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-CONJ.and|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='u'>🔈</button> <span class='ipa'>u</span>
-</span>|u|
-CONJ.but|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ'>🔈</button> <span class='ipa'>iʃ</span>
-</span>|i5|
-CONJ.N|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='vɻʌ'>🔈</button> <span class='ipa'>vɻʌ</span>
-</span>|vro|what is this supposed to do?
-REL|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌɻ'>🔈</button> <span class='ipa'>ʌɻ</span>
-</span>|or|introduces relative clause
-FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxu'>🔈</button> <span class='ipa'>θxu</span>
-</span>|tku|
-GEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌ'>🔈</button> <span class='ipa'>sʌ</span>
-</span>|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-knowledge|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌɣ'>🔈</button> <span class='ipa'>jʌɣ</span>
-</span>|yog|
-penetrate|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='vun'>🔈</button> <span class='ipa'>vun</span>
-</span>|vun|
-space|N|<span class='spoken'> <button class='speak' type='button' data-ipa='χɸiʃ'>🔈</button> <span class='ipa'>χɸiʃ</span>
-</span>|hpi5|
-star|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ'>🔈</button> <span class='ipa'>ɮiχ</span>
-</span>|lih|
-child|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌɮs'>🔈</button> <span class='ipa'>jʌɮs</span>
-</span>|yols|
+CONJ.and|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='u'>🔈</button> <span class='ipa'>u</span> </span>|u|
+CONJ.but|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ'>🔈</button> <span class='ipa'>iʃ</span> </span>|i5|
+CONJ.N|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='vɻʌ'>🔈</button> <span class='ipa'>vɻʌ</span> </span>|vro|what is this supposed to do?
+REL|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌɻ'>🔈</button> <span class='ipa'>ʌɻ</span> </span>|or|introduces relative clause
+FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxu'>🔈</button> <span class='ipa'>θxu</span> </span>|tku|
+GEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌ'>🔈</button> <span class='ipa'>sʌ</span> </span>|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+knowledge|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌɣ'>🔈</button> <span class='ipa'>jʌɣ</span> </span>|yog|
+penetrate|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='vun'>🔈</button> <span class='ipa'>vun</span> </span>|vun|
+space|N|<span class='spoken'> <button class='speak' type='button' data-ipa='χɸiʃ'>🔈</button> <span class='ipa'>χɸiʃ</span> </span>|hpi5|
+star|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ'>🔈</button> <span class='ipa'>ɮiχ</span> </span>|lih|
+child|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌɮs'>🔈</button> <span class='ipa'>jʌɮs</span> </span>|yols|
 planet|N|yols-lih|child of star
 moon|N|yols-yols-lih|child of child of star
 
