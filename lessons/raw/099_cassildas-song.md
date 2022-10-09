@@ -105,11 +105,11 @@ _But stranger still is / Lost Carcosa._
 
 _Songs that the Hyades shall sing / where flap the tatters of the King / Must die unheard / in dim Carcosa._
 
-**-zvoh u3<span style="color:red">NoWordFo'und:"PTCP.PAS'S"</span>zi pingsu5t ilzlzofib bgoklzobso vtu3ib vto5tku'or hoyodiz korkoso5itk 3kign**
+**-zvoh u3kubzi pingsu5t ilzlzofib bgoklzobso vtu3ib vto5tku'or hoyodiz korkoso5itk 3kign**
 
-`die-MOD sense-PTCP.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark`
+`die-MOD sense-PTCP.PAST.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='-zvʌχ uʒ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn'>🔈</button> <span class='ipa'>-zvʌχ uʒ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='-zvʌχ uʒxuβzi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn'>🔈</button> <span class='ipa'>-zvʌχ uʒxuβzi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn</span> </span>
 
 ---
 
@@ -125,8 +125,8 @@ _Song of my soul, my voice is dead;_
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-**fhtogngi dotut vto5<span style="color:red">NoWordFo'und:"PTCP.PAS'S"</span>zi tkrotzriy - gir lugoko'ib ilz<span style="color:red">NoWordFo'und:"PTCP.PAS'S"</span>zi korkoso5itk tsol'lzof**
+**fhtogngi dotut vto5kubzi tkrotzriy - gir lugoko'ib ilzkubzi korkoso5itk tsol'lzof**
 
-`sleep-IMP 2SG-VOC sing-PTCP.PASS-NEG dessicate-SUB.cotemporal die also blood-eye-PL shed-PTCP.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient`
+`sleep-IMP 2SG-VOC sing-PTCP.PAST.PASS-NEG dessicate-SUB.cotemporal die also blood-eye-PL shed-PTCP.PAST.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌθuθ vθʌʃ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi θxɻʌθzɻij - ɣiɻ ɮuɣʌxʌʔiβ iɮz<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌθuθ vθʌʃ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi θxɻʌθzɻij - ɣiɻ ɮuɣʌxʌʔiβ iɮz<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij - ɣiɻ ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij - ɣiɻ ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf</span> </span>
