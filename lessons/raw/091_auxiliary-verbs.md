@@ -33,7 +33,7 @@ _I can do this._
 
 ---
 
-**- 3gur u3onuv no**
+**fhtogn 3gur u3onuv no**
 
 `die begin final-ADV.DER 1SG`
 
