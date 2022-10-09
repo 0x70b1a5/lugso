@@ -43,50 +43,72 @@ Lost Carcosa.
 
 # TODO: line breaks only on sentence endings for grammar sake
 
-_Along the shore the cloud waves break._<br>
-${g: dissipate shore-LOC wave-PL gas-blood-sky}$<br>
+_Along the shore the cloud waves break._
 
-_The twin suns sink beneath the lake._<br>
-${g: descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two}$<br>
+${g: dissipate shore-LOC wave-PL gas-blood-sky}$
 
-_The shadows lengthen_<br>
-${g: extrude orifice-light-PL}$<br>
+${s: dissipate shore-LOC wave-PL gas-blood-sky}$
 
-_In Carcosa._<br>
-${g: Carcosa-LOC}$<br>
+---
 
-_Strange is the night where black stars rise,_<br>
-${g: night beautiful rise-SUB.location star-PL black}$<br>
+_The twin suns sink beneath the lake._
 
-_And strange moons circle through the skies_<br>
-${g: revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful}$<br>
+${g: descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two}$
 
-_But stranger still is_<br>
-${g: CONJ.but beautiful-AUG-EMPH}$<br>
+${s: descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two}$
 
-_Lost Carcosa._<br>
-${g: Carcosa lose-NMLZ.DER.patient}$<br>
+---
 
-_Must die unheard_<br>
-${g: die-MOD sense-NEG-ADJ.DER}$<br>
+_The shadows lengthen / In Carcosa._
 
-_where flap the tatters of the King_<br>
-${g: flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN}$<br>
+${g: extrude orifice-light-PL Carcosa-LOC}$
 
-_songs that the Hyades shall sing,_<br>
-${g: song-PL sing-FUT-REL Hyades}$<br>
+${s: extrude orifice-light-PL Carcosa-LOC}$
 
-_in dim Carcosa._<br>
-${g: Carcosa-LOC dark}$<br>
+---
 
-_Song of my soul, my voice is dead;_<br>
-${g: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$<br>
+_Strange is the night where black stars rise,_
 
-_Die thou, unsung,_<br>
-${g: sleep-IMP 2SG sing-ADJ.DER-NEG}$<br>
+${g: night beautiful rise-SUB.location star-PL black}$
 
-_as tears unshed shall dry and die_<br>
-${g: dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG}$<br>
+${s: night beautiful rise-SUB.location star-PL black}$
 
-_In lost Carcosa._<br>
-${g: Carcosa-LOC lose-NMLZ.DER.patient}$<br>
+---
+
+_And strange moons circle through the skies_
+
+${g: revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful}$
+
+${s: revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful}$
+
+---
+
+_But stranger still is / Lost Carcosa._
+
+${g: CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient}$
+
+${s: CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient}$
+
+---
+
+_Songs that the Hyades shall sing / where flap the tatters of the King / Must die unheard / in dim Carcosa._
+
+${g: die-MOD sense-PTCP.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$
+
+${s: die-MOD sense-PTCP.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$
+
+---
+
+_Song of my soul, my voice is dead;_
+
+${g: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$
+
+${s: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$
+
+---
+
+_Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
+
+${g: sleep-IMP 2SG-VOC sing-PTCP.PASS-NEG dessicate-SUB.cotemporal die also blood-eye-PL shed-PTCP.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient}$
+
+${s: sleep-IMP 2SG-VOC sing-PTCP.PASS-NEG dessicate-SUB.cotemporal die also blood-eye-PL shed-PTCP.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient}$

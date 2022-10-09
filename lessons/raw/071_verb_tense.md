@@ -43,7 +43,7 @@ Unmarked.
 
 #### FUT simple future
 
-**huftku vuir ktkulhu**
+**huftku vu'ir ktkulhu**
 
 `consume-FUT 1PL.INC-ACC Cthulhu`
 

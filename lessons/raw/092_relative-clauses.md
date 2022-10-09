@@ -37,7 +37,7 @@ _the house **that** had ten mice in each room_: "had ten mice..." modifies _hous
 
 In Lugso, the relative-clause-introducer is another verb suffix. It follows any other suffixes on the verb, for example, future tense:
 
-**hpi5 yogso vuntkuor no**
+**hpi5 yogso vuntku'or no**
 
 `space knowledge-GEN penetrate-FUT-REL 1SG`
 
@@ -57,7 +57,7 @@ _Behold the truth that no eye can perceive!_
 
 Lugso uses commas in the same way as English. Note that A, B, C, D, and E are _complete sentences_.
 
-**3o3 oldri5 lniu 5tkiibpzuv3 yols-yols-lihib oldri5**
+**3o3 oldri5 lni'u 5tki'ibpzuv3 yols-yols-lihib oldri5**
 
 `night beautiful revolve-CONJ.and sky-PL-PROL child--child--star-PL beautiful`
 
@@ -65,7 +65,7 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **i5**:
 
-**huf-yu zodtk lusot gu5liibso i5 hi lodi toht noso**
+**huf-yu zodtk lusot gu5li'ibso i5 hi lodi toht noso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
 

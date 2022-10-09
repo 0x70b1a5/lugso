@@ -18,8 +18,8 @@ milk|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θʒu
 name|N|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-ɸus'>🔈</button> <span class='ipa'>zujn-ɸus</span> </span>|zuyn-pus|symbol-soul
 ocean|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='χɸiʃ-ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>χɸiʃ-ɮuɣ-ʃθxi</span> </span>|hpi5-lug-5tki|space blood sky
 organ|N|<span class='spoken'> <button class='speak' type='button' data-ipa='viɣ'>🔈</button> <span class='ipa'>viɣ</span> </span>|vig|
-pact|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɣuʃɮi'>🔈</button> <span class='ipa'>βuɮ-ɣuʃɮi</span> </span>|bul-gu5li|contract-deity
-promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸʌββ'>🔈</button> <span class='ipa'>βuɮ-ɸʌββ</span> </span>|bul-pobb|contract mortal
+pact|N compound||-|contract-deity
+promise|N compound||-|contract mortal
 speech|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮɣuʒɣ-sʌθ'>🔈</button> <span class='ipa'>ɮɣuʒɣ-sʌθ</span> </span>|lgu3g-sot|(noise thought)
 star|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ'>🔈</button> <span class='ipa'>ɮiχ</span> </span>|lih|
 water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃθxi</span> </span>|lug-5tki|(blood sky)

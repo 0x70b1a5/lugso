@@ -5,11 +5,11 @@ permalink: /background/
 order: 2
 ---
 
-**fhtognizi ivol rkior vgov supuv fhtognl5iu vgov itgibzki oldri5 fhtog yiy**
+**fhtognizi ivol rki'or vgov supuv fhtognl5i'u vgov itgibzki oldri5 fhtog yiy**
 
 `dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH`
 
-/<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnizi ivʌɮ ɻxiʌɻ vɣʌv suɸuv fχθʌɣnɮʃiu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij'>🔈</button> <span class='ipa'>fχθʌɣnizi ivʌɮ ɻxiʌɻ vɣʌv suɸuv fχθʌɣnɮʃiu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij</span> </span>/
+/<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnizi ivʌɮ ɻxiʔʌɻ vɣʌv suɸuv fχθʌɣnɮʃiʔu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij'>🔈</button> <span class='ipa'>fχθʌɣnizi ivʌɮ ɻxiʔʌɻ vɣʌv suɸuv fχθʌɣnɮʃiʔu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij</span> </span>/
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 

@@ -112,7 +112,7 @@ _Where do the uncertain voices tremble?_
 
 #### "how": Instrumental + Q
 
-**tkrotz iffo5u isvib kutt do**
+**tkrotz if'fo5u isvib kut't do**
 
 `dessicate INS-Q heretic-PL hidden 2SG`
 
@@ -136,7 +136,7 @@ _Why is the child mercurial?_
 
 #### "when": Temporal + Q
 
-**fihttgi zki5u yols**
+**fiht'tgi zki5u yols**
 
 `change TEMP-Q child`
 
@@ -144,7 +144,7 @@ _When does the child change?_
 
 #### "who": Reflexive + 5u (literally "whatself")
 
-**pi5n tu5oir fif5u**
+**pi5n tu5o'ir fif5u**
 
 `crush priest-ACC REFL-Q`
 

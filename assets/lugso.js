@@ -17,7 +17,8 @@ const ipamap = {
     'g':'ɣ',
     'h':'χ',
     'y':'j',
-    'r':'ɻ'
+    'r':'ɻ',
+    "'":'ʔ',
 };
 
 const speak = s => `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span> </span>`
@@ -107,11 +108,18 @@ const rowsToMap = rows => {
     return glossMap
 }
 
+const phonotact = word => 
+    word.replace(/(\w)(\1)/g, "$1'$2")
+    .replace(/([iuo])([iuo])/g, "$1'$2")
+
+
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
         .map(w => getWord(w, map))
         .join('')
-    ).join(' ');
+    )
+    .map(word => phonotact(word))
+    .join(' ');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
 // death 2SG-POSS distant-NEG

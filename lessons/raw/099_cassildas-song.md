@@ -43,82 +43,90 @@ Lost Carcosa.
 
 # TODO: line breaks only on sentence endings for grammar sake
 
-_Along the shore the cloud waves break._<br>
+_Along the shore the cloud waves break._
+
 **zkiy5 yuk5itk rotkib og5lug5tki**
 
-`dissipate shore-LOC wave-PL gas-blood-sky`<br>
+`dissipate shore-LOC wave-PL gas-blood-sky`
 
-_The twin suns sink beneath the lake._<br>
+<span class='spoken'> <button class='speak' type='button' data-ipa='zxijʃ juxʃiθx ɻʌθxiβ ʌɣʃɮuɣʃθxi'>🔈</button> <span class='ipa'>zxijʃ juxʃiθx ɻʌθxiβ ʌɣʃɮuɣʃθxi</span> </span>
+
+---
+
+_The twin suns sink beneath the lake._
+
 **zyuzh tkgihplug5tki5itk nhokb lihugonoglib tkurlzoful**
 
-`descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`<br>
+`descend bowl-blood-sky-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`
 
-_The shadows lengthen_<br>
-**hsuy fvolsfirib**
+<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ θxɣiχɸɮuɣʃθxiʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ θxɣiχɸɮuɣʃθxiʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ</span> </span>
 
-`extrude orifice-light-PL`<br>
+---
 
-_In Carcosa._<br>
-**korkoso5itk**
+_The shadows lengthen / In Carcosa._
 
-`Carcosa-LOC`<br>
+**hsuy fvolsfirib korkoso5itk**
 
-_Strange is the night where black stars rise,_<br>
-**3o3 oldri5 ffihhgsu5t lihib 3kig**
+`extrude orifice-light-PL Carcosa-LOC`
 
-`night beautiful rise-SUB.location star-PL black`<br>
+<span class='spoken'> <button class='speak' type='button' data-ipa='χsuj fvʌɮsfiɻiβ xʌɻxʌsʌʃiθx'>🔈</button> <span class='ipa'>χsuj fvʌɮsfiɻiβ xʌɻxʌsʌʃiθx</span> </span>
 
-_And strange moons circle through the skies_<br>
-**lniu 5tkiibpzuv3 yolsyolslihib oldri5**
+---
 
-`revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`<br>
+_Strange is the night where black stars rise,_
 
-_But stranger still is_<br>
-**i5 oldri5tkutkyiy**
+**3o3 oldri5 f'fih'hgsu5t lihib 3kig**
 
-`CONJ.but beautiful-AUG-EMPH`<br>
+`night beautiful rise-SUB.location star-PL black`
 
-_Lost Carcosa._<br>
-**korkoso tsollzof**
+<span class='spoken'> <button class='speak' type='button' data-ipa='ʒʌʒ ʌɮðɻiʃ fʔfiχʔχɣsuʃθ ɮiχiβ ʒxiɣ'>🔈</button> <span class='ipa'>ʒʌʒ ʌɮðɻiʃ fʔfiχʔχɣsuʃθ ɮiχiβ ʒxiɣ</span> </span>
 
-`Carcosa lose-NMLZ.DER.patient`<br>
+---
 
-_Must die unheard_<br>
-**-zvoh u3zii**
+_And strange moons circle through the skies_
 
-`die-MOD sense-NEG-ADJ.DER`<br>
+**lni'u 5tki'ibpzuv3 yolsyolslihib oldri5**
 
-_where flap the tatters of the King_<br>
-**pingsu5t ilzlzofib bgoklzobso**
+`revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`
 
-`flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN`<br>
+<span class='spoken'> <button class='speak' type='button' data-ipa='ɮniʔu ʃθxiʔiβɸzuvʒ jʌɮsjʌɮsɮiχiβ ʌɮðɻiʃ'>🔈</button> <span class='ipa'>ɮniʔu ʃθxiʔiβɸzuvʒ jʌɮsjʌɮsɮiχiβ ʌɮðɻiʃ</span> </span>
 
-_songs that the Hyades shall sing,_<br>
-**vtu3ib vto5tkuor hoyodiz**
+---
 
-`song-PL sing-FUT-REL Hyades`<br>
+_But stranger still is / Lost Carcosa._
 
-_in dim Carcosa._<br>
-**korkoso5itk 3kign**
+**i5 oldri5tkutkyiy korkoso tsol'lzof**
 
-`Carcosa-LOC dark`<br>
+`CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient`
 
-_Song of my soul, my voice is dead;_<br>
-**vtu3tut pusso noso toy fhtogni yud noso**
+<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮʔɮzʌf</span> </span>
 
-`song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`<br>
+---
 
-_Die thou, unsung,_<br>
-**fhtogngi do vto5izi**
+_Songs that the Hyades shall sing / where flap the tatters of the King / Must die unheard / in dim Carcosa._
 
-`sleep-IMP 2SG sing-ADJ.DER-NEG`<br>
+**-zvoh u3<span style="color:red">NoWordFo'und:"PTCP.PAS'S"</span>zi pingsu5t ilzlzofib bgoklzobso vtu3ib vto5tku'or hoyodiz korkoso5itk 3kign**
 
-_as tears unshed shall dry and die_<br>
-**tkrotzriy - gir lugokoib ilzizi**
+`die-MOD sense-PTCP.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark`
 
-`dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
+<span class='spoken'> <button class='speak' type='button' data-ipa='-zvʌχ uʒ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn'>🔈</button> <span class='ipa'>-zvʌχ uʒ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn</span> </span>
 
-_In lost Carcosa._<br>
-**korkoso5itk tsollzof**
+---
 
-`Carcosa-LOC lose-NMLZ.DER.patient`<br>
+_Song of my soul, my voice is dead;_
+
+**vtu3tut pus'so noso toy fhtogni yud noso**
+
+`song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
+
+<span class='spoken'> <button class='speak' type='button' data-ipa='vθuʒθuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ'>🔈</button> <span class='ipa'>vθuʒθuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ</span> </span>
+
+---
+
+_Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
+
+**fhtogngi dotut vto5<span style="color:red">NoWordFo'und:"PTCP.PAS'S"</span>zi tkrotzriy - gir lugoko'ib ilz<span style="color:red">NoWordFo'und:"PTCP.PAS'S"</span>zi korkoso5itk tsol'lzof**
+
+`sleep-IMP 2SG-VOC sing-PTCP.PASS-NEG dessicate-SUB.cotemporal die also blood-eye-PL shed-PTCP.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient`
+
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌθuθ vθʌʃ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi θxɻʌθzɻij - ɣiɻ ɮuɣʌxʌʔiβ iɮz<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌθuθ vθʌʃ<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi θxɻʌθzɻij - ɣiɻ ɮuɣʌxʌʔiβ iɮz<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"PTCP.PASʔS"</sɸʌn>zi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf</span> </span>

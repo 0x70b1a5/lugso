@@ -69,7 +69,7 @@ j|y|2L
 
 The syllables have been hyphenated to assist you in seeing the breakdown.
 
-**lugso gu5liibso sotso**
+**lugso gu5li'ibso sotso**
 
 `blood-GEN deity_intelligent-PL-GEN thought-GEN`
 
@@ -139,8 +139,8 @@ If your long word with many o's also has u's or i's, make sure they are vertical
 
 [ IMAGE PENDING REDRAW ]
 
-**gololollzonpzuv3**
+**gololol'lzonpzuv3**
 
 `infinite-NMLZ.DER-PROL`
 
-Note the lack of a loop on the last syllable of **gololollzonpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.
+Note the lack of a loop on the last syllable of **gololol'lzonpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.

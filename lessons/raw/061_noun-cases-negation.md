@@ -68,7 +68,7 @@ _Don't move, maggot!_
 
 ### LOC locative
 
-**vsiki ovs5itk 5oggoT∅**
+**vsiki ovs5itk 5og'goT∅**
 
 `emerge pit-LOC shoggoth-NOM`
 
@@ -76,7 +76,7 @@ _The shoggoth emerges in the pit._
 
 ### BEN benefactive
 
-**hu5 noluli noir un∅**
+**hu5 noluli no'ir un∅**
 
 `love 1SG-BEN 1SG-ACC 3SG-NOM`
 
@@ -92,7 +92,7 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug gu5liibso sotibso**
+**lug gu5li'ibso sotibso**
 
 `blood deity_intelligent-PL-GEN thought-PL-GEN`
 
@@ -100,7 +100,7 @@ _the blood of the thoughts of the gods..._
 
 ### INS instrumental
 
-**pi5n gustkiffo ipir snullso yug hupznu∅**
+**pi5n gustkif'fo ipir snul'lso yug hupznu∅**
 
 `crush heel-INS head-ACC snake-GEN great human-F-NOM`
 
@@ -110,7 +110,7 @@ _The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
-**yurg gvifnluli gu5zi bgoklzoblzoniffo yoyyso**
+**yurg gvifnluli gu5zi bgoklzoblzonif'fo bu'iso**
 
 `give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN`
 
@@ -134,7 +134,7 @@ _The human exchanges souls with the maggot._
 
 ### PROL prolative
 
-**lni 5tkiibpzuv3 yols-yols-lihib∅ oldri5**
+**lni 5tki'ibpzuv3 yols-yols-lihib∅ oldri5**
 
 `revolve sky-PL-PROL child--child--star-PL-NOM strange`
 

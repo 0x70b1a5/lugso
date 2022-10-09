@@ -56,7 +56,7 @@ NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' da
 NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮzʌβ'>🔈</button> <span class='ipa'>ɮzʌβ</span> </span>|lzob|the one who verbs
 NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮzʌf'>🔈</button> <span class='ipa'>ɮzʌf</span> </span>|lzof|the one who is verbed
 
-**pobblzon**
+**pob'blzon**
 
 `mortal-NMLZ.DER.act`
 
@@ -80,7 +80,7 @@ _Opener of the Way..._
 
 ---
 
-**ffihh lnilzon**
+**f'fih'h lnilzon**
 
 `rise revolve-NMLZ.DER.act`
 
@@ -104,11 +104,11 @@ _death-ly_* **fhtogi**
 
 _thought-ful_ **soti**
 
-_serpent-ine_ **snulli**
+_serpent-ine_ **snul'li**
 
 _servile (servant-ish)_ **fbu5i**
 
-_unpriestlike_ **tu5oizi**
+_unpriestlike_ **tu5o'izi**
 
 \* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
 
@@ -132,6 +132,6 @@ _prettier, weirder_ **oldri5tkutk**
 
 #### ik: "less ... than"
 
-_less dead_ **fhtogniik**
+_less dead_ **fhtogni'ik**
 
 _less far_ **botutik**

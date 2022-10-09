@@ -11,6 +11,7 @@ Consonants|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|ve
 |-|-|-|-|-|-|-|-
 fricative|ɸβ|fv|θð|ʃʒ|sz||xɣ|χ
 approximant||||j|ɻ|ɮ|
+nasal|||||n||
 
 Vowels|front|central|back
 |-|-|-
@@ -24,8 +25,7 @@ As a general rule, the English sound, if it is a fricative, remains a fricative.
 English sound (ipa) | Lugso sound (ipa) | Lugso letter (latin)
 |-|-
 m|β|b
-n|ð|n
-d|z|z
+d|ð|d
 t|θ|t*
 θ ("th")|θx|tk
 tʃ ("ch")|θʃ|t5
@@ -36,22 +36,22 @@ k|x|k
 g|ɣ|g
 h|χ|h
 
-\* "t" is a dental stop, so its conversion should be _s_, but _s_ already exists in Lugso.
+\* "t" is a dental stop, so its conversion should be _s_, but _s_ already exists in Lugso, so t becomes θ. Same with d and z - instead, d becomes ð.
 
 Only "tk" exists natively in Lugso as a consonant cluster.
 
 ## Phonotactics
 
-No phonotactic changes. Pronounce exactly as written, even if impossible.
+In general: pronounce exactly as written, even if impossible.
 
-Duplicated phonemes (e.g. the second "b" in pobb /ɸʌββ/ "mortal") are stressed, for comprehension. /'ɸʌβ'β/
+Separate duplicate letters with glottal stops. (e.g. ${mortal}$ /${s: mortal}$/ "mortal")
+
+Separate vowels with glottal stops. (e.g. ${organization_human}$ /${s: organization_human}$/ "human organization")
 
 Brief pauses between words are encouraged.
 
 ## Morphology
 
-`(c)(c)v(c)(c)`: Each syllable has a vowel, up to 2 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 4 consonants, and may possess any number of syllables. Good luck!
+`(c)(c)(c)v(c)(c)`: Each syllable has a vowel, up to 3 onset consonants, and up to 2 coda consonants. Words will occasionally possess strings of 5 consonants, and may possess any number of syllables. Good luck!
 
-Fortunately, most words are only one or two syllables.
-
-Duplicate consonants are stressed as semi-syllables.
+Stress is always placed on the first syllable of each word. Duplicate phonemes are stressed as semi-syllables. Fortunately, most core words are only one or two syllables, although suffixes often increase that count.

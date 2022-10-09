@@ -12,7 +12,7 @@ false|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ð
 follower|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ'>🔈</button> <span class='ipa'>ɸʌɮ</span> </span>|pol|
 grant|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='fun'>🔈</button> <span class='ipa'>fun</span> </span>|fun|allow, permit, accept
 hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθθ'>🔈</button> <span class='ipa'>xuθθ</span> </span>|kutt|
-organization_human|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌjj'>🔈</button> <span class='ipa'>jʌjj</span> </span>|yoyy|e.g. government, family(!)
+organization_human|N|<span class='spoken'> <button class='speak' type='button' data-ipa='βui'>🔈</button> <span class='ipa'>βui</span> </span>|bui|e.g. government, family(!)
 organization_natural|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣʌɻn'>🔈</button> <span class='ipa'>ɣʌɻn</span> </span>|gorn|
 organize|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌθuθ'>🔈</button> <span class='ipa'>jʌθuθ</span> </span>|yotut|
 lead|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='βɣʌx'>🔈</button> <span class='ipa'>βɣʌx</span> </span>|bgok|
@@ -46,7 +46,7 @@ _I strike because he surrenders._
 
 The sub-clause marker appears bare, as with verb moods.
 
-**yurguln gvifnluli gu5zi bgoklzoblzoniffo yoyyfuso ulnglin do5l kuttzi polib ungu**
+**yurguln gvifnluli gu5zi bgoklzoblzonif'fo bu'ifuso ulnglin do5l kut'tzi polib ungu**
 
 `give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS`
 
