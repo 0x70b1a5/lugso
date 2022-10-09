@@ -41,8 +41,6 @@ Lost Carcosa.
 
 ## Translation
 
-# TODO: line breaks only on sentence endings for grammar sake
-
 _Along the shore the cloud waves break._
 
 **zkiy5 yuk5itk rotkib og5lug5tki**
