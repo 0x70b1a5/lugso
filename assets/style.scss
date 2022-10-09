@@ -13,6 +13,23 @@ html {
     color: $blak;
     max-width: 100%;
 
+
+    .spoken {
+        white-space: nowrap;
+
+        .speak {
+            padding: 0;
+            background: none;
+            border: none;
+            margin: 0 8px 0 0;
+            cursor: pointer;
+
+            &:disabled {
+                opacity: 0.5;
+            }
+        }
+    }
+
     nav {
         display: flex;
         flex-flow: row wrap;
@@ -155,21 +172,5 @@ html {
     html {
         width: 900px;
         margin: auto;
-    }
-}
-
-.spoken {
-    white-space: nowrap;
-
-    .speak {
-        padding: 0;
-        background: none;
-        border: none;
-        margin: 0 8px 0 0;
-        cursor: pointer;
-
-        &:disabled {
-            opacity: 0.5;
-        }
     }
 }
