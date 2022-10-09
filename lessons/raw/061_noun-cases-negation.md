@@ -92,7 +92,7 @@ _The blood falls from the fire._
 
 ### GEN genitive
 
-**lug gu5li'ibso sotibso**
+**lug gu5-li'ibso sotibso**
 
 `blood deity_intelligent-PL-GEN thought-PL-GEN`
 

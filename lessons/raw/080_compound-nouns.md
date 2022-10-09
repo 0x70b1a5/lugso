@@ -11,19 +11,19 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 PRV|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='inʃ'>🔈</button> <span class='ipa'>inʃ</span> </span>|in5|privative case ("N-less", without N)
 corpse|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣvifn-fχθʌɣni'>🔈</button> <span class='ipa'>ɣvifn-fχθʌɣni</span> </span>|gvifn-fhtogni|body sleeping
-deity_intelligent|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃɮi'>🔈</button> <span class='ipa'>ɣuʃɮi</span> </span>|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
+deity_intelligent|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ-ɮi'>🔈</button> <span class='ipa'>ɣuʃ-ɮi</span> </span>|gu5-li|sentient-SUPER
 house|N|<span class='spoken'> <button class='speak' type='button' data-ipa='uɣʌnʌɣɮ'>🔈</button> <span class='ipa'>uɣʌnʌɣɮ</span> </span>|ugonogl|wgah'nagl
 learn|VB-N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='χuf-ju'>🔈</button> <span class='ipa'>χuf-ju</span> </span>|huf-yu|consume knowledge
 milk|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θʒuχ'>🔈</button> <span class='ipa'>θʒuχ</span> </span>|t3uh|
-name|N|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-ɸus'>🔈</button> <span class='ipa'>zujn-ɸus</span> </span>|zuyn-pus|symbol-soul
-ocean|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='χɸiʃ-ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>χɸiʃ-ɮuɣ-ʃθxi</span> </span>|hpi5-lug-5tki|space blood sky
+name|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-ɸus'>🔈</button> <span class='ipa'>zujn-ɸus</span> </span>|zuyn-pus|symbol-soul
+ocean|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣiɮɮið-χɸiʃ'>🔈</button> <span class='ipa'>ɣiɮɮið-χɸiʃ</span> </span>|gillid-hpi5|water_body-space
 organ|N|<span class='spoken'> <button class='speak' type='button' data-ipa='viɣ'>🔈</button> <span class='ipa'>viɣ</span> </span>|vig|
-pact|N compound||-|contract-deity
-promise|N compound||-|contract mortal
-speech|N compound||-|speak-NMLZ.DER.act
-star|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ'>🔈</button> <span class='ipa'>ɮiχ</span> </span>|lih|
-water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃθxi</span> </span>|lug-5tki|(blood sky)
-word|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-sʌθ'>🔈</button> <span class='ipa'>zujn-sʌθ</span> </span>|zuyn-sot|(symbol thought)
+pact|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ--'>🔈</button> <span class='ipa'>βuɮ--</span> </span>|bul--|contract-deity
+promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸʌββ'>🔈</button> <span class='ipa'>βuɮ-ɸʌββ</span> </span>|bul-pobb|contract-mortal
+speech|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʌ-zʌn'>🔈</button> <span class='ipa'>ɮʌ-zʌn</span> </span>|lo-zon|speak-NMLZ.DER.act
+sun|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ-uɣʌnʌɣɮ'>🔈</button> <span class='ipa'>ɮiχ-uɣʌnʌɣɮ</span> </span>|lih-ugonogl|star-home
+water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃθxi</span> </span>|lug-5tki|blood-sky
+word|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-sʌθ'>🔈</button> <span class='ipa'>zujn-sʌθ</span> </span>|zuyn-sot|symbol-thought
 
 A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "fire truck".
 

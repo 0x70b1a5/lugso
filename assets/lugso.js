@@ -56,18 +56,24 @@ const getWord = (word, map, wholeRow) => {
         // -> ['see xyz', 'xyz', index: 4, input: 'see xyz', groups: undefined]
         if (redirect && redirect[1]) {
             const eng = redirect[1]
-            const dest = map[eng]
-            if (dest) return wholeRow ? {
+            const lugso = map[eng]
+            if (lugso) return wholeRow ? {
+                lugso,
                 english: eng,
-                lugso: dest,
                 partOfSpeech: map[eng+'_pos'] || eng,
                 notes: map[eng+'_notes'] || ''
-            } : dest
+            } : lugso
         }
 
         const isCompound = map[word+'_pos'] && map[word+'_pos'].includes('compound')
-        if (!wholeRow && isCompound) {
-            return notes.split(/[- ]/).map(subWord => getWord(subWord, map)).join('-')
+        if (isCompound) {
+            const lugso = notes.split(/[- ]/).map(subWord => getWord(subWord, map)).join('-')
+            return wholeRow ? {
+                lugso,
+                notes,
+                english: word,
+                partOfSpeech: map[word+'_pos'],
+            } : lugso
         }
     }
 
@@ -114,8 +120,8 @@ const rowsToMap = rows => {
 }
 
 const phonotact = word => 
-    word.replace(/(\w)(\1)/g, "$1'$2")
-    .replace(/([iuo])([iuo])/g, "$1'$2")
+    word.replace(/(\w)([ -]?)(\1)/g, "$1$2'$3")
+    .replace(/([iuo])([ -]?)([iuo])/g, "$1$2'$3")
 
 
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)

@@ -9,12 +9,12 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-idiot|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃixɮzʌθ'>🔈</button> <span class='ipa'>ɣuʃixɮzʌθ</span> </span>|gu5iklzot|(sentient-DIM-NMLZDER)
+idiot|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ-ix-zʌn'>🔈</button> <span class='ipa'>ɣuʃ-ix-zʌn</span> </span>|gu5-ik-zon|sentient-DIM-NMLZ.DER
 AUG|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxuθx'>🔈</button> <span class='ipa'>θxuθx</span> </span>|tkutk|augmentative (more - than)
 DIM|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ix'>🔈</button> <span class='ipa'>ix</span> </span>|ik|diminutive (less - than)
 SUPER|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮi'>🔈</button> <span class='ipa'>ɮi</span> </span>|li|superlative suffix
-deity_bestial|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮuɮi'>🔈</button> <span class='ipa'>θɮuɮi</span> </span>|tluli|(beast-SUPER)
-deity_intelligent|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃɮi'>🔈</button> <span class='ipa'>ɣuʃɮi</span> </span>|gu5li|(sentient-SUPER) AUG and DIM - gods use DIM referring to humans, cultists when referring to noncultists
+deity_bestial|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮu-ɮi'>🔈</button> <span class='ipa'>θɮu-ɮi</span> </span>|tlu-li|beast-SUPER
+deity_intelligent|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ-ɮi'>🔈</button> <span class='ipa'>ɣuʃ-ɮi</span> </span>|gu5-li|sentient-SUPER
 NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌn'>🔈</button> <span class='ipa'>zʌn</span> </span>|zon|the act of verbing
 NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌβ'>🔈</button> <span class='ipa'>zʌβ</span> </span>|zob|the one who verbs
 NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌf'>🔈</button> <span class='ipa'>zʌf</span> </span>|zof|the one who is verbed
@@ -24,7 +24,7 @@ VB.DER|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa
 great|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='juɣ'>🔈</button> <span class='ipa'>juɣ</span> </span>|yug|
 distant|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='βʌθuθ'>🔈</button> <span class='ipa'>βʌθuθ</span> </span>|botut|
 gorge|VT|<span class='spoken'> <button class='speak' type='button' data-ipa='χʒunβ'>🔈</button> <span class='ipa'>χʒunβ</span> </span>|h3unb|
-parasite|N compound||-|follower-food
+parasite|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ-xux'>🔈</button> <span class='ipa'>ɸʌɮ-xux</span> </span>|pol-kuk|follower-food
 food|N|<span class='spoken'> <button class='speak' type='button' data-ipa='xux'>🔈</button> <span class='ipa'>xux</span> </span>|kuk|
 follower|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ'>🔈</button> <span class='ipa'>ɸʌɮ</span> </span>|pol|
 priest|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θuʃʌ'>🔈</button> <span class='ipa'>θuʃʌ</span> </span>|tu5o|
@@ -132,6 +132,6 @@ _prettier, weirder_ **oldri5tkutk**
 
 #### ik: "less ... than"
 
-_less dead_ **fhtogni'ik**
+_less dead_ **-ik**
 
 _less far_ **botutik**

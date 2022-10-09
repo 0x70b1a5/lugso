@@ -65,7 +65,7 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **i5**:
 
-**huf-yu zodtk lusot gu5li'ibso i5 hi lodi toht noso**
+**huf-yu zodtk lusot -ibso i5 hi lodi toht noso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
 

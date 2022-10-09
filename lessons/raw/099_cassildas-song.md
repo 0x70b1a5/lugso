@@ -113,11 +113,11 @@ _Songs that the Hyades shall sing / where flap the tatters of the King / Must di
 
 _Song of my soul, my voice is dead;_
 
-**vtu3ut pus'so noso toy fhtogni yud noso**
+**vtu3ut pus'so noso toy - yud noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='vθuʒuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ'>🔈</button> <span class='ipa'>vθuʒuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='vθuʒuθ ɸusʔsʌ nʌsʌ θʌj - juð nʌsʌ'>🔈</button> <span class='ipa'>vθuʒuθ ɸusʔsʌ nʌsʌ θʌj - juð nʌsʌ</span> </span>
 
 ---
 
