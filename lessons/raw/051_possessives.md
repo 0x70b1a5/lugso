@@ -9,29 +9,17 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-eye|N|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='ʌxʌ'>🔈</button>
-    <span class='ipa'>ʌxʌ</span>
+eye|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌxʌ'>🔈</button> <span class='ipa'>ʌxʌ</span>
 </span>|oko|
-human|N|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='χuɸz'>🔈</button>
-    <span class='ipa'>χuɸz</span>
+human|N|<span class='spoken'> <button class='speak' type='button' data-ipa='χuɸz'>🔈</button> <span class='ipa'>χuɸz</span>
 </span>|hupz|
-future|N|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='θxuj'>🔈</button>
-    <span class='ipa'>θxuj</span>
+future|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θxuj'>🔈</button> <span class='ipa'>θxuj</span>
 </span>|tkuy|
-heretic|N|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='isv'>🔈</button>
-    <span class='ipa'>isv</span>
+heretic|N|<span class='spoken'> <button class='speak' type='button' data-ipa='isv'>🔈</button> <span class='ipa'>isv</span>
 </span>|isv|
-POSS|N suffix|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='ɣu'>🔈</button>
-    <span class='ipa'>ɣu</span>
+POSS|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣu'>🔈</button> <span class='ipa'>ɣu</span>
 </span>|gu|possessive suffix - N's (ownership)
-priest|N|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='θuʃʌ'>🔈</button>
-    <span class='ipa'>θuʃʌ</span>
+priest|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θuʃʌ'>🔈</button> <span class='ipa'>θuʃʌ</span>
 </span>|tu5o|
 
 ## Possessive suffix

@@ -8,33 +8,19 @@ order: 3
 
 English|Part of Speech|IPA|Lugso|Comments
 |-|-|-|-
-ACC|N suffix|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='iɻ'>🔈</button>
-    <span class='ipa'>iɻ</span>
+ACC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iɻ'>🔈</button> <span class='ipa'>iɻ</span>
 </span>|ir|accusative case - to N, towards location
-consume|VB|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='χuf'>🔈</button>
-    <span class='ipa'>χuf</span>
+consume|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='χuf'>🔈</button> <span class='ipa'>χuf</span>
 </span>|huf|
-i|1SG|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='nʌ'>🔈</button>
-    <span class='ipa'>nʌ</span>
+i|1SG|<span class='spoken'> <button class='speak' type='button' data-ipa='nʌ'>🔈</button> <span class='ipa'>nʌ</span>
 </span>|no|
-you|2SG|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='ðʌ'>🔈</button>
-    <span class='ipa'>ðʌ</span>
+you|2SG|<span class='spoken'> <button class='speak' type='button' data-ipa='ðʌ'>🔈</button> <span class='ipa'>ðʌ</span>
 </span>|do|
-beast|N|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='θɮu'>🔈</button>
-    <span class='ipa'>θɮu</span>
+beast|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮu'>🔈</button> <span class='ipa'>θɮu</span>
 </span>|tlu|
-fly|VB|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='sʌʒʃ'>🔈</button>
-    <span class='ipa'>sʌʒʃ</span>
+fly|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌʒʃ'>🔈</button> <span class='ipa'>sʌʒʃ</span>
 </span>|so35|travel through gas
-swim|VB|<span class='spoken'> 
-    <button class='speak' type='button' data-ipa='vux'>🔈</button>
-    <span class='ipa'>vux</span>
+swim|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='vux'>🔈</button> <span class='ipa'>vux</span>
 </span>|vuk|travel through liqud
 
 ## Word Order (Part I)
