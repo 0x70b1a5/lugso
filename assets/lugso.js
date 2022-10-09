@@ -121,4 +121,4 @@ const glossToLugso = (gloss, map) => gloss.split(/\s+/)
 //     const out = (await Promise.all(g.split('\n').map(async h => await glossify(h)))).join('\n')
 //     console.log(out) 
 // })()
-module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap, getWord }
+module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap, getWord, speak }

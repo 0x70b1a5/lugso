@@ -9,6 +9,8 @@ order: 2
 
 `dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH`
 
+/<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnizi ivʌɮ ɻxiʌɻ vɣʌv suɸuv fχθʌɣnɮʃiu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij'>🔈</button> <span class='ipa'>fχθʌɣnizi ivʌɮ ɻxiʌɻ vɣʌv suɸuv fχθʌɣnɮʃiu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij</span> </span>/
+
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 
 A [pidgin](https://en.wikipedia.org/wiki/Pidgin) is a language that evolves among two populations of people that cannot otherwise communicate with each other. **Lugso is a pidgin that emerged among cultists who regularly communicate with the Elder Gods.**

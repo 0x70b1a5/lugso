@@ -1,6 +1,6 @@
 const { series, src, dest } = require('gulp')
 const through2 = require('through2')
-const { glossToLugso, getSheet, rowsToMap, ipaify, getWord } = require('./assets/lugso')
+const { glossToLugso, getSheet, rowsToMap, ipaify, getWord, speak } = require('./assets/lugso')
 const Vinyl = require('vinyl')
 
 console.log(process.cwd())
@@ -34,18 +34,26 @@ async function lugsoifyAll(cb) {
         const slice1 = sliced[1] 
         let out = ''
         if (slice0 == 'g:') { 
-          meat = meat.slice(3)
-          out = `**${glossToLugso(meat, map)}**
+          const rest = meat.slice(3)
+          out = `**${glossToLugso(rest, map)}**
 
-\`${meat}\``
+\`${rest}\``
         } else if (slice0 == 'r:') {
           const row = getWord(slice1, map, true)
           if (!row) throw `could not find row for meat: ${meat}`
           out = `${row.english}|${row.partOfSpeech}|${ ipaify(row.lugso, true) }|${row.lugso}|${row.notes || ''}`
+        } else if (slice0 == 'i:') {
+          const lugso = glossToLugso(meat.slice(3), map)
+          out = ipaify(lugso)
+        } else if (slice0 == 's:') {
+          const lugso = glossToLugso(meat.slice(3), map)
+          out = speak(ipaify(lugso))
         } else {
           out = glossToLugso(meat, map)
         }
 
+        // since we only ever replace the first occurrence,
+        //   this should work through the entire file in an iterared fashion.
         fileContents = fileContents.replace(/\${(.*?)}\$/, out)
       }
     }

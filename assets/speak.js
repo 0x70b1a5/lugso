@@ -46,7 +46,7 @@ var VOICES = {
     Filiz: "Filiz [Turkish]",
     Gwyneth: "Gwyneth [Welsh]",
 };
-var DEFAULT_VOICE = 'Brian';
+var DEFAULT_VOICE = 'Joey';
 
 $(document).ready(function() {
     $('.speak').on('click', function(e) {
