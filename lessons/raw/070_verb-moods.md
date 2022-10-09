@@ -56,7 +56,7 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtu3tut pus'so noso toy fhtogni yud noso**
+**vtu3ut pus'so noso toy fhtogni yud noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
 
@@ -64,13 +64,13 @@ _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**vtu3tut pus'so noso fhtogni yud noso**
+**vtu3ut pus'so noso fhtogni yud noso**
 
 `song-VOC soul-GEN 1SG-GEN dead voice 1SG-GEN`
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3tut pus'so noso fhtogni) (yud noso), since the adjective **fhtogni** follows the noun **pus'so noso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3tut pus'so noso) **toy** (fhtogni (yud noso)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3ut pus'so noso fhtogni) (yud noso), since the adjective **fhtogni** follows the noun **pus'so noso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3ut pus'so noso) **toy** (fhtogni (yud noso)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -78,7 +78,7 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogni yud noso vtu3tut pus'so noso**
+**fhtogni yud noso vtu3ut pus'so noso**
 
 `dead voice 1SG-GEN song-VOC soul-GEN 1SG-GEN`
 
@@ -86,7 +86,7 @@ _My voice is dead, O song of my soul._
 
 ### FORM formal: -rgiz
 
-**ktkulhutut pinrgiz sup5itk blolgib doso**
+**ktkulhu'ut pinrgiz sup5itk blolgib doso**
 
 `Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-GEN`
 
@@ -110,7 +110,7 @@ _We must satisfy Cthulhu!_
 
 ### PREC precative: -tknuz
 
-**ktkulhutut huftknuz tgus-tlu ivih**
+**ktkulhu'ut huftknuz tgus-tlu ivih**
 
 `Cthulhu-VOC consume-PREC victim DET.PROX`
 

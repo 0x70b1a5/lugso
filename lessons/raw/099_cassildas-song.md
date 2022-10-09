@@ -53,11 +53,11 @@ _Along the shore the cloud waves break._
 
 _The twin suns sink beneath the lake._
 
-**zyuzh gil'lid5itk nhokb lihugonoglib tkurlzoful**
+**zyuzh gil'lid5itk nhokb lihugonoglib tkurzoful**
 
 `descend lake-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻɮzʌfuɮ</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻzʌfuɮ</span> </span>
 
 ---
 
@@ -93,38 +93,38 @@ _And strange moons circle through the skies_
 
 _But stranger still is / Lost Carcosa._
 
-**i5 oldri5tkutkyiy korkoso tsol'lzof**
+**i5 oldri5tkutkyiy korkoso tsolzof**
 
 `CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮʔɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮzʌf'>🔈</button> <span class='ipa'>iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮzʌf</span> </span>
 
 ---
 
 _Songs that the Hyades shall sing / where flap the tatters of the King / Must die unheard / in dim Carcosa._
 
-**fhtognzvoh u3kubzi pingsu5t ilzlzofib bgoklzobso vtu3ib vto5tku'or hoyodiz korkoso5itk 3kign**
+**fhtognzvoh u3zi5 pingsu5t ilz'zofib bgokzobso vtu3ib vto5tku'or hoyodiz korkoso5itk 3kign**
 
-`die-MOD sense-PTCP.PAST.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark`
+`die-MOD sense-PTCP.NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnzvʌχ uʒxuβzi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn'>🔈</button> <span class='ipa'>fχθʌɣnzvʌχ uʒxuβzi ɸinɣsuʃθ iɮzɮzʌfiβ βɣʌxɮzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnzvʌχ uʒziʃ ɸinɣsuʃθ iɮzʔzʌfiβ βɣʌxzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn'>🔈</button> <span class='ipa'>fχθʌɣnzvʌχ uʒziʃ ɸinɣsuʃθ iɮzʔzʌfiβ βɣʌxzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn</span> </span>
 
 ---
 
 _Song of my soul, my voice is dead;_
 
-**vtu3tut pus'so noso toy fhtogni yud noso**
+**vtu3ut pus'so noso toy fhtogni yud noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='vθuʒθuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ'>🔈</button> <span class='ipa'>vθuʒθuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='vθuʒuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ'>🔈</button> <span class='ipa'>vθuʒuθ ɸusʔsʌ nʌsʌ θʌj fχθʌɣni juð nʌsʌ</span> </span>
 
 ---
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-**fhtogngi dotut vto5kubzi tkrotzriy fhtogn lugoko'ib ilzkubzi korkoso5itk tsol'lzof**
+**fhtogngi do'ut vto5zi5 tkrotzriy fhtogn lugoko'ib ilz'zi5 korkoso5itk tsolzof**
 
-`sleep-IMP 2SG-VOC sing-PTCP.PAST.PASS-NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.PAST.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient`
+`sleep-IMP 2SG-VOC sing-PTCP.NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌθuθ vθʌʃxuβzi θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzxuβzi xʌɻxʌsʌʃiθx θsʌɮʔɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃiθx θsʌɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃiθx θsʌɮzʌf</span> </span>

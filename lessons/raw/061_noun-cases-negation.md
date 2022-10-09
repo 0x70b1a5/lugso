@@ -42,7 +42,7 @@ LOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa=
 NOM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='∅'>🔈</button> <span class='ipa'>∅</span> </span>|∅|nominative case - the subject/actor in a sentence
 PROL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸzuvʒ'>🔈</button> <span class='ipa'>ɸzuvʒ</span> </span>|pzuv3|prolative case (by way of N, via N, through N)
 TEMP|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zxi'>🔈</button> <span class='ipa'>zxi</span> </span>|zki|temporal case - during N
-VOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θuθ'>🔈</button> <span class='ipa'>θuθ</span> </span>|tut|vocative case - Hey N! O, N!
+VOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uθ'>🔈</button> <span class='ipa'>uθ</span> </span>|ut|vocative case - Hey N! O, N!
 
 ## Examples
 
@@ -60,7 +60,7 @@ _The mind cannot penetrate transcendence!_
 
 ### VOC vocative
 
-**tkzutkzigi lorgtut**
+**tkzutkzigi lorgut**
 
 `move-NEG-IMP larva-VOC`
 
@@ -110,7 +110,7 @@ _The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
-**yurg gvifnluli gu5zi bgoklzoblzonif'fo bu'iso**
+**yurg gvifnluli gu5zi bgokzobzonif'fo bu'iso**
 
 `give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN`
 

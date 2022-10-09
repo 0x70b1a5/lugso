@@ -105,7 +105,7 @@ When a word begins or ends with one consonant (or tk, the special cluster), the 
 
 #### Style 1: Uncapped
 
-**gorn hupznuso h3unbkub**
+**gorn hupznuso h3unbdyo**
 
 `organization_natural human-female-GEN gorge-PTCP.PAST.PASS`
 
@@ -139,8 +139,8 @@ If your long word with many o's also has u's or i's, make sure they are vertical
 
 [ IMAGE PENDING REDRAW ]
 
-**gololol'lzonpzuv3**
+**golololzonpzuv3**
 
 `infinite-NMLZ.DER-PROL`
 
-Note the lack of a loop on the last syllable of **gololol'lzonpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.
+Note the lack of a loop on the last syllable of **golololzonpzuv3** - a loop would make the bottom horizontal read as **lzofoib**.

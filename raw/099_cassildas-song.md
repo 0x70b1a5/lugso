@@ -91,9 +91,9 @@ ${s: CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient}$
 
 _Songs that the Hyades shall sing / where flap the tatters of the King / Must die unheard / in dim Carcosa._
 
-${g: die-MOD sense-PTCP.PAST.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$
+${g: die-MOD sense-PTCP.NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$
 
-${s: die-MOD sense-PTCP.PAST.PASS-NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$
+${s: die-MOD sense-PTCP.NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$
 
 ---
 
@@ -107,6 +107,6 @@ ${s: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-${g: sleep-IMP 2SG-VOC sing-PTCP.PAST.PASS-NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.PAST.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient}$
+${g: sleep-IMP 2SG-VOC sing-PTCP.NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient}$
 
-${s: sleep-IMP 2SG-VOC sing-PTCP.PAST.PASS-NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.PAST.PASS-NEG Carcosa-LOC lose-NMLZ.DER.patient}$
+${s: sleep-IMP 2SG-VOC sing-PTCP.NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient}$

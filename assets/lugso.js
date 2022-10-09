@@ -64,6 +64,11 @@ const getWord = (word, map, wholeRow) => {
                 notes: map[eng+'_notes'] || ''
             } : dest
         }
+
+        const isCompound = map[word+'_pos'] && map[word+'_pos'].includes('compound')
+        if (!wholeRow && isCompound) {
+            return notes.split(/[- ]/).map(subWord => getWord(subWord, map)).join('-')
+        }
     }
 
     // otherwise, guess based on includes
