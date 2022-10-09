@@ -29,7 +29,7 @@ _I can do this._
 
 ---
 
-${g: die begin u3on-ADV.DER 1SG}$
+${g: die begin final-ADV.DER 1SG}$
 
 _Finally, I begin to die._
 

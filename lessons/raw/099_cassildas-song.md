@@ -59,7 +59,7 @@ _The shadows lengthen_<br>
 `extrude orifice-light-PL`<br>
 
 _In Carcosa._<br>
-**<span style="color:red">NoWordFound:"Carcosa"</span>5itk**
+**korkoso5itk**
 
 `Carcosa-LOC`<br>
 
@@ -69,7 +69,7 @@ _Strange is the night where black stars rise,_<br>
 `night beautiful rise-SUB.location star-PL black`<br>
 
 _And strange moons circle through the skies_<br>
-**lniin 5tkiibpzuv3 yolsyolslihib oldri5**
+**lniu 5tkiibpzuv3 yolsyolslihib oldri5**
 
 `revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`<br>
 
@@ -79,7 +79,7 @@ _But stranger still is_<br>
 `CONJ.but beautiful-AUG-EMPH`<br>
 
 _Lost Carcosa._<br>
-**<span style="color:red">NoWordFound:"Carcosa"</span> tsollzof**
+**korkoso tsollzof**
 
 `Carcosa lose-NMLZ.DER.patient`<br>
 
@@ -89,17 +89,17 @@ _Must die unheard_<br>
 `die-MOD sense-NEG-ADJ.DER`<br>
 
 _where flap the tatters of the King_<br>
-**pin<span style="color:red">NoWordFound:"SUB.where"</span> ilzlzofib bgoklzobso**
+**pingsu5t ilzlzofib bgoklzobso**
 
-`flail-SUB.where shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN`<br>
+`flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN`<br>
 
 _songs that the Hyades shall sing,_<br>
-**vtu3ib vto5tkuor <span style="color:red">NoWordFound:"Hyades"</span>**
+**vtu3ib vto5tkuor hoyodiz**
 
 `song-PL sing-FUT-REL Hyades`<br>
 
 _in dim Carcosa._<br>
-**<span style="color:red">NoWordFound:"Carcosa"</span>5itk 3kign**
+**korkoso5itk 3kign**
 
 `Carcosa-LOC dark`<br>
 
@@ -119,6 +119,6 @@ _as tears unshed shall dry and die_<br>
 `dessicate-SUB.cotemporal die also blood-eye-PL shed-ADJ.DER-NEG`<br>
 
 _In lost Carcosa._<br>
-**<span style="color:red">NoWordFound:"Carcosa"</span>5itk tsollzof**
+**korkoso5itk tsollzof**
 
 `Carcosa-LOC lose-NMLZ.DER.patient`<br>

@@ -71,7 +71,7 @@ _Must die unheard_<br>
 ${g: die-MOD sense-NEG-ADJ.DER}$<br>
 
 _where flap the tatters of the King_<br>
-${g: flail-SUB.where shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN}$<br>
+${g: flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN}$<br>
 
 _songs that the Hyades shall sing,_<br>
 ${g: song-PL sing-FUT-REL Hyades}$<br>
