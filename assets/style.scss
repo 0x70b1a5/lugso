@@ -76,22 +76,6 @@ html {
         margin: 1em;
         border-collapse: collapse;
 
-        .spoken {
-            white-space: nowrap;
-
-            .speak {
-                padding: 0;
-                background: none;
-                border: none;
-                margin: 0 8px 0 0;
-                cursor: pointer;
-
-                &:disabled {
-                    opacity: 0.5;
-                }
-            }
-        }
-
         tr:nth-child(even) {
             background-color: $prim;
         }
@@ -171,5 +155,21 @@ html {
     html {
         width: 900px;
         margin: auto;
+    }
+}
+
+.spoken {
+    white-space: nowrap;
+
+    .speak {
+        padding: 0;
+        background: none;
+        border: none;
+        margin: 0 8px 0 0;
+        cursor: pointer;
+
+        &:disabled {
+            opacity: 0.5;
+        }
     }
 }
