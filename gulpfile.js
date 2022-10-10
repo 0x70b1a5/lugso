@@ -1,6 +1,6 @@
 const { series, src, dest } = require('gulp')
 const through2 = require('through2')
-const { glossToLugso, getSheet, rowsToMap, ipaify, getWord, speak } = require('./assets/lugso')
+const { glossToLugso, getSheet, rowsToMap, ipaify, getWord, speak, phonotact } = require('./assets/lugso')
 const Vinyl = require('vinyl')
 
 console.log(process.cwd())
@@ -39,9 +39,10 @@ async function lugsoifyAll(cb) {
 
 \`${rest}\``
         } else if (slice0 == 'r:') {
-          const row = getWord(slice1, map, true)
+          const row = getWord(slice1, map, true) // r function drops all but first word
           if (!row) throw `could not find row for meat: ${meat}`
-          out = `${row.english}|${row.partOfSpeech}|${ ipaify(row.lugso, true) }|${row.lugso}|${row.notes || ''}`
+          const lugso = glossToLugso(slice1, map)
+          out = `${row.english}|${row.partOfSpeech}|${ ipaify(lugso, true) }|${lugso}|${row.notes || ''}`
         } else if (slice0 == 'i:') {
           const lugso = glossToLugso(meat.slice(3), map)
           out = ipaify(lugso)

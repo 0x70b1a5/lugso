@@ -11,8 +11,8 @@ body|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣvif
 false|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ðʌʃɮ'>🔈</button> <span class='ipa'>ðʌʃɮ</span> </span>|do5l|
 follower|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ'>🔈</button> <span class='ipa'>ɸʌɮ</span> </span>|pol|
 grant|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='fun'>🔈</button> <span class='ipa'>fun</span> </span>|fun|allow, permit, accept
-hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθθ'>🔈</button> <span class='ipa'>xuθθ</span> </span>|kutt|
-organization_human|N|<span class='spoken'> <button class='speak' type='button' data-ipa='βui'>🔈</button> <span class='ipa'>βui</span> </span>|bui|e.g. government, family(!)
+hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθʔθ'>🔈</button> <span class='ipa'>xuθʔθ</span> </span>|kut't|
+organization_human|N|<span class='spoken'> <button class='speak' type='button' data-ipa='βuʔi'>🔈</button> <span class='ipa'>βuʔi</span> </span>|bu'i|e.g. government, family(!)
 organization_natural|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣʌɻn'>🔈</button> <span class='ipa'>ɣʌɻn</span> </span>|gorn|
 organize|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌθuθ'>🔈</button> <span class='ipa'>jʌθuθ</span> </span>|yotut|
 lead|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='βɣʌx'>🔈</button> <span class='ipa'>βɣʌx</span> </span>|bgok|

@@ -37,7 +37,7 @@ ACC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa=
 BEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɮi'>🔈</button> <span class='ipa'>ɮuɮi</span> </span>|luli|benefactive case - for the sake of N
 COM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='nij'>🔈</button> <span class='ipa'>nij</span> </span>|niy|comitative case "together with N, alongside N"
 GEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌ'>🔈</button> <span class='ipa'>sʌ</span> </span>|so|genitive case - of N, from N, N's (not possession - contrast POSS)
-INS|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iffʌ'>🔈</button> <span class='ipa'>iffʌ</span> </span>|iffo|instrumental case - using N
+INS|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ifʔfʌ'>🔈</button> <span class='ipa'>ifʔfʌ</span> </span>|if'fo|instrumental case - using N
 LOC|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃiθx'>🔈</button> <span class='ipa'>ʃiθx</span> </span>|5itk|locative case - at N, in N
 NOM|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='∅'>🔈</button> <span class='ipa'>∅</span> </span>|∅|nominative case - the subject/actor in a sentence
 PROL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸzuvʒ'>🔈</button> <span class='ipa'>ɸzuvʒ</span> </span>|pzuv3|prolative case (by way of N, via N, through N)

@@ -15,7 +15,7 @@ certain|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='
 voice|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='juð'>🔈</button> <span class='ipa'>juð</span> </span>|yud|
 dry|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='θxɻʌθz'>🔈</button> <span class='ipa'>θxɻʌθz</span> </span>|tkrotz|
 heretic|N|<span class='spoken'> <button class='speak' type='button' data-ipa='isv'>🔈</button> <span class='ipa'>isv</span> </span>|isv|
-hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθθ'>🔈</button> <span class='ipa'>xuθθ</span> </span>|kutt|
+hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθʔθ'>🔈</button> <span class='ipa'>xuθʔθ</span> </span>|kut't|
 consummate|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='xβiθxɸ'>🔈</button> <span class='ipa'>xβiθxɸ</span> </span>|kbitkp|
 DET.PROX|PART|<span class='spoken'> <button class='speak' type='button' data-ipa='iviχ'>🔈</button> <span class='ipa'>iviχ</span> </span>|ivih|proximal determinant (this)
 DET.DIST|PART|<span class='spoken'> <button class='speak' type='button' data-ipa='ivʌɮ'>🔈</button> <span class='ipa'>ivʌɮ</span> </span>|ivol|distal determinant (that)

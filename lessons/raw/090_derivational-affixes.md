@@ -32,7 +32,7 @@ PRV|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa=
 revolve|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮni'>🔈</button> <span class='ipa'>ɮni</span> </span>|lni|circle, encircle
 thought|N|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌθ'>🔈</button> <span class='ipa'>sʌθ</span> </span>|sot|
 servant|N|<span class='spoken'> <button class='speak' type='button' data-ipa='fβuʃ'>🔈</button> <span class='ipa'>fβuʃ</span> </span>|fbu5|
-snake|N|<span class='spoken'> <button class='speak' type='button' data-ipa='snuɮɮ'>🔈</button> <span class='ipa'>snuɮɮ</span> </span>|snull|limbless organism
+snake|N|<span class='spoken'> <button class='speak' type='button' data-ipa='snuɮʔɮ'>🔈</button> <span class='ipa'>snuɮʔɮ</span> </span>|snul'l|limbless organism
 solid|N|<span class='spoken'> <button class='speak' type='button' data-ipa='βinʃ'>🔈</button> <span class='ipa'>βinʃ</span> </span>|bin5|
 way|N|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌθ'>🔈</button> <span class='ipa'>zʌθ</span> </span>|zot|path, road
 

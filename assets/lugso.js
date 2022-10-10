@@ -119,10 +119,8 @@ const rowsToMap = rows => {
     return glossMap
 }
 
-const phonotact = word => 
-    word.replace(/(\w)([ -]?)(\1)/g, "$1$2'$3")
+const phonotact = word => word.replace(/(\w)([ -]?)(\1)/g, "$1$2'$3")
     .replace(/([iuo])([ -]?)([iuo])/g, "$1$2'$3")
-
 
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
@@ -140,4 +138,4 @@ const glossToLugso = (gloss, map) => gloss.split(/\s+/)
 //     const out = (await Promise.all(g.split('\n').map(async h => await glossify(h)))).join('\n')
 //     console.log(out) 
 // })()
-module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap, getWord, speak }
+module.exports = { glossToLugso, ipaify, latinate, getSheet, rowsToMap, getWord, speak, phonotact }

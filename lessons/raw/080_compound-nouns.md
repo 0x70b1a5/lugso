@@ -16,10 +16,10 @@ house|N|<span class='spoken'> <button class='speak' type='button' data-ipa='uɣ�
 learn|VB-N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='χuf-ju'>🔈</button> <span class='ipa'>χuf-ju</span> </span>|huf-yu|consume knowledge
 milk|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θʒuχ'>🔈</button> <span class='ipa'>θʒuχ</span> </span>|t3uh|
 name|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-ɸus'>🔈</button> <span class='ipa'>zujn-ɸus</span> </span>|zuyn-pus|symbol-soul
-ocean|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣiɮɮið-χɸiʃ'>🔈</button> <span class='ipa'>ɣiɮɮið-χɸiʃ</span> </span>|gillid-hpi5|water_body-space
+ocean|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣiɮʔɮið-χɸiʃ'>🔈</button> <span class='ipa'>ɣiɮʔɮið-χɸiʃ</span> </span>|gil'lid-hpi5|water_body-space
 organ|N|<span class='spoken'> <button class='speak' type='button' data-ipa='viɣ'>🔈</button> <span class='ipa'>viɣ</span> </span>|vig|
-pact|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ--'>🔈</button> <span class='ipa'>βuɮ--</span> </span>|bul--|contract-deity
-promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸʌββ'>🔈</button> <span class='ipa'>βuɮ-ɸʌββ</span> </span>|bul-pobb|contract-mortal
+pact|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɣuʃ-ɮi'>🔈</button> <span class='ipa'>βuɮ-ɣuʃ-ɮi</span> </span>|bul-gu5-li|contract-deity_intelligent
+promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸʌβʔβ'>🔈</button> <span class='ipa'>βuɮ-ɸʌβʔβ</span> </span>|bul-pob'b|contract-mortal
 speech|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʌ-zʌn'>🔈</button> <span class='ipa'>ɮʌ-zʌn</span> </span>|lo-zon|speak-NMLZ.DER.act
 sun|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ-uɣʌnʌɣɮ'>🔈</button> <span class='ipa'>ɮiχ-uɣʌnʌɣɮ</span> </span>|lih-ugonogl|star-home
 water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃθxi</span> </span>|lug-5tki|blood-sky
