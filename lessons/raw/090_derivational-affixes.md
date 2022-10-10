@@ -132,6 +132,6 @@ _prettier, weirder_ **oldri5tuk**
 
 #### ik: "less ... than"
 
-_less dead_ **-ik**
+_less dead_ **fhtogn-'n-i'ik**
 
 _less far_ **botutik**

@@ -56,6 +56,7 @@ const getWord = (word, map, wholeRow) => {
         // -> ['see xyz', 'xyz', index: 4, input: 'see xyz', groups: undefined]
         if (redirect && redirect[1]) {
             const eng = redirect[1]
+            // TODO can't redirect to a compound
             const lugso = map[eng]
             if (lugso) return wholeRow ? {
                 lugso,
