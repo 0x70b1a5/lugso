@@ -16,7 +16,7 @@ bite|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='iχ�
 black|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ʒxiɣ'>🔈</button> <span class='ipa'>ʒxiɣ</span> </span>|3kig|
 blood|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ'>🔈</button> <span class='ipa'>ɮuɣ</span> </span>|lug|
 infinite|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣʌɮʌɮʌɮ'>🔈</button> <span class='ipa'>ɣʌɮʌɮʌɮ</span> </span>|gololol|
-invisible|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='zuθx'>🔈</button> <span class='ipa'>zuθx</span> </span>|zutk|
+invisible|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='zux'>🔈</button> <span class='ipa'>zux</span> </span>|zuk|
 it|3SG|<span class='spoken'> <button class='speak' type='button' data-ipa='un'>🔈</button> <span class='ipa'>un</span> </span>|un|he, she, it
 PL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iβ'>🔈</button> <span class='ipa'>iβ</span> </span>|ib|plural suffix
 
@@ -65,7 +65,7 @@ In English, we append -ly to an adjective, in order to form an adverb that descr
 
 In Lugso, adverbs follow the verb that they modify. This is similar to English. However, unlike English, you cannot place an adverb before the verb it modifies: we think it's fine to say "the beast invisibly bites", but for your own safety, don't talk like that when speaking to a cultist.
 
-**ih5 zutkuv tlu**
+**ih5 zukuv tlu**
 
 `bite invisible-ADV.DER beast`
 
@@ -75,7 +75,7 @@ _The/A beast bites invisibly._
 
 Any number of adverbs may be appended in this fashion.
 
-**ih5 zutkuv 3kiguv golololuv tlu**
+**ih5 zukuv 3kiguv golololuv tlu**
 
 `bite invisible-ADV.DER black-ADV.DER infinite-ADV.DER beast`
 

@@ -24,7 +24,7 @@ IMP|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa
 IND|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θʌj'>🔈</button> <span class='ipa'>θʌj</span> </span>|toy|indicative mood - (optional except where ambiguous)
 INT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌχ'>🔈</button> <span class='ipa'>ʌχ</span> </span>|oh|interrogative mood  - is ...? did X ...?
 MOD|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zvʌχ'>🔈</button> <span class='ipa'>zvʌχ</span> </span>|zvoh|modal mood "must/have to"
-PREC|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxnuz'>🔈</button> <span class='ipa'>θxnuz</span> </span>|tknuz|precative mood (please ...)
+PREC|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='xnuz'>🔈</button> <span class='ipa'>xnuz</span> </span>|knuz|precative mood (please ...)
 PROH|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌzβ'>🔈</button> <span class='ipa'>jʌzβ</span> </span>|yozb|prohibitive mood (do not ...)
 PROL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸzuvʒ'>🔈</button> <span class='ipa'>ɸzuvʒ</span> </span>|pzuv3|prolative case (by way of N, via N, through N)
 
@@ -32,7 +32,7 @@ Verb moods indicate the way in which a certain action is performed. Think of, "P
 
 ### IMP imperative -gi
 
-**gu5hgi tgus-tlu'ir ivih ktkulhululi**
+**gu5hgi -ir ivih ktulhululi**
 
 `surrender-IMP victim-ACC DET.PROX Cthulhu-BEN`
 
@@ -46,7 +46,7 @@ While usually unnecessary to mark indicative mood, there are cases where it is i
 
 #### Redundant indicative
 
-**funtoy tgus-tlu'ir ivih ktkulhu**
+**funtoy -ir ivih ktulhu**
 
 `allow-IND victim-ACC DET.PROX Cthulhu`
 
@@ -86,7 +86,7 @@ _My voice is dead, O song of my soul._
 
 ### FORM formal: -rgiz
 
-**ktkulhu'ut pinrgiz sup5itk blolgib doso**
+**ktulhu'ut pinrgiz sup5ik blolgib doso**
 
 `Cthulhu-VOC flail-FORM eternity-LOC flagellum-PL 2SG-GEN`
 
@@ -94,7 +94,7 @@ _Thy tentacles writhe forever, O Cthulhu!_
 
 ### INT Interrogative: -oh
 
-**fhtognoh ktkulhu**
+**fhtognoh ktulhu**
 
 `sleep-INT Cthulhu`
 
@@ -102,25 +102,25 @@ _Does Cthulhu sleep?_
 
 ### MOD modal: -zvoh
 
-**h3unbzvoh ktkulhu'ir vu**
+**h3unbzvoh ktulhu'ir vu**
 
 `gorge-MOD Cthulhu-ACC 1PL.INC`
 
 _We must satisfy Cthulhu!_
 
-### PREC precative: -tknuz
+### PREC precative: -knuz
 
-**ktkulhu'ut huftknuz tgus-tlu ivih**
+**ktulhu'ut hufknuz - ivih**
 
 `Cthulhu-VOC consume-PREC victim DET.PROX`
 
 _O Cthulhu, (will you) please accept this victim!_
 
-**-tknuz** signifies the utterance is a request.
+**-knuz** signifies the utterance is a request.
 
 ### PROH prohibitive: -yozb
 
-**zbostyozb zuyn-pus ktkulhuso yug**
+**zbostyozb zuyn-pus ktulhuso yug**
 
 `blaspheme-PROH name Cthulhu-GEN great`
 
@@ -128,7 +128,7 @@ _Do not blaspheme the name of Great Cthulhu!_
 
 ### PROL prolative: -pzuv3
 
-**lni 5tki'ibpzuv3 yols-yols-lihib oldri5**
+**lni 5ki'ibpzuv3 yols-yols-lihib oldri5**
 
 `revolve sky-PL-PROL child--child--star-PL beautiful`
 

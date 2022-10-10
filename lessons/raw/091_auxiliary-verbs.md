@@ -10,7 +10,7 @@ English|Part of Speech|IPA|Lugso|Comments
 can|AUX|<span class='spoken'> <button class='speak' type='button' data-ipa='vɣʌv'>🔈</button> <span class='ipa'>vɣʌv</span> </span>|vgov|
 hunger|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='χuʃ'>🔈</button> <span class='ipa'>χuʃ</span> </span>|hu5|also "love", "want to"
 begin|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ʒɣuɻ'>🔈</button> <span class='ipa'>ʒɣuɻ</span> </span>|3gur|
-dream|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌðθx'>🔈</button> <span class='ipa'>zʌðθx</span> </span>|zodtk|also "wish to"
+dream|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌðθ'>🔈</button> <span class='ipa'>zʌðθ</span> </span>|zodt|also "wish to"
 last|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='uʒʌn'>🔈</button> <span class='ipa'>uʒʌn</span> </span>|u3on|
 
 An _auxiliary verb_ is like English "can", "might". In English they are effectively intransitive verbs that modify an infinitive. Other intransitives that work similarly are "want", "wish".

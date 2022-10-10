@@ -11,7 +11,7 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 FPRET|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='suθɻ'>🔈</button> <span class='ipa'>suθɻ</span> </span>|sutr|far past
 PRET|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uɮn'>🔈</button> <span class='ipa'>uɮn</span> </span>|uln|preterite mood (simple past) "i VBed"
-FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxu'>🔈</button> <span class='ipa'>θxu</span> </span>|tku|
+FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θu'>🔈</button> <span class='ipa'>θu</span> </span>|tu|
 FFUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʃi'>🔈</button> <span class='ipa'>ɮʃi</span> </span>|l5i|far future
 
 Verb tense is the difference between _I was_, _I am_, and _I will be_, commonly called _past_, _present_, and _future_. 
@@ -23,7 +23,7 @@ In lugso, distinction is made between the **far** past and the generic past, and
 
 #### FPRET far past tense
 
-**zyuzhsutr ktkulhu**
+**zyuzhsutr ktulhu**
 
 `descend-FPRET Cthulhu`
 
@@ -31,7 +31,7 @@ _Cthulhu descended of old._
 
 #### PRET preterite (simple past)
 
-**fhtognuln ktkulhu**
+**fhtognuln ktulhu**
 
 `sleep-PRET Cthulhu`
 
@@ -43,7 +43,7 @@ Unmarked.
 
 #### FUT simple future
 
-**huftku vu'ir ktkulhu**
+**huftu vu'ir ktulhu**
 
 `consume-FUT 1PL.INC-ACC Cthulhu`
 

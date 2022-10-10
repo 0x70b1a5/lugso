@@ -10,7 +10,7 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 idiot|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ-ix-zʌn'>🔈</button> <span class='ipa'>ɣuʃ-ix-zʌn</span> </span>|gu5-ik-zon|sentient-DIM-NMLZ.DER
-AUG|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxuθx'>🔈</button> <span class='ipa'>θxuθx</span> </span>|tkutk|augmentative (more - than)
+AUG|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θux'>🔈</button> <span class='ipa'>θux</span> </span>|tuk|augmentative (more - than)
 DIM|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ix'>🔈</button> <span class='ipa'>ix</span> </span>|ik|diminutive (less - than)
 SUPER|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮi'>🔈</button> <span class='ipa'>ɮi</span> </span>|li|superlative suffix
 deity_bestial|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮu-ɮi'>🔈</button> <span class='ipa'>θɮu-ɮi</span> </span>|tlu-li|beast-SUPER
@@ -64,7 +64,7 @@ _mortal-ness, the act of being mortal, mortality..._
 
 ---
 
-**tkurzof**
+**turzof**
 
 `birth-NMLZ.DER.patient`
 
@@ -124,11 +124,11 @@ _parasitical-ly_ **pol-kukuv***
 
 ### Comparative affixes - Augmentative and Diminutive
 
-#### tkutk: "more ... than, -er"
+#### tuk: "more ... than, -er"
 
-_greater_ **yugtkutk**
+_greater_ **yugtuk**
 
-_prettier, weirder_ **oldri5tkutk**
+_prettier, weirder_ **oldri5tuk**
 
 #### ik: "less ... than"
 

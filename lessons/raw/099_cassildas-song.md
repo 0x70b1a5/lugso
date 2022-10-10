@@ -43,31 +43,31 @@ Lost Carcosa.
 
 _Along the shore the cloud waves break._
 
-**zkiy5 yuk5itk rotkib og5lug5tki**
+**zkiy5 yuk5ik rotib sfulug5ki**
 
 `dissipate shore-LOC wave-PL gas-blood-sky`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='zxijʃ juxʃiθx ɻʌθxiβ ʌɣʃɮuɣʃθxi'>🔈</button> <span class='ipa'>zxijʃ juxʃiθx ɻʌθxiβ ʌɣʃɮuɣʃθxi</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='zxijʃ juxʃix ɻʌθiβ sfuɮuɣʃxi'>🔈</button> <span class='ipa'>zxijʃ juxʃix ɻʌθiβ sfuɮuɣʃxi</span> </span>
 
 ---
 
 _The twin suns sink beneath the lake._
 
-**zyuzh gil'lid5itk nhokb lihugonoglib tkurzoful**
+**zyuzh gil'lid5ik nhokb lihugonoglib turzoful**
 
 `descend lake-LOC beneath star-home-PL birth-NMLZ.DER.patient-two`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ ɣiɮʔɮiðʃiθx nχʌxβ ɮiχuɣʌnʌɣɮiβ θxuɻzʌfuɮ</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='zjuzχ ɣiɮʔɮiðʃix nχʌxβ ɮiχuɣʌnʌɣɮiβ θuɻzʌfuɮ'>🔈</button> <span class='ipa'>zjuzχ ɣiɮʔɮiðʃix nχʌxβ ɮiχuɣʌnʌɣɮiβ θuɻzʌfuɮ</span> </span>
 
 ---
 
 _The shadows lengthen / In Carcosa._
 
-**hsuy fvolsfirib korkoso5itk**
+**hsuy fvolsfirib korkoso5ik**
 
 `extrude orifice-light-PL Carcosa-LOC`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='χsuj fvʌɮsfiɻiβ xʌɻxʌsʌʃiθx'>🔈</button> <span class='ipa'>χsuj fvʌɮsfiɻiβ xʌɻxʌsʌʃiθx</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='χsuj fvʌɮsfiɻiβ xʌɻxʌsʌʃix'>🔈</button> <span class='ipa'>χsuj fvʌɮsfiɻiβ xʌɻxʌsʌʃix</span> </span>
 
 ---
 
@@ -83,31 +83,31 @@ _Strange is the night where black stars rise,_
 
 _And strange moons circle through the skies_
 
-**lni'u 5tki'ibpzuv3 yolsyolslihib oldri5**
+**lni'u 5ki'ibpzuv3 yolsyolslihib oldri5**
 
 `revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='ɮniʔu ʃθxiʔiβɸzuvʒ jʌɮsjʌɮsɮiχiβ ʌɮðɻiʃ'>🔈</button> <span class='ipa'>ɮniʔu ʃθxiʔiβɸzuvʒ jʌɮsjʌɮsɮiχiβ ʌɮðɻiʃ</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='ɮniʔu ʃxiʔiβɸzuvʒ jʌɮsjʌɮsɮiχiβ ʌɮðɻiʃ'>🔈</button> <span class='ipa'>ɮniʔu ʃxiʔiβɸzuvʒ jʌɮsjʌɮsɮiχiβ ʌɮðɻiʃ</span> </span>
 
 ---
 
 _But stranger still is / Lost Carcosa._
 
-**i5 oldri5tkutkyiy korkoso tsolzof**
+**i5 oldri5tukyiy korkoso tsolzof**
 
 `CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮzʌf'>🔈</button> <span class='ipa'>iʃ ʌɮðɻiʃθxuθxjij xʌɻxʌsʌ θsʌɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ ʌɮðɻiʃθuxjij xʌɻxʌsʌ θsʌɮzʌf'>🔈</button> <span class='ipa'>iʃ ʌɮðɻiʃθuxjij xʌɻxʌsʌ θsʌɮzʌf</span> </span>
 
 ---
 
 _Songs that the Hyades shall sing / where flap the tatters of the King / Must die unheard / in dim Carcosa._
 
-**fhtognzvoh u3zi5 pingsu5t ilz'zofib bgokzobso vtu3ib vto5tku'or hoyodiz korkoso5itk 3kign**
+**fhtognzvoh u3zi5 pingsu5t ilz'zofib bgokzobso vtu3ib vto5tu'or hoyodiz korkoso5ik 3kign**
 
 `die-MOD sense-PTCP.NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnzvʌχ uʒziʃ ɸinɣsuʃθ iɮzʔzʌfiβ βɣʌxzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn'>🔈</button> <span class='ipa'>fχθʌɣnzvʌχ uʒziʃ ɸinɣsuʃθ iɮzʔzʌfiβ βɣʌxzʌβsʌ vθuʒiβ vθʌʃθxuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃiθx ʒxiɣn</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnzvʌχ uʒziʃ ɸinɣsuʃθ iɮzʔzʌfiβ βɣʌxzʌβsʌ vθuʒiβ vθʌʃθuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃix ʒxiɣn'>🔈</button> <span class='ipa'>fχθʌɣnzvʌχ uʒziʃ ɸinɣsuʃθ iɮzʔzʌfiβ βɣʌxzʌβsʌ vθuʒiβ vθʌʃθuʔʌɻ χʌjʌðiz xʌɻxʌsʌʃix ʒxiɣn</span> </span>
 
 ---
 
@@ -123,8 +123,8 @@ _Song of my soul, my voice is dead;_
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-**fhtogngi do'ut vto5zi5 tkrotzriy fhtogn lugoko'ib ilz'zi5 korkoso5itk tsolzof**
+**fhtogngi do'ut vto5zi5 krotzriy fhtogn lugoko'ib ilz'zi5 korkoso5ik tsolzof**
 
 `sleep-IMP 2SG-VOC sing-PTCP.NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃiθx θsʌɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ θxɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃiθx θsʌɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ xɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃix θsʌɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ xɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃix θsʌɮzʌf</span> </span>

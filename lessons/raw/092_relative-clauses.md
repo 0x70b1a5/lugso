@@ -11,7 +11,7 @@ CONJ.and|VB suffix|<span class='spoken'> <button class='speak' type='button' dat
 CONJ.but|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='iʃ'>🔈</button> <span class='ipa'>iʃ</span> </span>|i5|
 CONJ.N|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='vɻʌ'>🔈</button> <span class='ipa'>vɻʌ</span> </span>|vro|what is this supposed to do?
 REL|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌɻ'>🔈</button> <span class='ipa'>ʌɻ</span> </span>|or|introduces relative clause
-FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θxu'>🔈</button> <span class='ipa'>θxu</span> </span>|tku|
+FUT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θu'>🔈</button> <span class='ipa'>θu</span> </span>|tu|
 GEN|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌ'>🔈</button> <span class='ipa'>sʌ</span> </span>|so|genitive case - of N, from N, N's (not possession - contrast POSS)
 knowledge|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌɣ'>🔈</button> <span class='ipa'>jʌɣ</span> </span>|yog|
 penetrate|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='vun'>🔈</button> <span class='ipa'>vun</span> </span>|vun|
@@ -37,7 +37,7 @@ _the house **that** had ten mice in each room_: "had ten mice..." modifies _hous
 
 In Lugso, the relative-clause-introducer is another verb suffix. It follows any other suffixes on the verb, for example, future tense:
 
-**hpi5 yogso vuntku'or no**
+**hpi5 yogso vuntu'or no**
 
 `space knowledge-GEN penetrate-FUT-REL 1SG`
 
@@ -57,7 +57,7 @@ _Behold the truth that no eye can perceive!_
 
 Lugso uses commas in the same way as English. Note that A, B, C, D, and E are _complete sentences_.
 
-**3o3 oldri5 lni'u 5tki'ibpzuv3 yols-yols-lihib oldri5**
+**3o3 oldri5 lni'u 5ki'ibpzuv3 yols-yols-lihib oldri5**
 
 `night beautiful revolve-CONJ.and sky-PL-PROL child--child--star-PL beautiful`
 
@@ -65,7 +65,7 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **i5**:
 
-**huf-yu zodtk lusot -ibso i5 hi lodi toht noso**
+**huf-yu zodt lusot -ibso i5 hi lodi toht noso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
 

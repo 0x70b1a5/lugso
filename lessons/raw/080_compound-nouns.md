@@ -22,7 +22,7 @@ pact|N compound|<span class='spoken'> <button class='speak' type='button' data-i
 promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸʌβʔβ'>🔈</button> <span class='ipa'>βuɮ-ɸʌβʔβ</span> </span>|bul-pob'b|contract-mortal
 speech|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʌ-zʌn'>🔈</button> <span class='ipa'>ɮʌ-zʌn</span> </span>|lo-zon|speak-NMLZ.DER.act
 sun|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ-uɣʌnʌɣɮ'>🔈</button> <span class='ipa'>ɮiχ-uɣʌnʌɣɮ</span> </span>|lih-ugonogl|star-home
-water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃθxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃθxi</span> </span>|lug-5tki|blood-sky
+water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃxi</span> </span>|lug-5ki|blood-sky
 word|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-sʌθ'>🔈</button> <span class='ipa'>zujn-sʌθ</span> </span>|zuyn-sot|symbol-thought
 
 A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "fire truck".
@@ -49,7 +49,7 @@ Tree: "fire fuel". Grim.
 
 Below, in the English translations, the "head" of the compound is **bolded**. Remember the _head_ is the _actual thing_, and the other parts of the compound are _modifiers on that thing_. Remember also the English translations are backwards. the `glosses` have the correct Lugso word order.
 
-**lug-5tki ugonogl nogu**
+**lug-5ki ugonogl nogu**
 
 `blood--sky home 1SG-POSS`
 
@@ -57,7 +57,7 @@ _Water is my home._
 
 Water: sky-**blood**.
 
-**zkiy5 yuk5itk og5-lug-5tki**
+**zkiy5 yuk5ik sfu-lug-5ki**
 
 `dissipate shore-LOC gas--blood--sky`
 
@@ -65,7 +65,7 @@ _Along the shore the clouds break._
 
 Cloud: sky-blood **gas**.
 
-**zyuzh tkgihp-lug-5tki5itk lih-ugonoglib**
+**zyuzh tgihp-lug-5ki5ik lih-ugonoglib**
 
 `descend bowl--blood--sky-LOC star--home-PL`
 
