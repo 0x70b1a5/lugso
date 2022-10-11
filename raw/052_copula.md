@@ -37,6 +37,6 @@ _Music is my master._
 
 ---
 
-${g: obey-NMLZ.DER.act word important-SUPER vocabulary-LOC cultist-POSS}$
+${g: obey-NMLZ.DER.act word important-SUPER vocabulary-LOC human--cult-POSS}$
 
 _The most important word in a cultist's vocabulary is "obedience"._

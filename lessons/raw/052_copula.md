@@ -43,8 +43,8 @@ _Music is my master._
 
 ---
 
-**koz'zon zuyn-sot fiznli zin-zuyn-sot5ik <span style="color:red">NoWordFo'und:"cultist"</span>gu**
+**koz'zon zuyn-sot fiznli zin-zuyn-sot5ik hupz-fo5gu**
 
-`obey-NMLZ.DER.act word important-SUPER vocabulary-LOC cultist-POSS`
+`obey-NMLZ.DER.act word important-SUPER vocabulary-LOC human--cult-POSS`
 
 _The most important word in a cultist's vocabulary is "obedience"._
