@@ -40,3 +40,11 @@ _The stars are its servants._
 `music master 1SG-POSS`
 
 _Music is my master._
+
+---
+
+**koz'zon zuyn-sot fiznli zin-zuyn-sot5ik <span style="color:red">NoWordFo'und:"cultist"</span>gu**
+
+`obey-NMLZ.DER.act word important-SUPER vocabulary-LOC cultist-POSS`
+
+_The most important word in a cultist's vocabulary is "obedience"._

@@ -34,3 +34,9 @@ _The stars are its servants._
 ${g: music master 1SG-POSS}$
 
 _Music is my master._
+
+---
+
+${g: obey-NMLZ.DER.act word important-SUPER vocabulary-LOC cultist-POSS}$
+
+_The most important word in a cultist's vocabulary is "obedience"._

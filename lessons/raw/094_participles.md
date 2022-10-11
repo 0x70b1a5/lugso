@@ -7,7 +7,49 @@ order: 3
 
 ## Participles
 
+English|Part of Speech|IPA|Lugso|Comments
 PTCP.NEG|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ziʃ'>🔈</button> <span class='ipa'>ziʃ</span> </span>|zi5|x sing-PTCP.NEG -> the x not sung
 PTCP.PAST.ACT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='βjʌ'>🔈</button> <span class='ipa'>βjʌ</span> </span>|byo|
 PTCP.PAST.PASS|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ðjʌ'>🔈</button> <span class='ipa'>ðjʌ</span> </span>|dyo|
+hunger|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='χuʃ'>🔈</button> <span class='ipa'>χuʃ</span> </span>|hu5|also "love", "want to"
+
+Participles are like adjectives. A participle derives from a verb to create a description of a noun. 
+
+### verb-byo: "the ... that verbed" 
+
+This participle indicates that the subject actively peformed the action.
+
+**<span style="color:red">NoWordFo'und:"dig"</span> fupzuv3 tlu-li lobyo**
+
+`dig earth-PROL deity_bestial speak-PTCP.PAST.ACT`
+
+_The animal-god, who spoke, digs through earth._
+
+### verb-dyo: "the ... that was verbed"
+
+This participle indicates that some action was performed to the subject.
+
+**opy 3gur fu <span style="color:red">NoWordFo'und:"dig"</span>dyo**
+
+`decompose begin earth dig-PTCP.PAST.PASS`
+
+_The earth that was dug begins to decompose._
+
+### verb-zi5: "the ... that has not verbed" or "the unverbed ..."
+
+This participle indicates that some action has not been performed by the subject. As a participle that English lacks, it may take some getting used to. It is approximately equal in meaning to **dyozi** `PTCP.PAST.PASS-NEG`, and that is how it is usually translated.
+
+**yols hi fhtognzi5**
+
+`child small sleep-PTCP.NEG`
+
+_The small child **who has not slept**_ (lit. "the unslept child")
+
+---
+
+**fhtogngi do'ut hu5zi5**
+
+`sleep-IMP 2SG-VOC love-PTCP.NEG`
+
+_You! Die unloved._
 
