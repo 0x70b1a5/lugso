@@ -19,7 +19,7 @@ Participles are like adjectives. A participle derives from a verb to create a de
 
 This participle indicates that the subject actively peformed the action.
 
-**<span style="color:red">NoWordFo'und:"dig"</span> fupzuv3 tlu-li lobyo**
+**hot't fupzuv3 tlu-li lobyo**
 
 `dig earth-PROL deity_bestial speak-PTCP.PAST.ACT`
 
@@ -29,7 +29,7 @@ _The animal-god, who spoke, digs through earth._
 
 This participle indicates that some action was performed to the subject.
 
-**opy 3gur fu <span style="color:red">NoWordFo'und:"dig"</span>dyo**
+**opy 3gur fu hot'tdyo**
 
 `decompose begin earth dig-PTCP.PAST.PASS`
 
