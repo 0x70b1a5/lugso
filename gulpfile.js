@@ -59,6 +59,8 @@ async function lugsoifyAll(cb) {
       }
     }
 
+    if (fileContents.includes('NoWordFo\'und')) throw 'NWF in '+vinyl.path
+
     const newV = new Vinyl({
       ...vinyl, 
       path: vinyl.path.replace(/(\d+)(_[-_\w]+)(\.md$)/, 'L_$1$3'),

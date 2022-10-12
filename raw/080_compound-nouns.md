@@ -53,7 +53,7 @@ _Water is my home._
 
 Water: sky-**blood**.
 
-${g: dissipate shore-LOC gas--blood--sky}$
+${g: spread shore-LOC gas--blood--sky}$
 
 _Along the shore the clouds break._
 

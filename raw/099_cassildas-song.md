@@ -43,9 +43,9 @@ Lost Carcosa.
 
 _Along the shore the cloud waves break._
 
-${g: dissipate shore-LOC wave-PL gas-blood-sky}$
+${g: spread shore-LOC wave-PL gas-blood-sky}$
 
-${s: dissipate shore-LOC wave-PL gas-blood-sky}$
+${s: spread shore-LOC wave-PL gas-blood-sky}$
 
 ---
 

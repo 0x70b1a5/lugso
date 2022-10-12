@@ -40,7 +40,7 @@ _I strike because he surrenders._
 
 ---
 
-${g: depart human_organization-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX}$
+${g: depart organization_human-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX}$
 
 _We depart from our mortal families in order to cleave to an undying lineage._
 

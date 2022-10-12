@@ -73,6 +73,6 @@ _Go to the place the gods look not._
 
 ---
 
-${g: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful/strange death EMPH}$
+${g: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP strange death EMPH}$
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
