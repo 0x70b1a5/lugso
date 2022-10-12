@@ -44,7 +44,7 @@ Only "tk" exists natively in Lugso as a consonant cluster.
 
 In general: pronounce exactly as written, even if impossible.
 
-Separate duplicate letters with glottal stops. (e.g. pob'b /<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌβʔβ'>🔈</button> <span class='ipa'>ɸʌβʔβ</span> </span>/ "mortal")
+Separate duplicate letters with glottal stops. (e.g. pob'b /<span class='spoken'> <button class='speak' type='button' data-ipa='ɸəβʔβ'>🔈</button> <span class='ipa'>ɸəβʔβ</span> </span>/ "mortal")
 
 Separate vowels with glottal stops. (e.g. bu'i /<span class='spoken'> <button class='speak' type='button' data-ipa='βuʔi'>🔈</button> <span class='ipa'>βuʔi</span> </span>/ "human organization")
 

@@ -9,8 +9,8 @@ order: 3
 
 English|Part of Speech|IPA|Lugso|Comments
 PTCP.NEG|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ziʃ'>🔈</button> <span class='ipa'>ziʃ</span> </span>|zi5|x sing-PTCP.NEG -> the x not sung
-PTCP.PAST.ACT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='βjʌ'>🔈</button> <span class='ipa'>βjʌ</span> </span>|byo|
-PTCP.PAST.PASS|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ðjʌ'>🔈</button> <span class='ipa'>ðjʌ</span> </span>|dyo|
+PTCP.PAST.ACT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='βjə'>🔈</button> <span class='ipa'>βjə</span> </span>|byo|
+PTCP.PAST.PASS|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ðjə'>🔈</button> <span class='ipa'>ðjə</span> </span>|dyo|
 hunger|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='χuʃ'>🔈</button> <span class='ipa'>χuʃ</span> </span>|hu5|also "love", "want to"
 
 Participles are like adjectives. A participle derives from a verb to create a description of a noun. 

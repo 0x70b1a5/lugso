@@ -12,7 +12,7 @@ English|Part of speech|IPA|Lugso|Comment
 song|N|<span class='spoken'> <button class='speak' type='button' data-ipa='vθuʒ'>🔈</button> <span class='ipa'>vθuʒ</span> </span>|vtu3|
 voice|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='juð'>🔈</button> <span class='ipa'>juð</span> </span>|yud|
 grant|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='fun'>🔈</button> <span class='ipa'>fun</span> </span>|fun|allow, permit, accept
-we_exc|1PL.EX|<span class='spoken'> <button class='speak' type='button' data-ipa='vʌ'>🔈</button> <span class='ipa'>vʌ</span> </span>|vo|
+we_exc|1PL.EX|<span class='spoken'> <button class='speak' type='button' data-ipa='və'>🔈</button> <span class='ipa'>və</span> </span>|vo|
 we_inc|1PL.INC|<span class='spoken'> <button class='speak' type='button' data-ipa='vu'>🔈</button> <span class='ipa'>vu</span> </span>|vu|
 
 ## Verb Moods
@@ -21,11 +21,11 @@ English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 FORM|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɻɣiz'>🔈</button> <span class='ipa'>ɻɣiz</span> </span>|rgiz|formal mood
 IMP|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣi'>🔈</button> <span class='ipa'>ɣi</span> </span>|gi|imperative mood (a command)
-IND|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θʌj'>🔈</button> <span class='ipa'>θʌj</span> </span>|toy|indicative mood - (optional except where ambiguous)
-INT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌχ'>🔈</button> <span class='ipa'>ʌχ</span> </span>|oh|interrogative mood  - is ...? did X ...?
-MOD|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zvʌχ'>🔈</button> <span class='ipa'>zvʌχ</span> </span>|zvoh|modal mood "must/have to"
+IND|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θəj'>🔈</button> <span class='ipa'>θəj</span> </span>|toy|indicative mood - (optional except where ambiguous)
+INT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='əχ'>🔈</button> <span class='ipa'>əχ</span> </span>|oh|interrogative mood  - is ...? did X ...?
+MOD|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zvəχ'>🔈</button> <span class='ipa'>zvəχ</span> </span>|zvoh|modal mood "must/have to"
 PREC|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='xnuz'>🔈</button> <span class='ipa'>xnuz</span> </span>|knuz|precative mood (please ...)
-PROH|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌzβ'>🔈</button> <span class='ipa'>jʌzβ</span> </span>|yozb|prohibitive mood (do not ...)
+PROH|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='jəzβ'>🔈</button> <span class='ipa'>jəzβ</span> </span>|yozb|prohibitive mood (do not ...)
 PROL|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸzuvʒ'>🔈</button> <span class='ipa'>ɸzuvʒ</span> </span>|pzuv3|prolative case (by way of N, via N, through N)
 
 Verb moods indicate the way in which a certain action is performed. Think of, "Please would you do this?" versus "Do this!" versus "Are you doing this?" versus "You must do this."
