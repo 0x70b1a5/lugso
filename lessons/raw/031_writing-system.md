@@ -60,6 +60,7 @@ x|k|22
 χ|h|L'
 ɻ|r|1L
 j|y|2L
+n|n|2L'
 
 ![consonants table](/assets/consonants-table.png)
 
@@ -85,8 +86,6 @@ Where there are multiple consonants in the onset or the coda of a syllable, they
 
 This example is nonsense (for now), and a bit cramped, but you can see how on u or i, the top consonant precedes the bottom, and on the o, the left precedes the right.
 
-Note that special cluster **tk** has its own symbol.
-
 ### Mandatory: Loops for disambiguating vowel clusters
 
 Sometimes lone "o" appears in words, for example the name "huoxin" hu+o+xin.
@@ -99,7 +98,7 @@ The small, straight lines here are a shorthand for drafting.
 
 ### Optional: Capping consonants
 
-When a word begins or ends with one consonant (or tk, the special cluster), the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
+When a word begins or ends with one consonant, the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
 
 #### Style 1: Uncapped
 

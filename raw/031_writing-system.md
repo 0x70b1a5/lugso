@@ -6,10 +6,8 @@ order: 3
 ---
 ## Latin alphabet writing system
 
-**IPA**|ɸ|β|f|v|θ|ð|ʃ|ʒ|s|z|ɮ|x|ɣ|χ|j|ɻ|i|u|ʌ
-**Latin**|p|b|f|v|t|n|S|Z|s|z|l|k|g|h|y|r|i|u|o
-
-Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitalize your S's and Z's to avoid confusing them with s's and z's.
+**IPA**|ɸ|β|f|v|θ|ð|ʃ|ʒ|s|z|ɮ|x|ɣ|χ|j|ɻ|i|u|ʌ|n
+**Latin**|p|b|f|v|t|n|5|3|s|z|l|k|g|h|y|r|i|u|o|n
 
 ## Tentacular Abjad
 
@@ -50,8 +48,7 @@ ipa|latin|tentaculary
 f|f|11
 v|v|1'1
 θ|t|2
-θx|tk|222
-ð|d, n|2'
+ð|d|2'
 ʃ|5|12
 ʒ|3|1'2
 s|s|21
@@ -62,6 +59,7 @@ x|k|22
 χ|h|L'
 ɻ|r|1L
 j|y|2L
+n|n|2L'
 
 ![consonants table](/assets/consonants-table.png)
 
@@ -85,8 +83,6 @@ Where there are multiple consonants in the onset or the coda of a syllable, they
 
 This example is nonsense (for now), and a bit cramped, but you can see how on u or i, the top consonant precedes the bottom, and on the o, the left precedes the right.
 
-Note that special cluster **tk** has its own symbol.
-
 ### Mandatory: Loops for disambiguating vowel clusters
 
 Sometimes lone "o" appears in words, for example the name "huoxin" hu+o+xin.
@@ -99,7 +95,7 @@ The small, straight lines here are a shorthand for drafting.
 
 ### Optional: Capping consonants
 
-When a word begins or ends with one consonant (or tk, the special cluster), the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
+When a word begins or ends with one consonant, the consonant can cap the vowel rather than branching off it, **unless that consonant is _b_ or _p_**.
 
 #### Style 1: Uncapped
 
