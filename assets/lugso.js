@@ -36,6 +36,46 @@ const latinate = str => {
 // const splitcol=col.split('\n');
 // const ipacol = splitcol.map(ipaify).join('\n')
 
+const dig = (word, map, wholeRow) => {
+    // words with notes of the pattern 'see X' should furnish X
+    const notes = map[word+'_notes']
+    if (!notes) return ''
+
+    const redirect = notes.match(/^see (.*)/)
+    // -> ['see xyz', 'xyz', index: 4, input: 'see xyz', groups: undefined]
+    if (redirect && redirect[1]) {
+        const eng = redirect[1]
+        // TODO can't redirect to a compound
+        const lugso = map[eng]
+        if (lugso && lugso != '-') {
+            return wholeRow ? {
+                lugso,
+                english: eng,
+                partOfSpeech: map[eng+'_pos'] || eng,
+                notes: map[eng+'_notes'] || ''
+            } : lugso
+        } else if (lugso == '-') {
+            console.log('RECURSION: ', eng)
+            return dig(eng, map, wholeRow)
+        }
+    }
+
+    const pos = map[word+'_pos']
+    const isCompound = pos && pos.includes('compound')
+    if (isCompound) {
+        const lugso = notes.split(/[- ]/)
+            .map(subWord => getWord(subWord, map))
+            .join(pos.includes('*') ? '' : '-')
+        return wholeRow ? {
+            lugso,
+            notes,
+            english: word,
+            partOfSpeech: map[word+'_pos'],
+        } : lugso
+    }
+
+    return ''
+}
 
 // turns gloss into lugso
 const getWord = (word, map, wholeRow) => {
@@ -49,37 +89,8 @@ const getWord = (word, map, wholeRow) => {
         notes: map[word+'_notes'] || ''
     } : w
 
-    // words with notes of the pattern 'see X' should furnish X
-    const notes = map[word+'_notes']
-    if (notes) {
-        const redirect = notes.match(/^see (.*)/)
-        // -> ['see xyz', 'xyz', index: 4, input: 'see xyz', groups: undefined]
-        if (redirect && redirect[1]) {
-            const eng = redirect[1]
-            // TODO can't redirect to a compound
-            const lugso = map[eng]
-            if (lugso) return wholeRow ? {
-                lugso,
-                english: eng,
-                partOfSpeech: map[eng+'_pos'] || eng,
-                notes: map[eng+'_notes'] || ''
-            } : lugso
-        }
-
-        const pos = map[word+'_pos']
-        const isCompound = pos && pos.includes('compound')
-        if (isCompound) {
-            const lugso = notes.split(/[- ]/)
-                .map(subWord => getWord(subWord, map))
-                .join(pos.includes('*') ? '' : '-')
-            return wholeRow ? {
-                lugso,
-                notes,
-                english: word,
-                partOfSpeech: map[word+'_pos'],
-            } : lugso
-        }
-    }
+    const dug = dig(word, map, wholeRow)
+    if (dug) return dug
 
     // otherwise, guess based on includes
     for (let key in map) {

@@ -67,7 +67,7 @@ Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is
 
 ---
 
-**huf-yu zodt lusot -ibso i5 hi lodi toht noso**
+**huf-yu zodt lusot gu5li'ibso i5 hi lodi toht noso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
 
@@ -77,7 +77,7 @@ Notice also that "my mind IS feeble" (**hi lodi toht noso**) is written `small f
 
 ---
 
-**ogi lokir -zi'or -ib**
+**ogi lokir -zi'or gu5li'ib**
 
 `go-IMP place-ACC see-NEG-REL god-PL`
 

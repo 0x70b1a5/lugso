@@ -67,7 +67,7 @@ Notice also that "my mind IS feeble" (**${small feeble mind 1SG-GEN}$**) is writ
 
 ---
 
-${g: go-IMP place-ACC see-NEG-REL god-PL}$
+${g: go-IMP place-ACC sense-NEG-REL god-PL}$
 
 _Go to the place the gods look not._
 

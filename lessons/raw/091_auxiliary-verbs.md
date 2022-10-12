@@ -17,7 +17,7 @@ An _auxiliary verb_ is like English "can", "might". In English they are effectiv
 
 In Lugso, to **wish** to do something, you _dream_ for it. To **want** to do something, you _hunger_ for it. Since Lugso is as always head-initial, the structure is [main verb] [auxiliary verb]. (The difference is partly of degree and partly of kind - dreaming is velleity: intellectual and often milder; hungering is sub-cognitive, visceral, strong.) _To begin to_ do something uses _begin_ as English does.
 
-**fok hu5 ipibir -ibluli**
+**fok hu5 ipibir gu5li'ibluli**
 
 `harvest hunger head-PL-ACC god-PL-BEN`
 
