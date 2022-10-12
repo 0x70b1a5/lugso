@@ -7,11 +7,16 @@ order: 3
 
 ## Phonemic Inventory
 
-Consonants|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|velar|uvular
-|-|-|-|-|-|-|-|-
+The initial idea was for Lugso's gimmick to be "only fricatives", but the wisdom of moderation won the day - it's now just *mostly* fricatives.
+
+Great pains have been taken to preserve the feel and sense of the "big names" like Cthulhu, Yog-Sothoth, Shub-Niggurath, and so on - the conceit is as follows: Lovecraft *heard* these names spoken by real cultists *in Lugso*, and transcribed them into English as we know them. Lugso thus represents *the original language from which the famous monikers were derived.* It is my hope that phonetically, this has been done convincingly.
+
+Consonants|bilabial|labiodental|dental|postalvoelar|alvoelar|alvoelar-lateral|velar|uvular|glottal
+|-|-|-|-|-|-|-|-|-
 fricative|ɸβ|fv|θð|ʃʒ|sz||xɣ|χ
 approximant||||j|ɻ|ɮ|
 nasal|||||n||
+stop|||||||ʔ
 
 Vowels|front|central|back
 |-|-|-
@@ -38,15 +43,13 @@ h|χ|h
 
 \* "t" is a dental stop, so its conversion should be _s_, but _s_ already exists in Lugso, so t becomes θ. Same with d and z - instead, d becomes ð.
 
-Only "tk" exists natively in Lugso as a consonant cluster.
-
 ## Phonotactics
 
 In general: pronounce exactly as written, even if impossible.
 
 Separate duplicate letters with glottal stops. (e.g. ${mortal}$ /${s: mortal}$/ "mortal")
 
-Separate vowels with glottal stops. (e.g. ${organization_human}$ /${s: organization_human}$/ "human organization")
+Separate adjacent vowels with glottal stops (even between letters). (e.g. ${organization_human}$ /${s: organization_human}$/ "human organization")
 
 Brief pauses between words are encouraged.
 

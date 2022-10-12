@@ -61,6 +61,7 @@ async function lugsoifyAll(cb) {
 
     const newV = new Vinyl({
       ...vinyl, 
+      path: vinyl.path.replace(/(\d+)(_[-_\w]+)(\.md$)/, '$1$3'),
       contents: Buffer.from(fileContents, 'utf8') 
     })
 
