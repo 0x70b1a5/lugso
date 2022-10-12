@@ -77,9 +77,9 @@ Notice also that "my mind IS feeble" (**hi lodi toht noso**) is written `small f
 
 ---
 
-**ogi lokir -zi'or gu5li'ib**
+**ogi lokir u3zi'or gu5li'ib**
 
-`go-IMP place-ACC see-NEG-REL god-PL`
+`go-IMP place-ACC sense-NEG-REL god-PL`
 
 _Go to the place the gods look not._
 

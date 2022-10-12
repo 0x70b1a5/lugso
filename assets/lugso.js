@@ -55,7 +55,7 @@ const dig = (word, map, wholeRow) => {
                 notes: map[eng+'_notes'] || ''
             } : lugso
         } else if (lugso == '-') {
-            console.log('RECURSION: ', eng)
+            // console.log('RECURSION: ', eng)
             return dig(eng, map, wholeRow)
         }
     }
