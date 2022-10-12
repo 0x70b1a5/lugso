@@ -6,10 +6,8 @@ order: 3
 ---
 ## Latin alphabet writing system
 
-**IPA**|ɸ|β|f|v|θ|ð|ʃ|ʒ|s|z|ɮ|x|ɣ|χ|j|ɻ|i|u|ʌ
-**Latin**|p|b|f|v|t|n|S|Z|s|z|l|k|g|h|y|r|i|u|o
-
-Capitalization is important! If writing lugso in ALL CAPS, kindly _un_-capitalize your S's and Z's to avoid confusing them with s's and z's.
+**IPA**|ɸ|β|f|v|θ|ð|ʃ|ʒ|s|z|ɮ|x|ɣ|χ|j|ɻ|i|u|ʌ|n
+**Latin**|p|b|f|v|t|n|5|3|s|z|l|k|g|h|y|r|i|u|o|n
 
 ## Tentacular Abjad
 
