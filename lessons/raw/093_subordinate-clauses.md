@@ -42,6 +42,14 @@ _I seek_ + `SUB.reason` + _I find_ = _I seek in order that I find._
 
 _I strike because he surrenders._
 
+---
+
+**sog <span style="color:red">NoWordFo'und:"human_organizati'on"</span>ibug pob'b vo zunkrig rvod 5ifso pob'bzi vo**
+
+`depart human_organization-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX`
+
+_We depart from our mortal families in order to cleave to an undying lineage._
+
 ## With copula in the second sentence
 
 The sub-clause marker appears bare, as with verb moods.

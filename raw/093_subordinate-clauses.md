@@ -38,6 +38,12 @@ ${g: strike 1SG surrender-SUB.purpose 3SG}$
 
 _I strike because he surrenders._
 
+---
+
+${g: depart human_organization-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX}$
+
+_We depart from our mortal families in order to cleave to an undying lineage._
+
 ## With copula in the second sentence
 
 The sub-clause marker appears bare, as with verb moods.

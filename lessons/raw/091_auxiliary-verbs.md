@@ -41,7 +41,7 @@ _Finally, I begin to die._
 
 ---
 
-**huf yog vgov lugir gu5-li'ibso sotibso no**
+**huf yog vgov lugir gu5li'ibso sotibso no**
 
 `consume knowledge can blood-ACC deity_intelligent-PL-GEN thought-PL-GEN 1SG`
 

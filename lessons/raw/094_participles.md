@@ -19,7 +19,7 @@ Participles are like adjectives. A participle derives from a verb to create a de
 
 This participle indicates that the subject actively peformed the action.
 
-**hot't fupzuv3 tlu-li lobyo**
+**hot't fupzuv3 tluli lobyo**
 
 `dig earth-PROL deity_bestial speak-PTCP.PAST.ACT`
 

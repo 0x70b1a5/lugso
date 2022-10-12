@@ -56,7 +56,7 @@ _Cthulhu accepts this victim._
 
 The indicative is necessary when a _copula_ forms an ambiguous sentence.
 
-**vtu3ut pus'so noso toy fhtogn-'n-i yud noso**
+**vtu3ut pus'so noso toy fhtogn'ni yud noso**
 
 `song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN`
 
@@ -64,13 +64,13 @@ _Song of my soul, my voice is dead._
 
 #### WRONG
 
-**vtu3ut pus'so noso fhtogn-'n-i yud noso**
+**vtu3ut pus'so noso fhtogn'ni yud noso**
 
 `song-VOC soul-GEN 1SG-GEN dead voice 1SG-GEN`
 
 ~~_O Song of my dead soul, [you are] my voice._~~
 
-The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3ut pus'so noso fhtogn-'n-i) (yud noso), since the adjective **fhtogn-'n-i** follows the noun **pus'so noso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3ut pus'so noso) **toy** (fhtogn-'n-i (yud noso)).
+The fact that Lugso's copula is implicit means that the sentence is interpreted as (vtu3ut pus'so noso fhtogn'ni) (yud noso), since the adjective **fhtogn'ni** follows the noun **pus'so noso**. Hence, the indicative "attaches" to the _implicit copula_, making its position explicit: (vtu3ut pus'so noso) **toy** (fhtogn'ni (yud noso)).
 
 You'll notice indicative is almost always needed where the _Vocative Noun Case_ is used in combination with a copula. O English, when using you, we insert a comma to separate the addressee of the sentence; but Lugso does not have commas.
 
@@ -78,7 +78,7 @@ You'll notice indicative is almost always needed where the _Vocative Noun Case_ 
 
 The above examples are ambiguous because of the implicit copula combined with an addressee at the beginning of the utterance. If you prefer, you can move the addressee to the end of the utterance to eliminate the ambiguity, since Lugso word order is often (but not always) malleable.
 
-**fhtogn-'n-i yud noso vtu3ut pus'so noso**
+**fhtogn'ni yud noso vtu3ut pus'so noso**
 
 `dead voice 1SG-GEN song-VOC soul-GEN 1SG-GEN`
 

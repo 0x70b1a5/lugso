@@ -57,8 +57,22 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **${CONJ.but}$**:
 
+---
+
 ${g: learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN}$
 
 _I wish to learn the language of gods, but my mind is small and feeble._
 
 Notice also that "my mind IS feeble" (**${small feeble mind 1SG-GEN}$**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **${mind small feeble 1SG-GEN}$** `mind small feeble 1SG-GEN`.
+
+---
+
+${g: go-IMP place-ACC see-NEG-REL god-PL}$
+
+_Go to the place the gods look not._
+
+---
+
+${g: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful/strange death EMPH}$
+
+_That is not dead which can eternal lie, and with strange aeons even death may die._

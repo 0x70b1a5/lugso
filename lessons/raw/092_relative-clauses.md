@@ -65,6 +65,8 @@ _Strange is the night, and strange moons circle through the skies._
 
 Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **i5**:
 
+---
+
 **huf-yu zodt lusot -ibso i5 hi lodi toht noso**
 
 `learn dream system-thought god-PL-GEN CONJ.but small feeble mind 1SG-GEN`
@@ -72,3 +74,19 @@ Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is
 _I wish to learn the language of gods, but my mind is small and feeble._
 
 Notice also that "my mind IS feeble" (**hi lodi toht noso**) is written `small feeble mind 1SG-GEN`, whereas "my small, feeble mind" (which is _not_ a complete sentence) is formed **toht hi lodi noso** `mind small feeble 1SG-GEN`.
+
+---
+
+**ogi lokir -zi'or -ib**
+
+`go-IMP place-ACC see-NEG-REL god-PL`
+
+_Go to the place the gods look not._
+
+---
+
+**fhtogn'nizi ivol rki'or vgov supuv fhtognu vgov itgibzki <span style="color:red">NoWordFo'und:"beautiful/strange"</span> fhtog yiy**
+
+`dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful/strange death EMPH`
+
+_That is not dead which can eternal lie, and with strange aeons even death may die._

@@ -9,12 +9,12 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-idiot|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ-ix-zʌn'>🔈</button> <span class='ipa'>ɣuʃ-ix-zʌn</span> </span>|gu5-ik-zon|sentient-DIM-NMLZ.DER
+idiot|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃixzʌn'>🔈</button> <span class='ipa'>ɣuʃixzʌn</span> </span>|gu5ikzon|sentient-DIM-NMLZ.DER
 AUG|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θux'>🔈</button> <span class='ipa'>θux</span> </span>|tuk|augmentative (more - than)
 DIM|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ix'>🔈</button> <span class='ipa'>ix</span> </span>|ik|diminutive (less - than)
 SUPER|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮi'>🔈</button> <span class='ipa'>ɮi</span> </span>|li|superlative suffix
-deity_bestial|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮu-ɮi'>🔈</button> <span class='ipa'>θɮu-ɮi</span> </span>|tlu-li|beast-SUPER
-deity_intelligent|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃ-ɮi'>🔈</button> <span class='ipa'>ɣuʃ-ɮi</span> </span>|gu5-li|sentient-SUPER
+deity_bestial|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮuɮi'>🔈</button> <span class='ipa'>θɮuɮi</span> </span>|tluli|beast-SUPER
+deity_intelligent|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃɮi'>🔈</button> <span class='ipa'>ɣuʃɮi</span> </span>|gu5li|sentient-SUPER
 NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌn'>🔈</button> <span class='ipa'>zʌn</span> </span>|zon|the act of verbing
 NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌβ'>🔈</button> <span class='ipa'>zʌβ</span> </span>|zob|the one who verbs
 NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌf'>🔈</button> <span class='ipa'>zʌf</span> </span>|zof|the one who is verbed
@@ -132,6 +132,6 @@ _prettier, weirder_ **oldri5tuk**
 
 #### ik: "less ... than"
 
-_less dead_ **fhtogn-'n-i'ik**
+_less dead_ **fhtogn'ni'ik**
 
 _less far_ **botutik**

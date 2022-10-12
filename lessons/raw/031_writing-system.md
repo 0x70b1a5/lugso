@@ -69,7 +69,7 @@ j|y|2L
 
 The syllables have been hyphenated to assist you in seeing the breakdown.
 
-**lugso gu5-li'ibso sotso**
+**lugso gu5li'ibso sotso**
 
 `blood-GEN deity_intelligent-PL-GEN thought-GEN`
 

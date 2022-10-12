@@ -66,9 +66,12 @@ const getWord = (word, map, wholeRow) => {
             } : lugso
         }
 
-        const isCompound = map[word+'_pos'] && map[word+'_pos'].includes('compound')
+        const pos = map[word+'_pos']
+        const isCompound = pos && pos.includes('compound')
         if (isCompound) {
-            const lugso = notes.split(/[- ]/).map(subWord => getWord(subWord, map)).join('-')
+            const lugso = notes.split(/[- ]/)
+                .map(subWord => getWord(subWord, map))
+                .join(pos.includes('*') ? '' : '-')
             return wholeRow ? {
                 lugso,
                 notes,
