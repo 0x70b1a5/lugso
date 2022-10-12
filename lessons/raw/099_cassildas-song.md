@@ -47,7 +47,7 @@ _Along the shore the cloud waves break._
 
 `dissipate shore-LOC wave-PL gas-blood-sky`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"ðisʔsiɸʌθʌ"</sɸʌn> juxʃix ɻʌθiβ sfuɮuɣʃxi'>🔈</button> <span class='ipa'><sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"ðisʔsiɸʌθʌ"</sɸʌn> juxʃix ɻʌθiβ sfuɮuɣʃxi</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='<sɸʌn sθjɮə="cʌɮʌɻ:ɻəð">NʌWʌɻðFʌʔunð:"ðisʔsiɸʌθə"</sɸʌn> juxʃix ɻʌθiβ sfuɮuɣʃxi'>🔈</button> <span class='ipa'><sɸʌn sθjɮə="cʌɮʌɻ:ɻəð">NʌWʌɻðFʌʔunð:"ðisʔsiɸʌθə"</sɸʌn> juxʃix ɻʌθiβ sfuɮuɣʃxi</span> </span>
 
 ---
 

@@ -136,7 +136,7 @@ _Why is the child mercurial?_
 
 #### "when": Temporal + Q
 
-**fiht'tgi zki5u yols**
+**fiht zki5u yols**
 
 `change TEMP-Q child`
 

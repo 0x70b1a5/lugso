@@ -4,7 +4,7 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 // turns latin text into IPA
 const ipamap = {
     'a':'ʌ',
-    'e':'ʌ',
+    'e':'ə', //'ʌ',
     'o':'ʌ',
     'b':'β',
     'p':'ɸ',
