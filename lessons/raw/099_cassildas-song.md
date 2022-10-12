@@ -43,11 +43,11 @@ Lost Carcosa.
 
 _Along the shore the cloud waves break._
 
-**zkiy5 yuk5ik rotib sfulug5ki**
+**<span style="color:red">NoWordFo'und:"dis'sipate"</span> yuk5ik rotib sfulug5ki**
 
 `dissipate shore-LOC wave-PL gas-blood-sky`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='zxijʃ juxʃix ɻʌθiβ sfuɮuɣʃxi'>🔈</button> <span class='ipa'>zxijʃ juxʃix ɻʌθiβ sfuɮuɣʃxi</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='<sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"ðisʔsiɸʌθʌ"</sɸʌn> juxʃix ɻʌθiβ sfuɮuɣʃxi'>🔈</button> <span class='ipa'><sɸʌn sθjɮʌ="cʌɮʌɻ:ɻʌð">NʌWʌɻðFʌʔunð:"ðisʔsiɸʌθʌ"</sɸʌn> juxʃix ɻʌθiβ sfuɮuɣʃxi</span> </span>
 
 ---
 
@@ -123,8 +123,8 @@ _Song of my soul, my voice is dead;_
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-**fhtogngi do'ut vto5zi5 krotzriy fhtogn lugoko'ib ilz'zi5 korkoso5ik tsolzof**
+**fhtogngi do'ut vto5zi5 krotznriy fhtogn lugoko'ib ilz'zi5 korkoso5ik tsolzof**
 
 `sleep-IMP 2SG-VOC sing-PTCP.NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient`
 
-<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ xɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃix θsʌɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ xɻʌθzɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃix θsʌɮzʌf</span> </span>
+<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ xɻʌθznɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃix θsʌɮzʌf'>🔈</button> <span class='ipa'>fχθʌɣnɣi ðʌʔuθ vθʌʃziʃ xɻʌθznɻij fχθʌɣn ɮuɣʌxʌʔiβ iɮzʔziʃ xʌɻxʌsʌʃix θsʌɮzʌf</span> </span>

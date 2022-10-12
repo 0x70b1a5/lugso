@@ -13,7 +13,7 @@ dream|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌ
 tremble|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌɸz'>🔈</button> <span class='ipa'>ʌɸz</span> </span>|opz|
 certain|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='zvʌjɣ'>🔈</button> <span class='ipa'>zvʌjɣ</span> </span>|zvoyg|
 voice|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='juð'>🔈</button> <span class='ipa'>juð</span> </span>|yud|
-dry|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='xɻʌθz'>🔈</button> <span class='ipa'>xɻʌθz</span> </span>|krotz|
+dry|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xɻʌθz'>🔈</button> <span class='ipa'>xɻʌθz</span> </span>|krotz|
 heretic|N|<span class='spoken'> <button class='speak' type='button' data-ipa='isv'>🔈</button> <span class='ipa'>isv</span> </span>|isv|
 hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθʔθ'>🔈</button> <span class='ipa'>xuθʔθ</span> </span>|kut't|
 consummate|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='xβiθɸ'>🔈</button> <span class='ipa'>xβiθɸ</span> </span>|kbitp|
@@ -112,7 +112,7 @@ _Where do the uncertain voices tremble?_
 
 #### "how": Instrumental + Q
 
-**krotz if'fo5u isvib kut't do**
+**krotzn if'fo5u isvib kut't do**
 
 `dessicate INS-Q heretic-PL hidden 2SG`
 
