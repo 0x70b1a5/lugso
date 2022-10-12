@@ -10,20 +10,20 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 PRV|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='inʃ'>🔈</button> <span class='ipa'>inʃ</span> </span>|in5|privative case ("N-less", without N)
-corpse|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣvifn-fχθəɣni'>🔈</button> <span class='ipa'>ɣvifn-fχθəɣni</span> </span>|gvifn-fhtogni|body sleeping
+corpse|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣvifn-fχθʌɣni'>🔈</button> <span class='ipa'>ɣvifn-fχθʌɣni</span> </span>|gvifn-fhtogni|body sleeping
 deity_intelligent|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃɮi'>🔈</button> <span class='ipa'>ɣuʃɮi</span> </span>|gu5li|sentient-SUPER
-house|N|<span class='spoken'> <button class='speak' type='button' data-ipa='uɣənəɣɮ'>🔈</button> <span class='ipa'>uɣənəɣɮ</span> </span>|ugonogl|wgah'nagl
+house|N|<span class='spoken'> <button class='speak' type='button' data-ipa='uɣʌnʌɣɮ'>🔈</button> <span class='ipa'>uɣʌnʌɣɮ</span> </span>|ugonogl|wgah'nagl
 learn|VB compound|<span class='spoken'> <button class='speak' type='button' data-ipa='χuf-ju'>🔈</button> <span class='ipa'>χuf-ju</span> </span>|huf-yu|consume knowledge
 milk|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θʒuχ'>🔈</button> <span class='ipa'>θʒuχ</span> </span>|t3uh|
 name|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-ɸus'>🔈</button> <span class='ipa'>zujn-ɸus</span> </span>|zuyn-pus|symbol-soul
 ocean|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣiɮʔɮið-χɸiʃ'>🔈</button> <span class='ipa'>ɣiɮʔɮið-χɸiʃ</span> </span>|gil'lid-hpi5|water_body-space
 organ|N|<span class='spoken'> <button class='speak' type='button' data-ipa='viɣ'>🔈</button> <span class='ipa'>viɣ</span> </span>|vig|
 pact|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɣuʃɮi'>🔈</button> <span class='ipa'>βuɮ-ɣuʃɮi</span> </span>|bul-gu5li|contract-deity_intelligent
-promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸəβʔβ'>🔈</button> <span class='ipa'>βuɮ-ɸəβʔβ</span> </span>|bul-pob'b|contract-mortal
-speech|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮəzən'>🔈</button> <span class='ipa'>ɮəzən</span> </span>|lozon|speak-NMLZ.DER.act
-sun|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ-uɣənəɣɮ'>🔈</button> <span class='ipa'>ɮiχ-uɣənəɣɮ</span> </span>|lih-ugonogl|star-home
+promise|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='βuɮ-ɸʌβʔβ'>🔈</button> <span class='ipa'>βuɮ-ɸʌβʔβ</span> </span>|bul-pob'b|contract-mortal
+speech|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮʌzʌn'>🔈</button> <span class='ipa'>ɮʌzʌn</span> </span>|lozon|speak-NMLZ.DER.act
+sun|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ-uɣʌnʌɣɮ'>🔈</button> <span class='ipa'>ɮiχ-uɣʌnʌɣɮ</span> </span>|lih-ugonogl|star-home
 water|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮuɣ-ʃxi'>🔈</button> <span class='ipa'>ɮuɣ-ʃxi</span> </span>|lug-5ki|blood-sky
-word|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-səθ'>🔈</button> <span class='ipa'>zujn-səθ</span> </span>|zuyn-sot|symbol-thought
+word|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='zujn-sʌθ'>🔈</button> <span class='ipa'>zujn-sʌθ</span> </span>|zuyn-sot|symbol-thought
 
 A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "fire truck".
 

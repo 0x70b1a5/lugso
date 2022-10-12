@@ -7,22 +7,22 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-INT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='əχ'>🔈</button> <span class='ipa'>əχ</span> </span>|oh|interrogative mood  - is ...? did X ...?
+INT|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌχ'>🔈</button> <span class='ipa'>ʌχ</span> </span>|oh|interrogative mood  - is ...? did X ...?
 Q|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ʃu'>🔈</button> <span class='ipa'>ʃu</span> </span>|5u|turns a word into a question
-dream|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zəðθ'>🔈</button> <span class='ipa'>zəðθ</span> </span>|zodt|also "wish to"
-tremble|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='əɸz'>🔈</button> <span class='ipa'>əɸz</span> </span>|opz|
-certain|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='zvəjɣ'>🔈</button> <span class='ipa'>zvəjɣ</span> </span>|zvoyg|
+dream|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌðθ'>🔈</button> <span class='ipa'>zʌðθ</span> </span>|zodt|also "wish to"
+tremble|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ʌɸz'>🔈</button> <span class='ipa'>ʌɸz</span> </span>|opz|
+certain|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='zvʌjɣ'>🔈</button> <span class='ipa'>zvʌjɣ</span> </span>|zvoyg|
 voice|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='juð'>🔈</button> <span class='ipa'>juð</span> </span>|yud|
-dry|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xɻəθz'>🔈</button> <span class='ipa'>xɻəθz</span> </span>|krotz|
+dry|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xɻʌθz'>🔈</button> <span class='ipa'>xɻʌθz</span> </span>|krotz|
 heretic|N|<span class='spoken'> <button class='speak' type='button' data-ipa='isv'>🔈</button> <span class='ipa'>isv</span> </span>|isv|
 hidden|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='xuθʔθ'>🔈</button> <span class='ipa'>xuθʔθ</span> </span>|kut't|
 consummate|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='xβiθɸ'>🔈</button> <span class='ipa'>xβiθɸ</span> </span>|kbitp|
 DET.PROX|PART|<span class='spoken'> <button class='speak' type='button' data-ipa='iviχ'>🔈</button> <span class='ipa'>iviχ</span> </span>|ivih|proximal determinant (this)
-DET.DIST|PART|<span class='spoken'> <button class='speak' type='button' data-ipa='ivəɮ'>🔈</button> <span class='ipa'>ivəɮ</span> </span>|ivol|distal determinant (that)
+DET.DIST|PART|<span class='spoken'> <button class='speak' type='button' data-ipa='ivʌɮ'>🔈</button> <span class='ipa'>ivʌɮ</span> </span>|ivol|distal determinant (that)
 seek|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ɻiɮs'>🔈</button> <span class='ipa'>ɻiɮs</span> </span>|rils|
-come|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zfəj'>🔈</button> <span class='ipa'>zfəj</span> </span>|zfoy|
+come|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='zfʌj'>🔈</button> <span class='ipa'>zfʌj</span> </span>|zfoy|
 mercurial|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='fiχ'>🔈</button> <span class='ipa'>fiχ</span> </span>|fih|
-child|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jəɮs'>🔈</button> <span class='ipa'>jəɮs</span> </span>|yols|
+child|N|<span class='spoken'> <button class='speak' type='button' data-ipa='jʌɮs'>🔈</button> <span class='ipa'>jʌɮs</span> </span>|yols|
 
 ## Simple questions
 

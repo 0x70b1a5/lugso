@@ -9,32 +9,32 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-idiot|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃixzən'>🔈</button> <span class='ipa'>ɣuʃixzən</span> </span>|gu5ikzon|sentient-DIM-NMLZ.DER
+idiot|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃixzʌn'>🔈</button> <span class='ipa'>ɣuʃixzʌn</span> </span>|gu5ikzon|sentient-DIM-NMLZ.DER
 AUG|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='θux'>🔈</button> <span class='ipa'>θux</span> </span>|tuk|augmentative (more - than)
 DIM|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ix'>🔈</button> <span class='ipa'>ix</span> </span>|ik|diminutive (less - than)
 SUPER|ADJ suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮi'>🔈</button> <span class='ipa'>ɮi</span> </span>|li|superlative suffix
 deity_bestial|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='θɮuɮi'>🔈</button> <span class='ipa'>θɮuɮi</span> </span>|tluli|beast-SUPER
 deity_intelligent|N compound*|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣuʃɮi'>🔈</button> <span class='ipa'>ɣuʃɮi</span> </span>|gu5li|sentient-SUPER
-NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zən'>🔈</button> <span class='ipa'>zən</span> </span>|zon|the act of verbing
-NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zəβ'>🔈</button> <span class='ipa'>zəβ</span> </span>|zob|the one who verbs
-NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zəf'>🔈</button> <span class='ipa'>zəf</span> </span>|zof|the one who is verbed
+NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌn'>🔈</button> <span class='ipa'>zʌn</span> </span>|zon|the act of verbing
+NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌβ'>🔈</button> <span class='ipa'>zʌβ</span> </span>|zob|the one who verbs
+NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌf'>🔈</button> <span class='ipa'>zʌf</span> </span>|zof|the one who is verbed
 ADJ.DER|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='i'>🔈</button> <span class='ipa'>i</span> </span>|i|adjectivizing suffix
 ADV.DER|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='uv'>🔈</button> <span class='ipa'>uv</span> </span>|uv|-ly
 VB.DER|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='n'>🔈</button> <span class='ipa'>n</span> </span>|n|verb-izing suffix
 great|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='juɣ'>🔈</button> <span class='ipa'>juɣ</span> </span>|yug|
-distant|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='βəθuθ'>🔈</button> <span class='ipa'>βəθuθ</span> </span>|botut|
+distant|ADJ|<span class='spoken'> <button class='speak' type='button' data-ipa='βʌθuθ'>🔈</button> <span class='ipa'>βʌθuθ</span> </span>|botut|
 gorge|VT|<span class='spoken'> <button class='speak' type='button' data-ipa='χʒunβ'>🔈</button> <span class='ipa'>χʒunβ</span> </span>|h3unb|
-parasite|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸəɮ-xux'>🔈</button> <span class='ipa'>ɸəɮ-xux</span> </span>|pol-kuk|follower-food
+parasite|N compound|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ-xux'>🔈</button> <span class='ipa'>ɸʌɮ-xux</span> </span>|pol-kuk|follower-food
 food|N|<span class='spoken'> <button class='speak' type='button' data-ipa='xux'>🔈</button> <span class='ipa'>xux</span> </span>|kuk|
-follower|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸəɮ'>🔈</button> <span class='ipa'>ɸəɮ</span> </span>|pol|
-priest|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θuʃə'>🔈</button> <span class='ipa'>θuʃə</span> </span>|tu5o|
+follower|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɸʌɮ'>🔈</button> <span class='ipa'>ɸʌɮ</span> </span>|pol|
+priest|N|<span class='spoken'> <button class='speak' type='button' data-ipa='θuʃʌ'>🔈</button> <span class='ipa'>θuʃʌ</span> </span>|tu5o|
 PRV|N suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='inʃ'>🔈</button> <span class='ipa'>inʃ</span> </span>|in5|privative case ("N-less", without N)
 revolve|VB|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮni'>🔈</button> <span class='ipa'>ɮni</span> </span>|lni|circle, encircle
-thought|N|<span class='spoken'> <button class='speak' type='button' data-ipa='səθ'>🔈</button> <span class='ipa'>səθ</span> </span>|sot|
+thought|N|<span class='spoken'> <button class='speak' type='button' data-ipa='sʌθ'>🔈</button> <span class='ipa'>sʌθ</span> </span>|sot|
 servant|N|<span class='spoken'> <button class='speak' type='button' data-ipa='fβuʃ'>🔈</button> <span class='ipa'>fβuʃ</span> </span>|fbu5|
 snake|N|<span class='spoken'> <button class='speak' type='button' data-ipa='snuɮʔɮ'>🔈</button> <span class='ipa'>snuɮʔɮ</span> </span>|snul'l|limbless organism
 solid|N|<span class='spoken'> <button class='speak' type='button' data-ipa='βinʃ'>🔈</button> <span class='ipa'>βinʃ</span> </span>|bin5|
-way|N|<span class='spoken'> <button class='speak' type='button' data-ipa='zəθ'>🔈</button> <span class='ipa'>zəθ</span> </span>|zot|path, road
+way|N|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌθ'>🔈</button> <span class='ipa'>zʌθ</span> </span>|zot|path, road
 
 ### Part-of-speech affixes
 
@@ -52,9 +52,9 @@ Lugso has three noun-ifying ("nominalizing") derivational affixes: one for the _
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zən'>🔈</button> <span class='ipa'>zən</span> </span>|zon|the act of verbing
-NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zəβ'>🔈</button> <span class='ipa'>zəβ</span> </span>|zob|the one who verbs
-NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zəf'>🔈</button> <span class='ipa'>zəf</span> </span>|zof|the one who is verbed
+NMLZ.DER.act|suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌn'>🔈</button> <span class='ipa'>zʌn</span> </span>|zon|the act of verbing
+NMLZ.DER.agent|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌβ'>🔈</button> <span class='ipa'>zʌβ</span> </span>|zob|the one who verbs
+NMLZ.DER.patient|VB suffix|<span class='spoken'> <button class='speak' type='button' data-ipa='zʌf'>🔈</button> <span class='ipa'>zʌf</span> </span>|zof|the one who is verbed
 
 **pob'bzon**
 

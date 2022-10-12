@@ -9,7 +9,7 @@ order: 2
 
 `dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH`
 
-/<span class='spoken'> <button class='speak' type='button' data-ipa='fχθəɣnʔnizi ivəɮ ɻxiʔəɻ vɣəv suɸuv fχθəɣnɮʃiʔu vɣəv iθɣiβzxi əɮðɻiʃ fχθəɣ jij'>🔈</button> <span class='ipa'>fχθəɣnʔnizi ivəɮ ɻxiʔəɻ vɣəv suɸuv fχθəɣnɮʃiʔu vɣəv iθɣiβzxi əɮðɻiʃ fχθəɣ jij</span> </span>/
+/<span class='spoken'> <button class='speak' type='button' data-ipa='fχθʌɣnʔnizi ivʌɮ ɻxiʔʌɻ vɣʌv suɸuv fχθʌɣnɮʃiʔu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij'>🔈</button> <span class='ipa'>fχθʌɣnʔnizi ivʌɮ ɻxiʔʌɻ vɣʌv suɸuv fχθʌɣnɮʃiʔu vɣʌv iθɣiβzxi ʌɮðɻiʃ fχθʌɣ jij</span> </span>/
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 

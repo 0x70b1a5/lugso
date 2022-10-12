@@ -10,7 +10,7 @@ order: 3
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 master|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɣiʃ'>🔈</button> <span class='ipa'>ɣiʃ</span> </span>|gi5|
-music|N|<span class='spoken'> <button class='speak' type='button' data-ipa='fɻəɣ'>🔈</button> <span class='ipa'>fɻəɣ</span> </span>|frog|
+music|N|<span class='spoken'> <button class='speak' type='button' data-ipa='fɻʌɣ'>🔈</button> <span class='ipa'>fɻʌɣ</span> </span>|frog|
 servant|N|<span class='spoken'> <button class='speak' type='button' data-ipa='fβuʃ'>🔈</button> <span class='ipa'>fβuʃ</span> </span>|fbu5|
 secret|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮij'>🔈</button> <span class='ipa'>ɮij</span> </span>|liy|
 star|N|<span class='spoken'> <button class='speak' type='button' data-ipa='ɮiχ'>🔈</button> <span class='ipa'>ɮiχ</span> </span>|lih|
