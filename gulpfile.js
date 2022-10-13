@@ -28,7 +28,7 @@ async function lugsoifyAll(cb) {
     if (matches.length) {
       const map = rowsToMap(rows)
       for (const match of matches) {
-        let meat = match[1]
+        let meat = match[1].trim()
         const sliced = meat.split(' ')
         const slice0 = sliced[0]
         const slice1 = sliced[1] 
@@ -58,8 +58,6 @@ async function lugsoifyAll(cb) {
         fileContents = fileContents.replace(/\${(.*?)}\$/, out)
       }
     }
-
-    if (fileContents.includes('NoWordFo\'und')) throw 'NWF in '+vinyl.path
 
     const newV = new Vinyl({
       ...vinyl, 

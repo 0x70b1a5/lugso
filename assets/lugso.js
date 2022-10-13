@@ -102,7 +102,7 @@ const getWord = (word, map, wholeRow) => {
         } : map[key]
     }
 
-    return '<span style="color:red">NoWordFound:"'+word+'"</span>'
+    throw 'No word found: '+word
 }
 
 const getSheet = async () => {
