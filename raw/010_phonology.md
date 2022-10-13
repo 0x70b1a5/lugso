@@ -21,7 +21,9 @@ stop|||||||ʔ
 Vowels|front|central|back
 |-|-|-
 high|i||u
-mid||ʌ
+mid||ʌ/ə
+
+ʌ/ə is the same phoneme, but ʌ is stressed and ə is unstressed. 
 
 ### Importing names from English - rules for special sounds
 
@@ -40,6 +42,9 @@ r|ɻ|r
 k|x|k
 g|ɣ|g
 h|χ|h
+u|u|u
+i|i|i
+a/o|ʌ|o
 
 \* "t" is a dental stop, so its conversion should be _s_, but _s_ already exists in Lugso, so t becomes θ. Same with d and z - instead, d becomes ð.
 

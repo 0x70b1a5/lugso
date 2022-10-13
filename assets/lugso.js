@@ -13,7 +13,7 @@ const ipamap = {
     '5':'ʃ',
     '3':'ʒ',
     'l':'ɮ',
-    'k':'x',
+    'x':'x',
     'g':'ɣ',
     'h':'χ',
     'y':'j',
@@ -24,7 +24,12 @@ const ipamap = {
 const speak = s => `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span> </span>`
 
 const ipaify = (str, html) => {
-    const s = str ? str.split('').map(char => ipamap[char] || char).join('') : ''
+    const s = str 
+        ? str.split('')
+            .map(char => ipamap[char] || char)
+            // only the first syllable is stressed
+            .reduce((acc, cur) => acc+(cur == 'ʌ' && acc.match(/uiʌ/) ? 'ə' : cur)) 
+        : ''
     if (!s || s == '-') return ''
     return html ? speak(s) : s
 }
