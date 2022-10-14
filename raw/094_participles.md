@@ -5,9 +5,8 @@ hide: true
 order: 3
 ---
 
-## Participles
-
 English|Part of Speech|IPA|Lugso|Comments
+|-|-|-|-
 ${r: PTCP.NEG}$
 ${r: PTCP.PAST.ACT}$
 ${r: PTCP.PAST.PASS}$

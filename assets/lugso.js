@@ -125,7 +125,7 @@ const getWord = (word, map, wholeRow) => {
         } : map[key]
     }
 
-    throw 'No word found: '+word
+    throw `Word ${word} not found`
 }
 
 const getSheet = async () => {

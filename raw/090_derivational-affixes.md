@@ -125,3 +125,9 @@ _prettier, weirder_ **${weird-AUG}$**
 _less dead_ **${dead-DIM}$**
 
 _less far_ **${far-DIM}$**
+
+####  ${PRV}$: "-less", "without ..."
+
+${g: wilt throb-NMLZ.DER.act-COM heart-GEN blood-PRV soul 1SG-GEN}$
+
+_My soul wilts at the throbbing of the bloodless heart._

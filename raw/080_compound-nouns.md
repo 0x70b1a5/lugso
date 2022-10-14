@@ -9,7 +9,6 @@ order: 3
 
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
-${r: PRV}$
 ${r: corpse}$
 ${r: deity_intelligent}$
 ${r: house}$
