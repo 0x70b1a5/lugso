@@ -27,8 +27,9 @@ const ipaify = (str, html) => {
     const s = str 
         ? str.split('')
             .map(char => ipamap[char] || char)
+            .join('')
             // only the first syllable is stressed
-            .reduce((acc, cur) => acc+(cur == 'ʌ' && acc.match(/uiʌ/) ? 'ə' : cur)) 
+            .replace(/ʌ/g, 'ə').replace('ə','ʌ')
         : ''
     if (!s || s == '-') return ''
     return html ? speak(s) : s

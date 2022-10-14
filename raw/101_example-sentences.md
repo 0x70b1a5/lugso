@@ -1,7 +1,7 @@
 ---
 hide: true
 permalink: /example-sentences/
-title: Example sentences
+title: Example Sentences
 order: 4
 ---
 
