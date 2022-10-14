@@ -84,11 +84,11 @@ ${g: satisfy-NMLZ.DER.act 1SG-POSS}$
 
 _Satisfaction is mine._
 
-#### non-verb -> noun
+#### -${NMLZ.DER.act}$ non-verb -> noun
 
 For nominalizing a non-verb, you can also use **-${NMLZ.DER.act}$** - e.g. _blackness_ **${black-NMLZ.DER.act}$** (lit. "the act of black").
 
-#### non-adj -> adj
+#### -${ADJ.DER}$: non-adj -> adj
 
 _death-ly_* **${death-ADJ.DER}$**
 
@@ -100,9 +100,13 @@ _servile (servant-ish)_ **${servant-ADJ.DER}$**
 
 _unpriestlike_ **${priest-ADJ.DER-NEG}$**
 
-\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **fbuyb** is only used for the _first_ kind of part-of-speech transformation.
+\* Note that English actually has two different _-ly_ words: one turns nouns into adjectives, like _deathly_, and the other turns adjectives into adverbs, like _hugely_ or _roughly_. **${ADJ.DER}$** is only used for the _first_ kind of part-of-speech transformation.
 
-#### non-adv -> adv
+#### -${ADV.DER}$: non-adv -> adv
+
+Adverbs modify verbs. I can run, or I can run _quickly_. 
+
+Any noun or adjective can be converted into an adverb with **-${ADV.DER}$**. 
 
 _solid-ly_  **${solid-ADV.DER}$**
 
@@ -131,3 +135,13 @@ _less far_ **${far-DIM}$**
 ${g: wilt throb-NMLZ.DER.act-COM heart-GEN blood-PRV soul 1SG-GEN}$
 
 _My soul wilts at the throbbing of the bloodless heart._
+
+---
+
+You may also use these for non-adjectives to indicate nouns that are smaller or larger than usual, like Spanish "-ito".
+
+_a little helper_ ${help-NMLZ.DER.agent-DIM}$ 
+
+_a big fish_ ${beast--liquid-AUG}$
+
+_a friend_ - `follower-AUG` ${follower-AUG}$
