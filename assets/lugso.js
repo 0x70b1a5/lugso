@@ -25,11 +25,28 @@ const speak = s => `<span class='spoken'> <button class='speak' type='button' da
 
 const ipaify = (str, html) => {
     const s = str 
-        ? str.split('')
+        ? str.split(' ').map(word => word.split('')
             .map(char => ipamap[char] || char)
-            .join('')
-            // only the first syllable is stressed
-            .replace(/ʌ/g, 'ə').replace('ə','ʌ')
+            .join(''))
+            .map(ipaWord => {
+                // only the first syllable is stressed
+                // convert all ʌ after the first vowel into ə
+                const w = ipaWord.split('')
+                let l = ''
+                let firstVowel = false
+                for (let i = 0; i < w.length; i++) {
+                    if (firstVowel && w[i] == 'ʌ') {
+                        l += 'ə'
+                    } else {
+                        l += w[i]
+                    }
+                    if (w[i].match(/[uiʌ]/)) {
+                        firstVowel = true
+                    }
+                }
+                return l
+            })
+        .join(' ')
         : ''
     if (!s || s == '-') return ''
     return html ? speak(s) : s
