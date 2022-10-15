@@ -32,7 +32,8 @@ function lugsify(contents, rows) {
     let out = ''
     if (slice0 == 'g:') { 
       const rest = meat.slice(3)
-      out = `**${glossToLugso(rest, map)}**
+      const lugso = glossToLugso(rest, map)
+      out = `**${speak(lugso, true)} ${lugso}**
 
 \`${rest}\``
     } else if (slice0 == 'r:') {

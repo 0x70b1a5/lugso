@@ -140,8 +140,8 @@ _My soul wilts at the throbbing of the bloodless heart._
 
 You may also use these for non-adjectives to indicate nouns that are smaller or larger than usual, like Spanish "-ito".
 
-_a little helper_ ${help-NMLZ.DER.agent-DIM}$ 
+_a little helper_ **${help-NMLZ.DER.agent-DIM}$** 
 
-_a big fish_ ${beast--liquid-AUG}$
+_a big fish_ **${beast--liquid-AUG}$**
 
-_a friend_ - `follower-AUG` ${follower-AUG}$
+_a friend_ - `follower-AUG` **${follower-AUG}$**

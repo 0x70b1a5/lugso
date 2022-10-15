@@ -21,7 +21,7 @@ const ipamap = {
     "'":'ʔ',
 };
 
-const speak = s => `<span class='spoken'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> <span class='ipa'>${s}</span> </span>`
+const speak = (s, btnOnly) => `<span class='spoken ${btnOnly ? 'btnOnly' : ''}'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> ${btnOnly ? '' : `<span class='ipa'>${s}</span>`} </span>`
 
 const ipaify = (str, html) => {
     const s = str 
