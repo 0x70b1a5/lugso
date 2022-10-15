@@ -68,6 +68,12 @@ ${g: emerge pit-LOC shoggoth-NOM}$
 
 _The shoggoth emerges in the pit._
 
+---
+
+${g: home-LOC 3SG}$
+
+_It is at home._ (note the implicit copula)
+
 ### BEN benefactive
 
 ${g: love 1SG-BEN 1SG-ACC 3SG-NOM}$

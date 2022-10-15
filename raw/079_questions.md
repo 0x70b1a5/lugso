@@ -46,7 +46,7 @@ ${g: Q Cthulhu}$
 
 _What is Cthulhu?_
 
-Note here again the invisible copula.
+Note here again the implicit copula.
 
 ---
 

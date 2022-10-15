@@ -55,7 +55,7 @@ ${g: night beautiful revolve-CONJ.and sky-PL-PROL child--child--star-PL beautifu
 
 _Strange is the night, and strange moons circle through the skies._
 
-Remember that the copula ("to be") is invisible, so the clause ", but Y is Z" is introduced by only **${CONJ.but}$**:
+Remember that the copula ("to be") is implicit, so the clause ", but Y is Z" is introduced by only **${CONJ.but}$**:
 
 ---
 
