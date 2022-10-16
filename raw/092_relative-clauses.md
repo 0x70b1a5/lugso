@@ -35,7 +35,7 @@ _the house **that** had ten mice in each room_: "had ten mice..." modifies _hous
 
 In Lugso, the relative-clause-introducer is another verb suffix. It follows any other suffixes on the verb, for example, future tense:
 
-${g: space knowledge-GEN penetrate-FUT-REL 1SG}$
+${g: space-PL knowledge-GEN penetrate-FUT-REL 1SG}$
 
 _the spaces of knowledge that I will penetrate..._
 

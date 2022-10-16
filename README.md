@@ -35,6 +35,8 @@ ${r: consume 1SG}$ ->  # note that '1SG' is ignored; r: only takes the first glo
 1. no prefix (default) - Intakes a list of glosses separated by spaces. Outputs lugso.
 1. `g: ` - Intakes a list of glosses separated by spaces. Outputs lugso in `**bold**`, followed by two newlines, followed by the gloss in `\`code\``.
 1. `r: ` - Intakes a single gloss. Outputs the entire row of the dictionary spreadsheet, interpolated with `|`, for Markdown tables.
+1. `i: ` - outputs IPA symbols instead of latinized lugso.
+1. `s: ` - outputs IPA symbols and a button to click, which will make an API call to play synthesized audio reading of the lugso.
 
 ## Usage
 

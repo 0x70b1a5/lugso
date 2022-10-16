@@ -5,6 +5,13 @@ title: Example Sentences
 order: 4
 ---
 
+## Prayers
+
+gloss|lugso|ipa|english
+|-|-|-
+``|${}$|${s: }$|Our Father, Who art in heaven, hallowed be Thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses as we forgive those who tresspass against us, and lead us not into temptation, but deliver us from evil. Amen.
+``|${}$|${s: }$|Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, mother of God, pray for us sinners, now and at the hour of our death. Amen.
+
 ## Call of Cthulhu spells
 
 gloss|lugso|ipa|english
@@ -25,7 +32,7 @@ gloss|lugso|ipa|english
 `come-FUT time-LOC material-symbol-thought`|${come-FUT time-LOC material-symbol-thought}$|${s: come-FUT time-LOC material-symbol-thought}$|The document will come in time.
 `crush heel-INS head-ACC snake-GEN great human-F soul--servant-ADJ.DER`|${crush heel-INS head-ACC snake-GEN great human-F soul-servant-ADJ.DER}$|${s: crush heel-INS head-ACC snake-GEN great human-F soul-servant-ADJ.DER}$|The humble woman crushes the head of the great serpent with her heel.
 `depart organization_human-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX`|${depart organization_human-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX}$|${s: depart organization_human-PL-ABL mortal 1PL.EX unite-SUB.reason web time-GEN mortal-NEG 1PL.EX}$|We depart from our mortal families in order to cleave to an undying lineage.
-`exist_living 1PL.INC island-LOC satisfy-PTCP.PAST.PASS knowledge-NEG-GEN space-LOC black infinite-NMLZ.DER-GEN fit-NEG-CONJ.and swim distant 1PL.INC`|${exist_living 1PL.INC island-LOC satisfy-PTCP.PAST.PASS knowledge-NEG-GEN space-LOC black infinite-NMLZ.DER-GEN fit-NEG-CONJ.and swim distant 1PL.INC}$|${s: exist_living 1PL.INC island-LOC satisfy-PTCP.PAST.PASS knowledge-NEG-GEN space-LOC black infinite-NMLZ.DER-GEN fit-NEG-CONJ.and swim distant 1PL.INC}$|We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.
+`exist_living 1PL.INC island-LOC satisfy-PTCP.PAST.PASS knowledge-NEG-GEN space-LOC black infinite-NMLZ.DER-GEN fit-NEG-CONJ.and swim distant 1PL.INC`|${exist_living 1PL.INC island-LOC satisfy-PTCP.PAST.PASS knowledge-NEG-GEN space-LOC black infinite-NMLZ.DER.act-GEN fit-NEG-CONJ.and swim distant 1PL.INC}$|${s: exist_living 1PL.INC island-LOC satisfy-PTCP.PAST.PASS knowledge-NEG-GEN space-LOC black infinite-NMLZ.DER-GEN fit-NEG-CONJ.and swim distant 1PL.INC}$|We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.
 `dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful death EMPH`|${dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful death EMPH}$|${s: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP beautiful death EMPH}$|That is not dead which can eternal lie, and with strange aeons even death may die.
 `place see-NEG-REL deity_intelligent-PL`|${place see-NEG-REL deity_intelligent-PL}$|${s: place see-NEG-REL deity_intelligent-PL}$|the place the gods look not 
 `wilt throb-NMLZ.DER.act-COM heart-GEN blood-PRV soul 1SG-GEN`|${wilt throb-NMLZ.DER.act-COM heart-GEN blood-PRV soul 1SG-GEN}$|${s: wilt throb-NMLZ.DER.act-COM heart-GEN blood-PRV soul 1SG-GEN}$|My soul wilts at the throbbing of the bloodless heart.

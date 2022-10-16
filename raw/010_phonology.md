@@ -50,11 +50,10 @@ a/o|ʌ|o
 
 ## Phonotactics
 
-In general: pronounce exactly as written, even if impossible.
+In general: pronounce exactly as written, even if impossible. There are 2 exceptions:
 
-Separate duplicate letters with glottal stops. (e.g. ${mortal}$ /${s: mortal}$/ "mortal")
-
-Separate adjacent vowels with glottal stops (even between letters). (e.g. ${organization_human}$ /${s: organization_human}$/ "human organization")
+1. Separate duplicate phonemes with glottal stops.
+1. Separate adjacent vowels with glottal stops (even between words).
 
 Brief pauses between words are encouraged.
 
