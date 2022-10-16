@@ -4,6 +4,8 @@ hide: true
 
 # lugso: repository for the website of the conlang
 
+[![pages-build-deployment](https://github.com/0x70b1a5/lugso/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/0x70b1a5/lugso/actions/workflows/pages/pages-build-deployment)
+
 This repo contains:
 
 1. The lessons for the [lugso.net] website
