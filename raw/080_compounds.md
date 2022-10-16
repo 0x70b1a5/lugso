@@ -12,7 +12,6 @@ English|Part of speech|IPA|Lugso|Comment
 ${r: corpse}$
 ${r: deity_intelligent}$
 ${r: house}$
-${r: learn}$
 ${r: milk}$
 ${r: name}$
 ${r: ocean}$
@@ -23,6 +22,8 @@ ${r: speech}$
 ${r: sun}$
 ${r: water}$
 ${r: word}$
+${r: void}$
+${r: cultist}$
 
 A compound noun is like "bus stop", "jelly bean", "doghouse", "cell phone", or "fire truck".
 
@@ -63,3 +64,45 @@ ${g: descend bowl--blood--sky-LOC star--home-PL}$
 _The suns sink in the lake._
 
 Lake: sky-blood **bowl**.
+
+## Verb compounds
+
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
+${r: learn}$
+
+Verb compounds are something of a different animal, as their components are not always only verbs. In general, a verb compound is a group of words. The compound functions as a single word for the purposes of suffixes.
+
+${g: learn-PRET truth-ACC cultist sleep-REL soon}$
+
+_The cultist, who was soon to die, learned the truth._
+
+Cultist: _truth-knower_.
+
+Learn: consume-knowledge.
+
+## ADJ compounds
+
+English|Part of speech|IPA|Lugso|Comment
+|-|-|-|-
+${r: narrow}$
+${r: short}$
+${r: thin}$
+${r: tall}$
+${r: wide}$
+${r: thick}$
+${r: long}$
+
+Long, wide, and tall; short, narrow, and squat; Lugso's got them all. But cultists think of these words a little differently - they describe largeness or smallness in spatial dimensions - first, second, and third. 
+
+"Long" isn't really committal to a particular dimension, so it's just "great in one dimension".
+
+${g: beast--liquid small--two}$
+
+_narrow fish (two-small fish)_
+
+---
+
+${g: void wide}$
+
+_wide chasm (two-large void)_
