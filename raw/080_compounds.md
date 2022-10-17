@@ -70,9 +70,9 @@ Lake: sky-blood **bowl**.
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ${r: learn}$
-${r: sacrifice_ascetic}
-${r: sacrifice_unwilling}
-${r: sacrifice_willing}
+${r: sacrifice_ascetic}$
+${r: sacrifice_unwilling}$
+${r: sacrifice_willing}$
 
 Verb compounds are something of a different animal, as their components are not always only verbs. In general, a verb compound is a group of words. The compound functions as a single word for the purposes of suffixes.
 
