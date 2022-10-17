@@ -21,7 +21,7 @@ gloss|lugso|ipa|english
 `visualize-IMP truth-ACC sense-REL can-NEG eye`|${visualize-IMP truth-ACC sense-REL can-NEG eye}$|${s: visualize-IMP truth-ACC sense-REL can-NEG eye}$|[Mindblast] Behold the truth that no eye can perceive!
 `potency infinite`|${potency infinite}$|${s: potency infinite}$|[Pharaoh's Wrath] Power infinite!
 `IMP mortal-NMLZ.DER.act consummate-NMLZ.DER 2SG-POSS`|${IMP mortal-NMLZ.DER.act consummate-NMLZ.DER 2SG-POSS}$|${s: IMP mortal-NMLZ.DER.act consummate-NMLZ.DER 2SG-POSS}$|[Shrivelling] Mortality be your doom!
-`blood 2SG-POSS sacrifice_victim-NMLZ.DER.patient 1SG-POSS`|${blood 2SG-POSS sacrifice_victim-NMLZ.DER.patient 1SG-POSS}$|${s: blood 2SG-POSS sacrifice_victim-NMLZ.DER.patient 1SG-POSS}$|[Steal Life] Blood thine, tribute mine.
+`blood 2SG-POSS sacrifice_unwilling-NMLZ.DER.patient 1SG-POSS`|${blood 2SG-POSS sacrifice_unwilling-NMLZ.DER.patient 1SG-POSS}$|${s: blood 2SG-POSS sacrifice_unwilling-NMLZ.DER.patient 1SG-POSS}$|[Steal Life] Blood thine, tribute mine.
 `eye-VOC light-GEN eye-VOC dark-GEN illuminate-PREC also child-PL-ACC 1PL.INC-GEN`|${eye-VOC light-GEN eye-VOC dark-GEN illuminate-PREC also child-PL-ACC 1PL.INC-GEN}$|${s: eye-VOC light-GEN eye-VOC dark-GEN illuminate-PREC also child-PL-ACC 1PL.INC-GEN}$|[Eye of Light and Darkness] Eye of light, eye of darkness, illuminate also our children.
 
 ## Random sentences

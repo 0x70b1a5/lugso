@@ -102,7 +102,7 @@ _The woman crushes the head of the great serpent with (her) heel._
 
 Also used for things that are given:
 
-${g: give body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN}$
+${g: give body-BEN sapient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN}$
 
 _The unthinking body is given leadership of the organization._
 

@@ -16,7 +16,7 @@ ${r: organization_human}$
 ${r: organization_natural}$
 ${r: organize}$
 ${r: lead}$
-${r: sentient}$
+${r: sapient}$
 ${r: SUB.concession}$
 ${r: SUB.conditional}$
 ${r: SUB.cotemporal}$
@@ -48,7 +48,7 @@ _We depart from our mortal families in order to cleave to an undying lineage._
 
 The sub-clause marker appears bare, as with verb moods.
 
-${g: give-PRET body-BEN sentient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS}$
+${g: give-PRET body-BEN sapient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-earth-GEN PRET-SUB.concession false hidden-NEG follower-PL 3SG-POSS}$
 
 _The unthinking body was given leadership of the organization_ + `SUB.concession` + _his followers were plainly false_ =
 

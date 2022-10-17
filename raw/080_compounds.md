@@ -1,6 +1,6 @@
 ---
-title: Compound Nouns
-permalink: /compound-nouns/
+title: Compounds
+permalink: /compounds/
 hide: true
 order: 3
 ---
@@ -70,6 +70,9 @@ Lake: sky-blood **bowl**.
 English|Part of speech|IPA|Lugso|Comment
 |-|-|-|-
 ${r: learn}$
+${r: sacrifice_ascetic}
+${r: sacrifice_unwilling}
+${r: sacrifice_willing}
 
 Verb compounds are something of a different animal, as their components are not always only verbs. In general, a verb compound is a group of words. The compound functions as a single word for the purposes of suffixes.
 
@@ -95,7 +98,7 @@ ${r: long}$
 
 Long, wide, and tall; short, narrow, and squat; Lugso's got them all. But cultists think of these words a little differently - they describe largeness or smallness in spatial dimensions - first, second, and third. 
 
-"Long" isn't really committal to a particular dimension, so it's just "great in one dimension".
+Think of the sides of a box: Dimension 1 is box height; 2 is box width; 3 is box thickness. We might be tempted to say that 3 is "length", but a tall thing is also "long" ... it's complicated to explain. Lugso has a word for "long": "dimensionally great". It's not specific to a particular dimension.
 
 ${g: beast--liquid small--two}$
 
