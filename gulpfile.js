@@ -19,7 +19,7 @@ function copy () {
 
 function lugsify(contents, rows) {
   let fileContents = contents.replace(/hide: true/, '')
-  const matches = [...fileContents.matchAll(/\${(.*?)}/g)]
+  const matches = [...fileContents.matchAll(/\${(.*?)}\$/g)]
 
   if (!matches.length) return fileContents
   const map = rowsToMap(rows)

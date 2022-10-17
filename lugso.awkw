@@ -1,6 +1,6 @@
 #awkwords version 1.2
 V:o/i/u
-C:p/b/f/v/t/n/5/3/s/z/l/x/g/h/y/r/d
+C:p*3/b*3/f/v/t/n/5/3*3/s*3/z/l/x/g/h/y/r/d*3
 N:
 r:((C)(C)V(C)(C))(C)(C)V(C)(C)((C)(C)V(C)(C))
 n:100

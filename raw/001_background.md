@@ -7,7 +7,7 @@ order: 2
 
 ${g: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH}$
 
-/${s: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH}$/
+/${i: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-FFUT-CONJ.and can aeon-PL-TEMP strange death EMPH}$/
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
 

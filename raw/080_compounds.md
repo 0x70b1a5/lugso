@@ -73,6 +73,14 @@ ${r: learn}$
 ${r: sacrifice_ascetic}$
 ${r: sacrifice_unwilling}$
 ${r: sacrifice_willing}$
+${r: see}$
+${r: light}$
+${r: apprehend}$
+${r: hear}$
+${r: smell}$
+${r: feel}$
+${r: pressure}$
+${r: pain}$
 
 Verb compounds are something of a different animal, as their components are not always only verbs. In general, a verb compound is a group of words. The compound functions as a single word for the purposes of suffixes.
 
@@ -83,6 +91,26 @@ _The cultist, who was soon to die, learned the truth._
 Cultist: _truth-knower_.
 
 Learn: consume-knowledge.
+
+---
+
+"To see" is a verb that does a lot in English - it means to literally absorb photons with your eyes, but it also means to apprehend, to understand, and to find out. In Lugso, this is not the case: it strictly denotes photon absorption. "To see" in the sense of "to apprehend" is a different word (above). 
+
+You can see that "see" is literally "sense-light": there are countless other senses that one can speak of in Lugso using the appropriate verb compounds (listed above). Note also that "light" is not just visual light in Lugso, it's any kind of photon from radio wave to gamma ray. The elder gods have a totalizing perspective.
+
+${g: apprehend-RET truth-NEG way-GEN 1SG-GEN}$
+
+_I have learned the error of my ways._
+
+---
+
+${g: see-PRET fall-SUB exact-ADV.DER presence-ACC 1SG-GEN head shed-PTCP.PAST.PASS follower--human 1SG-POSS}$
+
+_I saw the severed head of my dear friend fall squarely into my lap._
+
+---
+
+"To feel" also has many implications: humans have all of pressure sense, heat sense, and pain sense, and more. Lugso divides these. While heat is just light, pressure-sense and pain-sense are their own words (although it is rare that simple "pain" will not suffice).
 
 ## ADJ compounds
 
