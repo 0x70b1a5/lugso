@@ -58,9 +58,15 @@ _The mind cannot penetrate transcendence!_
 
 ### VOC vocative
 
-${g: move-NEG-IMP larva-VOC}$
+${g: larva-VOC move-NEG-IMP}$
 
 _Don't move, maggot!_
+
+Notice anything strange? The word order is different. The vocative case - "hey you! listen to this thing I'm saying" - "pulls" the noun to the front of the sentence. This makes sense if you think about it. You want to say a person's name at the start of the speech, so they know to listen to the rest of it.
+
+${g: open-NMLZ.DER.agent-VOC way-GEN transmit-IMP 1SG-ACC}$
+
+_Opener of the Way, deliver me!_
 
 ### LOC locative
 

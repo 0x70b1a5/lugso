@@ -16,7 +16,7 @@ gloss|lugso|ipa|english
 
 gloss|lugso|ipa|english
 |-|-|-
-`IMP flesh-VOC shed-PTCP.PAST.PASS life-GEN depart-PTCP.PAST.PASS death 2SG-POSS artifact 1SG-POSS commence-PTCP.PAST.PASS again`|${IMP flesh-VOC shed-PTCP.PAST.PASS life-GEN depart-PTCP.PAST.PASS death 2SG-POSS artifact 1SG-POSS commence-PTCP.PAST.PASS again}$|${s: IMP flesh-VOC shed-PTCP.PAST.PASS life-GEN depart-PTCP.PAST.PASS death 2SG-POSS artifact 1SG-POSS commence-PTCP.PAST.PASS again}$|[Create Ciimba] Flesh discarded of life departed, be thy death my art restarted.
+`flesh-VOC shed-PTCP.PAST.PASS life-GEN depart-PTCP.PAST.PASS IMP death 2SG-POSS artifact 1SG-POSS commence-PTCP.PAST.PASS again`|${flesh-VOC shed-PTCP.PAST.PASS life-GEN depart-PTCP.PAST.PASS IMP death 2SG-POSS artifact 1SG-POSS commence-PTCP.PAST.PASS again}$|${s: flesh-VOC shed-PTCP.PAST.PASS life-GEN depart-PTCP.PAST.PASS IMP death 2SG-POSS artifact 1SG-POSS commence-PTCP.PAST.PASS again}$|[Create Ciimba] Flesh discarded of life departed, be thy death my art restarted.
 `transgress can-NEG essence-ACC material`|${transgress can-NEG essence-ACC material}$|${s: transgress can-NEG essence-ACC material}$|[Deflect Harm] Material cannot penetrate transcendence!
 `visualize-IMP truth-ACC sense-REL can-NEG eye`|${visualize-IMP truth-ACC sense-REL can-NEG eye}$|${s: visualize-IMP truth-ACC sense-REL can-NEG eye}$|[Mindblast] Behold the truth that no eye can perceive!
 `potency infinite`|${potency infinite}$|${s: potency infinite}$|[Pharaoh's Wrath] Power infinite!
@@ -44,14 +44,14 @@ gloss|lugso|ipa|english
 |-|-|-
 `learn-NEG word-PL-INS only human`|${learn-NEG word-PL-INS only human}$|${s: learn-NEG word-PL-INS only human}$|Man does not learn by words alone.
 `idiot-PL`|${idiot-PL}$|${s: idiot-PL}$|intruders!
-`move-NEG-IMP larva-VOC`|${move-NEG-IMP larva-VOC}$|${s: move-NEG-IMP larva-VOC}$|Don't move, maggot!
+`larva-VOC move-NEG-IMP`|${larva-VOC move-NEG-IMP}$|${s: larva-VOC move-NEG-IMP}$|Don't move, maggot!
 `murder-IMP 3PL-ACC`|${murder-IMP 3PL-ACC}$|${s: murder-IMP 3PL-ACC}$|kill them!
 `sleep-IMP`|${sleep-IMP}$|${s: sleep-IMP}$|DIE!
 `go-IMP tell-CONJ.and servant-PL-ACC`|${go-IMP tell-CONJ.and servant-PL-ACC}$|${s: go-IMP tell-CONJ.and servant-PL-ACC}$|Run and tell the others!
 `birth-IMP larva-PL-ACC body-ABL asleep 2SG-POSS`|${birth-IMP larva-PL-ACC body-ABL asleep 2SG-POSS}$|${s: birth-IMP larva-PL-ACC body-ABL asleep 2SG-POSS}$|May your corpse birth maggots!
 `know-NEG consequence-ACC act-GEN 2SG-POSS 2SG`|${know-NEG consequence-ACC act-GEN 2SG-POSS 2SG}$|${s: know-NEG consequence-ACC act-GEN 2SG-POSS 2SG}$|You know not what you do!
 `organization_natural human-F-GEN gorge-PTCP.PAST.PASS`|${organization_natural human-F-GEN gorge-PTCP.PAST.PASS}$|${s: organization_natural human-F-GEN gorge-PTCP.PAST.PASS}$|The Order of the Bloated Woman
-`transmit-IMP 1SG-ACC open-NMLZ.DER.agent-VOC way-GEN`|${transmit-IMP 1SG-ACC open-NMLZ.DER.agent-VOC way-GEN}$|${s: transmit-IMP 1SG-ACC open-NMLZ.DER.agent-VOC way-GEN}$|Opener of the Way, deliver me!
+`open-NMLZ.DER.agent-VOC way-GEN transmit-IMP 1SG-ACC`|${open-NMLZ.DER.agent-VOC way-GEN transmit-IMP 1SG-ACC}$|${s: open-NMLZ.DER.agent-VOC way-GEN transmit-IMP 1SG-ACC}$|Opener of the Way, deliver me!
 `speak 1SG-COM 2SG-Q`|${speak 1SG-COM 2SG-Q}$|${s: speak 1SG-COM 2SG-Q}$|You dare speak to me?
 `hunger-FORM Q heart mortal 2SG-POSS`|${hunger-FORM Q heart mortal 2SG-POSS}$|${s: hunger-FORM Q heart mortal 2SG-POSS}$|What desireth thy mortal heart?
 `help-MOD root-Q 2SG-BEN 1SG`|${help-MOD root-Q 2SG-BEN 1SG}$|${s: help-MOD root-Q 2SG-BEN 1SG}$|Why should I help you?
