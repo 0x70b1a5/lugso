@@ -40,7 +40,7 @@ _The small child **who has not slept**_ (lit. "the unslept child")
 
 ---
 
-${g: sleep-IMP 2SG-VOC love-PTCP.NEG}$
+${g: 2SG-VOC sleep-IMP love-PTCP.NEG}$
 
 _You! Die unloved._
 

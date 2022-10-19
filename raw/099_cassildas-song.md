@@ -91,4 +91,4 @@ ${g: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$
 
 _Die thou, unsung, as tears unshed / shall dry and die in / Lost Carcosa._
 
-${g: sleep-IMP 2SG-VOC sing-PTCP.NEG dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient}$
+${g: 2SG-VOC sing-PTCP.NEG sleep-IMP dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient}$
