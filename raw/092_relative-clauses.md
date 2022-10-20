@@ -47,6 +47,8 @@ _Behold the truth that no eye can perceive!_
 
 ## Conjunctions
 
+### Joining sentences
+
 "A, **but** B"; "C, **and** D, **and** E"
 
 Lugso uses commas in the same way as English. Note that A, B, C, D, and E are _complete sentences_.
@@ -76,3 +78,15 @@ _Go to the place the gods look not._
 ${g: dead-NEG DET.DIST abide-REL can eternity-ADV.DER sleep-CONJ.and can aeon-PL-TEMP strange death EMPH}$
 
 _That is not dead which can eternal lie, and with strange aeons even death may die._
+
+### Joining nouns
+
+${g: beast-PL 1SG-POSS tentacle-PL-CONJ.N 1SG-GEN}$
+
+_my beasts and my tentacles_
+
+---
+
+${g: organize pact-ACC cultist deity_intelligent-CONJ.N uninitiate-CONJ.N}$
+
+_The cultist, the god, and the unititiate drew up a pact._
