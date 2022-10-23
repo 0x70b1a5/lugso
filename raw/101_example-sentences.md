@@ -11,38 +11,53 @@ Disclaimer: these prayers are REAL DEVOTIONS and not just given for example. God
 
 ### Pater Noster
 
-```
-father-VOC 1PL.EX-GEN REL be_location distant-SUPER-LOC
-FORM fear-PTCP.PASS name 2SG-GEN
-come-IMP-FORM dominion-master 2SG-GEN
-realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN
-
-give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN
-forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN
-forget-SUB.similarity 
-```
-
-${father-VOC 1PL.EX-GEN REL be_location distant-SUPER-LOC}$,<br/>
-${FORM fear-PTCP.PASS name 2SG-GEN}$.<br/>
-${come-IMP-FORM dominion-master 2SG-GEN}$,<br/>
-${realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$.<br/>
-
-${give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$,<br/>
-${forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$,<br/>
-${forget-SUB.similarity }$ ...<br/>
+${g: father-VOC 1PL.EX-GEN be_location-REL distant-SUPER-LOC}$,
 
 _Our Father, Who art in heaven,_
+
+${g: FORM fear-PTCP.PASS name 2SG-GEN}$.
+
 _Hallowed be Thy name,_
+
+${g: come-IMP-FORM dominion-master 2SG-GEN}$,
+
 _Thy kingdom come,_
-_Thy will be done,_
-_on earth as it is in heaven._
+
+${g: realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$.
+
+_Thy will be done, on earth as it is in heaven._
+
+${g: give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$,
 
 _Give us this day our daily bread,_
+
+${g: forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$
+
 _and forgive us our trespasses_
+
+${g: forget-SUB.similarity balance-NEG-VB.DER-REL 1PL.EX-ACC 1PL.EX DET.DIST-PL-BEN}$,
+
 _as we forgive those who tresspass against us,_
+
+${g: lead-NEG-IMP-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN}$
+
 _and lead us not into temptation,_
+
+${g: move-IMP-FORM-CONJ.but chaos-ABL 1PL.EX-BEN}$
+
 _but deliver us from evil._
+
+${g: realize-MOD}$
+
 _Amen._
+
+#### Discussion
+
+- Why is evil translated as 'chaos'?
+
+Cultists do not know good versus evil; they only know reality versus imagination and lies. Their perspective is entirely material. The 'order' of the Cthulhuverse is beyond human comprehension, and inherently hostile to human life, _but it is nevertheless an ordering of things_, and to know the truth is inherently good (as we would say).
+
+God is not real in the Cthulhuverse (although it's impossible that God not be real, we are just pretending for the sake of the story). The "god" is Azathoth, who is ironically a creative form of chaos itself. But creation flows from him, order and negentropy flows from him, the universe and all that is in it flow from him, and in this sense he is the highest order of the world.
 
 ### Ave Maria
 
