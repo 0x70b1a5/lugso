@@ -22,14 +22,14 @@ forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN
 forget-SUB.similarity 
 ```
 
-${s: father-VOC 1PL.EX-GEN REL be_location distant-SUPER-LOC}$,
-${s: FORM fear-PTCP.PASS name 2SG-GEN}$.
-${s: come-IMP-FORM dominion-master 2SG-GEN}$,
-${s: realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$.
+${father-VOC 1PL.EX-GEN REL be_location distant-SUPER-LOC}$,<br/>
+${FORM fear-PTCP.PASS name 2SG-GEN}$.<br/>
+${come-IMP-FORM dominion-master 2SG-GEN}$,<br/>
+${realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$.<br/>
 
-${s: give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$,
-${s: forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$,
-${s: forget-SUB.similarity }$ ...
+${give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$,<br/>
+${forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$,<br/>
+${forget-SUB.similarity }$ ...<br/>
 
 _Our Father, Who art in heaven,_
 _Hallowed be Thy name,_
