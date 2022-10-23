@@ -36,14 +36,18 @@ function lugsify(contents, rows) {
       out = `${speak(ipaify(lugso), true)} <strong>${lugso}</strong>
 
 \`${rest}\``
+    } else if (slice0 == 'i:') {
+      const lugso = glossToLugso(meat.slice(3), map)
+      out = ipaify(lugso)
+    } else if (slice0 == 'l:') {
+      const rest = meat.slice(3)
+      const lugso = glossToLugso(rest, map)
+      out = `${speak(ipaify(lugso), true)} <strong>${lugso}</strong>`
     } else if (slice0 == 'r:') {
       const row = getWord(slice1, map, true) // r function drops all but first word
       if (!row) throw `could not find row for meat: ${meat}`
       const lugso = glossToLugso(slice1, map)
       out = `${row.english}|${row.partOfSpeech}|${ ipaify(lugso, true) }|${lugso}|${row.notes || ''}`
-    } else if (slice0 == 'i:') {
-      const lugso = glossToLugso(meat.slice(3), map)
-      out = ipaify(lugso)
     } else if (slice0 == 's:') {
       const lugso = glossToLugso(meat.slice(3), map)
       out = speak(ipaify(lugso))
