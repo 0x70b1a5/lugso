@@ -22,6 +22,19 @@ ${l: lead-NEG-IMP-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN}$ <br/>
 ${l: move-IMP-FORM-CONJ.but chaos-ABL 1PL.EX-BEN}$ <br/>
 ${l: realize-MOD}$ <br/>
 
+```
+father-VOC 1PL.EX-GEN be_location-REL distant-SUPER-LOC
+FORM fear-PTCP.PASS name 2SG-GEN
+come-IMP-FORM dominion-master 2SG-GEN
+realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN
+give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN
+forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN
+forget-SUB.similarity balance-NEG-VB.DER-REL 1PL.EX-ACC 1PL.EX DET.DIST-PL-BEN
+lead-NEG-IMP-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN
+move-IMP-FORM-CONJ.but chaos-ABL 1PL.EX-BEN
+realize-MOD
+```
+
 <em> 
 Our Father, Who art in heaven,<br/>
 Hallowed be Thy name,<br/>
