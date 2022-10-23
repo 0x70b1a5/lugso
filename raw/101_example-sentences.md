@@ -7,10 +7,46 @@ order: 4
 
 ## Prayers
 
-gloss|lugso|ipa|english
-|-|-|-
-``|${}$|${s: }$|Our Father, Who art in heaven, hallowed be Thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses as we forgive those who tresspass against us, and lead us not into temptation, but deliver us from evil. Amen.
-``|${}$|${s: }$|Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, mother of God, pray for us sinners, now and at the hour of our death. Amen.
+Disclaimer: these prayers are REAL DEVOTIONS and not just given for example. God bless you!
+
+### Pater Noster
+
+```
+father-VOC 1PL.EX-GEN REL be_location distant-SUPER-LOC
+FORM fear-PTCP.PASS name 2SG-GEN
+come-IMP-FORM dominion-master 2SG-GEN
+realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN
+
+give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN
+forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN
+forget-SUB.similarity 
+```
+
+${s: father-VOC 1PL.EX-GEN REL be_location distant-SUPER-LOC}$,
+${s: FORM fear-PTCP.PASS name 2SG-GEN}$.
+${s: come-IMP-FORM dominion-master 2SG-GEN}$,
+${s: realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$.
+
+${s: give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$,
+${s: forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$,
+${s: forget-SUB.similarity }$ ...
+
+_Our Father, Who art in heaven,_
+_Hallowed be Thy name,_
+_Thy kingdom come,_
+_Thy will be done,_
+_on earth as it is in heaven._
+
+_Give us this day our daily bread,_
+_and forgive us our trespasses_
+_as we forgive those who tresspass against us,_
+_and lead us not into temptation,_
+_but deliver us from evil._
+_Amen._
+
+### Ave Maria
+
+Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, mother of God, pray for us sinners, now and at the hour of our death. Amen.
 
 ## Call of Cthulhu spells
 
