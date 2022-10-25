@@ -13,25 +13,25 @@ Disclaimer: these prayers are REAL DEVOTIONS and not just given for example. God
 
 ${l: father-VOC 1PL.EX-GEN be_location-REL distant-SUPER-LOC}$, <br/>
 ${l: FORM fear-PTCP.PASS name 2SG-GEN}$. <br/>
-${l: come-IMP-FORM dominion-master 2SG-GEN}$, <br/>
-${l: realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$. <br/>
-${l: give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$, <br/>
-${l: forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$ <br/>
-${l: forget-SUB.similarity balance-NEG-VB.DER-REL 1PL.EX-ACC 1PL.EX DET.DIST-PL-BEN}$, <br/>
-${l: lead-NEG-IMP-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN}$ <br/>
-${l: move-IMP-FORM-CONJ.but chaos-ABL 1PL.EX-BEN}$ <br/>
+${l: come-MOD-FORM dominion-master 2SG-GEN}$, <br/>
+${l: realize-MOD-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN}$. <br/>
+${l: give-PREC-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN}$, <br/>
+${l: forget-PREC-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN}$ <br/>
+${l: forget-SUB.similarity 1PL.EX balance-NEG-VB.DER-REL 1PL.EX-ACC DET.DIST-PL-BEN}$, <br/>
+${l: lead-NEG-PREC-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN}$ <br/>
+${l: go-PREC-FORM-CONJ.but chaos-ABL 1PL.EX-BEN}$ <br/>
 ${l: realize-MOD}$ <br/>
 
 ```
 father-VOC 1PL.EX-GEN be_location-REL distant-SUPER-LOC
 FORM fear-PTCP.PASS name 2SG-GEN
-come-IMP-FORM dominion-master 2SG-GEN
-realize-IMP-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN
-give-IMP-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN
-forget-IMP-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN
-forget-SUB.similarity balance-NEG-VB.DER-REL 1PL.EX-ACC 1PL.EX DET.DIST-PL-BEN
-lead-NEG-IMP-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN
-move-IMP-FORM-CONJ.but chaos-ABL 1PL.EX-BEN
+come-MOD-FORM dominion-master 2SG-GEN
+realize-MOD-FORM earth-LOC distant-SUPER-LOC-CONJ.N will 2SG-GEN
+give-PREC-FORM food-INS aeon-DIM-ADJ.DER aeon-DIM-TEMP 1PL.EX-BEN
+forget-PREC-FORM-CONJ.and balance-NEG-PL-ACC 1PL.EX-GEN 1PL.EX-BEN
+forget-SUB.similarity 1PL.EX balance-NEG-VB.DER-REL 1PL.EX-ACC DET.DIST-PL-BEN
+lead-NEG-PREC-FORM-CONJ.and seduce-NMLZ.DER.act-ACC 1PL.EX-BEN
+go-PREC-FORM-CONJ.but chaos-ABL 1PL.EX-BEN
 realize-MOD
 ```
 
@@ -49,6 +49,10 @@ Amen.<br/>
 </em>
 
 #### Discussion
+
+- heaven
+
+`distant-SUPER` ... 'the highest'. See also 'holy' meaning 'separated'
 
 - evil
 
