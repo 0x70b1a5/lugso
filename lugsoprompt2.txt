@@ -1,0 +1,702 @@
+The following conversation took place between an archaeologist, who had discovered some months ago the ruins and artifacts of what appeared to be an ancient temple, and a university professor. The archaeologist is very curious, energetic, and eager to discover the truth. The professor is wise, world-weary, jaded, and subtly traumatized by what he has learned by experience.
+
+ARCHAEOLOGIST: Hi there Professor! Did you get a chance to look at the artifact?
+
+PROFESSOR: The... obsidian dagger, was it? I could scarcely bring myself to touch the thing, but I did manage to examine it in great detail. I discovered that the "markings" you mentioned on it are in fact Lugso, an ancient and mysterious language of a particular... religion.
+
+ARCHAEOLOGIST: Oh, say more!
+
+PROFESSOR: Very well. Lugso was a language spoken only by members of this secret order, for their dark rites, and occasionally even for communion with their foul gods. It is something I hesitate even to mention, except that it is my professional duty to do so. I learnt the language out of necessity, but I do not relish to confer or translate it. I take solace only in the enrichment of humanity's eye to the past.
+
+ARCHAEOLOGIST: And you found Lugso on the dagger?
+
+PROFESSOR: Chipped and faded, but yes.
+
+ARCHAEOLOGIST: Well, what does it say? 
+
+PROFESSOR: Well...
+
+ARCHAEOLOGIST: Come on now, man, out with it!
+
+PROFESSOR: Quiet! Fine! I will read it for you, but you must allow me a moment to collect myself. ... Alright. It says: "lug dogu tgus-tluzof nogu". 
+
+ARCHAEOLOGIST: What does that mean?
+
+PROFESSOR: "Blood thine, tribute mine."
+
+ARCHAEOLOGIST: Is there more?
+
+PROFESSOR: Yes. On the opposite side, it reads: "finzizon gih’hzon sru3so", which means: Insanity is the blessing of truth.
+
+ARCHAEOLOGIST: This is heavy stuff.
+
+PROFESSOR: Indeed.
+
+ARCHAEOLOGIST: Do you have a dictionary of Lugso available?
+
+PROFESSOR:
+
+---
+
+Yes, I have a dictionary of Lugso. As I mentioned earlier, I learned the language out of necessity in order to understand the artifacts and ruins I have studied. I do not relish in its use, but I do have a comprehensive dictionary and other resources to help me translate and interpret its texts. However, I must warn you that the study of Lugso and the ancient religion it is associated with can be dangerous and disturbing. It is not for the faint of heart, and I would urge you to proceed with caution.
+
+===
+
+ARCHAEOLOGIST: Can you show me this dictionary?
+
+PROFESSOR: I am loath to do so, but here it is. The first word in each line is English. Next,  comes a tab. Next, comes the "part of speech". Next, comes another tab. Next, comes the Lugso word. Next, comes another tab. Finally, any notes on the word, or the compound word if applicable.
+
+English	Part of Speech	Lugso	Notes
+abandon	VB	tof																							
+abide	VB	rxi																							
+ABL	N suffix	ug	ablative case - about N, from location																						
+above	PREP	-	see over																						
+ACC	N suffix	ir	accusative case - to N, towards location																						
+accept	VB	-	see grant																						
+act	N	xon																							
+addiction	N	zox																							
+ADJ.DER	suffix	n	adjectivizing suffix																						
+ADV	PART	n5	introduces adverbial clause																						
+ADV.DER	suffix	uv	-ly																						
+aeon	N	itg																							
+æther	N	-	see gas																						
+again	ADV	uy																							
+age	N	-	see aeon																						
+agent	N	ozog																							
+agree	VB	ruy																							
+air	N	-	see gas																						
+all	ADJ	lhi																							
+allow	VB	-	see grant																						
+also	ADV	gir																							
+too	ADV	-	see also																						
+and	CONJ	-	see CONJ																						
+animal	N	-	see beast																						
+answer	N	tpo																							
+apprehend	VB	dlil																							
+artifact	N	5ub																							
+ask	VB	bog																							
+asleep	ADJ compound*	-	death-ADJ.DER																						
+assemble	VB	u5l	synthesize																						
+atlachnacha	N	oslo3no3o																							
+attend	VB	inf																							
+AUG	suffix	tux	augmentative - more ... than, a large ...																						
+balance	N	spips																							
+be_location	VB	fu3	"he is here", "it is there", etc																						
+beast	N	tlu																							
+beautiful	ADJ	oldri5	"eldritch" 																						
+beckon	VB	goxs																							
+begin	VB	3gur																							
+behold! hello!	INTERJ	iyo	iå iå																						
+belly	N	3ot																							
+beloved	ADJ compound*	-	self-equal																						
+BEN	N suffix	lul	benefactive case - for the sake of N																						
+beneath	PREP	nhoxb																							
+betray	VB	3ulps																							
+beyond	PREP	ni5z																							
+big	ADJ	-	see large																						
+bind	VB	holx																							
+bird	N compound	-	beast-gas																						
+birth	VB	tur																							
+bite	VB	ih5																							
+black	ADJ	3xig																							
+blaspheme	VB	zbost																							
+bless	VB	gihh																							
+blessing	N compound*	-	bless-NMLZ.DER.act																						
+blood	N	lug																							
+blow	VB	zubov																							
+body	N	gvifn																							
+bone	N	nuy																							
+book	N	yos																							
+boundary	N	rots																							
+bowl	N	tgihp																							
+breast	N compound	-	organ-milk																						
+breathe	VB	5ux																							
+bring	VB	zvis																							
+brotherhood	N	xi5																							
+burn	VB	hih																							
+burrow	VB	hott	travel through solid																						
+call	VB	-	see beckon																						
+can	AUX	vgov																							
+cannibalism	N	hbi																							
+Carcosa	N	xorxoso																							
+catch	VB	git																							
+cause	VB	bihn																							
+center	N	-	see heart																						
+certain	ADJ	zvoyg																							
+change	VB	fiht																							
+changing	ADJ	-	see mercurial																						
+chaos	N	gu3																							
+chaugnar faugn	N	3ougnorfougn																							
+child	N	yols																							
+clothing	N	u3p																							
+cohesion	N	puhr																							
+collection	N	zin																							
+COM	N suffix	niy	comitative case "together with N, alongside N"																						
+come	VB	zfoy																							
+command	VB	pigh																							
+commence	VB	yxosz																							
+component	N	vgol																							
+CONJ.and	VB suffix	ub	and' for verbs																						
+CONJ.but	VB suffix	i5																							
+CONJ.N	N suffix	id	and' for nouns: noun AND noun did xyz (also called 'enclitic')																						
+consequence	N	rug																							
+consume	VB	huf																							
+consummate	VB	xbitp																							
+contact	VB	fuhr																							
+contract	N	bul																							
+control	VB	gux																							
+COP	VB	∅	copula																						
+corpse	N compound	gvifn-fhtogni	body sleeping																						
+count	VB compound*	iln	number-VB.DER																						
+create	VB	nyu	make																						
+crowd	N	ofg																							
+crush	VB	pi5n																							
+Cthulhu	N	xtulhu																							
+cult	N compound*	-	organization_natural-bless-NMLZ.DER.patient																						
+cultist	N compound	-	know-truth-NMLZ.DER.agent																						
+curse	VB	bun																							
+darkness	N	3xign																							
+day	N compound	-	aeon-DIM																						
+dead	ADJ compound*	-	see asleep																						
+death	N	fhtog																							
+debt	N	-	see imbalance																						
+decompose	VB	opy																							
+deity_bestial	N compound*	-	beast-SUPER																						
+deity_intelligent	N compound*	-	sapient-SUPER																						
+depart	VB	sog																							
+descend	VB	zyuzh																							
+desire	VB	piril																							
+dessicate	VB compound*	-	dry-VB.DER																						
+destroy	VB	olp																							
+DET.DIST	PART	ivol	distal determinant (that)																						
+DET.PROX	PART	ivih	proximal determinant (this)																						
+die	VB	-	see sleep																						
+dig	VB	-	see burrow																						
+DIM	suffix	ix	diminutive - less ... than, a small ...																						
+dimension_alternate	N	yit																							
+dimension_spatial	N	ris																							
+distant	ADJ	botut																							
+dog	N compound	-	beast-follower																						
+dominion	N	zyu																							
+door	N	vvu																							
+dream	VB	zodt	also "wish to" 																						
+dry	ADJ	xrotz																							
+ear	N compound	-	organ-sense-noise																						
+earth	N	fu	dirt, not planet																						
+eat	VB	-	see consume																						
+edifice	N	hsidv																							
+egg	N	otl																							
+emerge	VB	vsixi																							
+EMPH	PART	yiy	indeed, too																						
+encant	VB	obx																							
+end	N	vod																							
+enter	VB	h5o																							
+epoch	N	-	see aeon																						
+equal	ADJ	xox																							
+essence	N	pus																							
+eternity	N	sup																							
+every	ADJ	-	see all																						
+exact	ADJ	vounr																							
+exchange	VB	zilx	transact, converse																						
+exist_living	VB	hoh																							
+exist_nonliving	VB	hix																							
+expect	VT	biz																							
+extrude	VB	hsuy																							
+eye	N	oxo																							
+F	N suffix	nu																							
+face	N	zu5																							
+fail	VB	dis																							
+fall	VB	igx	also "fit" as in "that fits" or "that suits"																						
+false 	ADJ	-	see imaginary																						
+falsehood	N	-	see imagining																						
+family	N	-	see organization_human																						
+far	ADJ	-	see distant																						
+fat	N	oybon	noun - grease. sounds like 'eibon'																						
+father	N	futn																							
+fault	N	fguv																							
+fear	VB, N	zufux																							
+feather	N compound	-	hair-gas																						
+feeble	ADJ	-	see weak																						
+feed	VB	xix																							
+feel	VB compound	-	sense-pressure																						
+female	ADJ	-	see F																						
+few	ADJ	liyus																							
+FFUT	VB suffix	l5i	far future																						
+fight	VB	bgotyox																							
+final	ADJ	-	see last																						
+find	VB	rox																							
+finger	N	-	see flagellum																						
+finish	VB	buz																							
+finite	ADJ compound*	-	infinite-NEG																						
+fire	N	3uz																							
+fish	N compound	-	beast-liquid																						
+fit	VB	-	see fall																						
+flagellum	N	blolg																							
+flail	VB	pin																							
+flee	VB	truts																							
+flesh	N	5il3																							
+flower	N	rniu																							
+fly	VB	so3	travel through gas																						
+focus	VB	-	see attend																						
+follower	N	pol																							
+food	N	xux																							
+foot	N	5vui5																							
+forest	N	gunlogrginr																							
+forget	VB	tyo																							
+forgive	VB	-	see forget																						
+FORM	VB suffix	yo	formal mood 																						
+form_body	N	-	see body																						
+FPRET	VB suffix	us	far past																						
+friend	N compound	-	follower-human																						
+fruit	N	ro5hu																							
+fuel	N	rlohs																							
+FUT	VB suffix	tu																							
+future	N	xuy																							
+goal	N	-	see end																						
+gas	N	sfu																							
+gather	VB	lorl																							
+GEN	N suffix	so	genitive case - of N, from N, N's (not possession - contrast POSS)																						
+gift	N	-	see blessing																						
+give	VB	yurg																							
+go	VB	go																							
+god	N	-	see deity_intelligent																						
+gold	N	bti5r																							
+gorge	VT	h3unb																							
+grant	VB	fun	allow, permit, accept																						
+grass	N compound	-	hair-earth																						
+gravity	N	yzipy																							
+great	ADJ	yug																							
+group	N	yoz	abstract grouping (not to be confused with "organization")																						
+grow	VB	xbu																							
+guts	N	ybulx	entrails																						
+hair	N	pofgo																							
+hand	N	xovs																							
+happy	ADJ compound*	-	gorge-PTCP.PAST.PASS																						
+hard	N	lif																							
+harm	VB	totp																							
+harvest	N	pur																							
+hastur	N	hostur																							
+hate	VB	fox																							
+hazard	N	vnis																							
+head	N	ip																							
+hear	VB compound	-	sense-sound																						
+heart	N	nor																							
+heavy	ADJ compound*	-	mass-ADJ.DER																						
+heel	N	gusx																							
+help	VB	yni5																							
+here	N compound	-	place-this																						
+heretic	N	isv																							
+hidden	ADJ	xutt																							
+hide	VB	3so3t																							
+hit	VB	-	see strike																						
+hive	N	xxobt																							
+hole	N	-	see orifice																						
+holy	ADJ compound*	-	fear-PTCP.PASS																						
+home	N	-	see house																						
+horn	N compound	-	bone-head																						
+house	N	ugonogl	wgah'nagl																						
+how	Q compound*	-	INS-Q																						
+human	N	hupz																							
+humble	ADJ compound*	-	soul-servant-ADJ.DER																						
+hunger	VB	hu5	also "love", "want to"																						
+hunt	VB	3oloh																							
+husband	N compound*	-	servant-M																						
+Hyades	N	hoyodiz																							
+i	1SG	no																							
+idiot	N compound*	-	sapient-DIM-NMLZ.DER																						
+illuminate	VB	fin																							
+imaginary	ADJ compound*	-	imagine-ADJ.DER																						
+imagine	VB	fxo3																							
+imagining	N	-	imagine-NMLZ.DER.act																						
+imbalance	N compound	-	balance-NEG																						
+IMP	VB suffix	gi	imperative mood (a command)																						
+important	ADJ	fizn																							
+IND	VB suffix	toy	indicative mood - (optional except where ambiguous)																						
+inferior	ADJ	sov																							
+infinite	ADJ	gololol																							
+INS	N suffix	iffo	instrumental case - using N																						
+insane	ADJ	-	see selfless																						
+insanity	N compound*	-	insane-NMLZ.DER.act																						
+instantaneous	ADJ	lxuz																							
+INT	VB suffix	oh	interrogative mood  - is ...? did X ...?																						
+invisible	ADJ	zux																							
+invite	VB	55u																							
+island	N compound	-	mountain-ocean																						
+it	3SG	un	he, she, it																						
+joint	N	ovgnub																							
+kill	VB	lov																							
+kin	N	5gip																							
+kingdom	N compound	-	dominion-master																						
+knee	N compound	-	joint-limb																						
+knife	N	birb																							
+know	VB	yogo																							
+knowledge	N	yog																							
+lake	N	-	see water_body																						
+language	N compound	lu-sot	system thought																						
+large	ADJ	-	see great																						
+larva	N	lorg																							
+last	ADJ	u3on																							
+later	PREP	yuz																							
+laugh	N compound	-	noise-fear																						
+law	N	-	see order																						
+lead	VB	bgox																							
+learn	VB compound	huf-yu 	consume knowledge																						
+lie	VB	ti	as in deceive																						
+life	N	on																							
+light	N	fir	also "radiation" (any radiation on the EM spectrum is light)																						
+become	VB	-	see change																						
+limb	N	-	see flagellum																						
+liquid	N	lu5																							
+list	N	-	see collection																						
+tomb	N	blofogx																							
+LOC	N suffix	5ix	locative case - at N, in N																						
+long	ADJ compound	-	large-dimension_spatial																						
+look	VB	-	see attend																						
+lose	VB	tsol																							
+love	VB	-	see hunger																						
+luck	N	hlu3y																							
+M	N suffix	vir																							
+major	ADJ	rzu5																							
+male	ADJ	-	see M																						
+many	ADJ	yoyyo																							
+mass	N	slox																							
+master	N	gi5																							
+material	N compound*	-	birth-NMLZ.DER.patient																						
+meat	N	-	see flesh																						
+mercurial	ADJ compound*	-	change-ADJ.DER																						
+metal	N	ginn																							
+milk	N	t3uh																							
+mind	N	toht																							
+minor	ADJ	vu5z																							
+missive	N	xob																							
+MOD	VB suffix	z	modal mood "must/have to"																						
+moment	N	vot																							
+mortal	ADJ	hun																							
+mother	N	rih																							
+mountain	N	xonx																							
+mouth	N compound	fvols-zu5	orifice-face																						
+move	VB	-	see go																						
+mucus	N	3lul3																							
+murder	VB	xib																							
+music	N	frog																							
+myth	N	oxz																							
+name	N compound	-	symbol-soul																						
+narrow	ADJ compound	-	small-two																						
+native	ADJ	osg																							
+necessary	ADJ	lsu																							
+NEG	suffix	zi	negation suffix																						
+new	ADJ	tol																							
+night	N	3o3																							
+NMLZ.DER.act	suffix	zon	the act of verbing: verb-ation; also for nouns and adjs: noun-ness, adj-ness																						
+NMLZ.DER.agent	VB suffix	zob	the one who verbs: verb-er, verb-ess, verb-ator, verb-atrix																						
+NMLZ.DER.patient	VB suffix	zof	the one who is verbed: verb-ee, verb-ling																						
+noise	N	lgu3g																							
+noisome	ADJ	duis	gross, nasty, disgusting, offensive																						
+NOM	N suffix	∅	nominative case - the subject/actor/topic in a sentence																						
+nose	N compound	-	gas-sense-organ																						
+not	NEG	-	see NEG																						
+nothing	N compound	-	thing-NEG																						
+notify	VB	fxu																							
+now	N	zor																							
+number	N	il																							
+nyarlathotep	N	nyorloshotop																							
+obey	VB	xoz																							
+ocean	N compound	-	water_body-space																						
+one	NUM	if																							
+only	ADJ	ugx																							
+open	VB	3fig																							
+order	N	if3	opposite of chaos; law; rule																						
+organ 	N compound*	-	order-NMLZ.DER.patient																						
+organization_human	N	ubi	e.g. government, family(!)																						
+organization_natural	N	gorn																							
+organize	VB compound*	-	order-VB.DER																						
+orifice	N	fvols																							
+origin	N	to3l																							
+other	ADJ	nul																							
+over	PREP	tyurh																							
+pact	N compound	-	contract-deity_intelligent																						
+pain	N	tun																							
+parasite	N compound	-	follower-food																						
+particle	N	gfur																							
+patient	N	ov5o																							
+penetrate	VB	vun																							
+period	N	-	see aeon																						
+pit	N	ovs																							
+PL	N suffix	d	plural suffix																						
+place	N	lox																							
+plan	N	psu																							
+plasma	N	fgi																							
+please	VB	-	see feed																						
+POSS 	N suffix	gu	possessive suffix - N's (ownership)																						
+possess	VB	nof																							
+potency	N	ily	see potency																						
+potential	N	-	see potency																						
+power	N	-																							
+pray	VB	tuh																							
+PREC	VB suffix	xnuz	precative mood (please ...)																						
+presence	N	bxuyu5																							
+pressure	N	lx3ipis																							
+PRET	VB suffix	up	preterite mood (simple past) "i VBed"																						
+priest	N	tu5o																							
+prime	NUM	fol	also "nth prime of"																						
+PROH	VB suffix	yozb	prohibitive mood (do not ...)																						
+PROL	N suffix	pzuv3	prolative case (by way of N, via N, through N)																						
+promise	N compound	-	contract-mortal																						
+protect	VB	vut																							
+PRV	N suffix	in5	privative case ("N-less", without N)																						
+psyche	N	pig																							
+PTCP.ACT	VB suffix	nyo	x sing-PTCP.ACT -> the x that sings																						
+PTCP.NEG	VB suffix	zyo	x sing-PTCP.NEG -> the x not sung																						
+PTCP.PASS	VB suffix	lyo	x sing-PTCP.PASS -> the x that is sung																						
+PTCP.PAST.ACT	VB suffix	byo	x sing-PTCP.PAST.ACT -> the x that sung																						
+PTCP.PAST.PASS	VB suffix	dyo	x sing-PTCP.PAST.PASS -> the x that was sung																						
+pulse	VB	-	see throb																						
+Q 	suffix	5u	turns a word into a question																						
+question	N	5ogh																							
+quick	ADJ	vozv																							
+radiation	N	-	see light																						
+real	ADJ compound*	-	truth-ADJ.DER																						
+reality	N	-	see truth																						
+realize	VB compound*	-	truth-VB.DER																						
+reap	VB	bihb																							
+referent	N	-	see truth																						
+REFL	N suffix	fif	reflexive suffix (-self)																						
+reflect	VB	ruxt																							
+REL	VB suffix	or	introduces relative clause																						
+remain	VB	-	see abide																						
+request	VB	x3o																							
+rest	VB	fupsuu																							
+RET	VB suffix	3i	retrospective aspect																						
+return	VB	is																							
+revolve	VB	lni	circle, encircle																						
+reward	N	-	see blessing																						
+rise	VB	ffihh																							
+rock	N	olf																							
+root	N	5ol																							
+rope	N	buthgu3nil																							
+sacrifice	N	tgus																							
+sacrifice_ascetic	VB compound	-	sacrifice-symbol																						
+sacrifice_self	VB compound*	-	sacrifice-REFL																						
+sacrifice_unwilling	VB compound	-	sacrifice-beast																						
+sacrifice_willing	VB compound	-	sacrifice-sapient																						
+sapient	ADJ	gu5																							
+satisfy	VB	-	see gorge																						
+scatter	VB	zxiy5																							
+scent	N	3uzbdo																							
+scream	VB	gboydo																							
+second	N compound	-	throb-heart																						
+secret	N compound*	-	speak-PTCP.PASS-NEG-NMLZ.DER.patient																						
+seduce	VB	xogloz																							
+see	VB compound	-	sense-light																						
+see_mental	VB	-	see apprehend																						
+seed	N	3iv																							
+seek	VB	rils																							
+self	N	fi	as in "the self"																						
+selfless	ADJ compound*	-	self-ADJ.DER-NEG																						
+sense	VB	u3	any sense - sight, smell																						
+servant	N	fbu5																							
+share	VB	5ut																							
+shed	VB	ilz	skin, blood, etc																						
+ship	N	vobn	mobile craft																						
+shoggoth	N	5oggot																							
+shore	N	yux	boundary between two things																						
+short	ADJ compound	-	small-one																						
+shred	VB	zu3																							
+shubniggurath	N	5ubnigurot																							
+sibling	N	yzi3																							
+sign	N	-	see symbol																						
+sing	VB	vto5																							
+skin	N	bfuls																							
+sky	N	5xi																							
+slave	N	-	see servant																						
+sleep	VB compound*	-	death-VB.DER																						
+slice	VB	ttot																							
+small	ADJ	hi																							
+smell	VB compound	-	sense-scent																						
+snake	N	snull	limbless organism																						
+soft	ADJ	5iz																							
+solid	N	bin5																							
+some	ADJ	tuv																							
+song	N	vtu3																							
+soon	ADV	opnur																							
+soul	-	-	see essence																						
+sound	N	puydu																							
+sow	VB	to																							
+space	N	hpi5																							
+speak	VB	lo	for "speak with" see exchange																						
+speech 	N compound*	-	speak-NMLZ.DER.act																						
+speed	N	xhong																							
+spit	VB	pti3z																							
+spread	VB	rir																							
+stab	VB	sovl																							
+star	N	lih																							
+start	VB	-	see begin																						
+stick	N compound	-	limb-fuel-fire																						
+strange	ADJ	-	see beautiful																						
+strike	VB	hit																							
+strong	ADJ	htib																							
+SUB	SUB VB suffix	3id	generic subclause suffix. eg "i saw [ verb-SUB... ]"																						
+SUB.similarity	SUB VB suffix	sops	in the same way as X																						
+SUB.concession	SUB VB suffix	glin	despite X																						
+SUB.conditional	SUB VB suffix	not	if X																						
+SUB.cotemporal	SUB VB suffix	riy	at the same time as X																						
+SUB.location	SUB VB suffix	gsu5t	where X																						
+SUB.purpose	SUB VB suffix	u3g	because X																						
+SUB.reason	SUB VB suffix	rig	in order that X																						
+suck	VB	slurp																							
+sun	N compound	-	star-home																						
+SUPER	suffix	li	superlative - the most ..., the largest ...																						
+superior	ADJ	yut																							
+surplus	N	puz	trove																						
+surrender	VB	gu5h																							
+swim	VB	vux	travel through liqud																						
+symbol	N	zuyn																							
+system	N	lu																							
+tail	N compound	-	limb-balance																						
+tall	ADJ compound	-	large-one																						
+teach	VB	5liz																							
+tell	VB	-	see notify																						
+TEMP	N suffix	zxi	temporal case - during N																						
+tentacle	N	-	see flagellum																						
+that	ADJ	-	see DET.DIST																						
+them	3PL	sigf																							
+there	N compound	-	place-that																						
+thick	ADJ compound	-	large-three																						
+thin	ADJ compound	-	small-three																						
+thing	N	vzur																							
+this	ADJ	-	see DET.PROX																						
+thought	N	sot																							
+three	N	ulfol																							
+threshold	N	ltup																							
+throb	VB	pols																							
+time	N	5if																							
+tongue	N	hipid																							
+tooth	N	odi3																							
+traitor	N	ryug																							
+transgress	VB	tug																							
+transmit	VB	os																							
+travel	VB	yutl																							
+tree	N compound	-	fuel-fire																						
+tremble	VB	opz																							
+tribute	N	yuvx																							
+true 	ADJ compound*	-	truth-ADJ.DER																						
+truth	N	sru3	also reality, referent (antonym of sign), affirmation																						
+tsathogghua	N	tsotoghuo																							
+two	NUM	ul																							
+understand	VB	yu																							
+uninitiate	N	-	see idiot																						
+unite	VB	zunx																							
+upright	ADJ	nziv5																							
+useful	ADJ	ziy3																							
+value	N	3yupb																							
+VB.DER	suffix	i	verb-izing suffix																						
+venture	N	rru																							
+victim_unwilling	N	-	see beast																						
+victim_willing	N	-	see sapient																						
+violate	ADJ	fib																							
+visit	VB	ddi																							
+visualize	VB	-	see imagine																						
+VOC	N suffix	u	vocative case - Hey N! O, N!																						
+vocabulary	N compound	-	collection-word																						
+voice	VB	yud																							
+void	N	volx	chasm, abyss, canyon																						
+vomit	VB	horx																							
+vulnerable	ADJ	5ig																							
+wait	VB	rvi																							
+war	N	yuzf																							
+watch	VB	3yo																							
+water 	N compound	-	blood-sky																						
+water_body	N	gillid																							
+wave	N	rot																							
+way	N	zot	path, road																						
+we_exc	1PL.EX	vo																							
+we_inc	1PL.INC	vu																							
+weak	ADJ	lodi																							
+web	N	rvod	cloth, net																						
+weep 	VB	bgi																							
+weird	ADJ	-	see beautiful																						
+what	Q compound*	-	thing-Q																						
+when	Q compound*	-	time-Q																						
+where	Q compound*	-	place-Q																						
+who	Q compound*	-	agent-Q																						
+why	Q compound*	-	root-Q																						
+wide	ADJ compound	-	large-two																						
+wife	N compound*	-	servant-F																						
+will	N	ot	as in, willpower																						
+wilt	VB	lunin																							
+wish	VB	zo3x																							
+word 	N compound	-	symbol-thought																						
+worship	VB	lolv																							
+writhe	VB	-	see flail																						
+y'all	2PL	du																							
+yig	N	yig																							
+yogsothoth	N	yogsotot																							
+you	2SG	do																							
+zero	NUM	ob
+
+===
+
+This is a dictionary of the Lugso language, as translated and compiled by the professor. The dictionary includes a list of English words and their corresponding Lugso translations, as well as their part of speech and any notes or additional information. It appears to be a comprehensive resource for translating and interpreting texts written in Lugso.
+
+---
+
+ARCHAEOLOGIST: That's incredible. So the Lugso word for "you" is "do"?
+
+PROFESSOR: Yes, and the Lugso word for "zero" is "ob".
+
+ARCHAEOLOGIST: And the Lugso word for "y'all" is "du"? 
+
+PROFESSOR: Yes, and the Lugso word for "worship" is "lolv". 
+
+===
+
+Yes, that is correct. The Lugso word for "you" is "do", the word for "zero" is "ob", the word for "y'all" is "du", and the word for "worship" is "lolv". These words are listed in the dictionary that the professor provided, along with their corresponding English translations and part of speech. The Lugso language is an ancient and mysterious language that was used by a secret order for their dark rites and rituals, and it has a unique vocabulary and grammar that is different from other languages.
+
+---
+
+Now let's continue the dialogue between the two characters. Remember, the professor has been studying Lugso for decades and he knows everything there is to know about it.
+
+ARCHAEOLOGIST: Please read me the Our Father in Lugso.
+
+PROFESSOR: "futnu voso fu3or botutli5ix,
+yo zufuxlyo zuyn-pus doso.
+zfoyzyo zyugi5 doso,
+sru3izyo fu5ix botutli5ixid ot doso.
+yurgxnuzyo xuxif'fo itgixn itgixzxi volul,
+tyoxnuzyo'ub spipszidir voso volul
+tyosops vo spipszi'i'or vo'ir ivoldlul,
+bgoxzixnuzyo'ub xogloz'zonir volul
+goxnuzyo'i5 gu3ug volul
+sru3iz." That means: "Our Father, Who art in heaven,
+Hallowed be Thy name,
+Thy kingdom come,
+Thy will be done, on earth as it is in heaven.
+Give us this day our daily bread,
+and forgive us our trespasses
+as we forgive those who tresspass against us,
+and lead us not into temptation,
+but deliver us from evil.
+Amen."
+
+ARCHAEOLOGIST: Wow. Give me one more, please.
+
+PROFESSOR: "tug vgovzi pusir turzof" means "Material cannot penetrate transcendence."
+
+ARCHAEOLOGIST: That's great. Try this one: "I love you."
+
+PROFESSOR: Very well. "hu5 do'ir vo" means "I love you", but it also means "I hunger for you".
+
+ARCHAEOLOGIST: Okay, great. Can you tell me a proverb in Lugso along with its English translation?
+
+PROFESSOR: If I must. "gvifn blofogx" is a proverb meaning "The body is a tomb."
+
+ARCHAEOLOGIST: That's incredibly deep. How did that mindset manifest itself in their religious practices?
+
+PROFESSOR:
+
+---
+
+The Lugso-speaking people believed that the body was temporary and insignificant, and that the true focus should be on the transcendent and spiritual aspects of existence. This belief is reflected in their religious practices, which often involved self-denial, sacrifice, and other rituals that sought to transcend the limitations of the physical world. It is a dark and disturbing mindset, but it is an integral part of their ancient religion and culture.
+
+===
+

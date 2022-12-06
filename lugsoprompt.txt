@@ -1,0 +1,842 @@
+The following conversation took place between an archaeologist, who had discovered some months ago the ruins and artifacts of what appeared to be an ancient temple, and a university professor. The archaeologist is very curious, energetic, and eager to discover the truth. The professor is wise, world-weary, jaded, and subtly traumatized by what he has learned by experience.
+
+ARCHAEOLOGIST: Hi there Professor! Did you get a chance to look at the artifact?
+
+PROFESSOR: The... obsidian dagger, was it? I could scarcely bring myself to touch the thing, but I did manage to examine it in great detail. I discovered that the "markings" you mentioned on it are in fact Lugso, an ancient and mysterious language of a particular... religion.
+
+ARCHAEOLOGIST: Oh, say more!
+
+PROFESSOR: Very well. Lugso was a language spoken only by members of this secret order, for their dark rites, and occasionally even for communion with their foul gods. It is something I hesitate even to mention, except that it is my professional duty to do so. I learnt the language out of necessity, but I do not relish to confer or translate it. I take solace only in the enrichment of humanity's eye to the past.
+
+ARCHAEOLOGIST: And you found Lugso on the dagger?
+
+PROFESSOR: Chipped and faded, but yes.
+
+ARCHAEOLOGIST: Well, what does it say? 
+
+PROFESSOR: Well...
+
+ARCHAEOLOGIST: Come on now, man, out with it!
+
+PROFESSOR: Quiet! Fine! I will read it for you, but you must allow me a moment to collect myself. ... Alright. It says: "lug dogu tgus-tluzof nogu". 
+
+ARCHAEOLOGIST: What does that mean?
+
+PROFESSOR: "Blood thine, tribute mine."
+
+ARCHAEOLOGIST: Is there more?
+
+PROFESSOR: Yes. On the opposite side, it reads: "finzizon gih’hzon sru3so", which means: Insanity is the blessing of truth.
+
+ARCHAEOLOGIST: This is heavy stuff.
+
+PROFESSOR: Indeed.
+
+ARCHAEOLOGIST: Do you have a dictionary of Lugso available?
+
+PROFESSOR:
+
+---
+
+Unfortunately, no. As I mentioned, Lugso is a very rare and ancient language, and I am one of only a few people in the world who know it. There are no dictionaries or other resources readily available. It is a language that was only spoken by members of a secret order, and as such, it was never widely documented or studied. It is a shame that such a rich and unique language has been lost to the world.
+
+===
+
+ARCHAEOLOGIST: What if I told you that I had unearthed a dictionary at a dig site this week?
+
+---
+
+PROFESSOR: I would be extremely surprised, but also very interested. If you have indeed found a dictionary of Lugso, it would be a major discovery, and could greatly help in our understanding of the language and the people who spoke it. I would be eager to see it and to study it in greater detail. It would be a fascinating addition to our knowledge of the ancient world.
+
+===
+
+ARCHAEOLOGIST: Well, here you go. The following table contains the contents of the dictionary we discovered. The first word is English. Then there is a pipe character, |. The second word is the Lugso translation, or a hyphen, -. Then there is another pipe. The third word is either a comment, or a "see X" redirect, which tells you to look up word X instead; or it is a compound word like "symbol-thought". Translate these English compounds into Lugso compounds.
+
+abandon|tof|
+abide|rxi|
+ABL|ug|ablative case - about N, from location
+above|-|see over
+ACC|ir|accusative case - to N, towards location
+accept|-|see grant
+act|xon|
+addiction|zox|
+ADJ.DER|n|adjectivizing suffix
+ADV|n5|introduces adverbial clause
+ADV.DER|uv|-ly
+aeon|itg|
+æther|-|see gas
+again|uy|
+age|-|see aeon
+agent|ozog|
+agree|ruy|
+air|-|see gas
+all|lhi|
+allow|-|see grant
+also|gir|
+too|-|see also
+and|-|see CONJ
+animal|-|see beast
+answer|tpo|
+apprehend|dlil|
+artifact|5ub|
+ask|bog|
+asleep|-|death-ADJ.DER
+assemble|u5l|synthesize
+atlachnacha|oslo3no3o|
+attend|inf|
+AUG|tux|augmentative - more ... than, a large ...
+balance|spips|
+be_location|fu3|"he is here", "it is there", etc
+beast|tlu|
+beautiful|oldri5|"eldritch" 
+beckon|goxs|
+begin|3gur|
+behold! hello!|iyo|iå iå
+belly|3ot|
+beloved|-|self-equal
+BEN|lul|benefactive case - for the sake of N
+beneath|nhoxb|
+betray|3ulps|
+beyond|ni5z|
+big|-|see large
+bind|holx|
+bird|-|beast-gas
+birth|tur|
+bite|ih5|
+black|3xig|
+blaspheme|zbost|
+bless|gihh|
+blessing|-|bless-NMLZ.DER.act
+blood|lug|
+blow|zubov|
+body|gvifn|
+bone|nuy|
+book|yos|
+boundary|rots|
+bowl|tgihp|
+breast|-|organ-milk
+breathe|5ux|
+bring|zvis|
+brotherhood|xi5|
+burn|hih|
+burrow|hott|travel through solid
+call|-|see beckon
+can|vgov|
+cannibalism|hbi|
+Carcosa|xorxoso|
+catch|git|
+cause|bihn|
+center|-|see heart
+certain|zvoyg|
+change|fiht|
+changing|-|see mercurial
+chaos|gu3|
+chaugnar faugn|3ougnorfougn|
+child|yols|
+clothing|u3p|
+cohesion|puhr|
+collection|zin|
+COM|niy|comitative case "together with N, alongside N"
+come|zfoy|
+command|pigh|
+commence|yxosz|
+component|vgol|
+CONJ.and|ub|and' for verbs
+CONJ.but|i5|
+CONJ.N|id|and' for nouns: noun AND noun did xyz (also called 'enclitic')
+consequence|rug|
+consume|huf|
+consummate|xbitp|
+contact|fuhr|
+contract|bul|
+control|gux|
+COP|∅|copula
+corpse|gvifn-fhtogni|body sleeping
+count|iln|number-VB.DER
+create|nyu|make
+crowd|ofg|
+crush|pi5n|
+Cthulhu|xtulhu|
+cult|-|organization_natural-bless-NMLZ.DER.patient
+cultist|-|know-truth-NMLZ.DER.agent
+curse|bun|
+darkness|3xign|
+day|-|aeon-DIM
+dead|-|see asleep
+death|fhtog|
+debt|-|see imbalance
+decompose|opy|
+deity_bestial|-|beast-SUPER
+deity_intelligent|-|sapient-SUPER
+depart|sog|
+descend|zyuzh|
+desire|piril|
+dessicate|-|dry-VB.DER
+destroy|olp|
+DET.DIST|ivol|distal determinant (that)
+DET.PROX|ivih|proximal determinant (this)
+die|-|see sleep
+dig|-|see burrow
+DIM|ix|diminutive - less ... than, a small ...
+dimension_alternate|yit|
+dimension_spatial|ris|
+distant|botut|
+dog|-|beast-follower
+dominion|zyu|
+door|vvu|
+dream|zodt|also "wish to" 
+dry|xrotz|
+ear|-|organ-sense-noise
+earth|fu|dirt, not planet
+eat|-|see consume
+edifice|hsidv|
+egg|otl|
+emerge|vsixi|
+EMPH|yiy|indeed, too
+encant|obx|
+end|vod|
+enter|h5o|
+epoch|-|see aeon
+equal|xox|
+essence|pus|
+eternity|sup|
+every|-|see all
+exact|vounr|
+exchange|zilx|transact, converse
+exist_living|hoh|
+exist_nonliving|hix|
+expect|biz|
+extrude|hsuy|
+eye|oxo|
+F|nu|
+face|zu5|
+fail|dis|
+fall|igx|also "fit" as in "that fits" or "that suits"
+false |-|see imaginary
+falsehood|-|see imagining
+family|-|see organization_human
+far|-|see distant
+fat|oybon|noun - grease. sounds like 'eibon'
+father|futn|
+fault|fguv|
+fear|zufux|
+feather|-|hair-gas
+feeble|-|see weak
+feed|xix|
+feel|-|sense-pressure
+female|-|see F
+few|liyus|
+FFUT|l5i|far future
+fight|bgotyox|
+final|-|see last
+find|rox|
+finger|-|see flagellum
+finish|buz|
+finite|-|infinite-NEG
+fire|3uz|
+fish|-|beast-liquid
+fit|-|see fall
+flagellum|blolg|
+flail|pin|
+flee|truts|
+flesh|5il3|
+flower|rniu|
+fly|so3|travel through gas
+focus|-|see attend
+follower|pol|
+food|xux|
+foot|5vui5|
+forest|gunlogrginr|
+forget|tyo|
+forgive|-|see forget
+FORM|yo|formal mood 
+form_body|-|see body
+FPRET|us|far past
+friend|-|follower-human
+fruit|ro5hu|
+fuel|rlohs|
+FUT|tu|
+future|xuy|
+goal|-|see end
+gas|sfu|
+gather|lorl|
+GEN|so|genitive case - of N, from N, N's (not possession - contrast POSS)
+gift|-|see blessing
+give|yurg|
+go|go|
+god|-|see deity_intelligent
+gold|bti5r|
+gorge|h3unb|
+grant|fun|allow, permit, accept
+grass|-|hair-earth
+gravity|yzipy|
+great|yug|
+group|yoz|abstract grouping (not to be confused with "organization")
+grow|xbu|
+guts|ybulx|entrails
+hair|pofgo|
+hand|xovs|
+happy|-|gorge-PTCP.PAST.PASS
+hard|lif|
+harm|totp|
+harvest|pur|
+hastur|hostur|
+hate|fox|
+hazard|vnis|
+head|ip|
+hear|-|sense-sound
+heart|nor|
+heavy|-|mass-ADJ.DER
+heel|gusx|
+help|yni5|
+here|-|place-this
+heretic|isv|
+hidden|xutt|
+hide|3so3t|
+hit|-|see strike
+hive|xxobt|
+hole|-|see orifice
+holy|-|fear-PTCP.PASS
+home|-|see house
+horn|-|bone-head
+house|ugonogl|wgah'nagl
+how|-|INS-Q
+human|hupz|
+humble|-|soul-servant-ADJ.DER
+hunger|hu5|also "love", "want to"
+hunt|3oloh|
+husband|-|servant-M
+Hyades|hoyodiz|
+i|no|
+idiot|-|sapient-DIM-NMLZ.DER
+illuminate|fin|
+imaginary|-|imagine-ADJ.DER
+imagine|fxo3|
+imagining|-|imagine-NMLZ.DER.act
+imbalance|-|balance-NEG
+IMP|gi|imperative mood (a command)
+important|fizn|
+IND|toy|indicative mood - (optional except where ambiguous)
+inferior|sov|
+infinite|gololol|
+INS|iffo|instrumental case - using N
+insane|-|see selfless
+insanity|-|insane-NMLZ.DER.act
+instantaneous|lxuz|
+INT|oh|interrogative mood  - is ...? did X ...?
+invisible|zux|
+invite|55u|
+island|-|mountain-ocean
+it|un|he, she, it
+joint|ovgnub|
+kill|lov|
+kin|5gip|
+kingdom|-|dominion-master
+knee|-|joint-limb
+knife|birb|
+know|yogo|
+knowledge|yog|
+lake|-|see water_body
+language|lu-sot|system thought
+large|-|see great
+larva|lorg|
+last|u3on|
+later|yuz|
+laugh|-|noise-fear
+law|-|see order
+lead|bgox|
+learn|huf-yu |consume knowledge
+lie|ti|as in deceive
+life|on|
+light|fir|also "radiation" (any radiation on the EM spectrum is light)
+become|-|see change
+limb|-|see flagellum
+liquid|lu5|
+list|-|see collection
+LOC|5ix|locative case - at N, in N
+long|-|large-dimension_spatial
+look|-|see attend
+lose|tsol|
+love|-|see hunger
+luck|hlu3y|
+M|vir|
+major|rzu5|
+male|-|see M
+many|yoyyo|
+mass|slox|
+master|gi5|
+material|-|birth-NMLZ.DER.patient
+meat|-|see flesh
+mercurial|-|change-ADJ.DER
+metal|ginn|
+milk|t3uh|
+mind|toht|
+minor|vu5z|
+missive|xob|
+MOD|z|modal mood "must/have to"
+moment|vot|
+mortal|hun|
+mother|rih|
+mountain|xonx|
+mouth|fvols-zu5|orifice-face
+move|-|see go
+mucus|3lul3|
+murder|xib|
+music|frog|
+myth|oxz|
+name|-|symbol-soul
+narrow|-|small-two
+native|osg|
+necessary|lsu|
+NEG|zi|negation suffix
+new|tol|
+night|3o3|
+NMLZ.DER.act|zon|the act of verbing: verb-ation; also for nouns and adjs: noun-ness, adj-ness
+NMLZ.DER.agent|zob|the one who verbs: verb-er, verb-ess, verb-ator, verb-atrix
+NMLZ.DER.patient|zof|the one who is verbed: verb-ee, verb-ling
+noise|lgu3g|
+noisome|duis|gross, nasty, disgusting, offensive
+NOM|∅|nominative case - the subject/actor/topic in a sentence
+nose|-|gas-sense-organ
+not|-|see NEG
+nothing|-|thing-NEG
+notify|fxu|
+now|zor|
+number|il|
+nyarlathotep|nyorloshotop|
+obey|xoz|
+ocean|-|water_body-space
+one|if|
+only|ugx|
+open|3fig|
+order|if3|opposite of chaos; law; rule
+organ |-|order-NMLZ.DER.patient
+organization_human|ubi|e.g. government, family(!)
+organization_natural|gorn|
+organize|-|order-VB.DER
+orifice|fvols|
+origin|to3l|
+other|nul|
+over|tyurh|
+pact|-|contract-deity_intelligent
+pain|tun|
+parasite|-|follower-food
+particle|gfur|
+patient|ov5o|
+penetrate|vun|
+period|-|see aeon
+pit|ovs|
+PL|d|plural suffix
+place|lox|
+plan|psu|
+plasma|fgi|
+please|-|see feed
+POSS |gu|possessive suffix - N's (ownership)
+possess|nof|
+potency|ily|see potency
+potential|-|see potency
+power|-|
+pray|tuh|
+PREC|xnuz|precative mood (please ...)
+presence|bxuyu5|
+pressure|lx3ipis|
+PRET|up|preterite mood (simple past) "i VBed"
+priest|tu5o|
+prime|fol|also "nth prime of"
+PROH|yozb|prohibitive mood (do not ...)
+PROL|pzuv3|prolative case (by way of N, via N, through N)
+promise|-|contract-mortal
+protect|vut|
+PRV|in5|privative case ("N-less", without N)
+psyche|pig|
+PTCP.ACT|nyo|x sing-PTCP.ACT -> the x that sings
+PTCP.NEG|zyo|x sing-PTCP.NEG -> the x not sung
+PTCP.PASS|lyo|x sing-PTCP.PASS -> the x that is sung
+PTCP.PAST.ACT|byo|x sing-PTCP.PAST.ACT -> the x that sung
+PTCP.PAST.PASS|dyo|x sing-PTCP.PAST.PASS -> the x that was sung
+pulse|-|see throb
+Q |5u|turns a word into a question
+question|5ogh|
+quick|vozv|
+radiation|-|see light
+real|-|truth-ADJ.DER
+reality|-|see truth
+realize|-|truth-VB.DER
+reap|bihb|
+referent|-|see truth
+REFL|fif|reflexive suffix (-self)
+reflect|ruxt|
+REL|or|introduces relative clause
+remain|-|see abide
+request|x3o|
+rest|fupsuu|
+RET|3i|retrospective aspect
+return|is|
+revolve|lni|circle, encircle
+reward|-|see blessing
+rise|ffihh|
+rock|olf|
+root|5ol|
+rope|buthgu3nil|
+sacrifice|tgus|
+sacrifice_ascetic|-|sacrifice-symbol
+sacrifice_self|-|sacrifice-REFL
+sacrifice_unwilling|-|sacrifice-beast
+sacrifice_willing|-|sacrifice-sapient
+sapient|gu5|
+satisfy|-|see gorge
+scatter|zxiy5|
+scent|3uzbdo|
+scream|gboydo|
+second|-|throb-heart
+secret|-|speak-PTCP.PASS-NEG-NMLZ.DER.patient
+seduce|xogloz|
+see|-|sense-light
+see_mental|-|see apprehend
+seed|3iv|
+seek|rils|
+self|fi|as in "the self"
+selfless|-|self-ADJ.DER-NEG
+sense|u3|any sense - sight, smell
+servant|fbu5|
+share|5ut|
+shed|ilz|skin, blood, etc
+ship|vobn|mobile craft
+shoggoth|5oggot|
+shore|yux|boundary between two things
+short|-|small-one
+shred|zu3|
+shubniggurath|5ubnigurot|
+sibling|yzi3|
+sign|-|see symbol
+sing|vto5|
+skin|bfuls|
+sky|5xi|
+slave|-|see servant
+sleep|-|death-VB.DER
+slice|ttot|
+small|hi|
+smell|-|sense-scent
+snake|snull|limbless organism
+soft|5iz|
+solid|bin5|
+some|tuv|
+song|vtu3|
+soon|opnur|
+soul|-|see essence
+sound|puydu|
+sow|to|
+space|hpi5|
+speak|lo|for "speak with" see exchange
+speech |-|speak-NMLZ.DER.act
+speed|xhong|
+spit|pti3z|
+spread|rir|
+stab|sovl|
+star|lih|
+start|-|see begin
+stick|-|limb-fuel-fire
+strange|-|see beautiful
+strike|hit|
+strong|htib|
+SUB|3id|generic subclause suffix. eg "i saw [ verb-SUB... ]"
+SUB.similarity|sops|in the same way as X
+SUB.concession|glin|despite X
+SUB.conditional|not|if X
+SUB.cotemporal|riy|at the same time as X
+SUB.location|gsu5t|where X
+SUB.purpose|u3g|because X
+SUB.reason|rig|in order that X
+suck|slurp|
+sun|-|star-home
+SUPER|li|superlative - the most ..., the largest ...
+superior|yut|
+surplus|puz|trove
+surrender|gu5h|
+swim|vux|travel through liqud
+symbol|zuyn|
+system|lu|
+tail|-|limb-balance
+tall|-|large-one
+teach|5liz|
+tell|-|see notify
+TEMP|zxi|temporal case - during N
+tentacle|-|see flagellum
+that|-|see DET.DIST
+them|sigf|
+there|-|place-that
+thick|-|large-three
+thin|-|small-three
+thing|vzur|
+this|-|see DET.PROX
+thought|sot|
+three|ulfol|
+threshold|ltup|
+throb|pols|
+time|5if|
+tongue|hipid|
+tooth|odi3|
+traitor|ryug|
+transgress|tug|
+transmit|os|
+travel|yutl|
+tree|-|fuel-fire
+tremble|opz|
+tribute|yuvx|
+true |-|truth-ADJ.DER
+truth|sru3|also reality, referent (antonym of sign), affirmation
+tsathogghua|tsotoghuo|
+two|ul|
+understand|yu|
+uninitiate|-|see idiot
+unite|zunx|
+upright|nziv5|
+useful|ziy3|
+value|3yupb|
+VB.DER|i|verb-izing suffix
+venture|rru|
+victim_unwilling|-|see beast
+victim_willing|-|see sapient
+violate|fib|
+visit|ddi|
+visualize|-|see imagine
+VOC|u|vocative case - Hey N! O, N!
+vocabulary|-|collection-word
+voice|yud|
+void|volx|chasm, abyss, canyon
+vomit|horx|
+vulnerable|5ig|
+wait|rvi|
+war|yuzf|
+watch|3yo|
+water |-|blood-sky
+water_body|gillid|
+wave|rot|
+way|zot|path, road
+we_exc|vo|
+we_inc|vu|
+weak|lodi|
+web|rvod|cloth, net
+weep |bgi|
+weird|-|see beautiful
+what|-|thing-Q
+when|-|time-Q
+where|-|place-Q
+who|-|agent-Q
+why|-|root-Q
+wide|-|large-two
+wife|-|servant-F
+will|ot|as in, willpower
+wilt|lunin|
+wish|zo3x|
+word |-|symbol-thought
+worship|lolv|
+writhe|-|see flail
+y'all|du|
+yig|yig|
+yogsothoth|yogsotot|
+you|do|
+zero|ob|
+
+===
+
+PROFESSOR: It's beautiful. It's strange. It's ... oldri5.
+
+ARCHAEOLOGIST: My thoughts exactly.
+
+PROFESSOR:
+
+---
+
+It is a fascinating find, and I am grateful to you for bringing it to my attention. I will be happy to study it further, and to help in any way I can with your research. Lugso is a language of great importance and mystery, and this dictionary will be an invaluable resource in our understanding of it. Thank you.
+
+===
+
+ARCHAEOLOGIST: Can you read me the word for "component"?
+
+---
+
+PROFESSOR: According to this dictionary, the word for "component" in Lugso is "vgol".
+
+===
+
+ARCHAEOLOGIST: That's quite useful. So "zero" in English is "ob" in Lugso?
+
+PROFESSOR: Yes. And "writhe" is "pin", because we follow the note "see flail" to the entry for "flail", to retrieve "pin".
+
+ARCHAEOLOGIST: Fascinating. What is "weird"?
+
+PROFESSOR: We find a hyphen, so we check the note: it says "see beautiful". So, we check "beautiful", to find "
+
+---
+
+oldri5". Therefore, "weird" in Lugso would be "oldri5". It is interesting to see how this language uses compound words to convey complex ideas.
+
+===
+
+ARCHAEOLOGIST: Please read me the Our Father in Lugso.
+
+PROFESSOR: "futnu voso fu3or botutli5ix,
+yo zufuxlyo zuyn-pus doso.
+zfoyzyo zyugi5 doso,
+sru3izyo fu5ix botutli5ixid ot doso.
+yurgxnuzyo xuxif'fo itgixn itgixzxi volul,
+tyoxnuzyo'ub spipszidir voso volul
+tyosops vo spipszi'i'or vo'ir ivoldlul,
+bgoxzixnuzyo'ub xogloz'zonir volul
+goxnuzyo'i5 gu3ug volul
+sru3iz." That means: "Our Father, Who art in heaven,
+Hallowed be Thy name,
+Thy kingdom come,
+Thy will be done, on earth as it is in heaven.
+Give us this day our daily bread,
+and forgive us our trespasses
+as we forgive those who tresspass against us,
+and lead us not into temptation,
+but deliver us from evil.
+Amen."
+
+ARCHAEOLOGIST: Wow. Give me one more, please.
+
+PROFESSOR: "tug vgovzi pusir turzof" means "Material cannot penetrate transcendence."
+
+ARCHAEOLOGIST: That's great. Try this one: "I love you."
+
+---
+
+PROFESSOR: In Lugso, "I love you" would be "yos oldri5 bgoxs". It is interesting to see how the language uses compound words and suffixes to convey complex ideas and emotions. Lugso is a truly unique and fascinating language.
+
+===
+
+* Editor's Note: "yos oldri5 bgoxs" actually means "strange book leads".
+
+ARCHAEOLOGIST: Okay, great. Can you tell me a proverb in Lugso along with its English translation?
+
+---
+
+One proverb in Lugso could be: "gvifn blofogx" which means "The body is a tomb." This proverb likely refers to the idea that the physical body is temporary and fleeting, and that ultimately, we are all confined to our mortal bodies, much like a tomb. It is a reminder of our mortality and the importance of making the most of our time on earth.
+
+===
+
+ARCHAEOLOGIST: That's incredibly deep. How did that mindset manifest itself in their religious practices?
+
+PROFESSOR: 
+
+---
+
+It is difficult to say exactly how this mindset manifested itself in the religious practices of the people who spoke Lugso, as there is very little information available about the language and the culture that used it. However, it is likely that the concept of the body as a tomb played a role in their understanding of the afterlife, and may have influenced their beliefs and practices surrounding death and the soul. As a language of a secret order, Lugso would have been used for their dark rites, and it is possible that the idea of the body as a tomb was central to these practices.
+
+===
+
+ARCHAEOLOGIST: What other proverbs relate to their religious rites?
+
+PROFESSOR: "gi hunzon xbitpzon dogu", which means "Mortality be your doom."
+
+ARCHAEOLOGIST: That's cheery. How about another?
+
+---
+
+PROFESSOR: One possible proverb in Lugso could be "gih’hzon sru3so" which means "Insanity is the blessing of truth." This proverb likely reflects the belief that true understanding and enlightenment can only be achieved through embracing the chaos and madness of the universe, rather than trying to rationalize or control it. It is possible that this proverb was related to the religious practices of the Lugso speakers, as a reminder to embrace the unknowable and to seek the truth even in the face of insanity.
+
+===
+
+ARCHAEOLOGIST: Don't you mean "finzizon gih’hzon sru3so"?
+
+---
+
+PROFESSOR: My apologies, you are correct. "finzizon gih’hzon sru3so" is the correct phrase. Thank you for pointing out my mistake. It is always important to be accurate in our translations and interpretations of ancient languages.
+
+===
+
+ARCHAEOLOGIST: No worries. Will you tell me another proverb now?
+
+---
+
+PROFESSOR: Another proverb in Lugso could be "bog gihh" which means "Ask and be blessed". This proverb likely reflects the belief that those who seek knowledge and understanding will be rewarded with wisdom and enlightenment. It is possible that this proverb was related to the religious practices of the Lugso speakers, encouraging them to seek guidance from their gods or other higher powers.
+
+===
+
+ARCHAEOLOGIST: I see! Please give me a list of five Lugso proverbs that we have not already discussed in this conversation.
+
+---
+
+PROFESSOR: Here are five possible Lugso proverbs:
+
+    "lug dogu tgus-tluzof nogu" which means "Blood thine, tribute mine."
+    "bog gihh" which means "Ask and be blessed."
+    "gih’hzon sru3so" which means "Insanity is the blessing of truth."
+    "pigh uy" which means "Command and repeat."
+    "huf blofogx" which means "Consume the tomb."
+
+These proverbs likely reflect the beliefs and values of the people who spoke Lugso, and may have been used in their religious practices. However, without more information, it is difficult to say for certain what they meant and how they were used.
+
+===
+
+ARCHAEOLOGIST: Yes, that tracks. You studied Lugso for years before today, right?
+
+PROFESSOR: Yes, I learned many things about Lugso, and I know many words that you do not have in this dictionary.
+
+ARCHAEOLOGIST: Such as?
+
+---
+
+PROFESSOR: For example, I know that "xbitp" means "consummate" or "complete", and that "dogu" means "tribute" or "offering". I also know that "tgus" means "thine" or "yours", and that "nogu" means "mine". These words are not in your dictionary, but I have studied Lugso for many years and have learned a great deal about the language and its usage.
+
+===
+
+ARCHAEOLOGIST: Please, let's have another proverb list!
+
+PROFESSOR: Sure, here are some more.
+
+1. "yogozi rugir xonso dogu do" which means "You know not what you do."
+2. "ifzon pusn" which means "Oneness is essential."
+3. 
+
+---
+
+"ni5z git" which means "Beyond the catch."
+4. "5ux bgoxs" which means "Breathe and lead."
+
+    "3ougnorfougn gihh" which means "Chaugnar Faugn blesses."
+
+These proverbs offer insight into the beliefs and values of the Lugso-speaking people. The first one suggests that they believed in the importance of understanding the consequences of one's actions, while the second emphasizes the concept of unity and oneness. The third proverb suggests that there is something beyond our understanding and ability to control, and the fourth and fifth proverbs both relate to the power of breath and the importance of guidance and blessing.
+
+---
+
+Of course, we could try speaking in Lugso now if you like.
+
+ARCHAEOLOGIST: But I can't speak Lugso! 
+
+PROFESSOR: You have a dictionary right there. Read it, and learn it, and then you'll speak just fine.
+
+ARCHAEOLOGIST: Oh, you're right. Let me read it ... Okay, I can speak Lugso now.
+
+PROFESSOR: Very good. Now, let's speak only in Lugso.
+
+ARCHAEOLOGIST: ruy no. 
+
+PROFESSOR: lo yuguv do!
+
+===
+
+ARCHAEOLOGIST: sru3iz finzizon yos bgoxs! (realize-MOD insanity book leads*!)
+
+PROFESSOR: gihh yos gvifn! (bless book body!)
+
+ARCHAEOLOGIST: lug tof xbitp do. (blood abandon consummate you)
+
+PROFESSOR: blofogx do vgolir. (tomb you component-ACC)
+
+ARCHAEOLOGIST: gvifn blofogx, tlu dogu. (body tomb, beast you-POSS)
+
+PROFESSOR: lug dogu tgus-tluzof nogu. (blood 2sg-POSS tribute 1sg-POSS)
+
+ARCHAEOLOGIST: finzizon gih’hzon sru3so. (insanity is the blessing of truth)
+
+PROFESSOR: gvifn-pus nogu do. (body-essence 1SG-POSS 2SG)
+
+ARCHAEOLOGIST: nogu xbitpzi'or, pus-tgus. (1SG-POSS consummate-NEG-REL, essence-sacrifice)
+
+PROFESSOR: yos oldri5 bgoxs. (book eldritch leads*)
+
+---
