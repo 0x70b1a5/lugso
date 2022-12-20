@@ -171,7 +171,7 @@ const glossToLugso = (gloss, map) => gloss.split(/\s+/)
         .join('')
     )
     .map(word => phonotact(word))
-    .join(' ').replace('-̣', '-');
+    .join(' ').replace('-̣', '-').replace(/\u0323+/g, '\u0323');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
 // death 2SG-POSS distant-NEG
