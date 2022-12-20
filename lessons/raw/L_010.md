@@ -23,7 +23,7 @@ Vowels|front|central|back
 high|i||u
 mid||ʌ/ə
 
-ʌ/ə is the same phoneme, but ʌ is stressed and ə is unstressed. 
+ʌ/ə is the same phoneme, but ʌ is stressed and ə is unstressed.
 
 ### Importing names from English - rules for special sounds
 
@@ -56,6 +56,8 @@ In general: pronounce exactly as written, even if impossible. There are 2 except
 1. Separate adjacent vowels with glottal stops (even between words).
 
 Brief pauses between words are encouraged.
+
+**I've added a dot below the last letter of each morpheme (aka unit of meaning), to assist you in visually scanning them as you learn and read. These dots are ornamental and serve no other purpose.**
 
 ## Morphology
 
