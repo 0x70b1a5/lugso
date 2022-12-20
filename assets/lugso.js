@@ -19,6 +19,7 @@ const ipamap = {
     'y':'j',
     'r':'ɻ',
     "'":'ʔ',
+    '\u0323':''
 };
 
 const speak = (s, btnOnly) => `<span class='spoken ${btnOnly ? 'btnOnly' 
@@ -28,7 +29,7 @@ const speak = (s, btnOnly) => `<span class='spoken ${btnOnly ? 'btnOnly'
 const ipaify = (str, html) => {
     const s = str 
         ? str.split(' ').map(word => word.split('')
-            .map(char => ipamap[char] || char)
+            .map(char => ipamap[char] !== undefined ? ipamap[char] : char)
             .join(''))
             .map(ipaWord => {
                 // only the first syllable is stressed
@@ -89,8 +90,10 @@ const dig = (word, map, wholeRow) => {
     const isCompound = pos && pos.includes('compound')
     if (isCompound) {
         const lugso = notes.split(/[- ]/)
-            .map(subWord => getWord(subWord, map)+'\u0323')
-            .join(pos.includes('*') ? '' : '-')
+            .map(subWord => {
+                const w = getWord(subWord, map)
+                return w == '-' ? w : w+'\u0323'
+            }).join(pos.includes('*') ? '' : '-')
         return wholeRow ? {
             lugso,
             notes,
@@ -168,7 +171,7 @@ const glossToLugso = (gloss, map) => gloss.split(/\s+/)
         .join('')
     )
     .map(word => phonotact(word))
-    .join(' ');
+    .join(' ').replace('-̣', '-');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
 // death 2SG-POSS distant-NEG
