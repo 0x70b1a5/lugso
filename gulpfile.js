@@ -56,7 +56,7 @@ function lugsify(contents, rows) {
     }
 
     // since we only ever replace the first occurrence,
-    //   this should work through the entire file in an iterared fashion.
+    //   this should work through the entire file in an iterated fashion.
     fileContents = fileContents.replace(/\${(.*?)}\$/, out)
   }
 

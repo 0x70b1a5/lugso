@@ -21,7 +21,9 @@ const ipamap = {
     "'":'ʔ',
 };
 
-const speak = (s, btnOnly) => `<span class='spoken ${btnOnly ? 'btnOnly' : ''}'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> ${btnOnly ? '' : `<span class='ipa'>${s}</span>`} </span>`
+const speak = (s, btnOnly) => `<span class='spoken ${btnOnly ? 'btnOnly' 
+    : ''}'> <button class='speak' type='button' data-ipa='${s}'>🔈</button> ${btnOnly ? '' 
+    : `<span class='ipa'>${s}</span>`} </span>`
 
 const ipaify = (str, html) => {
     const s = str 
@@ -157,12 +159,12 @@ const rowsToMap = rows => {
     return glossMap
 }
 
-const phonotact = word => word.replace(/(\w)([ -]?)(\1)/g, "$1$2'$3")
-    .replace(/([iuo])([ -]?)([iuo])/g, "$1$2'$3")
+const phonotact = word => word.replace(/(\w)(\W?)(\1)/g, "$1$2'$3")
+    .replace(/([iuo])(\W?)([iuo])/g, "$1$2'$3")
 
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
-        .map(w => getWord(w, map))
+        .map(w => getWord(w, map)+'\u0323')
         .join('')
     )
     .map(word => phonotact(word))
