@@ -89,7 +89,7 @@ const dig = (word, map, wholeRow) => {
     const isCompound = pos && pos.includes('compound')
     if (isCompound) {
         const lugso = notes.split(/[- ]/)
-            .map(subWord => getWord(subWord, map))
+            .map(subWord => getWord(subWord, map)+'\u0323')
             .join(pos.includes('*') ? '' : '-')
         return wholeRow ? {
             lugso,
