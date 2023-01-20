@@ -70,39 +70,42 @@ Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, a
 
 ## Litany Against Fear
 
-> I must not fear.
-
-${g: fear-NEG-MOD 1SG}$
-
-> Fear is the mind-killer.
-
-${g: fear kill-NMLZ.DER.agent mind-GEN}$
-
-> Fear is the little-death that brings total obliteration.
-
-${g: fear death small REL bring thing-NEG-NMLZ.DER.act-ACC}$
-
-> I will face my fear.
-
-${g: attend-FUT fear-ACC 1SG-POSS 1SG}$
-
-> I will permit it to pass over me and through me.
-
-${g: grant-FUT 1SG go distant 1SG-PROL large-one-N-PROL 3SG}$
-
+${l: fear-NEG-MOD 1SG}$ <br/>
+${l: fear kill-NMLZ.DER.agent mind-GEN}$ <br/>
+${l: fear death small REL bring thing-NEG-NMLZ.DER.act-ACC}$ <br/>
+${l: attend-FUT fear-ACC 1SG-POSS 1SG}$ <br/>
+${l: grant-FUT 1SG go distant 1SG-PROL large-one-N-PROL 3SG}$ <br/>
 * remove this line when you have made the page about the grammar in the above sentence
+${l: turn eye-ACC inner 1SG see-SUB.reason way-ACC go-SUB.cotemporal distant 3SG}$ <br/>
+${l: FUT thing-NEG place-LOC REL go-PFV fear}$ <br/>
+${l: abide 1SG only}$ <br/>
 
+```
+fear-NEG-MOD 1SG
+fear kill-NMLZ.DER.agent mind-GEN
+fear death small REL bring thing-NEG-NMLZ.DER.act-ACC
+attend-FUT fear-ACC 1SG-POSS 1SG
+grant-FUT 1SG go distant 1SG-PROL large-one-N-PROL 3SG
+turn eye-ACC inner 1SG see-SUB.reason way-ACC go-SUB.cotemporal distant 3SG
+FUT thing-NEG place-LOC REL go-PFV fear
+abide 1SG only
+```
+
+> I must not fear.
+>
+> Fear is the mind-killer.
+>
+> Fear is the little-death that brings total obliteration.
+>
+> I will face my fear.
+>
+> I will permit it to pass over me and through me.
+>
 > And when it has gone past, I will turn the inner eye to see its path.
-
-${g: turn eye-ACC inner 1SG see-SUB.reason way-ACC go-SUB.cotemporal distant 3SG}$
-
+>
 > Where the fear has gone there will be nothing. 
-
-${g: FUT thing-NEG place-LOC REL go-PFV fear}$
-
+>
 > Only I will remain.
-
-${g: abide 1SG only}$
 
 
 ## Call of Cthulhu spells
