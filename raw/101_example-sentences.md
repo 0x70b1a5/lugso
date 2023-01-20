@@ -68,6 +68,43 @@ In the old Hebrew, 'amen' means 'so be it', hence "may it be realized".
 
 Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, mother of God, pray for us sinners, now and at the hour of our death. Amen.
 
+## Litany Against Fear
+
+> I must not fear.
+
+${g: fear-NEG-MOD 1SG}$
+
+> Fear is the mind-killer.
+
+${g: fear kill-NMLZ.DER.agent mind-GEN}$
+
+> Fear is the little-death that brings total obliteration.
+
+${g: fear death small REL bring thing-NEG-NMLZ.DER.act-ACC}$
+
+> I will face my fear.
+
+${g: attend-FUT fear-ACC 1SG-POSS 1SG}$
+
+> I will permit it to pass over me and through me.
+
+${g: grant-FUT 1SG go distant 1SG-PROL large-one-N-PROL 3SG}$
+
+* remove this line when you have made the page about the grammar in the above sentence
+
+> And when it has gone past, I will turn the inner eye to see its path.
+
+${g: turn eye-ACC inner 1SG see-SUB.reason way-ACC go-SUB.cotemporal distant 3SG}$
+
+> Where the fear has gone there will be nothing. 
+
+${g: FUT thing-NEG place-LOC REL go-PFV fear}$
+
+> Only I will remain.
+
+${g: abide 1SG only}$
+
+
 ## Call of Cthulhu spells
 
 gloss|lugso|ipa|english
