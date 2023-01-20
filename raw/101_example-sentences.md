@@ -75,10 +75,11 @@ ${l: fear kill-NMLZ.DER.agent mind-GEN}$ <br/>
 ${l: fear death small REL bring thing-NEG-NMLZ.DER.act-ACC}$ <br/>
 ${l: attend-FUT fear-ACC 1SG-POSS 1SG}$ <br/>
 ${l: grant-FUT 1SG go distant 1SG-PROL large-one-N-PROL 3SG}$ <br/>
-* remove this line when you have made the page about the grammar in the above sentence
 ${l: turn eye-ACC inner 1SG see-SUB.reason way-ACC go-SUB.cotemporal distant 3SG}$ <br/>
 ${l: FUT thing-NEG place-LOC REL go-PFV fear}$ <br/>
 ${l: abide 1SG only}$ <br/>
+
+* remove this line when you have made the page about the grammar in the 5th sentence
 
 ```
 fear-NEG-MOD 1SG
