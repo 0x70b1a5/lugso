@@ -51,6 +51,8 @@ function lugsify(contents, rows) {
     } else if (slice0 == 's:') {
       const lugso = glossToLugso(meat.slice(3), map)
       out = speak(ipaify(lugso))
+    } else if (slice0 == 'd:') {
+      debugger
     } else {
       out = glossToLugso(meat, map)
     }
