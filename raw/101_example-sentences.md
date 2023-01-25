@@ -68,6 +68,26 @@ In the old Hebrew, 'amen' means 'so be it', hence "may it be realized".
 
 Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, mother of God, pray for us sinners, now and at the hour of our death. Amen.
 
+### Suscipe
+
+${l: master-VOC receive-MOD-FORM bind-PTCP.NEG-NMLZ.DER.act-ACC all 1SG-POSS}$. <br/>
+${l: take-MOD-FORM remember-NMLZ.DER.agent-ACC-CONJ.N understand-NMLZ.DER.agent-ACC-CONJ.N will-ACC entire 1SG-POSS}$. <br/>
+
+
+#### Latin
+
+Suscipe, Domine, universam meam libertatem. Accipe memoriam, intellectum, atque voluntatem omnem. Quidquid habeo vel possideo mihi largitus es; id Tibi totum restituo, ac Tuae prorsus voluntati trado gubernandum. Amorem Tui solum cum gratia Tua mihi dones, et dives sum satis, nec aliud quidquam ultra posco. Amen.
+
+#### English
+
+Receive, O Lord, all my liberty. <br/>
+Take my memory, understanding and entire will. <br/>
+Whatever I have or possess, You have given me; <br/>
+I restore it all to You, <br/>
+and surrender it wholly to be governed by Your will. <br/>
+Give me love, for You alone along with your grace,<br/>
+and I am rich enough, and ask for nothing more.
+
 ## Litany Against Fear
 
 ${l: fear-NEG-MOD 1SG}$ <br/>
