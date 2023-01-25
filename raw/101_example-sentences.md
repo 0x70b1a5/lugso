@@ -72,12 +72,21 @@ Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, a
 
 ${l: master-VOC receive-MOD-FORM bind-PTCP.NEG-NMLZ.DER.act-ACC all 1SG-POSS}$. <br/>
 ${l: take-MOD-FORM remember-NMLZ.DER.agent-ACC-CONJ.N understand-NMLZ.DER.agent-ACC-CONJ.N will-ACC entire 1SG-POSS}$. <br/>
-${l: FORM all give-PTCP.PAST.PASS 2SG-PROL REL possess 1SG}$.
-${l: give--reflect-FORM all-INS 2SG-BEN 1SG}$,
-${l: surrender-FORM-CONJ.and all-ADV.DER 3SG-ACC 1SG SUB.purpose order-VB.DER-PTCP.PAST.PASS will-PROL 2SG}$
-${l: gorge-PTCP.PAST-PASS entire-do 1SG request-NEG-FORM-CONJ.and thing-ACC other 1SG}$,
+${l: FORM all give-PTCP.PAST.PASS 2SG-PROL REL possess 1SG}$.<br/>
+${l: give--reflect-FORM all-INS 2SG-BEN 1SG}$,<br/>
+${l: surrender-FORM-CONJ.and all-ADV.DER 3SG-ACC 1SG SUB.purpose order-VB.DER-PTCP.PAST.PASS will-PROL 2SG}$<br/>
+${l: gorge-PTCP.PAST-PASS entire-do 1SG request-NEG-FORM-CONJ.and thing-ACC other 1SG}$,<br/>
 ${l: give-MOD-FORM-SUB.conditional hunger-ACC 2SG-BEN gift-COM 2SG-GEN}$.
 
+```
+master-VOC receive-MOD-FORM bind-PTCP.NEG-NMLZ.DER.act-ACC all 1SG-POSS
+take-MOD-FORM remember-NMLZ.DER.agent-ACC-CONJ.N understand-NMLZ.DER.agent-ACC-CONJ.N will-ACC entire 1SG-POSS
+FORM all give-PTCP.PAST.PASS 2SG-PROL REL possess 1SG
+give--reflect-FORM all-INS 2SG-BEN 1SG
+surrender-FORM-CONJ.and all-ADV.DER 3SG-ACC 1SG SUB.purpose order-VB.DER-PTCP.PAST.PASS will-PROL 2SG
+gorge-PTCP.PAST-PASS entire-do 1SG request-NEG-FORM-CONJ.and thing-ACC other 1SG
+give-MOD-FORM-SUB.conditional hunger-ACC 2SG-BEN gift-COM 2SG-GEN
+```
 #### Latin
 
 Suscipe, Domine, universam meam libertatem. Accipe memoriam, intellectum, atque voluntatem omnem. Quidquid habeo vel possideo mihi largitus es; id Tibi totum restituo, ac Tuae prorsus voluntati trado gubernandum. Amorem Tui solum cum gratia Tua mihi dones, et dives sum satis, nec aliud quidquam ultra posco. Amen.
