@@ -101,6 +101,56 @@ and surrender it wholly to be governed by Your will. <br/>
 Give me love, for You alone along with your grace,<br/>
 and I am rich enough, and ask for nothing more.
 
+## Ecclesiastes 3:1-9
+
+Two translations are provided below for comparison.
+### Douay
+
+1. All things have their season, and in their times all things pass under heaven. 
+1. A time to be born and a time to die. A time to plant, and a time to pluck up that which is planted. 
+1. A time to kill, and a time to heal. A time to destroy, and a time to build. 
+1. A time to weep, and a time to laugh. A time to mourn, and a time to dance. 
+1. A time to scatter stones, and a time to gather. A time to embrace, and a time to be far from embraces.
+1. A time to get, and a time to lose. A time to keep, and a time to cast away. 
+1. A time to rend, and a time to sew. A time to keep silence, and a time to speak. 
+1. A time of love, and a time of hatred. A time of war, and a time of peace. 
+1. What hath man more of his labour?
+
+### Knox
+
+1. Everything must be done by turns; no activity, here beneath the heavens, but has its allotted time for beginning and coming to an end.
+1. Men are born only to die, plant trees only to displant them.
+1. Now we take life, now we save it; now we are destroying, now building.
+1. Weep first, then laugh, mourn we and dance;
+1. the stones we have scattered we must bring together anew; court we first and then shun the embrace.
+1. To-day’s gain, tomorrow’s loss; what once we treasured, soon thrown away;
+1. the garment rent, the garment mended; silence kept, and silence ended;
+1. love alternating with hatred, war with peace.
+1. For all this toiling of his, how is man the richer?
+
+### Lugso
+
+${l: possess aeon-ACC 3PL-POSS thing all}$; ${l: possess aeon-ACC begin-NMLZ.DER.act-GEN aeon-ACC-CONJ.N finish-NMLZ.DER.act-ACC high-NMLZ.DER.act-PL beneath thing all}$
+${l: IND aeon birth-GEN aeon-CONJ.N sleep-GEN}$. ${l: IND aeon sow-GEN aeon-CONJ.N reap-GEN}$
+${l: IND aeon kill-GEN aeon-CONJ.N grow--order-GEN}$. ${l: IND aeon destroy-GEN aeon-CONJ.N create-GEN}$
+${l: IND aeon weep-GEN aeon-CONJ.N noise--fear-VB.DER-GEN}$. ${l: IND aeon pray--death-GEN aeon-CONJ.N writhe-GEN}$
+${l: IND aeon scatter-GEN rock-PL-ACC aeon-CONJ.N gather-GEN}$. ${l: IND aeon possess-GEN aeon-CONJ.N hate-GEN possess-NMLZ.DER.act-ACC}$
+${l: IND aeon receive-GEN aeon-CONJ.N lose-GEN}$. ${l: IND aeon bind-GEN aeon-CONJ.N loose-GEN}$
+${l: IND aeon rend-GEN aeon-CONJ.N stitch-GEN}$. ${l: IND aeon noise-PRV aeon-CONJ.N speak-GEN}$
+${l: IND aeon hunger-GEN aeon-CONJ.N hate-GEN}$. ${l: IND aeon war-GEN aeon-CONJ.N war-PRV}$
+${l: Q gorge-PTCP.PAST.PASS-AUG work-NMLZ.DER.agent work-PTCP.PAST.ACT-SUB.reason 3SG}$?
+
+```
+possess aeon-ACC 3PL-POSS thing all; possess aeon-ACC begin-NMLZ.DER.act-GEN aeon-ACC-CONJ.N finish-NMLZ.DER.act-ACC high-NMLZ.DER.act-PL beneath thing all
+IND aeon birth-GEN aeon-CONJ.N sleep-GEN. IND aeon sow-GEN aeon-CONJ.N reap-GEN.
+IND aeon kill-GEN aeon-CONJ.N grow--order-GEN. IND aeon destroy-GEN aeon-CONJ.N create-GEN.
+IND aeon weep-GEN aeon-CONJ.N noise--fear-VB.DER-GEN. IND aeon pray--death-GEN aeon-CONJ.N writhe-GEN.
+IND aeon scatter-GEN rock-PL-ACC aeon-CONJ.N gather-GEN. IND aeon possess-GEN aeon-CONJ.N hate-GEN possess-NMLZ.DER.act-ACC.
+IND aeon receive-GEN aeon-CONJ.N lose-GEN. IND aeon bind-GEN aeon-CONJ.N loose-GEN.
+IND aeon rend-GEN aeon-CONJ.N stitch-GEN. IND aeon noise-PRV aeon-CONJ.N speak-GEN.
+IND aeon hunger-GEN aeon-CONJ.N hate-GEN. IND aeon war-GEN aeon-CONJ.N war-PRV.
+Q gorge-PTCP.PAST.PASS-AUG work-NMLZ.DER.agent work-PTCP.PAST.ACT-SUB.reason 3SG?
+```
 ## Litany Against Fear
 
 ${l: fear-NEG-MOD 1SG}$ <br/>

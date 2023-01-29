@@ -39,14 +39,21 @@ _Offer this victim to Cthulhu!_
 IMP is the "command mood" used when giving orders.
 
 ### IND indicative* -${IND}$
+#### "There is/are"
 
-While usually unnecessary to mark indicative mood, there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
+Indicative is normally used to state existential clauses.
+
+${g: IND aeon birth-GEN aeon-CONJ.N sleep-GEN}$
+
+_[There is] A time to be born and a time to die._
+
+While usually unnecessary to mark indicative mood (i.e. in almost all "basic" sentences), there are cases where it is important to distinguish _which_ verb is indicative, and which verb isn't.
 
 #### Redundant indicative
 
 ${g: allow-IND victim-ACC DET.PROX Cthulhu}$
 
-_Cthulhu accepts this victim._
+_[It is so that] Cthulhu accepts this victim._ 
 
 #### Necessary indicative
 
