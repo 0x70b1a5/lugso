@@ -130,15 +130,15 @@ Two translations are provided below for comparison.
 
 ### Lugso
 
-${l: possess aeon-ACC 3PL-POSS thing all}$; ${l: possess aeon-ACC begin-NMLZ.DER.act-GEN aeon-ACC-CONJ.N finish-NMLZ.DER.act-ACC high-NMLZ.DER.act-PL beneath thing all}$
-${l: IND aeon birth-GEN aeon-CONJ.N sleep-GEN}$. ${l: IND aeon sow-GEN aeon-CONJ.N reap-GEN}$
-${l: IND aeon kill-GEN aeon-CONJ.N grow--order-GEN}$. ${l: IND aeon destroy-GEN aeon-CONJ.N create-GEN}$
-${l: IND aeon weep-GEN aeon-CONJ.N noise--fear-VB.DER-GEN}$. ${l: IND aeon pray--death-GEN aeon-CONJ.N writhe-GEN}$
-${l: IND aeon scatter-GEN rock-PL-ACC aeon-CONJ.N gather-GEN}$. ${l: IND aeon possess-GEN aeon-CONJ.N hate-GEN possess-NMLZ.DER.act-ACC}$
-${l: IND aeon receive-GEN aeon-CONJ.N lose-GEN}$. ${l: IND aeon bind-GEN aeon-CONJ.N loose-GEN}$
-${l: IND aeon rend-GEN aeon-CONJ.N stitch-GEN}$. ${l: IND aeon noise-PRV aeon-CONJ.N speak-GEN}$
-${l: IND aeon hunger-GEN aeon-CONJ.N hate-GEN}$. ${l: IND aeon war-GEN aeon-CONJ.N war-PRV}$
-${l: Q gorge-PTCP.PAST.PASS-AUG work-NMLZ.DER.agent work-PTCP.PAST.ACT-SUB.reason 3SG}$?
+${l: possess aeon-ACC 3PL-POSS thing all}$; ${l: possess aeon-ACC begin-NMLZ.DER.act-GEN aeon-ACC-CONJ.N finish-NMLZ.DER.act-ACC high-NMLZ.DER.act-PL beneath thing all}$ <br />
+${l: IND aeon birth-GEN aeon-CONJ.N sleep-GEN}$. ${l: IND aeon sow-GEN aeon-CONJ.N reap-GEN}$ <br />
+${l: IND aeon kill-GEN aeon-CONJ.N grow--order-GEN}$. ${l: IND aeon destroy-GEN aeon-CONJ.N create-GEN}$ <br />
+${l: IND aeon weep-GEN aeon-CONJ.N noise--fear-VB.DER-GEN}$. ${l: IND aeon pray--death-GEN aeon-CONJ.N writhe-GEN}$ <br />
+${l: IND aeon scatter-GEN rock-PL-ACC aeon-CONJ.N gather-GEN}$. ${l: IND aeon possess-GEN aeon-CONJ.N hate-GEN possess-NMLZ.DER.act-ACC}$ <br />
+${l: IND aeon receive-GEN aeon-CONJ.N lose-GEN}$. ${l: IND aeon bind-GEN aeon-CONJ.N loose-GEN}$ <br />
+${l: IND aeon rend-GEN aeon-CONJ.N stitch-GEN}$. ${l: IND aeon noise-PRV aeon-CONJ.N speak-GEN}$ <br />
+${l: IND aeon hunger-GEN aeon-CONJ.N hate-GEN}$. ${l: IND aeon war-GEN aeon-CONJ.N war-PRV}$ <br />
+${l: Q gorge-PTCP.PAST.PASS-AUG work-NMLZ.DER.agent work-PTCP.PAST.ACT-SUB.reason 3SG}$? 
 
 ```
 possess aeon-ACC 3PL-POSS thing all; possess aeon-ACC begin-NMLZ.DER.act-GEN aeon-ACC-CONJ.N finish-NMLZ.DER.act-ACC high-NMLZ.DER.act-PL beneath thing all
