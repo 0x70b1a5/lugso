@@ -118,23 +118,30 @@ _parasitical-ly_ **${follower--food-ADV.DER}$***
 
 ### Comparative affixes - Augmentative and Diminutive
 
-#### ${AUG}$: "more ... than, -er"
+#### Augmentative - ${AUG}$: "more ... than, -er"
 
 _greater_ **${great-AUG}$**
 
 _prettier, weirder_ **${weird-AUG}$**
 
-#### ${DIM}$: "less ... than"
+#### Diminutive - ${DIM}$: "less ... than"
 
 _less dead_ **${dead-DIM}$**
 
 _less far_ **${far-DIM}$**
 
-####  ${PRV}$: "-less", "without ..."
+### Privative and Superlative
+#### Privative - ${PRV}$: "-less", "without ..."
 
 ${g: wilt throb-NMLZ.DER.act-COM heart-GEN blood-PRV soul 1SG-GEN}$
 
 _My soul wilts at the throbbing of the bloodless heart._
+
+#### Superlative affix - ${SUPER}$ "the most", "the largest", "the best"
+
+_greatest_ **${great-SUPER}$**
+
+_prettiest, weirdest_ **${weird-SUPER}$**
 
 ---
 

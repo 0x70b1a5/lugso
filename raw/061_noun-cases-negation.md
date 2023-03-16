@@ -18,6 +18,7 @@ ${r: larva}$
 ${r: mind}$
 ${r: move}$
 ${r: NEG}$
+${r: MAL}$
 ${r: revolve}$
 ${r: sky}$
 ${r: thought}$
@@ -129,6 +130,10 @@ _The human exchanges souls with the maggot._
 ${g: revolve sky-PL-PROL child--child--star-PL-NOM strange}$
 
 _Strange moons circle through the skies._
+
+### MAL malefactive
+
+TODO
 
 ## Negation
 

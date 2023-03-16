@@ -121,3 +121,31 @@ _When does the child change?_
 ${g: crush priest-ACC REFL-Q}$
 
 _Who (which 'self') crushed the priest?_
+
+## Complex questions
+
+Complex questions can be formed by combining the various elements presented above. Here are a few examples:
+
+### Combining verb and noun questions
+
+${g: consume-INT Q Cthulhu}$
+
+_Is Cthulhu eating **something** (and if so, what is it)?_
+
+### Combining "wh-" words with verb questions
+
+${g: come-INT LOC-Q}$
+
+_Is this coming from **somewhere** (and if so, where)?_
+
+### Combining multiple "wh-" words
+
+${g: come LOC-Q TEMP-Q}$
+
+_Where and when did it come from?_
+
+### Combining auxiliary verbs and "wh-" words
+
+${g: consume--knowledge can-INT referent-ACC INS-Q 2SG}$
+
+_How can you learn what the portent refers to?_

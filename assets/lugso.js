@@ -146,9 +146,9 @@ const getSheet = async () => {
 const rowsToMap = rows => {
     const glossMap = {}
     rows.forEach(row => {
-        // this will overwrite duplicate parts of speech,
+        // this will overwrite duplicate parts of speech (e.g. most words),
         // but preserve singletons (e.g. 1SG, 2SG)
-        // so that glosses can use 'I' or '1SG'
+        // so that glosses can use either 'I' or '1SG'
         const l = row.lugso.trim()
         const e = row.english.trim()
         const p = row.partOfSpeech.trim()
@@ -167,10 +167,12 @@ const phonotact = word => word.replace(/(\w)(\W?)(\1)/g, "$1$2'$3")
 
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
+        // add a dot below each morpheme (optional, for ease of learning only)
         .map(w => getWord(w, map)+'\u0323')
         .join('')
     )
     .map(word => phonotact(word))
+    // remove duplicate dots (from compound words, etc)
     .join(' ').replace('-̣', '-').replace(/\u0323+/g, '\u0323');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
