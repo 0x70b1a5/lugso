@@ -167,13 +167,15 @@ const phonotact = word => word.replace(/(\w)(\W?)(\1)/g, "$1$2'$3")
 
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
-        // add a dot below each morpheme (optional, for ease of learning only)
-        .map(w => getWord(w, map)+'\u0323')
+        // // add a dot below each morpheme (optional, for ease of learning only)
+        // .map(w => getWord(w, map)+'\u0323')
+        .map(w => getWord(w, map))
         .join('')
     )
     .map(word => phonotact(word))
-    // remove duplicate dots (from compound words, etc)
-    .join(' ').replace('-̣', '-').replace(/\u0323+/g, '\u0323');
+    // // remove duplicate dots (from compound words, etc)
+    // .join(' ').replace('-̣', '-').replace(/\u0323+/g, '\u0323');
+    .join(' ');
 // (async () => {
 //     const g = `lead-NMLZ.DER.agent 2SG-POSS 1SG
 // death 2SG-POSS distant-NEG

@@ -25,6 +25,10 @@ html {
     background-color: $bg-blu;
     max-width: 100%;
     font-family: 'IM Fell English', 'Times New Roman', Times, serif;
+    
+    .ipa {
+        font-family: 'Times New Roman', Times, serif !important;
+    }
 
     .spoken {
         // white-space: nowrap;
@@ -53,10 +57,10 @@ html {
 
         li {
             &.active {
-                background: $se-prp;
+                background: $a2-grn;
 
                 a, a:visited {
-                    color: $a2-grn !important;
+                    color: $bg-prp !important;
                     text-decoration: none;
                 }
             }
@@ -85,10 +89,6 @@ html {
 
     a {
         color: $a2-grn;
-
-        &:visited {
-            color: $a2-grn;
-        }
     }
    
     strong {
@@ -139,11 +139,10 @@ html {
     .content {
 
         h1, h2, h3, h4, h5, h6 {
-            border: 2px solid;
-            border-image: linear-gradient(90deg, $turq, transparent, transparent) 1;
-            border-top: none;
-            padding: 5px 16px 10px 16px;
-            margin:0px;
+            // border: 2px solid;
+            // border-image: linear-gradient(90deg, $turq, transparent, transparent) 1;
+            // border-top: none;
+            margin: 0;
         }
 
         h2 {
