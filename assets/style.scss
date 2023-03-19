@@ -1,6 +1,3 @@
----
----
-
 $blak: #001524; // Deep Midnight Blue;
 $prim: #A5E6BA; // Soft Mint Green;
 $midd: #9AC6C5; // Tranquil Seafoam;
@@ -8,6 +5,7 @@ $turq: #7785AC; // Dusky Periwinkle;
 $seco: #5B2A86; // Dark Royal Purple;
 $purp: #360568; // Mysterious Indigo;
 
+$bl-ack: #1c1c1c;
 $bg-blu: #0b3d91;
 $bg-prp: #4b0082;
 $se-blu: #3c6997;
@@ -50,18 +48,39 @@ html {
         display: none;
     }
 
+    @media screen and (min-width: 900px) {
+        body {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        header {
+            flex-basis: 200px;
+        }
+
+        nav {
+            flex-direction: column;
+        }
+    }
+
     nav {
         display: flex;
         flex-flow: row wrap;
         max-width: 100vw;
 
         li {
+            list-style-type: none;
+            padding: 0.5em 1em;
+
+            a {
+                text-decoration: none;
+            }
+
             &.active {
                 background: $a2-grn;
 
                 a, a:visited {
-                    color: $bg-prp !important;
-                    text-decoration: none;
+                    color: $bl-ack !important;
                 }
             }
 
@@ -123,9 +142,11 @@ html {
     }
 
     code {
-        background: $se-blu;
-        padding: 0 2px;
-        border-radius: 5px;
+        // background: $se-blu;
+        // padding: 0 2px;
+        // border-radius: 5px;
+        font-family: 'Cinzel', monospace;
+        white-space: pre-wrap;
     }
 
     hr {
@@ -146,41 +167,39 @@ html {
         }
 
         h2 {
-            & ~ p {
+            & ~ * {
                 margin-left: 20px; 
             }
         }
 
         h3 {
             margin-left: 20px;
-            & ~ p {
+            & ~ * {
                 margin-left: 40px; 
             }
         }
 
         h4 {
             margin-left: 40px;
-            & ~ p {
+            & ~ * {
                 margin-left: 60px; 
             }
         }
 
         h5 {
             margin-left: 60px;
-            & ~ p {
+            & ~ * {
                 margin-left: 80px; 
             }
         }
 
         h6 {
             margin-left: 80px;
-            & ~ p {
+            & ~ * {
                 margin-left: 100px; 
             }
         }
     }
-
-
 }
 
 @media (min-width: 900px) {
