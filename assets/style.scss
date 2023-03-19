@@ -21,9 +21,10 @@ $tx-gry: #d3d3d3;
 
 html {
     margin: 1em;
-    color: $blak;
+    color: $tx-wyt;
+    background-color: $bg-blu;
     max-width: 100%;
-
+    font-family: 'IM Fell English', 'Times New Roman', Times, serif;
 
     .spoken {
         // white-space: nowrap;
@@ -52,17 +53,17 @@ html {
 
         li {
             &.active {
-                background: $prim;
+                background: $se-prp;
 
                 a, a:visited {
-                    color: $blak !important;
+                    color: $a2-grn !important;
                     text-decoration: none;
                 }
             }
 
             &:not(.active) {
                 &:hover{
-                    background: $midd;
+                    background: $se-blu;
                 }
             }
         }
@@ -83,19 +84,19 @@ html {
     }
 
     a {
-        color: $turq;
+        color: $a2-grn;
 
         &:visited {
-            color: $turq;
+            color: $a2-grn;
         }
     }
    
     strong {
-        color: $seco;
+        // color: $seco;
     }
 
     em {
-        color: $purp;
+        // color: $purp;
     }
 
     img {  
@@ -109,11 +110,11 @@ html {
         border-collapse: collapse;
 
         tr:nth-child(even) {
-            background-color: $prim;
+            background-color: $se-blu;
         }
        
         th {
-            background-color: $midd;
+            background-color: $se-prp;
         }
 
         td, th {
@@ -122,7 +123,7 @@ html {
     }
 
     code {
-        background: $prim;
+        background: $se-blu;
         padding: 0 2px;
         border-radius: 5px;
     }
