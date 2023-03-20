@@ -142,7 +142,7 @@ html {
     }
 
     .content {
-        margin-left: 24px;
+        margin-left: 3em;
 
         h1, h2, h3, h4, h5, h6 {
             // border: 2px solid;
@@ -158,7 +158,7 @@ html {
         }
 
         h2 {
-            margin-left: 1em;
+            margin-left: -1em;
             color: $a2-tel;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 20px; 
@@ -196,6 +196,11 @@ html {
             // }
         }
     }
+
+    footer {
+        display: flex;
+        align-items: flex-end;
+    }
 }
 
 $navwidth: 200px;
@@ -215,6 +220,6 @@ $navwidth: 200px;
     }
 
     .content {
-        width: calc(100% - 200px);
+        width: 60%;
     }
 }
