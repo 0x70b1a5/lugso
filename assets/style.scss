@@ -99,6 +99,10 @@ html {
                 &:visited {
                     color: $txc !important;
                 }
+
+                &::before {
+                    content: "❧ ";
+                }
             }
 
             &:not(.active) {
