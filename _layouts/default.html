@@ -44,13 +44,7 @@
     </footer>
     <script>
       function createFloatingDots(numDots) {
-        const container = document.createElement("div");
-        container.style.position = "fixed";
-        container.style.top = "50%";
-        container.style.left = "50%";
-        container.style.transform = "translate(-50%, -50%)";
-        document.body.appendChild(container);
-    
+        const container = document.getElementsByClassName('dotty')[0]
         for (let i = 0; i < numDots; i++) {
           const duration = Math.random() * 6000 + 6000;
     
