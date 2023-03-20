@@ -94,15 +94,16 @@ html {
 
             &.active {
                 background: $bg5;
+                color: $txc;
 
                 &:visited {
-                    color: $lnkdul !important;
+                    color: $txc !important;
                 }
             }
 
             &:not(.active) {
                 &:hover{
-                    background: $se-blu;
+                    background: $bg4;
                     color: $lnkdul;
                 }
             }
@@ -200,6 +201,7 @@ html {
         }
 
         h3 {
+            margin-left: -0.5em;
             color: $secdul;
             // margin-left: 20px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
@@ -208,6 +210,7 @@ html {
         }
 
         h4 {
+            margin-left: -0.25em;
             color: $secdul;
             // margin-left: 40px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
@@ -216,7 +219,7 @@ html {
         }
 
         h5 {
-            // margin-left: 60px;
+            margin-left: -0.125em;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 80px; 
             // }
