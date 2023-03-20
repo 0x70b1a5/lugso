@@ -19,7 +19,7 @@
         {% for node in bages %}
           {% if node.hide != true and node.title != nil %}
             {% if page.url == node.url or page.title == 'Home' and node.title == 'Home' %}
-            <a href="{{ node.url | relative_url }}" class="active">{{node.title}}</a>
+            <a href="{{ node.url | relative_url }}" class="active">❧ {{node.title}}</a>
             {% else %}
             <a href="{{ node.url | relative_url }}">{{node.title}}</a> 
             {% endif %}
