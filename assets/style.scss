@@ -113,7 +113,7 @@ html {
         border-collapse: collapse;
 
         tr:nth-child(even) {
-            background-color: $se-blu;
+            background-color: $bg-prp;
         }
        
         th {
@@ -142,6 +142,8 @@ html {
     }
 
     .content {
+        margin-left: 24px;
+
         h1, h2, h3, h4, h5, h6 {
             // border: 2px solid;
             // border-image: linear-gradient(90deg, $turq, transparent, transparent) 1;
@@ -149,39 +151,50 @@ html {
             margin: 0;
         }
 
-        // h2 {
-        //     & ~ p, & ~ div, & ~ pre, & ~ code {
-        //         margin-left: 20px; 
-        //     }
-        // }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 1em;
+            color: $a2-grn;
+        }
 
-        // h3 {
-        //     margin-left: 20px;
-        //     & ~ p, & ~ div, & ~ pre, & ~ code {
-        //         margin-left: 40px; 
-        //     }
-        // }
+        h2 {
+            margin-left: 1em;
+            color: $a2-tel;
+            // & ~ p, & ~ div, & ~ pre, & ~ code {
+            //     margin-left: 20px; 
+            // }
+        }
 
-        // h4 {
-        //     margin-left: 40px;
-        //     & ~ p, & ~ div, & ~ pre, & ~ code {
-        //         margin-left: 60px; 
-        //     }
-        // }
+        h3 {
+            color: $ac-amb;
+            // margin-left: 20px;
+            // & ~ p, & ~ div, & ~ pre, & ~ code {
+            //     margin-left: 40px; 
+            // }
+        }
 
-        // h5 {
-        //     margin-left: 60px;
-        //     & ~ p, & ~ div, & ~ pre, & ~ code {
-        //         margin-left: 80px; 
-        //     }
-        // }
+        h4 {
+            color: $ac-yel;
+            // margin-left: 40px;
+            // & ~ p, & ~ div, & ~ pre, & ~ code {
+            //     margin-left: 60px; 
+            // }
+        }
 
-        // h6 {
-        //     margin-left: 80px;
-        //     & ~ p, & ~ div, & ~ pre, & ~ code {
-        //         margin-left: 100px; 
-        //     }
-        // }
+        h5 {
+            color: $tx-gry;
+            // margin-left: 60px;
+            // & ~ p, & ~ div, & ~ pre, & ~ code {
+            //     margin-left: 80px; 
+            // }
+        }
+
+        h6 {
+            // margin-left: 80px;
+            // & ~ p, & ~ div, & ~ pre, & ~ code {
+            //     margin-left: 100px; 
+            // }
+        }
     }
 }
 
