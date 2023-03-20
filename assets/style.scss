@@ -51,28 +51,13 @@ html {
         display: none;
     }
 
-    @media screen and (min-width: 900px) {
-        body {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        header {
-            flex-basis: 200px;
-        }
-
-        nav {
-            flex-direction: column;
-        }
-    }
-
     nav {
         display: flex;
 
         a {
             padding: 0.5em 1em;
             text-decoration: none;
-            color: $se-blu;
+            color: $a2-tel;
 
             &.active {
                 background: $a2-grn;
@@ -85,6 +70,7 @@ html {
             &:not(.active) {
                 &:hover{
                     background: $se-blu;
+                    color: $tx-wyt;
                 }
             }
         }
@@ -140,9 +126,9 @@ html {
     }
 
     code {
-        // background: $se-blu;
-        // padding: 0 2px;
-        // border-radius: 5px;
+        background: $se-blu;
+        padding: 0 2px;
+        border-radius: 5px;
         font-family: 'Inconsolata', monospace;
         white-space: pre-wrap;
     }
@@ -155,12 +141,6 @@ html {
         height: 2px;
     }
 
-    @media screen and (min-width: 900px) {
-        .content {
-            width: 900px;
-        }
-    }
-
     .content {
         h1, h2, h3, h4, h5, h6 {
             // border: 2px solid;
@@ -169,38 +149,59 @@ html {
             margin: 0;
         }
 
-        h2 {
-            & ~ p, & ~ div, & ~ pre, & ~ code {
-                margin-left: 20px; 
-            }
-        }
+        // h2 {
+        //     & ~ p, & ~ div, & ~ pre, & ~ code {
+        //         margin-left: 20px; 
+        //     }
+        // }
 
-        h3 {
-            margin-left: 20px;
-            & ~ p, & ~ div, & ~ pre, & ~ code {
-                margin-left: 40px; 
-            }
-        }
+        // h3 {
+        //     margin-left: 20px;
+        //     & ~ p, & ~ div, & ~ pre, & ~ code {
+        //         margin-left: 40px; 
+        //     }
+        // }
 
-        h4 {
-            margin-left: 40px;
-            & ~ p, & ~ div, & ~ pre, & ~ code {
-                margin-left: 60px; 
-            }
-        }
+        // h4 {
+        //     margin-left: 40px;
+        //     & ~ p, & ~ div, & ~ pre, & ~ code {
+        //         margin-left: 60px; 
+        //     }
+        // }
 
-        h5 {
-            margin-left: 60px;
-            & ~ p, & ~ div, & ~ pre, & ~ code {
-                margin-left: 80px; 
-            }
-        }
+        // h5 {
+        //     margin-left: 60px;
+        //     & ~ p, & ~ div, & ~ pre, & ~ code {
+        //         margin-left: 80px; 
+        //     }
+        // }
 
-        h6 {
-            margin-left: 80px;
-            & ~ p, & ~ div, & ~ pre, & ~ code {
-                margin-left: 100px; 
-            }
-        }
+        // h6 {
+        //     margin-left: 80px;
+        //     & ~ p, & ~ div, & ~ pre, & ~ code {
+        //         margin-left: 100px; 
+        //     }
+        // }
+    }
+}
+
+$navwidth: 200px;
+
+@media screen and (min-width: 900px) {
+    body {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    header {
+        flex-basis: $navwidth;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    .content {
+        width: calc(100% - $navwidth)
     }
 }
