@@ -20,6 +20,17 @@ $a2-tel: #30d5c8;
 $tx-wyt: #f5f5f5;
 $tx-gry: #d3d3d3;
 
+/*
+    Background color (Close to black, not a shade of grey): #140C00 (very dark reddish-brown)
+    Text color (Close to white, not a shade of white): #FFE9C9 (very pale yellow)
+    Link color: #FFAA00 (vibrant yellow-orange)
+    Secondary color: #8B3E2F (dark red-brown)
+    Accent color: #FFD700 (gold)
+    Lighter, duller link color: #FFC266 (lighter, duller yellow-orange)
+    Lighter, duller secondary color: #AD6B58 (lighter, duller red-brown)
+    Lighter, duller accent color: #FFDE94 (lighter, duller gold)
+*/
+
 html {
     margin: 1em;
     color: $tx-wyt;
@@ -212,7 +223,7 @@ html {
                 position: absolute;
                 border-radius: 50%;
                 opacity: 0;
-                background-color: rgba(255,255,255, 0.05)
+                background-color: rgba(255,255,255,0.1)
             }
         }
     }
