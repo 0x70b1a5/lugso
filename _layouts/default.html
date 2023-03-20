@@ -43,10 +43,11 @@
       <div class="dotty"></div>
     </footer>
     <script>
+      const halfTime = 12000;
       function createFloatingDots(numDots) {
         const container = document.getElementsByClassName('dotty')[0]
         for (let i = 0; i < numDots; i++) {
-          const duration = Math.random() * 6000 + 6000;
+          const duration = Math.random() * halfTime + halfTime;
     
           function dotFinished(dot) {
             dot.parentNode.removeChild(dot);
@@ -58,7 +59,6 @@
             dot.className = "dot";
             dot.style.width = "0px";
             dot.style.height = "0px";
-            dot.style.backgroundColor = `rgba(255,255,255, 0.1)`;
             container.appendChild(dot);
     
             const angle = Math.random() * Math.PI * 2;
@@ -69,7 +69,7 @@
             const size = Math.random() * 20 + 5;
     
             setTimeout(() => {
-              dot.style.transition = `all ${duration}ms linear`;
+              dot.style.transition = `all ${duration}ms ease-out`;
               dot.style.opacity = "1";
               dot.style.width = `${size}px`;
               dot.style.height = `${size}px`;
