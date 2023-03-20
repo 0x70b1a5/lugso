@@ -192,6 +192,7 @@ html {
             // border-image: linear-gradient(90deg, $turq, transparent, transparent) 1;
             // border-top: none;
             margin: 0;
+            font-variant: small-caps;
         }
 
         h1 {
@@ -210,7 +211,7 @@ html {
 
         h3 {
             margin-left: -0.5em;
-            color: $secdul;
+            color: $accdul;
             // margin-left: 20px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 40px; 
@@ -219,7 +220,7 @@ html {
 
         h4 {
             margin-left: -0.25em;
-            color: $secdul;
+            color: $accdul;
             // margin-left: 40px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 60px; 
