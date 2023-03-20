@@ -194,7 +194,7 @@ $navwidth: 200px;
     }
 
     header {
-        flex-basis: $navwidth;
+        flex-basis: 200px;
     }
 
     nav {
@@ -202,6 +202,6 @@ $navwidth: 200px;
     }
 
     .content {
-        width: calc(100% - $navwidth)
+        width: calc(100% - $200px)
     }
 }
