@@ -7,7 +7,7 @@ order: 4
 
 ## Prayers
 
-Disclaimer: these prayers are REAL DEVOTIONS and not just given for example. God bless you!
+Disclaimer: these prayers are real. God bless you!
 
 ### Pater Noster
 
@@ -151,6 +151,51 @@ IND aeon rend-GEN aeon-CONJ.N stitch-GEN. IND aeon noise-PRV aeon-CONJ.N speak-G
 IND aeon hunger-GEN aeon-CONJ.N hate-GEN. IND aeon war-GEN aeon-CONJ.N war-PRV.
 Q gorge-PTCP.PAST.PASS-AUG work-NMLZ.DER.agent work-PTCP.PAST.ACT-SUB.reason 3SG?
 ```
+
+## Cassilda's Song
+
+${l: spread shore-LOC wave-PL gas-blood-sky}$<br/>
+${l: descend lake-LOC beneath star-home-PL birth-NMLZ.DER.patient-two}$<br/>
+${l: extrude orifice-light-PL Carcosa-LOC}$<br/>
+${l: night beautiful rise-SUB.location star-PL black}$<br/>
+${l: revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful}$<br/>
+${l: CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient}$<br/>
+${l: die-MOD sense-PTCP.NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark}$<br/>
+${l: song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN}$<br/>
+${l: 2SG-VOC sing-PTCP.NEG sleep-IMP dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patient}$
+
+```
+spread shore-LOC wave-PL gas-blood-sky
+descend lake-LOC beneath star-home-PL birth-NMLZ.DER.patient-two
+extrude orifice-light-PL Carcosa-LOC
+night beautiful rise-SUB.location star-PL black
+revolve-CONJ.and sky-PL-PROL child-child-star-PL beautiful
+CONJ.but beautiful-AUG-EMPH Carcosa lose-NMLZ.DER.patient
+die-MOD sense-PTCP.NEG flail-SUB.location shed-NMLZ.DER.patient-PL lead-NMLZ.DER.agent-GEN song-PL sing-FUT-REL Hyades Carcosa-LOC dark
+song-VOC soul-GEN 1SG-GEN IND dead voice 1SG-GEN
+2SG-VOC sing-PTCP.NEG sleep-IMP dessicate-SUB.cotemporal die blood-eye-PL shed-PTCP.NEG Carcosa-LOC lose-NMLZ.DER.patiant
+```
+
+> Along the shore the cloud waves break,<br/>
+> The twin suns sink beneath the lake,<br/>
+> The shadows lengthen<br/>
+> In Carcosa.
+> 
+> Strange is the night where black stars rise,<br/>
+> And strange moons circle through the skies<br/>
+> But stranger still is<br/>
+> Lost Carcosa.
+> 
+> Songs that the Hyades shall sing,<br/>
+> Where flap the tatters of the King,<br/>
+> Must die unheard in<br/>
+> Dim Carcosa.
+> 
+> Song of my soul, my voice is dead;<br/>
+> Die thou, unsung, as tears unshed<br/>
+> Shall dry and die in<br/>
+> Lost Carcosa.
+
 ## Litany Against Fear
 
 ${l: fear-NEG-MOD 1SG}$ <br/>
@@ -175,20 +220,13 @@ FUT thing-NEG place-LOC REL go-PFV fear
 abide 1SG only
 ```
 
-> I must not fear.
->
-> Fear is the mind-killer.
->
-> Fear is the little-death that brings total obliteration.
->
-> I will face my fear.
->
-> I will permit it to pass over me and through me.
->
-> And when it has gone past, I will turn the inner eye to see its path.
->
-> Where the fear has gone there will be nothing. 
->
+> I must not fear. <br/>
+> Fear is the mind-killer. <br/>
+> Fear is the little-death that brings total obliteration. <br/>
+> I will face my fear. <br/>
+> I will permit it to pass over me and through me. <br/>
+> And when it has gone past, I will turn the inner eye to see its path. <br/>
+> Where the fear has gone there will be nothing.  <br/>
 > Only I will remain.
 
 
