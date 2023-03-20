@@ -29,12 +29,34 @@ $tx-gry: #d3d3d3;
     Lighter, duller link color: #FFC266 (lighter, duller yellow-orange)
     Lighter, duller secondary color: #AD6B58 (lighter, duller red-brown)
     Lighter, duller accent color: #FFDE94 (lighter, duller gold)
+
+    #160E02 (slightly lighter dark reddish-brown)
+    #1A1004 (dark reddish-brown)
+    #1E1206 (less dark reddish-brown)
+    #221408 (reddish-brown with a bit more brightness)
+    #26160A (lighter reddish-brown with increased visibility)
 */
+
+$bgc: #140c00;
+$bg1: #160E02;
+$bg2: #1A1004;
+$bg3: #1E1206;
+$bg4: #221408;
+$bg5: #26160A;
+
+$txc: #ffe9c9;
+$lnk: #ffaa00;
+$lnkdul: #ffc266;
+$sec: #8b3e2f;
+$secdul: #ad6b58;
+$acc: #ffd700;
+$accdul: #ffde94;
+
 
 html {
     margin: 1em;
-    color: $tx-wyt;
-    background-color: $bg-blu;
+    color: #ffe9c9;
+    background-color: #140c00;
     max-width: 100%;
     font-family: 'IM Fell English', 'Times New Roman', Times, serif;
     
@@ -68,20 +90,20 @@ html {
         a {
             padding: 0.5em 1em;
             text-decoration: none;
-            color: $a2-tel;
+            color: $lnk;
 
             &.active {
-                background: $a2-grn;
+                background: $bg5;
 
                 &:visited {
-                    color: $bl-ack !important;
+                    color: $lnkdul !important;
                 }
             }
 
             &:not(.active) {
                 &:hover{
                     background: $se-blu;
-                    color: $tx-wyt;
+                    color: $lnkdul;
                 }
             }
         }
@@ -95,19 +117,19 @@ html {
         font-weight: bold;
     }
 
-    .notices {
-        text-align:center;
-        background: $prim;
-        padding:1em;
-    }
+    // .notices {
+    //     text-align:center;
+    //     background: $prim;
+    //     padding:1em;
+    // }
 
     a {
-        color: $a2-grn;
+        color: $lnk;
     }
    
     strong {
         font-weight: 400;
-        color: $ac-yel;
+        color: $acc;
     }
 
     em {
@@ -125,11 +147,11 @@ html {
         border-collapse: collapse;
 
         tr:nth-child(even) {
-            background-color: $bg-prp;
+            background-color: $bg5;
         }
        
         th {
-            background-color: $se-prp;
+            background-color: $bg4;
         }
 
         td, th {
@@ -138,7 +160,7 @@ html {
     }
 
     code {
-        background: $se-blu;
+        background: $bg2;
         padding: 0 2px;
         border-radius: 5px;
         font-family: 'Inconsolata', monospace;
@@ -148,7 +170,7 @@ html {
     hr {
         width: 50%;
         margin-left: 7em;
-        background-image: linear-gradient(90deg,transparent,$prim,transparent);
+        background-image: linear-gradient(90deg,transparent,$acc,transparent);
         border: 0;
         height: 2px;
     }
@@ -166,19 +188,19 @@ html {
         h1 {
             font-size: 2em;
             margin-bottom: 1em;
-            color: $a2-grn;
+            color: $lnkdul;
         }
 
         h2 {
             margin-left: -1em;
-            color: $a2-tel;
+            color: $accdul;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 20px; 
             // }
         }
 
         h3 {
-            color: $ac-amb;
+            color: $secdul;
             // margin-left: 20px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 40px; 
@@ -186,7 +208,7 @@ html {
         }
 
         h4 {
-            color: $ac-yel;
+            color: $secdul;
             // margin-left: 40px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 60px; 
@@ -194,7 +216,6 @@ html {
         }
 
         h5 {
-            color: $tx-gry;
             // margin-left: 60px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 80px; 
