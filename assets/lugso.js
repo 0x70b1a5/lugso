@@ -92,7 +92,8 @@ const dig = (word, map, wholeRow) => {
         const lugso = notes.split(/[- ]/)
             .map(subWord => {
                 const w = getWord(subWord, map)
-                return w == '-' ? w : w+'\u0323'
+                return w
+                // return w == '-' ? w : w+'\u0323'
             }).join(pos.includes('*') ? '' : '-')
         return wholeRow ? {
             lugso,

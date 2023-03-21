@@ -196,13 +196,14 @@ html {
         }
 
         h1 {
-            font-size: 2em;
+            font-size: 32px;
             margin-bottom: 1em;
+            margin-left: -24px;
             color: $lnkdul;
         }
 
         h2 {
-            margin-left: -1em;
+            margin-left: -16px;
             color: $accdul;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 20px; 
@@ -210,7 +211,7 @@ html {
         }
 
         h3 {
-            margin-left: -0.5em;
+            margin-left: -8px;
             color: $accdul;
             // margin-left: 20px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
@@ -219,7 +220,7 @@ html {
         }
 
         h4 {
-            margin-left: -0.25em;
+            margin-left: -4px;
             color: $accdul;
             // margin-left: 40px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
@@ -228,7 +229,7 @@ html {
         }
 
         h5 {
-            margin-left: -0.125em;
+            margin-left: -2px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 80px; 
             // }
