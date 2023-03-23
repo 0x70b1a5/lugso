@@ -173,7 +173,8 @@ html {
         background: $bg5;
         padding: 0 2px;
         border-radius: 5px;
-        font-family: 'Inconsolata', monospace;
+        font-family: inherit;
+        font-variant: small-caps;
         white-space: pre-wrap;
     }
 
@@ -198,21 +199,23 @@ html {
 
         h1 {
             font-size: 32px;
-            margin-bottom: 1em;
-            margin-left: -24px;
-            color: $lnkdul;
+            margin-left: -32px;
+            margin-bottom: 32px;
+            color: $lnk;
         }
 
         h2 {
-            margin-left: -16px;
-            color: $accdul;
+            margin-left: -24px;
+            margin-bottom: 24px;
+            color: $lnkdul;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 20px; 
             // }
         }
 
         h3 {
-            margin-left: -8px;
+            margin-left: -16px;
+            margin-bottom: 16px;
             color: $accdul;
             // margin-left: 20px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
@@ -221,7 +224,8 @@ html {
         }
 
         h4 {
-            margin-left: -4px;
+            margin-left: -8px;
+            margin-bottom: 8px;
             color: $accdul;
             // margin-left: 40px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
@@ -230,7 +234,8 @@ html {
         }
 
         h5 {
-            margin-left: -2px;
+            margin-left: -4px;
+            margin-bottom: 4px;
             // & ~ p, & ~ div, & ~ pre, & ~ code {
             //     margin-left: 80px; 
             // }
