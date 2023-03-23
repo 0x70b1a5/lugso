@@ -7,7 +7,7 @@ order: 4
 
 ## Prayers
 
-Disclaimer: these prayers are real. God bless you!
+God bless you!
 
 ### Pater Noster
 

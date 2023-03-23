@@ -92,6 +92,7 @@ html {
 
     nav {
         display: flex;
+        flex-wrap: wrap;
 
         a {
             padding: 0.5em 1em;
@@ -277,6 +278,7 @@ $navwidth: 200px;
 
     nav {
         flex-direction: column;
+        flex-wrap: nowrap;
     }
 
     .content {

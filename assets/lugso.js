@@ -165,6 +165,7 @@ const rowsToMap = rows => {
 
 const phonotact = word => word.replace(/(\w)(\W?)(\1)/g, "$1$2'$3")
     .replace(/([iuo])(\W?)([iuo])/g, "$1$2'$3")
+    .replace(/''/g, "'")
 
 const glossToLugso = (gloss, map) => gloss.split(/\s+/)
     .map(word => word.split('-')
