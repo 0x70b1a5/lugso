@@ -55,8 +55,8 @@ $accdul: #ffde94;
 
 html {
     margin: 1em;
-    color: #ffe9c9;
-    background-color: #140c00;
+    color: $txc;
+    background-color: $bgc;
     max-width: 100%;
     font-family: 'IM Fell English', 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -169,7 +169,7 @@ html {
     }
 
     code {
-        color: $accdul;
+        color: $secdul;
         background: $bg5;
         padding: 0 2px;
         border-radius: 5px;
@@ -194,10 +194,6 @@ html {
             // border-image: linear-gradient(90deg, $turq, transparent, transparent) 1;
             // border-top: none;
             margin: 0;
-
-            ::before {
-                content: "❧ ";
-            }
         }
 
         h1 {
