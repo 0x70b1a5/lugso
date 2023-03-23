@@ -194,7 +194,10 @@ html {
             // border-image: linear-gradient(90deg, $turq, transparent, transparent) 1;
             // border-top: none;
             margin: 0;
-            font-variant: small-caps;
+
+            ::before {
+                content: "❧ ";
+            }
         }
 
         h1 {
