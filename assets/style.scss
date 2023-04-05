@@ -168,11 +168,15 @@ html {
         }
     }
 
+    pre {
+        font-family: 'IM Fell English';
+    }
+
     code {
         color: $secdul;
         padding: 0 2px;
         border-radius: 5px;
-        font-family: inherit;
+        font-family: 'IM Fell English';
         font-variant: small-caps;
         white-space: pre-wrap;
 
