@@ -1,0 +1,1 @@
+ls lessons/raw/*.md | sort | xargs -I {} sh -c 'echo "\n{}\n"; cat "{}"' > concatenatedLessons.md 
