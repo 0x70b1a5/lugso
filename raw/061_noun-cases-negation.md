@@ -133,7 +133,7 @@ _Strange moons circle through the skies._
 
 ### MAL malefactive
 
-Used for curses or adverse effects.
+Used for curses or adverse effects to mark the maleficiary (opposite of "beneficiary").
 
 ${g: destroy artifact-ACC 1SG-POSS 1SG-MAL 3SG}$
 
