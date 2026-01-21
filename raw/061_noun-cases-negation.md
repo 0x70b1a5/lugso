@@ -133,7 +133,29 @@ _Strange moons circle through the skies._
 
 ### MAL malefactive
 
-TODO
+Used for curses or adverse effects.
+
+${g: destroy artifact-ACC 1SG-POSS 1SG-MAL 3SG}$
+
+_It destroyed my artifact on me._
+
+---
+
+${g: kill beast-ACC 2SG-POSS 2SG-MAL 3SG}$
+
+_It killed your beast against you._
+
+---
+
+${g: take food-ACC 3SG-GEN 3SG-MAL 1SG}$
+
+_I took its food against it._
+
+---
+
+${g: burn house-ACC 1PL.EX-POSS 1PL.EX-MAL 3PL}$
+
+_They burned our house on us._
 
 ## Negation
 
