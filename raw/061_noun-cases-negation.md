@@ -38,6 +38,7 @@ ${r: ACC}$
 ${r: BEN}$
 ${r: COM}$
 ${r: GEN}$
+${r: POSS}$
 ${r: INS}$
 ${r: LOC}$
 ${r: NOM}$
@@ -53,11 +54,27 @@ Notice also that the `NEG` suffix ("not") is used in a few places.
 
 ### ACC accusative
 
+Marks the direct object of a verb (the thing being acted upon), or the destination of movement.
+
 ${g: transgress can-NEG essence-ACC mind-NOM}$
 
 _The mind cannot penetrate transcendence!_
 
+---
+
+${g: consume flesh-ACC beast-NOM}$
+
+_The beast consumes flesh._
+
+---
+
+${g: fly star-ACC bird-NOM}$
+
+_The bird flies to the star._
+
 ### VOC vocative
+
+Marks direct address: "O N!", "Hey N!". Pulls the noun to the front of the sentence.
 
 ${g: larva-VOC move-NEG-IMP}$
 
@@ -69,7 +86,15 @@ ${g: open-NMLZ.DER.agent-VOC way-GEN transmit-IMP 1SG-ACC}$
 
 _Opener of the Way, deliver me!_
 
+---
+
+${g: master-VOC hear-IMP pray-NMLZ.DER.act-ACC 1SG-GEN}$
+
+_Master, hear my prayer!_
+
 ### LOC locative
+
+Marks location in space: "at N", "in N", "on N".
 
 ${g: emerge pit-LOC shoggoth-NOM}$
 
@@ -81,25 +106,77 @@ ${g: home-LOC 3SG}$
 
 _It is at home._ (note the implicit copula)
 
+---
+
+${g: sleep tomb-LOC priest-NOM}$
+
+_The priest sleeps in the tomb._
+
 ### BEN benefactive
+
+Marks the beneficiary of an action: "for the sake of N", "for N's benefit". Contrast with MAL (malefactive), which marks adverse effect.
 
 ${g: love 1SG-BEN 1SG-ACC 3SG-NOM}$
 
 _It loves me, for me._
 
+---
+
+${g: sacrifice 3SG-BEN beast-ACC cultist-NOM}$
+
+_The cultist sacrifices a beast for it._
+
+---
+
+${g: create artifact-ACC 1PL.EX-BEN priest-NOM}$
+
+_The priest creates an artifact for us._
+
 ### ABL ablative
+
+Marks movement away from, or origin/source: "from N", "out of N", "away from N".
 
 ${g: descend fire-ABL blood-NOM}$
 
 _The blood falls from the fire._
 
+---
+
+${g: emerge void-ABL beast-NOM}$
+
+_The beast emerges from the void._
+
+---
+
+${g: flee edifice-ABL human-PL-NOM}$
+
+_The humans flee from the edifice._
+
 ### GEN genitive
+
+Marks relation or origin: "of N", "from N", "pertaining to N". Expresses that one noun is related to or derived from another.
+
+**GEN vs POSS**: Genitive marks _relation_ or _origin_ ("the blood _of_ the god" - the blood came from or pertains to the god). Possessive marks _ownership_ ("the god's book" - the god owns the book). Compare: "child of Nyarlathotep" (origin/lineage, GEN) vs. "Nyarlathotep's child" (the child belongs to Nyarlathotep, POSS).
 
 ${g: blood deity_intelligent-PL-GEN thought-PL-GEN}$
 
 _the blood of the thoughts of the gods..._
 
+---
+
+${g: song soul-GEN 1SG-GEN}$
+
+_song of my soul..._
+
+---
+
+${g: way chaos-GEN}$
+
+_the way of chaos..._
+
 ### INS instrumental
+
+Marks the instrument or means by which an action is performed: "using N", "with N", "by means of N". Also used for things that are transferred or given.
 
 ${g: crush heel-INS head-ACC snake-GEN great human-F-NOM}$
 
@@ -107,29 +184,75 @@ _The woman crushes the head of the great serpent with (her) heel._
 
 ---
 
-Also used for things that are given:
-
 ${g: give body-BEN sapient-NEG lead-NMLZ.DER.agent-NMLZ.DER.act-INS organization_human-GEN}$
 
 _The unthinking body is given leadership of the organization._
 
+---
+
+${g: murder knife-INS human-ACC cultist-NOM}$
+
+_The cultist murders the human with a knife._
+
 ### TEMP temporal
+
+Marks a point or period in time: "during N", "in (time) N", "at the time of N".
 
 ${g: sleep can aeon-PL-TEMP death-NOM}$
 
 _In strange aeons, death may die._
 
+---
+
+${g: rise night-TEMP star-PL-NOM black}$
+
+_In the night, black stars rise._
+
+---
+
+${g: come harvest-TEMP beast-PL-NOM}$
+
+_The beasts come at harvest time._
+
 ### COM comitative
+
+Marks accompaniment or association: "together with N", "alongside N", "in the company of N".
 
 ${g: exchange soul-ACC larva-COM human-NOM}$
 
 _The human exchanges souls with the maggot._
 
+---
+
+${g: travel beast-COM cultist-NOM}$
+
+_The cultist travels with a beast._
+
+---
+
+${g: speak deity_intelligent-COM priest-NOM}$
+
+_The priest speaks with a god._
+
 ### PROL prolative
+
+Marks movement through or across: "by way of N", "via N", "through N".
 
 ${g: revolve sky-PL-PROL child--child--star-PL-NOM strange}$
 
 _Strange moons circle through the skies._
+
+---
+
+${g: go void-PROL soul-NOM}$
+
+_The soul goes through the void._
+
+---
+
+${g: swim ocean-PROL beast-NOM great}$
+
+_The great beast swims through the ocean._
 
 ### MAL malefactive
 
